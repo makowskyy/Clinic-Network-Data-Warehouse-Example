@@ -1,0 +1,3001 @@
+id_diagnozy,nazwa
+1,Zawał serca
+2,Depresja
+3,Zapalenie pęcherza
+4,COVID-19
+5,Borelioza
+6,Angina
+7,Zespół napięcia przedmiesiączkowego
+8,Borelioza
+9,Cukrzyca typu 2
+10,COVID-19
+11,Egzema
+12,Niedoczynność tarczycy
+13,Choroba refluksowa
+14,Zapalenie płuc
+15,Zapalenie spojówek
+16,Anemia
+17,Zapalenie oskrzeli
+18,Migrena
+19,Niedoczynność tarczycy
+20,Zapalenie oskrzeli
+21,Choroba refluksowa
+22,Angina
+23,Anemia
+24,Zespół jelita drażliwego
+25,Zespół napięcia przedmiesiączkowego
+26,Reumatoidalne zapalenie stawów
+27,Nadciśnienie
+28,Cukrzyca typu 2
+29,Zapalenie spojówek
+30,Grypa
+31,Osteoporoza
+32,Niedoczynność tarczycy
+33,Zapalenie zatok
+34,Zapalenie wątroby typu A
+35,Angina
+36,Zespół jelita drażliwego
+37,Egzema
+38,Choroba wieńcowa
+39,Nowotwór płuc
+40,Choroba refluksowa
+41,Nadciśnienie
+42,Zapalenie spojówek
+43,Zespół jelita drażliwego
+44,Choroba refluksowa
+45,Anemia
+46,Angina
+47,Niedoczynność tarczycy
+48,Migrena
+49,Depresja
+50,Angina
+51,Depresja
+52,Zapalenie płuc
+53,Migrena
+54,Borelioza
+55,Nadciśnienie
+56,Zapalenie pęcherza
+57,Atopowe zapalenie skóry
+58,Anemia
+59,Osteoporoza
+60,Nowotwór płuc
+61,Depresja
+62,Atopowe zapalenie skóry
+63,Zapalenie spojówek
+64,Borelioza
+65,Zapalenie oskrzeli
+66,Zapalenie spojówek
+67,Zespół jelita drażliwego
+68,Atopowe zapalenie skóry
+69,Atopowe zapalenie skóry
+70,Anemia
+71,Nowotwór piersi
+72,Nadciśnienie
+73,Zapalenie wątroby typu A
+74,Zespół napięcia przedmiesiączkowego
+75,Grypa
+76,Zapalenie gardła
+77,Egzema
+78,Zapalenie gardła
+79,Zapalenie wątroby typu A
+80,Zapalenie pęcherza
+81,Atopowe zapalenie skóry
+82,Zapalenie spojówek
+83,Grypa
+84,Zapalenie gardła
+85,Choroba refluksowa
+86,Kamica nerkowa
+87,Zapalenie płuc
+88,Zapalenie pęcherza
+89,Choroba refluksowa
+90,COVID-19
+91,Zapalenie płuc
+92,Choroba wieńcowa
+93,Nowotwór piersi
+94,Borelioza
+95,Zapalenie pęcherza
+96,Nowotwór płuc
+97,Kamica nerkowa
+98,Alergia sezonowa
+99,Nowotwór płuc
+100,Grypa
+101,Egzema
+102,Migrena
+103,Nowotwór piersi
+104,Migrena
+105,Nowotwór piersi
+106,Zapalenie pęcherza
+107,Zapalenie ucha środkowego
+108,Depresja
+109,Grypa
+110,Zespół jelita drażliwego
+111,Zapalenie wątroby typu A
+112,Zapalenie zatok
+113,Niedoczynność tarczycy
+114,Egzema
+115,Osteoporoza
+116,COVID-19
+117,Alergia sezonowa
+118,Migrena
+119,Zespół napięcia przedmiesiączkowego
+120,Zespół jelita drażliwego
+121,Nowotwór płuc
+122,Zapalenie pęcherza
+123,Depresja
+124,Nadciśnienie
+125,Osteoporoza
+126,Zapalenie pęcherza
+127,Grypa
+128,Cukrzyca typu 2
+129,Reumatoidalne zapalenie stawów
+130,Zawał serca
+131,Nowotwór płuc
+132,Zapalenie zatok
+133,Zapalenie gardła
+134,Niedoczynność tarczycy
+135,Zespół napięcia przedmiesiączkowego
+136,Zapalenie ucha środkowego
+137,Kamica nerkowa
+138,Nadciśnienie
+139,COVID-19
+140,Zespół jelita drażliwego
+141,Zapalenie wątroby typu A
+142,Zawał serca
+143,Choroba wieńcowa
+144,Zapalenie wątroby typu A
+145,Alergia sezonowa
+146,Zapalenie płuc
+147,Zapalenie ucha środkowego
+148,COVID-19
+149,Egzema
+150,Zapalenie płuc
+151,Grypa
+152,Zawał serca
+153,Egzema
+154,Zapalenie zatok
+155,Migrena
+156,Choroba wieńcowa
+157,Grypa
+158,Zespół jelita drażliwego
+159,Zespół jelita drażliwego
+160,Niedoczynność tarczycy
+161,Choroba wieńcowa
+162,Astma
+163,Angina
+164,Nowotwór piersi
+165,Alergia sezonowa
+166,Migrena
+167,Zapalenie płuc
+168,Osteoporoza
+169,Reumatoidalne zapalenie stawów
+170,Zapalenie spojówek
+171,Astma
+172,Astma
+173,Migrena
+174,Zespół jelita drażliwego
+175,Angina
+176,Kamica nerkowa
+177,Zapalenie płuc
+178,Grypa
+179,Zapalenie spojówek
+180,Cukrzyca typu 2
+181,Osteoporoza
+182,Nadciśnienie
+183,Zawał serca
+184,Zespół jelita drażliwego
+185,Egzema
+186,Zapalenie spojówek
+187,Grypa
+188,Zespół jelita drażliwego
+189,Zapalenie ucha środkowego
+190,Borelioza
+191,Nadciśnienie
+192,Nowotwór piersi
+193,Zapalenie gardła
+194,Alergia sezonowa
+195,Alergia sezonowa
+196,Angina
+197,Grypa
+198,Zapalenie płuc
+199,Nadciśnienie
+200,Zapalenie zatok
+201,Reumatoidalne zapalenie stawów
+202,Astma
+203,Choroba refluksowa
+204,Zespół jelita drażliwego
+205,Kamica nerkowa
+206,Depresja
+207,Zespół jelita drażliwego
+208,Alergia sezonowa
+209,Choroba wieńcowa
+210,Choroba wieńcowa
+211,Atopowe zapalenie skóry
+212,Zapalenie płuc
+213,Zawał serca
+214,Zapalenie oskrzeli
+215,Zespół napięcia przedmiesiączkowego
+216,COVID-19
+217,Zapalenie ucha środkowego
+218,COVID-19
+219,Zespół jelita drażliwego
+220,COVID-19
+221,COVID-19
+222,Choroba wieńcowa
+223,Zapalenie gardła
+224,Alergia sezonowa
+225,Reumatoidalne zapalenie stawów
+226,Kamica nerkowa
+227,Zespół napięcia przedmiesiączkowego
+228,Zapalenie oskrzeli
+229,Migrena
+230,Grypa
+231,Zapalenie spojówek
+232,Borelioza
+233,Migrena
+234,Zapalenie ucha środkowego
+235,Zapalenie pęcherza
+236,Alergia sezonowa
+237,Zawał serca
+238,Nowotwór piersi
+239,Zapalenie wątroby typu A
+240,Nowotwór płuc
+241,Choroba wieńcowa
+242,Borelioza
+243,Niedoczynność tarczycy
+244,Zapalenie oskrzeli
+245,Migrena
+246,Zapalenie wątroby typu A
+247,Niedoczynność tarczycy
+248,Angina
+249,Zapalenie pęcherza
+250,Egzema
+251,Reumatoidalne zapalenie stawów
+252,Borelioza
+253,Nadciśnienie
+254,Osteoporoza
+255,Nowotwór piersi
+256,Zapalenie pęcherza
+257,Grypa
+258,Egzema
+259,Zapalenie zatok
+260,Nadciśnienie
+261,Anemia
+262,Zapalenie wątroby typu A
+263,Anemia
+264,Zapalenie płuc
+265,Nowotwór płuc
+266,Zapalenie ucha środkowego
+267,Nowotwór płuc
+268,Niedoczynność tarczycy
+269,Nowotwór płuc
+270,Nowotwór piersi
+271,Migrena
+272,Reumatoidalne zapalenie stawów
+273,Reumatoidalne zapalenie stawów
+274,Kamica nerkowa
+275,Zapalenie wątroby typu A
+276,Niedoczynność tarczycy
+277,Cukrzyca typu 2
+278,Atopowe zapalenie skóry
+279,Angina
+280,Alergia sezonowa
+281,Zapalenie płuc
+282,Borelioza
+283,Grypa
+284,Niedoczynność tarczycy
+285,Depresja
+286,Atopowe zapalenie skóry
+287,Zapalenie oskrzeli
+288,Zapalenie zatok
+289,Nadciśnienie
+290,Zespół napięcia przedmiesiączkowego
+291,Zapalenie wątroby typu A
+292,Choroba refluksowa
+293,Zespół napięcia przedmiesiączkowego
+294,Zapalenie oskrzeli
+295,Zapalenie spojówek
+296,Zapalenie pęcherza
+297,Migrena
+298,Nadciśnienie
+299,Migrena
+300,Grypa
+301,Kamica nerkowa
+302,Zespół napięcia przedmiesiączkowego
+303,Grypa
+304,Niedoczynność tarczycy
+305,Astma
+306,Zapalenie wątroby typu A
+307,Zapalenie gardła
+308,Zawał serca
+309,Zapalenie płuc
+310,Borelioza
+311,Zapalenie płuc
+312,Alergia sezonowa
+313,Zespół napięcia przedmiesiączkowego
+314,Osteoporoza
+315,Borelioza
+316,Choroba wieńcowa
+317,Nowotwór piersi
+318,Astma
+319,Choroba refluksowa
+320,Zapalenie gardła
+321,Nowotwór piersi
+322,Astma
+323,Zapalenie płuc
+324,Zapalenie wątroby typu A
+325,Choroba refluksowa
+326,Zespół jelita drażliwego
+327,Choroba refluksowa
+328,Zapalenie spojówek
+329,Zawał serca
+330,Zapalenie zatok
+331,Zapalenie gardła
+332,Zapalenie oskrzeli
+333,Niedoczynność tarczycy
+334,Alergia sezonowa
+335,Migrena
+336,Osteoporoza
+337,Zapalenie wątroby typu A
+338,Zapalenie ucha środkowego
+339,Anemia
+340,Nowotwór piersi
+341,Cukrzyca typu 2
+342,Zapalenie płuc
+343,Osteoporoza
+344,Migrena
+345,Nadciśnienie
+346,Zapalenie zatok
+347,Niedoczynność tarczycy
+348,Alergia sezonowa
+349,Nadciśnienie
+350,Zapalenie gardła
+351,Choroba wieńcowa
+352,Anemia
+353,Zapalenie płuc
+354,Nowotwór płuc
+355,Zapalenie wątroby typu A
+356,Alergia sezonowa
+357,Zapalenie oskrzeli
+358,Niedoczynność tarczycy
+359,Choroba refluksowa
+360,Grypa
+361,COVID-19
+362,Zapalenie spojówek
+363,Zespół jelita drażliwego
+364,Nowotwór piersi
+365,Kamica nerkowa
+366,Depresja
+367,Angina
+368,Depresja
+369,Choroba refluksowa
+370,Nowotwór piersi
+371,Zapalenie spojówek
+372,Borelioza
+373,Zespół napięcia przedmiesiączkowego
+374,Grypa
+375,Borelioza
+376,Zapalenie ucha środkowego
+377,Osteoporoza
+378,Atopowe zapalenie skóry
+379,Zapalenie pęcherza
+380,Choroba wieńcowa
+381,Zapalenie oskrzeli
+382,Nadciśnienie
+383,Zapalenie ucha środkowego
+384,COVID-19
+385,Zapalenie płuc
+386,Choroba refluksowa
+387,Zawał serca
+388,Angina
+389,Zapalenie pęcherza
+390,Zapalenie ucha środkowego
+391,Zapalenie wątroby typu A
+392,Angina
+393,Atopowe zapalenie skóry
+394,Zespół napięcia przedmiesiączkowego
+395,Reumatoidalne zapalenie stawów
+396,Zapalenie gardła
+397,Niedoczynność tarczycy
+398,COVID-19
+399,Choroba refluksowa
+400,Zapalenie pęcherza
+401,Zapalenie spojówek
+402,COVID-19
+403,Zespół jelita drażliwego
+404,Zapalenie płuc
+405,Kamica nerkowa
+406,Niedoczynność tarczycy
+407,Niedoczynność tarczycy
+408,Nowotwór piersi
+409,Zawał serca
+410,Alergia sezonowa
+411,Choroba refluksowa
+412,Borelioza
+413,Alergia sezonowa
+414,Zespół napięcia przedmiesiączkowego
+415,Zapalenie spojówek
+416,Zapalenie spojówek
+417,Angina
+418,Depresja
+419,Nadciśnienie
+420,Zapalenie spojówek
+421,Kamica nerkowa
+422,Anemia
+423,Nowotwór płuc
+424,Zapalenie płuc
+425,Zespół napięcia przedmiesiączkowego
+426,Egzema
+427,Nowotwór piersi
+428,Anemia
+429,Nowotwór płuc
+430,Kamica nerkowa
+431,Choroba refluksowa
+432,Angina
+433,Nowotwór piersi
+434,Anemia
+435,Zawał serca
+436,Alergia sezonowa
+437,Zapalenie gardła
+438,Borelioza
+439,Anemia
+440,Cukrzyca typu 2
+441,Zapalenie oskrzeli
+442,Nowotwór płuc
+443,Cukrzyca typu 2
+444,Choroba wieńcowa
+445,Zapalenie gardła
+446,Angina
+447,Nowotwór płuc
+448,Choroba refluksowa
+449,Zapalenie oskrzeli
+450,Niedoczynność tarczycy
+451,Zawał serca
+452,Zapalenie gardła
+453,Osteoporoza
+454,Zapalenie gardła
+455,Zapalenie płuc
+456,Borelioza
+457,Anemia
+458,COVID-19
+459,Migrena
+460,Cukrzyca typu 2
+461,Atopowe zapalenie skóry
+462,Choroba wieńcowa
+463,Choroba refluksowa
+464,Borelioza
+465,Choroba wieńcowa
+466,Zespół jelita drażliwego
+467,Zapalenie oskrzeli
+468,Osteoporoza
+469,Choroba refluksowa
+470,Depresja
+471,Zapalenie płuc
+472,Zapalenie zatok
+473,Zapalenie zatok
+474,Zawał serca
+475,Osteoporoza
+476,Osteoporoza
+477,Choroba refluksowa
+478,Choroba wieńcowa
+479,Angina
+480,Zapalenie zatok
+481,Grypa
+482,Zapalenie płuc
+483,Niedoczynność tarczycy
+484,Zapalenie pęcherza
+485,Osteoporoza
+486,Kamica nerkowa
+487,Zapalenie płuc
+488,Atopowe zapalenie skóry
+489,Nowotwór płuc
+490,Nowotwór płuc
+491,Grypa
+492,Borelioza
+493,Zapalenie zatok
+494,Depresja
+495,Zespół jelita drażliwego
+496,Zapalenie gardła
+497,Zapalenie ucha środkowego
+498,Nowotwór piersi
+499,Grypa
+500,Depresja
+501,Zapalenie płuc
+502,Niedoczynność tarczycy
+503,Borelioza
+504,Cukrzyca typu 2
+505,Nadciśnienie
+506,Zawał serca
+507,Anemia
+508,Choroba wieńcowa
+509,Anemia
+510,Nowotwór piersi
+511,Zapalenie oskrzeli
+512,Zespół jelita drażliwego
+513,Zespół jelita drażliwego
+514,Egzema
+515,Reumatoidalne zapalenie stawów
+516,Zapalenie zatok
+517,COVID-19
+518,Anemia
+519,Nowotwór płuc
+520,Migrena
+521,Astma
+522,Cukrzyca typu 2
+523,Nowotwór płuc
+524,Zawał serca
+525,Nowotwór płuc
+526,Migrena
+527,COVID-19
+528,Atopowe zapalenie skóry
+529,Grypa
+530,Zapalenie wątroby typu A
+531,Zawał serca
+532,Nowotwór piersi
+533,Choroba wieńcowa
+534,Zespół jelita drażliwego
+535,Alergia sezonowa
+536,Nowotwór płuc
+537,Choroba refluksowa
+538,Choroba wieńcowa
+539,Anemia
+540,Zespół jelita drażliwego
+541,Zapalenie zatok
+542,Zapalenie gardła
+543,Atopowe zapalenie skóry
+544,Kamica nerkowa
+545,Nowotwór płuc
+546,Zapalenie pęcherza
+547,Cukrzyca typu 2
+548,Zapalenie zatok
+549,Zawał serca
+550,Alergia sezonowa
+551,Migrena
+552,COVID-19
+553,Zapalenie zatok
+554,Nowotwór płuc
+555,Zapalenie zatok
+556,COVID-19
+557,Osteoporoza
+558,Zapalenie pęcherza
+559,Niedoczynność tarczycy
+560,Zapalenie pęcherza
+561,Zapalenie pęcherza
+562,Nowotwór płuc
+563,Zapalenie spojówek
+564,Depresja
+565,Nowotwór płuc
+566,Zapalenie płuc
+567,Zapalenie zatok
+568,Zapalenie ucha środkowego
+569,Zawał serca
+570,Zapalenie wątroby typu A
+571,Niedoczynność tarczycy
+572,Grypa
+573,Astma
+574,Zapalenie ucha środkowego
+575,Nowotwór piersi
+576,Angina
+577,COVID-19
+578,Choroba refluksowa
+579,Angina
+580,Zapalenie wątroby typu A
+581,Kamica nerkowa
+582,Egzema
+583,Zawał serca
+584,Migrena
+585,Anemia
+586,Kamica nerkowa
+587,Nowotwór płuc
+588,Zespół napięcia przedmiesiączkowego
+589,Anemia
+590,Zespół napięcia przedmiesiączkowego
+591,Migrena
+592,Borelioza
+593,Zapalenie płuc
+594,Choroba refluksowa
+595,Nowotwór płuc
+596,Cukrzyca typu 2
+597,Zapalenie spojówek
+598,Osteoporoza
+599,Zapalenie zatok
+600,Egzema
+601,Nadciśnienie
+602,Anemia
+603,Choroba wieńcowa
+604,Choroba refluksowa
+605,Reumatoidalne zapalenie stawów
+606,Kamica nerkowa
+607,Zawał serca
+608,Alergia sezonowa
+609,Nowotwór piersi
+610,Nowotwór piersi
+611,Borelioza
+612,Choroba wieńcowa
+613,Angina
+614,Zapalenie gardła
+615,Zapalenie wątroby typu A
+616,Atopowe zapalenie skóry
+617,Astma
+618,Zapalenie płuc
+619,Zapalenie wątroby typu A
+620,Kamica nerkowa
+621,Atopowe zapalenie skóry
+622,Borelioza
+623,Cukrzyca typu 2
+624,Nadciśnienie
+625,Zapalenie gardła
+626,Zapalenie pęcherza
+627,Nadciśnienie
+628,Nowotwór piersi
+629,Egzema
+630,Zapalenie wątroby typu A
+631,Nowotwór piersi
+632,Osteoporoza
+633,Cukrzyca typu 2
+634,Borelioza
+635,Zapalenie wątroby typu A
+636,Niedoczynność tarczycy
+637,Choroba refluksowa
+638,Zespół napięcia przedmiesiączkowego
+639,Grypa
+640,Kamica nerkowa
+641,Osteoporoza
+642,Depresja
+643,Kamica nerkowa
+644,Nowotwór piersi
+645,Zapalenie ucha środkowego
+646,Osteoporoza
+647,Osteoporoza
+648,Zapalenie zatok
+649,Migrena
+650,Zapalenie oskrzeli
+651,Zapalenie ucha środkowego
+652,Kamica nerkowa
+653,Depresja
+654,Egzema
+655,Zapalenie pęcherza
+656,Zespół jelita drażliwego
+657,COVID-19
+658,Angina
+659,Zawał serca
+660,Zespół napięcia przedmiesiączkowego
+661,Zawał serca
+662,Zespół napięcia przedmiesiączkowego
+663,Zawał serca
+664,Niedoczynność tarczycy
+665,COVID-19
+666,Zapalenie gardła
+667,Alergia sezonowa
+668,Zapalenie gardła
+669,COVID-19
+670,Atopowe zapalenie skóry
+671,Zapalenie ucha środkowego
+672,Zapalenie spojówek
+673,COVID-19
+674,Zapalenie płuc
+675,Choroba wieńcowa
+676,Zapalenie gardła
+677,Angina
+678,Zespół napięcia przedmiesiączkowego
+679,Niedoczynność tarczycy
+680,Zapalenie ucha środkowego
+681,Zapalenie zatok
+682,Zapalenie wątroby typu A
+683,Depresja
+684,Zespół napięcia przedmiesiączkowego
+685,Angina
+686,Kamica nerkowa
+687,Osteoporoza
+688,Alergia sezonowa
+689,Grypa
+690,Osteoporoza
+691,Nowotwór płuc
+692,Astma
+693,COVID-19
+694,Zapalenie płuc
+695,Zapalenie spojówek
+696,Zapalenie spojówek
+697,Alergia sezonowa
+698,Osteoporoza
+699,Zapalenie płuc
+700,Zapalenie pęcherza
+701,Atopowe zapalenie skóry
+702,Zapalenie zatok
+703,Zapalenie płuc
+704,Kamica nerkowa
+705,Angina
+706,Angina
+707,Zapalenie oskrzeli
+708,Zapalenie spojówek
+709,Zespół napięcia przedmiesiączkowego
+710,Zapalenie pęcherza
+711,Migrena
+712,Zapalenie ucha środkowego
+713,Nadciśnienie
+714,Cukrzyca typu 2
+715,Nowotwór płuc
+716,Zapalenie spojówek
+717,Zawał serca
+718,Grypa
+719,Nowotwór płuc
+720,Choroba wieńcowa
+721,Kamica nerkowa
+722,Zapalenie płuc
+723,Migrena
+724,Atopowe zapalenie skóry
+725,Egzema
+726,Depresja
+727,Reumatoidalne zapalenie stawów
+728,Depresja
+729,Migrena
+730,Choroba refluksowa
+731,Migrena
+732,Depresja
+733,Alergia sezonowa
+734,Borelioza
+735,Zespół jelita drażliwego
+736,Kamica nerkowa
+737,Zapalenie płuc
+738,Zapalenie oskrzeli
+739,Astma
+740,Alergia sezonowa
+741,Osteoporoza
+742,Anemia
+743,Niedoczynność tarczycy
+744,Grypa
+745,Nowotwór płuc
+746,Zapalenie ucha środkowego
+747,Niedoczynność tarczycy
+748,COVID-19
+749,Choroba wieńcowa
+750,Zawał serca
+751,Zespół jelita drażliwego
+752,Borelioza
+753,Alergia sezonowa
+754,Borelioza
+755,Nowotwór piersi
+756,Borelioza
+757,Choroba wieńcowa
+758,Zapalenie płuc
+759,Angina
+760,Reumatoidalne zapalenie stawów
+761,Depresja
+762,Zapalenie gardła
+763,Choroba refluksowa
+764,Zapalenie ucha środkowego
+765,Zawał serca
+766,Nadciśnienie
+767,Alergia sezonowa
+768,Egzema
+769,Depresja
+770,Egzema
+771,Osteoporoza
+772,Astma
+773,Zapalenie płuc
+774,Depresja
+775,Zapalenie pęcherza
+776,Zapalenie pęcherza
+777,Zapalenie pęcherza
+778,Depresja
+779,Zapalenie wątroby typu A
+780,Zespół jelita drażliwego
+781,Niedoczynność tarczycy
+782,Zespół napięcia przedmiesiączkowego
+783,Zapalenie spojówek
+784,Nowotwór piersi
+785,Reumatoidalne zapalenie stawów
+786,Grypa
+787,Choroba wieńcowa
+788,Zapalenie zatok
+789,Cukrzyca typu 2
+790,Zapalenie spojówek
+791,Osteoporoza
+792,Zapalenie pęcherza
+793,Niedoczynność tarczycy
+794,Zapalenie spojówek
+795,Egzema
+796,Zapalenie ucha środkowego
+797,Depresja
+798,Reumatoidalne zapalenie stawów
+799,Zapalenie gardła
+800,Osteoporoza
+801,Zawał serca
+802,Zespół jelita drażliwego
+803,Grypa
+804,Zapalenie zatok
+805,Migrena
+806,Nowotwór płuc
+807,Zawał serca
+808,Zapalenie gardła
+809,Nowotwór piersi
+810,Cukrzyca typu 2
+811,Zespół jelita drażliwego
+812,Zespół napięcia przedmiesiączkowego
+813,Zapalenie gardła
+814,Zapalenie wątroby typu A
+815,Zapalenie pęcherza
+816,Choroba refluksowa
+817,Migrena
+818,Zapalenie płuc
+819,Atopowe zapalenie skóry
+820,Zapalenie spojówek
+821,Migrena
+822,Zespół jelita drażliwego
+823,Borelioza
+824,Choroba wieńcowa
+825,Nadciśnienie
+826,Migrena
+827,Anemia
+828,Atopowe zapalenie skóry
+829,Zapalenie wątroby typu A
+830,Migrena
+831,Zespół napięcia przedmiesiączkowego
+832,Zespół napięcia przedmiesiączkowego
+833,Migrena
+834,Migrena
+835,Migrena
+836,Anemia
+837,Zapalenie spojówek
+838,Zapalenie oskrzeli
+839,Zawał serca
+840,Zapalenie oskrzeli
+841,Zapalenie wątroby typu A
+842,COVID-19
+843,Alergia sezonowa
+844,Borelioza
+845,Choroba refluksowa
+846,Angina
+847,Choroba wieńcowa
+848,Zapalenie ucha środkowego
+849,Anemia
+850,Zawał serca
+851,Kamica nerkowa
+852,Choroba wieńcowa
+853,COVID-19
+854,Kamica nerkowa
+855,Zapalenie ucha środkowego
+856,Atopowe zapalenie skóry
+857,Borelioza
+858,Depresja
+859,Zapalenie zatok
+860,Nadciśnienie
+861,Kamica nerkowa
+862,Atopowe zapalenie skóry
+863,Zespół napięcia przedmiesiączkowego
+864,Choroba wieńcowa
+865,Zapalenie ucha środkowego
+866,Zawał serca
+867,Zapalenie pęcherza
+868,Kamica nerkowa
+869,Zapalenie gardła
+870,Zapalenie zatok
+871,Choroba refluksowa
+872,Alergia sezonowa
+873,Cukrzyca typu 2
+874,Nadciśnienie
+875,Niedoczynność tarczycy
+876,Osteoporoza
+877,Zapalenie ucha środkowego
+878,Reumatoidalne zapalenie stawów
+879,Migrena
+880,Nadciśnienie
+881,Depresja
+882,Zapalenie oskrzeli
+883,Osteoporoza
+884,Angina
+885,Depresja
+886,Anemia
+887,Zawał serca
+888,Osteoporoza
+889,Choroba refluksowa
+890,Angina
+891,Nowotwór płuc
+892,Zapalenie spojówek
+893,Egzema
+894,Alergia sezonowa
+895,Niedoczynność tarczycy
+896,Zespół napięcia przedmiesiączkowego
+897,Zapalenie płuc
+898,Zapalenie wątroby typu A
+899,Zapalenie płuc
+900,Kamica nerkowa
+901,Zapalenie ucha środkowego
+902,Reumatoidalne zapalenie stawów
+903,Anemia
+904,Reumatoidalne zapalenie stawów
+905,Nowotwór płuc
+906,Kamica nerkowa
+907,Depresja
+908,Depresja
+909,Zespół jelita drażliwego
+910,Astma
+911,Zawał serca
+912,Zapalenie wątroby typu A
+913,Zapalenie pęcherza
+914,Zawał serca
+915,Astma
+916,Nowotwór płuc
+917,Cukrzyca typu 2
+918,Cukrzyca typu 2
+919,Choroba wieńcowa
+920,Atopowe zapalenie skóry
+921,Reumatoidalne zapalenie stawów
+922,COVID-19
+923,Zapalenie zatok
+924,Zapalenie zatok
+925,Depresja
+926,Zapalenie spojówek
+927,Kamica nerkowa
+928,Astma
+929,Zapalenie gardła
+930,Cukrzyca typu 2
+931,Zapalenie spojówek
+932,Egzema
+933,Alergia sezonowa
+934,Angina
+935,Zapalenie gardła
+936,Nadciśnienie
+937,Niedoczynność tarczycy
+938,Zespół napięcia przedmiesiączkowego
+939,Zespół napięcia przedmiesiączkowego
+940,Reumatoidalne zapalenie stawów
+941,Alergia sezonowa
+942,Zapalenie zatok
+943,Alergia sezonowa
+944,Choroba wieńcowa
+945,Nadciśnienie
+946,Choroba wieńcowa
+947,Egzema
+948,Zapalenie ucha środkowego
+949,Borelioza
+950,Migrena
+951,Choroba wieńcowa
+952,Astma
+953,Astma
+954,Migrena
+955,Grypa
+956,Grypa
+957,Kamica nerkowa
+958,Zapalenie zatok
+959,Zapalenie płuc
+960,Alergia sezonowa
+961,Atopowe zapalenie skóry
+962,COVID-19
+963,Migrena
+964,Zapalenie płuc
+965,Alergia sezonowa
+966,Alergia sezonowa
+967,Osteoporoza
+968,Angina
+969,Zapalenie oskrzeli
+970,Zapalenie gardła
+971,Choroba refluksowa
+972,Zapalenie ucha środkowego
+973,Zapalenie pęcherza
+974,Atopowe zapalenie skóry
+975,Osteoporoza
+976,Borelioza
+977,Zespół napięcia przedmiesiączkowego
+978,Zapalenie gardła
+979,Cukrzyca typu 2
+980,Anemia
+981,Osteoporoza
+982,Atopowe zapalenie skóry
+983,Niedoczynność tarczycy
+984,Zapalenie ucha środkowego
+985,Nowotwór płuc
+986,Migrena
+987,Nadciśnienie
+988,Niedoczynność tarczycy
+989,Egzema
+990,Kamica nerkowa
+991,Zawał serca
+992,Choroba refluksowa
+993,Niedoczynność tarczycy
+994,Zespół napięcia przedmiesiączkowego
+995,Atopowe zapalenie skóry
+996,Atopowe zapalenie skóry
+997,Kamica nerkowa
+998,Nowotwór płuc
+999,Zespół napięcia przedmiesiączkowego
+1000,Atopowe zapalenie skóry
+1001,Astma
+1002,Zapalenie oskrzeli
+1003,Nadciśnienie
+1004,Alergia sezonowa
+1005,Astma
+1006,Angina
+1007,Zapalenie zatok
+1008,Egzema
+1009,Astma
+1010,Alergia sezonowa
+1011,Zapalenie płuc
+1012,COVID-19
+1013,Nowotwór piersi
+1014,Depresja
+1015,Cukrzyca typu 2
+1016,Atopowe zapalenie skóry
+1017,Grypa
+1018,Zespół napięcia przedmiesiączkowego
+1019,Zapalenie gardła
+1020,Grypa
+1021,Borelioza
+1022,Zespół napięcia przedmiesiączkowego
+1023,Zapalenie płuc
+1024,Zapalenie oskrzeli
+1025,Osteoporoza
+1026,Anemia
+1027,Choroba wieńcowa
+1028,Zapalenie zatok
+1029,Zespół jelita drażliwego
+1030,Grypa
+1031,Zapalenie spojówek
+1032,Zespół jelita drażliwego
+1033,Atopowe zapalenie skóry
+1034,Grypa
+1035,Zapalenie oskrzeli
+1036,Reumatoidalne zapalenie stawów
+1037,Cukrzyca typu 2
+1038,Zapalenie gardła
+1039,Atopowe zapalenie skóry
+1040,Alergia sezonowa
+1041,Kamica nerkowa
+1042,Choroba wieńcowa
+1043,Choroba refluksowa
+1044,Choroba refluksowa
+1045,Choroba wieńcowa
+1046,Zapalenie gardła
+1047,Egzema
+1048,Atopowe zapalenie skóry
+1049,Reumatoidalne zapalenie stawów
+1050,Zapalenie oskrzeli
+1051,Nowotwór płuc
+1052,Zapalenie gardła
+1053,Zapalenie oskrzeli
+1054,Alergia sezonowa
+1055,Cukrzyca typu 2
+1056,Zapalenie wątroby typu A
+1057,Zapalenie płuc
+1058,Osteoporoza
+1059,Zapalenie oskrzeli
+1060,Egzema
+1061,Kamica nerkowa
+1062,Grypa
+1063,Borelioza
+1064,Alergia sezonowa
+1065,Nowotwór piersi
+1066,Astma
+1067,Zespół napięcia przedmiesiączkowego
+1068,Choroba refluksowa
+1069,Cukrzyca typu 2
+1070,Alergia sezonowa
+1071,Borelioza
+1072,Angina
+1073,Cukrzyca typu 2
+1074,Choroba refluksowa
+1075,Zapalenie pęcherza
+1076,Kamica nerkowa
+1077,Zapalenie gardła
+1078,Zapalenie spojówek
+1079,Angina
+1080,Zapalenie pęcherza
+1081,Zapalenie płuc
+1082,Osteoporoza
+1083,Depresja
+1084,Zespół napięcia przedmiesiączkowego
+1085,Astma
+1086,Zapalenie gardła
+1087,Zapalenie oskrzeli
+1088,Cukrzyca typu 2
+1089,Nowotwór płuc
+1090,Zespół napięcia przedmiesiączkowego
+1091,Zespół napięcia przedmiesiączkowego
+1092,Anemia
+1093,Choroba wieńcowa
+1094,Nowotwór piersi
+1095,Osteoporoza
+1096,Zapalenie płuc
+1097,Osteoporoza
+1098,Alergia sezonowa
+1099,Choroba wieńcowa
+1100,Zapalenie płuc
+1101,Zapalenie wątroby typu A
+1102,Osteoporoza
+1103,Nowotwór piersi
+1104,Depresja
+1105,Reumatoidalne zapalenie stawów
+1106,COVID-19
+1107,Zapalenie spojówek
+1108,Nowotwór piersi
+1109,Zawał serca
+1110,Nowotwór piersi
+1111,Borelioza
+1112,Niedoczynność tarczycy
+1113,COVID-19
+1114,COVID-19
+1115,Egzema
+1116,Zapalenie płuc
+1117,Zapalenie spojówek
+1118,Zapalenie zatok
+1119,Niedoczynność tarczycy
+1120,Nowotwór płuc
+1121,Zawał serca
+1122,Zapalenie spojówek
+1123,Egzema
+1124,Borelioza
+1125,Zapalenie pęcherza
+1126,Zapalenie wątroby typu A
+1127,Zawał serca
+1128,COVID-19
+1129,Alergia sezonowa
+1130,Osteoporoza
+1131,Egzema
+1132,Zapalenie spojówek
+1133,Nowotwór piersi
+1134,Reumatoidalne zapalenie stawów
+1135,Kamica nerkowa
+1136,Zapalenie oskrzeli
+1137,Cukrzyca typu 2
+1138,Angina
+1139,Astma
+1140,Nadciśnienie
+1141,Zapalenie ucha środkowego
+1142,Osteoporoza
+1143,Zapalenie zatok
+1144,Zapalenie płuc
+1145,Kamica nerkowa
+1146,Zawał serca
+1147,Borelioza
+1148,Choroba refluksowa
+1149,Migrena
+1150,Zapalenie pęcherza
+1151,Zapalenie pęcherza
+1152,Zapalenie gardła
+1153,Zapalenie spojówek
+1154,Nowotwór płuc
+1155,Anemia
+1156,Osteoporoza
+1157,Migrena
+1158,Reumatoidalne zapalenie stawów
+1159,Nowotwór płuc
+1160,Nowotwór płuc
+1161,Angina
+1162,Zapalenie płuc
+1163,Alergia sezonowa
+1164,Angina
+1165,Zapalenie ucha środkowego
+1166,Nadciśnienie
+1167,Cukrzyca typu 2
+1168,Reumatoidalne zapalenie stawów
+1169,Zapalenie zatok
+1170,Osteoporoza
+1171,Egzema
+1172,Choroba refluksowa
+1173,Zapalenie ucha środkowego
+1174,Atopowe zapalenie skóry
+1175,Zapalenie spojówek
+1176,Zapalenie płuc
+1177,Egzema
+1178,Zespół jelita drażliwego
+1179,Angina
+1180,Kamica nerkowa
+1181,Astma
+1182,Zapalenie zatok
+1183,Zawał serca
+1184,Borelioza
+1185,Zespół jelita drażliwego
+1186,Nadciśnienie
+1187,Zapalenie oskrzeli
+1188,Grypa
+1189,Angina
+1190,Zespół napięcia przedmiesiączkowego
+1191,Nowotwór płuc
+1192,Zespół napięcia przedmiesiączkowego
+1193,Zespół jelita drażliwego
+1194,Borelioza
+1195,Zapalenie wątroby typu A
+1196,Borelioza
+1197,Zapalenie ucha środkowego
+1198,Egzema
+1199,Choroba refluksowa
+1200,Nadciśnienie
+1201,Nadciśnienie
+1202,Zapalenie gardła
+1203,Reumatoidalne zapalenie stawów
+1204,Anemia
+1205,Alergia sezonowa
+1206,Cukrzyca typu 2
+1207,Anemia
+1208,Cukrzyca typu 2
+1209,Grypa
+1210,Cukrzyca typu 2
+1211,Nowotwór piersi
+1212,Migrena
+1213,Zapalenie gardła
+1214,Reumatoidalne zapalenie stawów
+1215,Nadciśnienie
+1216,Nadciśnienie
+1217,Grypa
+1218,Depresja
+1219,Astma
+1220,Zespół napięcia przedmiesiączkowego
+1221,Egzema
+1222,Egzema
+1223,Alergia sezonowa
+1224,Choroba refluksowa
+1225,Astma
+1226,Alergia sezonowa
+1227,Grypa
+1228,Alergia sezonowa
+1229,Choroba wieńcowa
+1230,Egzema
+1231,Cukrzyca typu 2
+1232,Alergia sezonowa
+1233,Depresja
+1234,Niedoczynność tarczycy
+1235,Choroba refluksowa
+1236,Zapalenie spojówek
+1237,Choroba refluksowa
+1238,Zapalenie wątroby typu A
+1239,Zapalenie ucha środkowego
+1240,Grypa
+1241,Choroba refluksowa
+1242,Cukrzyca typu 2
+1243,Cukrzyca typu 2
+1244,Zapalenie ucha środkowego
+1245,Zapalenie wątroby typu A
+1246,Zawał serca
+1247,Nadciśnienie
+1248,Zapalenie płuc
+1249,Cukrzyca typu 2
+1250,Choroba wieńcowa
+1251,Zawał serca
+1252,Nowotwór płuc
+1253,Atopowe zapalenie skóry
+1254,Atopowe zapalenie skóry
+1255,Egzema
+1256,Zapalenie pęcherza
+1257,Zapalenie ucha środkowego
+1258,Nowotwór piersi
+1259,Kamica nerkowa
+1260,Nowotwór piersi
+1261,Zawał serca
+1262,Osteoporoza
+1263,Zapalenie spojówek
+1264,Reumatoidalne zapalenie stawów
+1265,Zespół napięcia przedmiesiączkowego
+1266,Niedoczynność tarczycy
+1267,Grypa
+1268,Alergia sezonowa
+1269,Alergia sezonowa
+1270,Migrena
+1271,Niedoczynność tarczycy
+1272,Osteoporoza
+1273,Borelioza
+1274,Angina
+1275,Niedoczynność tarczycy
+1276,Zapalenie zatok
+1277,Zespół jelita drażliwego
+1278,Egzema
+1279,Atopowe zapalenie skóry
+1280,Zapalenie wątroby typu A
+1281,Atopowe zapalenie skóry
+1282,Zapalenie ucha środkowego
+1283,Cukrzyca typu 2
+1284,Nowotwór płuc
+1285,Choroba refluksowa
+1286,Anemia
+1287,Atopowe zapalenie skóry
+1288,Zapalenie spojówek
+1289,Grypa
+1290,Zapalenie pęcherza
+1291,Zapalenie zatok
+1292,Zapalenie wątroby typu A
+1293,Zapalenie gardła
+1294,Reumatoidalne zapalenie stawów
+1295,Choroba refluksowa
+1296,Zapalenie płuc
+1297,Zapalenie płuc
+1298,Nowotwór płuc
+1299,Angina
+1300,Zapalenie płuc
+1301,Anemia
+1302,Kamica nerkowa
+1303,Kamica nerkowa
+1304,Zespół jelita drażliwego
+1305,Borelioza
+1306,Borelioza
+1307,Reumatoidalne zapalenie stawów
+1308,Depresja
+1309,Anemia
+1310,Atopowe zapalenie skóry
+1311,Nowotwór płuc
+1312,Kamica nerkowa
+1313,Migrena
+1314,Osteoporoza
+1315,Kamica nerkowa
+1316,Atopowe zapalenie skóry
+1317,Zespół jelita drażliwego
+1318,Zawał serca
+1319,Egzema
+1320,Osteoporoza
+1321,Astma
+1322,Anemia
+1323,Grypa
+1324,Zapalenie ucha środkowego
+1325,Nowotwór płuc
+1326,Osteoporoza
+1327,Kamica nerkowa
+1328,Kamica nerkowa
+1329,Egzema
+1330,Zapalenie gardła
+1331,Astma
+1332,Choroba refluksowa
+1333,Zespół napięcia przedmiesiączkowego
+1334,Grypa
+1335,Choroba wieńcowa
+1336,Osteoporoza
+1337,Angina
+1338,Zapalenie spojówek
+1339,Zapalenie płuc
+1340,Osteoporoza
+1341,Zespół napięcia przedmiesiączkowego
+1342,Zapalenie pęcherza
+1343,Zawał serca
+1344,Migrena
+1345,Nowotwór piersi
+1346,Egzema
+1347,Nowotwór piersi
+1348,Zapalenie pęcherza
+1349,Reumatoidalne zapalenie stawów
+1350,Angina
+1351,Astma
+1352,Nowotwór płuc
+1353,Osteoporoza
+1354,Zespół napięcia przedmiesiączkowego
+1355,Angina
+1356,Kamica nerkowa
+1357,Alergia sezonowa
+1358,Zapalenie oskrzeli
+1359,Kamica nerkowa
+1360,Zapalenie oskrzeli
+1361,Astma
+1362,Atopowe zapalenie skóry
+1363,Cukrzyca typu 2
+1364,Osteoporoza
+1365,Zapalenie pęcherza
+1366,Nadciśnienie
+1367,Zapalenie ucha środkowego
+1368,Nadciśnienie
+1369,Borelioza
+1370,Atopowe zapalenie skóry
+1371,Astma
+1372,Zapalenie spojówek
+1373,Osteoporoza
+1374,Nadciśnienie
+1375,Zawał serca
+1376,Zapalenie gardła
+1377,Depresja
+1378,Astma
+1379,Angina
+1380,Depresja
+1381,Zapalenie oskrzeli
+1382,Depresja
+1383,Osteoporoza
+1384,Kamica nerkowa
+1385,Zespół napięcia przedmiesiączkowego
+1386,Angina
+1387,Choroba refluksowa
+1388,Angina
+1389,Cukrzyca typu 2
+1390,Egzema
+1391,Zapalenie oskrzeli
+1392,Depresja
+1393,Atopowe zapalenie skóry
+1394,Zapalenie ucha środkowego
+1395,Zapalenie płuc
+1396,Zapalenie pęcherza
+1397,COVID-19
+1398,Grypa
+1399,Choroba refluksowa
+1400,Zapalenie płuc
+1401,Zespół napięcia przedmiesiączkowego
+1402,Egzema
+1403,Choroba wieńcowa
+1404,Egzema
+1405,Choroba wieńcowa
+1406,Zapalenie gardła
+1407,Zawał serca
+1408,Zawał serca
+1409,Niedoczynność tarczycy
+1410,Alergia sezonowa
+1411,Zapalenie oskrzeli
+1412,Migrena
+1413,Egzema
+1414,Zapalenie zatok
+1415,Zapalenie zatok
+1416,Nowotwór piersi
+1417,Depresja
+1418,Choroba wieńcowa
+1419,Angina
+1420,Grypa
+1421,Alergia sezonowa
+1422,COVID-19
+1423,Zespół napięcia przedmiesiączkowego
+1424,Nowotwór piersi
+1425,Zapalenie pęcherza
+1426,Nowotwór płuc
+1427,Choroba refluksowa
+1428,Cukrzyca typu 2
+1429,Migrena
+1430,Angina
+1431,Astma
+1432,Zespół jelita drażliwego
+1433,Zapalenie zatok
+1434,Zespół napięcia przedmiesiączkowego
+1435,Zapalenie pęcherza
+1436,Astma
+1437,COVID-19
+1438,Zapalenie wątroby typu A
+1439,Cukrzyca typu 2
+1440,Zapalenie spojówek
+1441,Zapalenie zatok
+1442,Zapalenie gardła
+1443,Osteoporoza
+1444,Nowotwór piersi
+1445,Zapalenie gardła
+1446,Nowotwór płuc
+1447,Grypa
+1448,Nadciśnienie
+1449,Nowotwór piersi
+1450,Zespół jelita drażliwego
+1451,Angina
+1452,Nowotwór płuc
+1453,Osteoporoza
+1454,Cukrzyca typu 2
+1455,Zespół napięcia przedmiesiączkowego
+1456,Zapalenie oskrzeli
+1457,Zapalenie wątroby typu A
+1458,Zapalenie spojówek
+1459,Grypa
+1460,Zapalenie oskrzeli
+1461,Zespół jelita drażliwego
+1462,Nowotwór płuc
+1463,Zespół jelita drażliwego
+1464,Zespół jelita drażliwego
+1465,Anemia
+1466,Grypa
+1467,Zapalenie wątroby typu A
+1468,Atopowe zapalenie skóry
+1469,Astma
+1470,Zapalenie płuc
+1471,Zapalenie płuc
+1472,Nowotwór płuc
+1473,Zapalenie pęcherza
+1474,Zapalenie płuc
+1475,Osteoporoza
+1476,Zapalenie ucha środkowego
+1477,Alergia sezonowa
+1478,Niedoczynność tarczycy
+1479,Nowotwór piersi
+1480,Choroba refluksowa
+1481,Atopowe zapalenie skóry
+1482,Zapalenie spojówek
+1483,Zapalenie wątroby typu A
+1484,Choroba wieńcowa
+1485,Borelioza
+1486,Nowotwór piersi
+1487,Zapalenie pęcherza
+1488,Borelioza
+1489,Osteoporoza
+1490,Borelioza
+1491,Zapalenie pęcherza
+1492,Reumatoidalne zapalenie stawów
+1493,Niedoczynność tarczycy
+1494,Zapalenie spojówek
+1495,Zapalenie oskrzeli
+1496,Migrena
+1497,Grypa
+1498,Zapalenie pęcherza
+1499,Borelioza
+1500,Zapalenie gardła
+1501,Zapalenie płuc
+1502,Niedoczynność tarczycy
+1503,Niedoczynność tarczycy
+1504,Zapalenie ucha środkowego
+1505,Migrena
+1506,Nowotwór piersi
+1507,Egzema
+1508,Migrena
+1509,Osteoporoza
+1510,Zapalenie zatok
+1511,Niedoczynność tarczycy
+1512,COVID-19
+1513,Migrena
+1514,Angina
+1515,Angina
+1516,Zapalenie gardła
+1517,Alergia sezonowa
+1518,Cukrzyca typu 2
+1519,Zawał serca
+1520,Zapalenie wątroby typu A
+1521,Niedoczynność tarczycy
+1522,Zapalenie zatok
+1523,Zespół napięcia przedmiesiączkowego
+1524,COVID-19
+1525,Zapalenie wątroby typu A
+1526,Nowotwór płuc
+1527,Zapalenie oskrzeli
+1528,Zapalenie oskrzeli
+1529,Kamica nerkowa
+1530,Angina
+1531,Nowotwór płuc
+1532,Migrena
+1533,Zapalenie ucha środkowego
+1534,Angina
+1535,Zapalenie oskrzeli
+1536,Nadciśnienie
+1537,Choroba wieńcowa
+1538,Nadciśnienie
+1539,Anemia
+1540,Nowotwór piersi
+1541,Borelioza
+1542,Nowotwór płuc
+1543,Kamica nerkowa
+1544,Zawał serca
+1545,Zapalenie spojówek
+1546,Grypa
+1547,Angina
+1548,Zawał serca
+1549,Alergia sezonowa
+1550,Zespół jelita drażliwego
+1551,Zespół napięcia przedmiesiączkowego
+1552,Astma
+1553,Zapalenie gardła
+1554,Atopowe zapalenie skóry
+1555,Zawał serca
+1556,Zapalenie pęcherza
+1557,Choroba refluksowa
+1558,Borelioza
+1559,Zapalenie gardła
+1560,Cukrzyca typu 2
+1561,Nowotwór płuc
+1562,Anemia
+1563,Zespół napięcia przedmiesiączkowego
+1564,Zespół napięcia przedmiesiączkowego
+1565,Zapalenie zatok
+1566,Depresja
+1567,Atopowe zapalenie skóry
+1568,Zawał serca
+1569,Migrena
+1570,Reumatoidalne zapalenie stawów
+1571,Angina
+1572,Atopowe zapalenie skóry
+1573,Zapalenie wątroby typu A
+1574,Zapalenie płuc
+1575,Migrena
+1576,Nowotwór płuc
+1577,Zespół jelita drażliwego
+1578,Zapalenie wątroby typu A
+1579,Cukrzyca typu 2
+1580,Choroba wieńcowa
+1581,Nowotwór płuc
+1582,Anemia
+1583,Zapalenie gardła
+1584,Zapalenie pęcherza
+1585,Alergia sezonowa
+1586,Zawał serca
+1587,Zapalenie płuc
+1588,Choroba wieńcowa
+1589,Cukrzyca typu 2
+1590,Zapalenie spojówek
+1591,Zapalenie oskrzeli
+1592,Egzema
+1593,Zapalenie zatok
+1594,Niedoczynność tarczycy
+1595,Zapalenie płuc
+1596,Grypa
+1597,Zespół jelita drażliwego
+1598,Grypa
+1599,Reumatoidalne zapalenie stawów
+1600,Anemia
+1601,COVID-19
+1602,Nowotwór płuc
+1603,Nowotwór płuc
+1604,Migrena
+1605,Zespół napięcia przedmiesiączkowego
+1606,Cukrzyca typu 2
+1607,Reumatoidalne zapalenie stawów
+1608,Osteoporoza
+1609,Nowotwór płuc
+1610,Cukrzyca typu 2
+1611,Zapalenie pęcherza
+1612,Zapalenie spojówek
+1613,Depresja
+1614,Zapalenie spojówek
+1615,Zapalenie wątroby typu A
+1616,Kamica nerkowa
+1617,Angina
+1618,Zapalenie płuc
+1619,Zawał serca
+1620,Depresja
+1621,Nowotwór płuc
+1622,Zapalenie spojówek
+1623,Anemia
+1624,Choroba refluksowa
+1625,Cukrzyca typu 2
+1626,Angina
+1627,Cukrzyca typu 2
+1628,Nadciśnienie
+1629,Zapalenie oskrzeli
+1630,Zespół jelita drażliwego
+1631,Zespół jelita drażliwego
+1632,Borelioza
+1633,Kamica nerkowa
+1634,Nowotwór płuc
+1635,Atopowe zapalenie skóry
+1636,Reumatoidalne zapalenie stawów
+1637,Borelioza
+1638,Atopowe zapalenie skóry
+1639,Cukrzyca typu 2
+1640,Zespół jelita drażliwego
+1641,Choroba refluksowa
+1642,Depresja
+1643,Kamica nerkowa
+1644,Egzema
+1645,Zapalenie zatok
+1646,Borelioza
+1647,Zapalenie spojówek
+1648,Choroba wieńcowa
+1649,Zapalenie wątroby typu A
+1650,Reumatoidalne zapalenie stawów
+1651,Egzema
+1652,Kamica nerkowa
+1653,Nowotwór piersi
+1654,Alergia sezonowa
+1655,Choroba refluksowa
+1656,COVID-19
+1657,Borelioza
+1658,Atopowe zapalenie skóry
+1659,Anemia
+1660,Nowotwór płuc
+1661,Nowotwór piersi
+1662,Borelioza
+1663,Choroba wieńcowa
+1664,Cukrzyca typu 2
+1665,Zapalenie gardła
+1666,Niedoczynność tarczycy
+1667,Cukrzyca typu 2
+1668,Choroba wieńcowa
+1669,Nowotwór piersi
+1670,Zespół jelita drażliwego
+1671,Zapalenie spojówek
+1672,Zespół jelita drażliwego
+1673,Zapalenie wątroby typu A
+1674,Migrena
+1675,Zapalenie wątroby typu A
+1676,Kamica nerkowa
+1677,Reumatoidalne zapalenie stawów
+1678,Zapalenie gardła
+1679,Astma
+1680,Cukrzyca typu 2
+1681,Migrena
+1682,Zespół jelita drażliwego
+1683,Migrena
+1684,COVID-19
+1685,Astma
+1686,Zapalenie gardła
+1687,Zespół jelita drażliwego
+1688,Zapalenie wątroby typu A
+1689,Depresja
+1690,Zespół jelita drażliwego
+1691,Zapalenie ucha środkowego
+1692,Osteoporoza
+1693,Kamica nerkowa
+1694,Zapalenie pęcherza
+1695,COVID-19
+1696,Angina
+1697,Nadciśnienie
+1698,Zespół jelita drażliwego
+1699,Zapalenie gardła
+1700,Anemia
+1701,Depresja
+1702,Nowotwór piersi
+1703,Zapalenie pęcherza
+1704,Depresja
+1705,Migrena
+1706,Anemia
+1707,Zapalenie wątroby typu A
+1708,Zespół napięcia przedmiesiączkowego
+1709,COVID-19
+1710,Migrena
+1711,Zapalenie spojówek
+1712,Zawał serca
+1713,Zespół napięcia przedmiesiączkowego
+1714,Zespół napięcia przedmiesiączkowego
+1715,Zespół jelita drażliwego
+1716,Atopowe zapalenie skóry
+1717,Borelioza
+1718,Angina
+1719,Zespół napięcia przedmiesiączkowego
+1720,COVID-19
+1721,Osteoporoza
+1722,Zespół napięcia przedmiesiączkowego
+1723,Niedoczynność tarczycy
+1724,COVID-19
+1725,Zapalenie ucha środkowego
+1726,Zespół jelita drażliwego
+1727,Choroba refluksowa
+1728,Zespół napięcia przedmiesiączkowego
+1729,Nowotwór płuc
+1730,Anemia
+1731,Zawał serca
+1732,Zespół napięcia przedmiesiączkowego
+1733,Zapalenie ucha środkowego
+1734,Zespół napięcia przedmiesiączkowego
+1735,Atopowe zapalenie skóry
+1736,Zawał serca
+1737,Nadciśnienie
+1738,Choroba wieńcowa
+1739,Depresja
+1740,Zapalenie płuc
+1741,Nowotwór płuc
+1742,Zapalenie pęcherza
+1743,Egzema
+1744,Zespół napięcia przedmiesiączkowego
+1745,Astma
+1746,Nadciśnienie
+1747,Nadciśnienie
+1748,Astma
+1749,Nadciśnienie
+1750,Choroba wieńcowa
+1751,Osteoporoza
+1752,Osteoporoza
+1753,Zespół jelita drażliwego
+1754,Depresja
+1755,Zapalenie zatok
+1756,Cukrzyca typu 2
+1757,Nadciśnienie
+1758,Astma
+1759,Alergia sezonowa
+1760,Nowotwór płuc
+1761,Zapalenie pęcherza
+1762,Angina
+1763,Cukrzyca typu 2
+1764,Migrena
+1765,Alergia sezonowa
+1766,Zapalenie gardła
+1767,Zapalenie płuc
+1768,Osteoporoza
+1769,Alergia sezonowa
+1770,Grypa
+1771,Zapalenie pęcherza
+1772,Angina
+1773,Astma
+1774,Reumatoidalne zapalenie stawów
+1775,Astma
+1776,Osteoporoza
+1777,Anemia
+1778,Zapalenie płuc
+1779,Zespół jelita drażliwego
+1780,Anemia
+1781,Alergia sezonowa
+1782,Anemia
+1783,Zapalenie oskrzeli
+1784,Zespół napięcia przedmiesiączkowego
+1785,Grypa
+1786,Nowotwór piersi
+1787,Atopowe zapalenie skóry
+1788,Niedoczynność tarczycy
+1789,Nowotwór piersi
+1790,Zapalenie ucha środkowego
+1791,Niedoczynność tarczycy
+1792,Zapalenie spojówek
+1793,Atopowe zapalenie skóry
+1794,Zapalenie oskrzeli
+1795,Cukrzyca typu 2
+1796,Zapalenie płuc
+1797,Zapalenie gardła
+1798,Zapalenie spojówek
+1799,Zespół napięcia przedmiesiączkowego
+1800,Zapalenie płuc
+1801,Kamica nerkowa
+1802,Egzema
+1803,COVID-19
+1804,Osteoporoza
+1805,Reumatoidalne zapalenie stawów
+1806,Niedoczynność tarczycy
+1807,Osteoporoza
+1808,Depresja
+1809,Choroba wieńcowa
+1810,Niedoczynność tarczycy
+1811,Nowotwór piersi
+1812,COVID-19
+1813,Reumatoidalne zapalenie stawów
+1814,Astma
+1815,Osteoporoza
+1816,Choroba refluksowa
+1817,Astma
+1818,Nowotwór piersi
+1819,Zapalenie wątroby typu A
+1820,Choroba refluksowa
+1821,Nowotwór płuc
+1822,Nowotwór płuc
+1823,Zapalenie ucha środkowego
+1824,Egzema
+1825,Zapalenie pęcherza
+1826,Migrena
+1827,Zespół jelita drażliwego
+1828,Angina
+1829,COVID-19
+1830,Zapalenie płuc
+1831,Zawał serca
+1832,Borelioza
+1833,Nowotwór piersi
+1834,Kamica nerkowa
+1835,Zapalenie płuc
+1836,Zapalenie gardła
+1837,Atopowe zapalenie skóry
+1838,Zapalenie oskrzeli
+1839,Cukrzyca typu 2
+1840,Zespół napięcia przedmiesiączkowego
+1841,Zawał serca
+1842,Osteoporoza
+1843,Egzema
+1844,Zespół napięcia przedmiesiączkowego
+1845,Niedoczynność tarczycy
+1846,Zapalenie oskrzeli
+1847,Zapalenie zatok
+1848,Reumatoidalne zapalenie stawów
+1849,Zapalenie spojówek
+1850,Egzema
+1851,Osteoporoza
+1852,Choroba wieńcowa
+1853,Grypa
+1854,Zapalenie pęcherza
+1855,Choroba wieńcowa
+1856,Cukrzyca typu 2
+1857,Nowotwór piersi
+1858,Atopowe zapalenie skóry
+1859,Nadciśnienie
+1860,Borelioza
+1861,Zapalenie płuc
+1862,Choroba wieńcowa
+1863,Borelioza
+1864,Osteoporoza
+1865,Zespół jelita drażliwego
+1866,Anemia
+1867,Angina
+1868,Nowotwór płuc
+1869,Borelioza
+1870,Zapalenie zatok
+1871,Niedoczynność tarczycy
+1872,Zapalenie zatok
+1873,Migrena
+1874,Depresja
+1875,Anemia
+1876,Osteoporoza
+1877,Zapalenie płuc
+1878,Niedoczynność tarczycy
+1879,Borelioza
+1880,Nadciśnienie
+1881,Zapalenie pęcherza
+1882,Nowotwór płuc
+1883,Kamica nerkowa
+1884,Zapalenie wątroby typu A
+1885,Zapalenie wątroby typu A
+1886,Zapalenie spojówek
+1887,Angina
+1888,Zapalenie płuc
+1889,Zapalenie zatok
+1890,Atopowe zapalenie skóry
+1891,Niedoczynność tarczycy
+1892,COVID-19
+1893,Zapalenie wątroby typu A
+1894,Choroba refluksowa
+1895,Zapalenie pęcherza
+1896,Zapalenie pęcherza
+1897,Kamica nerkowa
+1898,Zespół napięcia przedmiesiączkowego
+1899,Migrena
+1900,Nadciśnienie
+1901,Osteoporoza
+1902,Zapalenie wątroby typu A
+1903,Nadciśnienie
+1904,Astma
+1905,Nowotwór płuc
+1906,Zapalenie oskrzeli
+1907,Choroba refluksowa
+1908,Zapalenie ucha środkowego
+1909,Nadciśnienie
+1910,Zapalenie pęcherza
+1911,Borelioza
+1912,Zapalenie oskrzeli
+1913,Nadciśnienie
+1914,Grypa
+1915,Zapalenie pęcherza
+1916,Atopowe zapalenie skóry
+1917,Zespół jelita drażliwego
+1918,Choroba refluksowa
+1919,Cukrzyca typu 2
+1920,Choroba refluksowa
+1921,Cukrzyca typu 2
+1922,Choroba wieńcowa
+1923,Migrena
+1924,Depresja
+1925,Zapalenie oskrzeli
+1926,Borelioza
+1927,Nowotwór płuc
+1928,Zapalenie ucha środkowego
+1929,Zapalenie zatok
+1930,Niedoczynność tarczycy
+1931,Anemia
+1932,Kamica nerkowa
+1933,Anemia
+1934,Osteoporoza
+1935,Zapalenie oskrzeli
+1936,Astma
+1937,Zapalenie gardła
+1938,Migrena
+1939,Reumatoidalne zapalenie stawów
+1940,Cukrzyca typu 2
+1941,Borelioza
+1942,Anemia
+1943,Zapalenie wątroby typu A
+1944,Zapalenie gardła
+1945,Zapalenie zatok
+1946,Nowotwór płuc
+1947,Zapalenie płuc
+1948,Niedoczynność tarczycy
+1949,Zapalenie ucha środkowego
+1950,Astma
+1951,Choroba wieńcowa
+1952,Alergia sezonowa
+1953,Nowotwór piersi
+1954,Kamica nerkowa
+1955,Reumatoidalne zapalenie stawów
+1956,Zapalenie wątroby typu A
+1957,Alergia sezonowa
+1958,Zapalenie pęcherza
+1959,Zapalenie spojówek
+1960,Atopowe zapalenie skóry
+1961,Osteoporoza
+1962,Reumatoidalne zapalenie stawów
+1963,Atopowe zapalenie skóry
+1964,Egzema
+1965,Zapalenie spojówek
+1966,Grypa
+1967,Borelioza
+1968,Zapalenie płuc
+1969,Grypa
+1970,Nowotwór płuc
+1971,Egzema
+1972,Osteoporoza
+1973,Zespół jelita drażliwego
+1974,Niedoczynność tarczycy
+1975,Egzema
+1976,Zapalenie oskrzeli
+1977,Choroba refluksowa
+1978,Nowotwór piersi
+1979,Choroba refluksowa
+1980,Angina
+1981,Cukrzyca typu 2
+1982,Zapalenie spojówek
+1983,Depresja
+1984,Depresja
+1985,Choroba wieńcowa
+1986,Zapalenie oskrzeli
+1987,Choroba wieńcowa
+1988,Choroba wieńcowa
+1989,Depresja
+1990,Depresja
+1991,Anemia
+1992,Grypa
+1993,Astma
+1994,Zespół jelita drażliwego
+1995,Zapalenie spojówek
+1996,Zapalenie zatok
+1997,Astma
+1998,COVID-19
+1999,Choroba refluksowa
+2000,Anemia
+2001,Borelioza
+2002,Egzema
+2003,Zapalenie wątroby typu A
+2004,Borelioza
+2005,Nowotwór płuc
+2006,Migrena
+2007,Choroba wieńcowa
+2008,Choroba refluksowa
+2009,Zapalenie spojówek
+2010,Zapalenie wątroby typu A
+2011,Zapalenie pęcherza
+2012,Migrena
+2013,Zapalenie zatok
+2014,Cukrzyca typu 2
+2015,Osteoporoza
+2016,Grypa
+2017,Cukrzyca typu 2
+2018,Alergia sezonowa
+2019,Zawał serca
+2020,Zapalenie gardła
+2021,Nowotwór piersi
+2022,Zapalenie gardła
+2023,Zespół jelita drażliwego
+2024,Zapalenie ucha środkowego
+2025,Zapalenie ucha środkowego
+2026,Zespół napięcia przedmiesiączkowego
+2027,Choroba wieńcowa
+2028,Nadciśnienie
+2029,Zapalenie pęcherza
+2030,Borelioza
+2031,Egzema
+2032,Zapalenie ucha środkowego
+2033,Borelioza
+2034,Zapalenie wątroby typu A
+2035,Niedoczynność tarczycy
+2036,Zapalenie pęcherza
+2037,Nowotwór płuc
+2038,Cukrzyca typu 2
+2039,Atopowe zapalenie skóry
+2040,Nowotwór piersi
+2041,Kamica nerkowa
+2042,Egzema
+2043,Zapalenie oskrzeli
+2044,Egzema
+2045,Zapalenie ucha środkowego
+2046,Zapalenie płuc
+2047,Zapalenie spojówek
+2048,Kamica nerkowa
+2049,Nadciśnienie
+2050,Migrena
+2051,Zapalenie gardła
+2052,Reumatoidalne zapalenie stawów
+2053,Atopowe zapalenie skóry
+2054,Borelioza
+2055,Zapalenie oskrzeli
+2056,Anemia
+2057,Zapalenie wątroby typu A
+2058,Zapalenie oskrzeli
+2059,Astma
+2060,Reumatoidalne zapalenie stawów
+2061,Zespół napięcia przedmiesiączkowego
+2062,Zespół jelita drażliwego
+2063,Zapalenie spojówek
+2064,Zapalenie płuc
+2065,Atopowe zapalenie skóry
+2066,Zapalenie zatok
+2067,Angina
+2068,Choroba refluksowa
+2069,Alergia sezonowa
+2070,Reumatoidalne zapalenie stawów
+2071,Migrena
+2072,Zapalenie gardła
+2073,Choroba wieńcowa
+2074,Kamica nerkowa
+2075,Alergia sezonowa
+2076,COVID-19
+2077,Nadciśnienie
+2078,Astma
+2079,Zapalenie zatok
+2080,Nadciśnienie
+2081,Zapalenie zatok
+2082,Zapalenie zatok
+2083,Niedoczynność tarczycy
+2084,Zapalenie zatok
+2085,Nadciśnienie
+2086,Zespół jelita drażliwego
+2087,Reumatoidalne zapalenie stawów
+2088,Migrena
+2089,Grypa
+2090,Nowotwór płuc
+2091,Nowotwór płuc
+2092,Niedoczynność tarczycy
+2093,Migrena
+2094,Zapalenie pęcherza
+2095,Anemia
+2096,Borelioza
+2097,Alergia sezonowa
+2098,Migrena
+2099,Nowotwór płuc
+2100,Reumatoidalne zapalenie stawów
+2101,Anemia
+2102,Grypa
+2103,Zespół jelita drażliwego
+2104,Egzema
+2105,Anemia
+2106,Zapalenie wątroby typu A
+2107,Zespół napięcia przedmiesiączkowego
+2108,Choroba refluksowa
+2109,Reumatoidalne zapalenie stawów
+2110,Zapalenie spojówek
+2111,Choroba refluksowa
+2112,Anemia
+2113,Zapalenie gardła
+2114,Choroba wieńcowa
+2115,Atopowe zapalenie skóry
+2116,Zapalenie gardła
+2117,Egzema
+2118,Reumatoidalne zapalenie stawów
+2119,Alergia sezonowa
+2120,Zapalenie gardła
+2121,Reumatoidalne zapalenie stawów
+2122,Depresja
+2123,Zapalenie oskrzeli
+2124,Niedoczynność tarczycy
+2125,COVID-19
+2126,Zapalenie gardła
+2127,Grypa
+2128,Zapalenie gardła
+2129,Zapalenie spojówek
+2130,Borelioza
+2131,Zawał serca
+2132,Osteoporoza
+2133,Zapalenie płuc
+2134,Zapalenie spojówek
+2135,Zespół jelita drażliwego
+2136,Egzema
+2137,COVID-19
+2138,Zapalenie ucha środkowego
+2139,Anemia
+2140,Atopowe zapalenie skóry
+2141,Zapalenie wątroby typu A
+2142,Choroba wieńcowa
+2143,Zapalenie wątroby typu A
+2144,Zapalenie pęcherza
+2145,Astma
+2146,Choroba refluksowa
+2147,Zapalenie spojówek
+2148,Choroba refluksowa
+2149,Choroba refluksowa
+2150,Alergia sezonowa
+2151,Grypa
+2152,Cukrzyca typu 2
+2153,Nowotwór piersi
+2154,Zapalenie zatok
+2155,Zawał serca
+2156,Zespół jelita drażliwego
+2157,Zespół napięcia przedmiesiączkowego
+2158,Zapalenie pęcherza
+2159,Depresja
+2160,Reumatoidalne zapalenie stawów
+2161,Anemia
+2162,Zespół napięcia przedmiesiączkowego
+2163,Osteoporoza
+2164,Zespół jelita drażliwego
+2165,Choroba wieńcowa
+2166,Zespół jelita drażliwego
+2167,Zapalenie zatok
+2168,Angina
+2169,Migrena
+2170,Choroba refluksowa
+2171,Anemia
+2172,Alergia sezonowa
+2173,Grypa
+2174,Angina
+2175,Zapalenie spojówek
+2176,Borelioza
+2177,Nowotwór płuc
+2178,Alergia sezonowa
+2179,Zapalenie zatok
+2180,Choroba wieńcowa
+2181,Egzema
+2182,Zapalenie ucha środkowego
+2183,Zespół napięcia przedmiesiączkowego
+2184,Egzema
+2185,Kamica nerkowa
+2186,Borelioza
+2187,Nowotwór płuc
+2188,Borelioza
+2189,Depresja
+2190,Angina
+2191,Migrena
+2192,Reumatoidalne zapalenie stawów
+2193,Zapalenie spojówek
+2194,COVID-19
+2195,Zapalenie spojówek
+2196,Cukrzyca typu 2
+2197,Zawał serca
+2198,Depresja
+2199,COVID-19
+2200,Migrena
+2201,Choroba wieńcowa
+2202,Zapalenie spojówek
+2203,Zespół jelita drażliwego
+2204,Zawał serca
+2205,Nadciśnienie
+2206,Anemia
+2207,Zapalenie gardła
+2208,Choroba wieńcowa
+2209,Anemia
+2210,Nowotwór płuc
+2211,Zapalenie pęcherza
+2212,Atopowe zapalenie skóry
+2213,Zapalenie spojówek
+2214,Migrena
+2215,Depresja
+2216,Zespół jelita drażliwego
+2217,Zapalenie wątroby typu A
+2218,Zapalenie ucha środkowego
+2219,Zapalenie pęcherza
+2220,Migrena
+2221,Angina
+2222,Egzema
+2223,Zapalenie pęcherza
+2224,Zapalenie oskrzeli
+2225,Egzema
+2226,Egzema
+2227,Choroba refluksowa
+2228,Astma
+2229,Depresja
+2230,Reumatoidalne zapalenie stawów
+2231,Zapalenie gardła
+2232,Zapalenie płuc
+2233,Zapalenie wątroby typu A
+2234,Cukrzyca typu 2
+2235,Nowotwór płuc
+2236,Grypa
+2237,Zapalenie płuc
+2238,Alergia sezonowa
+2239,Migrena
+2240,Zapalenie pęcherza
+2241,Cukrzyca typu 2
+2242,Zapalenie spojówek
+2243,Zapalenie wątroby typu A
+2244,Zapalenie pęcherza
+2245,Borelioza
+2246,Zapalenie pęcherza
+2247,COVID-19
+2248,Zapalenie wątroby typu A
+2249,Zawał serca
+2250,Kamica nerkowa
+2251,COVID-19
+2252,Egzema
+2253,Choroba refluksowa
+2254,Nowotwór piersi
+2255,Zapalenie gardła
+2256,Astma
+2257,Zapalenie gardła
+2258,Nowotwór płuc
+2259,Reumatoidalne zapalenie stawów
+2260,Alergia sezonowa
+2261,Depresja
+2262,Anemia
+2263,Cukrzyca typu 2
+2264,Nadciśnienie
+2265,Nadciśnienie
+2266,Choroba wieńcowa
+2267,Reumatoidalne zapalenie stawów
+2268,Zapalenie oskrzeli
+2269,Atopowe zapalenie skóry
+2270,Reumatoidalne zapalenie stawów
+2271,Nadciśnienie
+2272,Osteoporoza
+2273,Zawał serca
+2274,Zapalenie wątroby typu A
+2275,Nadciśnienie
+2276,Nowotwór piersi
+2277,Zespół jelita drażliwego
+2278,Angina
+2279,Grypa
+2280,Angina
+2281,Nadciśnienie
+2282,Zapalenie pęcherza
+2283,Nadciśnienie
+2284,Egzema
+2285,Migrena
+2286,Zapalenie płuc
+2287,Angina
+2288,Zapalenie ucha środkowego
+2289,Zespół napięcia przedmiesiączkowego
+2290,Choroba refluksowa
+2291,Choroba wieńcowa
+2292,Nadciśnienie
+2293,Osteoporoza
+2294,Nowotwór płuc
+2295,Atopowe zapalenie skóry
+2296,Cukrzyca typu 2
+2297,Alergia sezonowa
+2298,Zapalenie oskrzeli
+2299,Zespół napięcia przedmiesiączkowego
+2300,Zapalenie oskrzeli
+2301,Zapalenie wątroby typu A
+2302,Angina
+2303,Astma
+2304,Choroba wieńcowa
+2305,Zespół napięcia przedmiesiączkowego
+2306,Borelioza
+2307,Zapalenie płuc
+2308,Zespół jelita drażliwego
+2309,Osteoporoza
+2310,Zespół napięcia przedmiesiączkowego
+2311,Zapalenie gardła
+2312,Zapalenie spojówek
+2313,Zespół jelita drażliwego
+2314,Depresja
+2315,Zapalenie płuc
+2316,Zapalenie płuc
+2317,Zapalenie pęcherza
+2318,Zespół napięcia przedmiesiączkowego
+2319,Zapalenie oskrzeli
+2320,Astma
+2321,COVID-19
+2322,Zapalenie spojówek
+2323,Nowotwór piersi
+2324,Zapalenie ucha środkowego
+2325,Alergia sezonowa
+2326,Cukrzyca typu 2
+2327,Zespół jelita drażliwego
+2328,Zapalenie gardła
+2329,Choroba wieńcowa
+2330,Zapalenie gardła
+2331,Grypa
+2332,Choroba wieńcowa
+2333,Nowotwór płuc
+2334,Anemia
+2335,Egzema
+2336,Egzema
+2337,Cukrzyca typu 2
+2338,Zespół jelita drażliwego
+2339,Osteoporoza
+2340,Osteoporoza
+2341,Choroba refluksowa
+2342,Zapalenie zatok
+2343,Zapalenie zatok
+2344,Angina
+2345,Zapalenie spojówek
+2346,Zapalenie płuc
+2347,Zapalenie wątroby typu A
+2348,Migrena
+2349,Choroba wieńcowa
+2350,Nowotwór piersi
+2351,Zespół napięcia przedmiesiączkowego
+2352,Zespół napięcia przedmiesiączkowego
+2353,Zapalenie ucha środkowego
+2354,Choroba refluksowa
+2355,Alergia sezonowa
+2356,Depresja
+2357,Borelioza
+2358,Alergia sezonowa
+2359,Egzema
+2360,Nadciśnienie
+2361,Zespół napięcia przedmiesiączkowego
+2362,Zapalenie spojówek
+2363,Choroba refluksowa
+2364,Angina
+2365,Migrena
+2366,Anemia
+2367,Alergia sezonowa
+2368,Borelioza
+2369,Nowotwór piersi
+2370,Astma
+2371,Zapalenie oskrzeli
+2372,Astma
+2373,Anemia
+2374,COVID-19
+2375,Zapalenie ucha środkowego
+2376,Choroba wieńcowa
+2377,Kamica nerkowa
+2378,Niedoczynność tarczycy
+2379,Osteoporoza
+2380,Nadciśnienie
+2381,Nowotwór piersi
+2382,Nowotwór piersi
+2383,Astma
+2384,Egzema
+2385,Nadciśnienie
+2386,Atopowe zapalenie skóry
+2387,Reumatoidalne zapalenie stawów
+2388,Kamica nerkowa
+2389,Zapalenie oskrzeli
+2390,Zapalenie oskrzeli
+2391,Nadciśnienie
+2392,Atopowe zapalenie skóry
+2393,Zespół napięcia przedmiesiączkowego
+2394,Nowotwór piersi
+2395,Zapalenie spojówek
+2396,Grypa
+2397,Alergia sezonowa
+2398,Angina
+2399,Migrena
+2400,Zapalenie spojówek
+2401,Reumatoidalne zapalenie stawów
+2402,Grypa
+2403,Zespół napięcia przedmiesiączkowego
+2404,Nowotwór płuc
+2405,Choroba wieńcowa
+2406,Zapalenie gardła
+2407,Grypa
+2408,COVID-19
+2409,Zapalenie płuc
+2410,Zapalenie ucha środkowego
+2411,Astma
+2412,Zapalenie zatok
+2413,Cukrzyca typu 2
+2414,Choroba refluksowa
+2415,Choroba refluksowa
+2416,Depresja
+2417,Nowotwór płuc
+2418,Angina
+2419,Reumatoidalne zapalenie stawów
+2420,Egzema
+2421,Zapalenie pęcherza
+2422,Osteoporoza
+2423,Anemia
+2424,Zespół jelita drażliwego
+2425,Borelioza
+2426,Cukrzyca typu 2
+2427,Choroba wieńcowa
+2428,Choroba refluksowa
+2429,Zapalenie spojówek
+2430,Zapalenie płuc
+2431,Borelioza
+2432,Atopowe zapalenie skóry
+2433,Zapalenie wątroby typu A
+2434,Zapalenie oskrzeli
+2435,Migrena
+2436,Reumatoidalne zapalenie stawów
+2437,Angina
+2438,Egzema
+2439,COVID-19
+2440,Zespół napięcia przedmiesiączkowego
+2441,Nadciśnienie
+2442,Zespół napięcia przedmiesiączkowego
+2443,Nowotwór piersi
+2444,Kamica nerkowa
+2445,Migrena
+2446,COVID-19
+2447,Borelioza
+2448,Astma
+2449,Alergia sezonowa
+2450,Migrena
+2451,Atopowe zapalenie skóry
+2452,Osteoporoza
+2453,COVID-19
+2454,Choroba wieńcowa
+2455,Zapalenie oskrzeli
+2456,Anemia
+2457,Grypa
+2458,Zawał serca
+2459,Borelioza
+2460,Anemia
+2461,Reumatoidalne zapalenie stawów
+2462,Zapalenie oskrzeli
+2463,Depresja
+2464,Zapalenie gardła
+2465,Migrena
+2466,Zawał serca
+2467,Astma
+2468,Zapalenie płuc
+2469,Cukrzyca typu 2
+2470,Choroba refluksowa
+2471,Alergia sezonowa
+2472,Zawał serca
+2473,Zapalenie pęcherza
+2474,Zapalenie spojówek
+2475,Zespół napięcia przedmiesiączkowego
+2476,Nowotwór piersi
+2477,Choroba refluksowa
+2478,Zapalenie płuc
+2479,Zespół napięcia przedmiesiączkowego
+2480,Anemia
+2481,Borelioza
+2482,Migrena
+2483,Angina
+2484,Zapalenie zatok
+2485,Egzema
+2486,Egzema
+2487,Alergia sezonowa
+2488,Choroba refluksowa
+2489,Zapalenie wątroby typu A
+2490,Astma
+2491,Angina
+2492,Nowotwór płuc
+2493,Niedoczynność tarczycy
+2494,Nowotwór piersi
+2495,Angina
+2496,Alergia sezonowa
+2497,Zapalenie zatok
+2498,Depresja
+2499,Depresja
+2500,Zapalenie płuc
+2501,Reumatoidalne zapalenie stawów
+2502,Angina
+2503,Grypa
+2504,Zapalenie spojówek
+2505,Osteoporoza
+2506,Zapalenie wątroby typu A
+2507,Angina
+2508,Osteoporoza
+2509,Zapalenie ucha środkowego
+2510,Osteoporoza
+2511,Zespół jelita drażliwego
+2512,Zespół napięcia przedmiesiączkowego
+2513,Zespół napięcia przedmiesiączkowego
+2514,Zapalenie spojówek
+2515,COVID-19
+2516,Nowotwór płuc
+2517,Migrena
+2518,Egzema
+2519,Kamica nerkowa
+2520,Borelioza
+2521,Choroba wieńcowa
+2522,Zespół jelita drażliwego
+2523,Osteoporoza
+2524,Zapalenie zatok
+2525,Zespół jelita drażliwego
+2526,Angina
+2527,Nowotwór płuc
+2528,Grypa
+2529,Zapalenie wątroby typu A
+2530,Niedoczynność tarczycy
+2531,Cukrzyca typu 2
+2532,Zapalenie gardła
+2533,Egzema
+2534,Nadciśnienie
+2535,Borelioza
+2536,Astma
+2537,Zespół napięcia przedmiesiączkowego
+2538,Astma
+2539,Zespół jelita drażliwego
+2540,Choroba refluksowa
+2541,Cukrzyca typu 2
+2542,Astma
+2543,Zapalenie spojówek
+2544,Egzema
+2545,Zawał serca
+2546,Osteoporoza
+2547,Zapalenie płuc
+2548,Zespół jelita drażliwego
+2549,Angina
+2550,Zawał serca
+2551,Choroba refluksowa
+2552,Zapalenie pęcherza
+2553,Zawał serca
+2554,Niedoczynność tarczycy
+2555,Reumatoidalne zapalenie stawów
+2556,Reumatoidalne zapalenie stawów
+2557,Angina
+2558,Nadciśnienie
+2559,Nowotwór płuc
+2560,Astma
+2561,Cukrzyca typu 2
+2562,Angina
+2563,Choroba wieńcowa
+2564,Egzema
+2565,Egzema
+2566,Depresja
+2567,Reumatoidalne zapalenie stawów
+2568,Zapalenie ucha środkowego
+2569,Egzema
+2570,Niedoczynność tarczycy
+2571,Nowotwór piersi
+2572,Nadciśnienie
+2573,Grypa
+2574,Zapalenie pęcherza
+2575,Nadciśnienie
+2576,Zapalenie pęcherza
+2577,Zespół napięcia przedmiesiączkowego
+2578,Depresja
+2579,Anemia
+2580,Kamica nerkowa
+2581,Nowotwór piersi
+2582,Zapalenie ucha środkowego
+2583,Zapalenie gardła
+2584,COVID-19
+2585,Cukrzyca typu 2
+2586,Choroba refluksowa
+2587,Choroba wieńcowa
+2588,Astma
+2589,Kamica nerkowa
+2590,Osteoporoza
+2591,Choroba refluksowa
+2592,Zapalenie oskrzeli
+2593,Zapalenie wątroby typu A
+2594,Choroba refluksowa
+2595,Anemia
+2596,COVID-19
+2597,Migrena
+2598,Nowotwór płuc
+2599,Migrena
+2600,Nowotwór piersi
+2601,Zapalenie pęcherza
+2602,Cukrzyca typu 2
+2603,Zapalenie pęcherza
+2604,Atopowe zapalenie skóry
+2605,Alergia sezonowa
+2606,Egzema
+2607,Zapalenie spojówek
+2608,Borelioza
+2609,Zawał serca
+2610,Zapalenie wątroby typu A
+2611,Anemia
+2612,Alergia sezonowa
+2613,Kamica nerkowa
+2614,Angina
+2615,Depresja
+2616,Zawał serca
+2617,Atopowe zapalenie skóry
+2618,Zapalenie wątroby typu A
+2619,Zapalenie gardła
+2620,Nowotwór płuc
+2621,Niedoczynność tarczycy
+2622,Anemia
+2623,Osteoporoza
+2624,Zapalenie płuc
+2625,Zespół napięcia przedmiesiączkowego
+2626,Osteoporoza
+2627,Zapalenie pęcherza
+2628,Depresja
+2629,Kamica nerkowa
+2630,Nadciśnienie
+2631,Zapalenie płuc
+2632,Borelioza
+2633,Zawał serca
+2634,Choroba wieńcowa
+2635,Osteoporoza
+2636,Alergia sezonowa
+2637,Reumatoidalne zapalenie stawów
+2638,Niedoczynność tarczycy
+2639,Zapalenie oskrzeli
+2640,Zespół jelita drażliwego
+2641,Zapalenie wątroby typu A
+2642,Choroba refluksowa
+2643,Angina
+2644,Reumatoidalne zapalenie stawów
+2645,Borelioza
+2646,Depresja
+2647,Zapalenie wątroby typu A
+2648,Choroba wieńcowa
+2649,Choroba refluksowa
+2650,Zapalenie zatok
+2651,Borelioza
+2652,Cukrzyca typu 2
+2653,Choroba refluksowa
+2654,Zawał serca
+2655,Nowotwór piersi
+2656,Zawał serca
+2657,Zapalenie ucha środkowego
+2658,Anemia
+2659,Niedoczynność tarczycy
+2660,Zespół napięcia przedmiesiączkowego
+2661,Egzema
+2662,Alergia sezonowa
+2663,Zawał serca
+2664,Zespół napięcia przedmiesiączkowego
+2665,Cukrzyca typu 2
+2666,Atopowe zapalenie skóry
+2667,Atopowe zapalenie skóry
+2668,Osteoporoza
+2669,Zapalenie wątroby typu A
+2670,Atopowe zapalenie skóry
+2671,Reumatoidalne zapalenie stawów
+2672,Egzema
+2673,Zapalenie oskrzeli
+2674,Kamica nerkowa
+2675,Grypa
+2676,Alergia sezonowa
+2677,Zapalenie płuc
+2678,Zespół jelita drażliwego
+2679,Zapalenie płuc
+2680,Zespół napięcia przedmiesiączkowego
+2681,Borelioza
+2682,Zapalenie oskrzeli
+2683,Zapalenie gardła
+2684,Zespół jelita drażliwego
+2685,Alergia sezonowa
+2686,Zapalenie płuc
+2687,Choroba wieńcowa
+2688,Niedoczynność tarczycy
+2689,Niedoczynność tarczycy
+2690,Reumatoidalne zapalenie stawów
+2691,Choroba refluksowa
+2692,Anemia
+2693,Zespół jelita drażliwego
+2694,Depresja
+2695,Migrena
+2696,Niedoczynność tarczycy
+2697,Choroba wieńcowa
+2698,Kamica nerkowa
+2699,Borelioza
+2700,Alergia sezonowa
+2701,Zespół napięcia przedmiesiączkowego
+2702,Zapalenie pęcherza
+2703,Depresja
+2704,Borelioza
+2705,Zapalenie płuc
+2706,Depresja
+2707,Migrena
+2708,Niedoczynność tarczycy
+2709,Zapalenie płuc
+2710,Atopowe zapalenie skóry
+2711,Choroba wieńcowa
+2712,Kamica nerkowa
+2713,Kamica nerkowa
+2714,Choroba refluksowa
+2715,Depresja
+2716,Egzema
+2717,Zapalenie gardła
+2718,Cukrzyca typu 2
+2719,Nowotwór płuc
+2720,Nowotwór płuc
+2721,Astma
+2722,Borelioza
+2723,Anemia
+2724,Zapalenie oskrzeli
+2725,Zapalenie płuc
+2726,Niedoczynność tarczycy
+2727,Nadciśnienie
+2728,Choroba refluksowa
+2729,Migrena
+2730,Kamica nerkowa
+2731,Migrena
+2732,Alergia sezonowa
+2733,COVID-19
+2734,Nowotwór płuc
+2735,Migrena
+2736,Zapalenie wątroby typu A
+2737,Kamica nerkowa
+2738,Angina
+2739,Zespół jelita drażliwego
+2740,Migrena
+2741,Nadciśnienie
+2742,Zapalenie ucha środkowego
+2743,Nowotwór piersi
+2744,Zapalenie gardła
+2745,Nowotwór płuc
+2746,Astma
+2747,Reumatoidalne zapalenie stawów
+2748,Grypa
+2749,Zapalenie płuc
+2750,Anemia
+2751,Zapalenie ucha środkowego
+2752,Zapalenie pęcherza
+2753,Borelioza
+2754,Zapalenie wątroby typu A
+2755,Astma
+2756,Zapalenie spojówek
+2757,Zawał serca
+2758,Zapalenie zatok
+2759,Reumatoidalne zapalenie stawów
+2760,Borelioza
+2761,Borelioza
+2762,Borelioza
+2763,Zapalenie wątroby typu A
+2764,Kamica nerkowa
+2765,Choroba refluksowa
+2766,Reumatoidalne zapalenie stawów
+2767,Zapalenie gardła
+2768,Zapalenie wątroby typu A
+2769,Angina
+2770,Grypa
+2771,Zapalenie oskrzeli
+2772,Zapalenie zatok
+2773,Depresja
+2774,Depresja
+2775,Anemia
+2776,Zapalenie gardła
+2777,Kamica nerkowa
+2778,COVID-19
+2779,Kamica nerkowa
+2780,Nowotwór płuc
+2781,COVID-19
+2782,Alergia sezonowa
+2783,Choroba refluksowa
+2784,Choroba refluksowa
+2785,Zespół napięcia przedmiesiączkowego
+2786,Atopowe zapalenie skóry
+2787,Atopowe zapalenie skóry
+2788,Zapalenie wątroby typu A
+2789,Zawał serca
+2790,Zapalenie spojówek
+2791,Grypa
+2792,Zapalenie płuc
+2793,Zapalenie pęcherza
+2794,Choroba refluksowa
+2795,Cukrzyca typu 2
+2796,COVID-19
+2797,Migrena
+2798,Egzema
+2799,Reumatoidalne zapalenie stawów
+2800,Osteoporoza
+2801,Zapalenie zatok
+2802,Nadciśnienie
+2803,Zespół napięcia przedmiesiączkowego
+2804,Nadciśnienie
+2805,Anemia
+2806,Choroba wieńcowa
+2807,Zapalenie pęcherza
+2808,Nowotwór piersi
+2809,Angina
+2810,Zapalenie pęcherza
+2811,Niedoczynność tarczycy
+2812,Nadciśnienie
+2813,Alergia sezonowa
+2814,Zapalenie ucha środkowego
+2815,Nowotwór piersi
+2816,Choroba wieńcowa
+2817,Zespół jelita drażliwego
+2818,Reumatoidalne zapalenie stawów
+2819,Osteoporoza
+2820,Zapalenie oskrzeli
+2821,Osteoporoza
+2822,Nadciśnienie
+2823,Nowotwór piersi
+2824,Anemia
+2825,Niedoczynność tarczycy
+2826,Alergia sezonowa
+2827,Zapalenie gardła
+2828,Alergia sezonowa
+2829,Nowotwór piersi
+2830,Egzema
+2831,COVID-19
+2832,Alergia sezonowa
+2833,Kamica nerkowa
+2834,Alergia sezonowa
+2835,COVID-19
+2836,Zapalenie pęcherza
+2837,Zapalenie wątroby typu A
+2838,Cukrzyca typu 2
+2839,Anemia
+2840,Osteoporoza
+2841,Zapalenie pęcherza
+2842,Zapalenie płuc
+2843,COVID-19
+2844,Zapalenie zatok
+2845,Zapalenie spojówek
+2846,Atopowe zapalenie skóry
+2847,Atopowe zapalenie skóry
+2848,Zapalenie pęcherza
+2849,Choroba refluksowa
+2850,Angina
+2851,Borelioza
+2852,Choroba wieńcowa
+2853,Atopowe zapalenie skóry
+2854,Zapalenie gardła
+2855,Zawał serca
+2856,Zawał serca
+2857,Alergia sezonowa
+2858,Alergia sezonowa
+2859,Cukrzyca typu 2
+2860,Astma
+2861,Anemia
+2862,Nowotwór piersi
+2863,Atopowe zapalenie skóry
+2864,COVID-19
+2865,Kamica nerkowa
+2866,Anemia
+2867,Osteoporoza
+2868,Migrena
+2869,Zapalenie płuc
+2870,Astma
+2871,Egzema
+2872,Zapalenie oskrzeli
+2873,Choroba wieńcowa
+2874,Atopowe zapalenie skóry
+2875,Nowotwór piersi
+2876,Zawał serca
+2877,COVID-19
+2878,Zapalenie ucha środkowego
+2879,Anemia
+2880,Niedoczynność tarczycy
+2881,Zapalenie oskrzeli
+2882,Angina
+2883,Zapalenie zatok
+2884,Zespół napięcia przedmiesiączkowego
+2885,Kamica nerkowa
+2886,Nowotwór piersi
+2887,Zapalenie ucha środkowego
+2888,COVID-19
+2889,Nadciśnienie
+2890,Osteoporoza
+2891,Zapalenie pęcherza
+2892,Zapalenie ucha środkowego
+2893,Nadciśnienie
+2894,Egzema
+2895,Zespół jelita drażliwego
+2896,Egzema
+2897,Egzema
+2898,Zapalenie spojówek
+2899,Nadciśnienie
+2900,Atopowe zapalenie skóry
+2901,Zapalenie gardła
+2902,Niedoczynność tarczycy
+2903,Osteoporoza
+2904,Zapalenie gardła
+2905,Zapalenie pęcherza
+2906,Nowotwór piersi
+2907,Nowotwór piersi
+2908,Astma
+2909,Nadciśnienie
+2910,Zapalenie gardła
+2911,Niedoczynność tarczycy
+2912,Reumatoidalne zapalenie stawów
+2913,Zapalenie oskrzeli
+2914,Zapalenie oskrzeli
+2915,Reumatoidalne zapalenie stawów
+2916,Zawał serca
+2917,Egzema
+2918,COVID-19
+2919,Choroba refluksowa
+2920,Egzema
+2921,Zespół napięcia przedmiesiączkowego
+2922,COVID-19
+2923,Grypa
+2924,Nowotwór piersi
+2925,Migrena
+2926,Choroba refluksowa
+2927,Migrena
+2928,Choroba refluksowa
+2929,Niedoczynność tarczycy
+2930,Reumatoidalne zapalenie stawów
+2931,Grypa
+2932,Kamica nerkowa
+2933,Osteoporoza
+2934,Choroba refluksowa
+2935,Reumatoidalne zapalenie stawów
+2936,Egzema
+2937,Zapalenie ucha środkowego
+2938,Cukrzyca typu 2
+2939,COVID-19
+2940,Zapalenie ucha środkowego
+2941,Atopowe zapalenie skóry
+2942,Migrena
+2943,Nowotwór piersi
+2944,Osteoporoza
+2945,Egzema
+2946,Zapalenie ucha środkowego
+2947,Kamica nerkowa
+2948,Zapalenie płuc
+2949,Zapalenie zatok
+2950,COVID-19
+2951,Choroba wieńcowa
+2952,Osteoporoza
+2953,Osteoporoza
+2954,Astma
+2955,Zapalenie gardła
+2956,Zapalenie pęcherza
+2957,Depresja
+2958,Atopowe zapalenie skóry
+2959,Astma
+2960,Astma
+2961,Nadciśnienie
+2962,Zapalenie wątroby typu A
+2963,Angina
+2964,Depresja
+2965,Reumatoidalne zapalenie stawów
+2966,Migrena
+2967,Kamica nerkowa
+2968,Zapalenie pęcherza
+2969,Depresja
+2970,Zapalenie oskrzeli
+2971,Astma
+2972,Angina
+2973,Zapalenie płuc
+2974,Atopowe zapalenie skóry
+2975,Zawał serca
+2976,Zapalenie wątroby typu A
+2977,Cukrzyca typu 2
+2978,Zawał serca
+2979,Zapalenie ucha środkowego
+2980,Choroba refluksowa
+2981,Alergia sezonowa
+2982,Choroba wieńcowa
+2983,Migrena
+2984,Choroba wieńcowa
+2985,Zapalenie wątroby typu A
+2986,Zapalenie gardła
+2987,Astma
+2988,Zapalenie gardła
+2989,COVID-19
+2990,Zapalenie spojówek
+2991,Depresja
+2992,Zawał serca
+2993,Zespół jelita drażliwego
+2994,Atopowe zapalenie skóry
+2995,Zapalenie wątroby typu A
+2996,Zapalenie oskrzeli
+2997,Grypa
+2998,Migrena
+2999,Zawał serca
+3000,Osteoporoza

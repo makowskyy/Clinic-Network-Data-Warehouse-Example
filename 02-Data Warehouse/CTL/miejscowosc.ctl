@@ -1,0 +1,13 @@
+LOAD DATA
+CHARACTERSET AL32UTF8
+INFILE 'CSV/miejscowosc.csv'
+BADFILE 'CTL/BAD/miejscowosc.bad'
+DISCARDFILE 'CTL/BAD/miejscowosc.dsc'
+INTO TABLE miejscowosc
+APPEND
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+TRAILING NULLCOLS
+(
+  id_miejscowosc,
+  nazwa
+)

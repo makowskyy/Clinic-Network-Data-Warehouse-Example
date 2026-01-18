@@ -1,0 +1,13 @@
+LOAD DATA
+CHARACTERSET AL32UTF8
+INFILE 'CSV/gabinet.csv'
+BADFILE 'CTL/BAD/gabinet.bad'
+DISCARDFILE 'CTL/BAD/gabinet.dsc'
+INTO TABLE gabinet
+APPEND
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+TRAILING NULLCOLS
+(
+  id_gabinetu,
+  numer_gabinetu
+)

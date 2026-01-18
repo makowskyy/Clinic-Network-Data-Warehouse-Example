@@ -1,0 +1,3001 @@
+id_diagnozy,nazwa,opis
+1,Zawał serca,Wskazane badania kontrolne za 2 tygodnie.
+2,Depresja,Zalecana zmiana stylu życia i diety.
+3,Zapalenie pęcherza,Leczenie szpitalne nie jest wymagane.
+4,COVID-19,Wymaga dalszej diagnostyki.
+5,Borelioza,Zalecana konsultacja specjalistyczna.
+6,Angina,Zalecane leczenie farmakologiczne.
+7,Zespół napięcia przedmiesiączkowego,Wymaga dalszej diagnostyki.
+8,Borelioza,Stosować leki zgodnie z zaleceniami.
+9,Cukrzyca typu 2,Zalecane leczenie farmakologiczne.
+10,COVID-19,Stosować leki zgodnie z zaleceniami.
+11,Egzema,Zalecana konsultacja specjalistyczna.
+12,Niedoczynność tarczycy,"Przebieg łagodny, leczenie objawowe."
+13,Choroba refluksowa,Zalecana konsultacja specjalistyczna.
+14,Zapalenie płuc,Stosować leki zgodnie z zaleceniami.
+15,Zapalenie spojówek,"Przebieg łagodny, leczenie objawowe."
+16,Anemia,Zalecane leczenie farmakologiczne.
+17,Zapalenie oskrzeli,Zalecane leczenie farmakologiczne.
+18,Migrena,Leczenie szpitalne nie jest wymagane.
+19,Niedoczynność tarczycy,"Ryzyko nawrotu choroby, zachować ostrożność."
+20,Zapalenie oskrzeli,Zalecana konsultacja specjalistyczna.
+21,Choroba refluksowa,Konieczność obserwacji w warunkach domowych.
+22,Angina,"Przebieg łagodny, leczenie objawowe."
+23,Anemia,Zalecane leczenie farmakologiczne.
+24,Zespół jelita drażliwego,Wymaga dalszej diagnostyki.
+25,Zespół napięcia przedmiesiączkowego,Wskazane badania kontrolne za 2 tygodnie.
+26,Reumatoidalne zapalenie stawów,Konieczność obserwacji w warunkach domowych.
+27,Nadciśnienie,Wymaga dalszej diagnostyki.
+28,Cukrzyca typu 2,Leczenie szpitalne nie jest wymagane.
+29,Zapalenie spojówek,Zalecane leczenie farmakologiczne.
+30,Grypa,Leczenie szpitalne nie jest wymagane.
+31,Osteoporoza,Wymaga dalszej diagnostyki.
+32,Niedoczynność tarczycy,"Przebieg łagodny, leczenie objawowe."
+33,Zapalenie zatok,Stosować leki zgodnie z zaleceniami.
+34,Zapalenie wątroby typu A,Leczenie szpitalne nie jest wymagane.
+35,Angina,Konieczność obserwacji w warunkach domowych.
+36,Zespół jelita drażliwego,"Ryzyko nawrotu choroby, zachować ostrożność."
+37,Egzema,Wymaga dalszej diagnostyki.
+38,Choroba wieńcowa,Zalecana zmiana stylu życia i diety.
+39,Nowotwór płuc,Wskazane badania kontrolne za 2 tygodnie.
+40,Choroba refluksowa,Wskazane badania kontrolne za 2 tygodnie.
+41,Nadciśnienie,"Przebieg łagodny, leczenie objawowe."
+42,Zapalenie spojówek,Leczenie szpitalne nie jest wymagane.
+43,Zespół jelita drażliwego,"Ryzyko nawrotu choroby, zachować ostrożność."
+44,Choroba refluksowa,Leczenie szpitalne nie jest wymagane.
+45,Anemia,Wskazane badania kontrolne za 2 tygodnie.
+46,Angina,"Ryzyko nawrotu choroby, zachować ostrożność."
+47,Niedoczynność tarczycy,Stosować leki zgodnie z zaleceniami.
+48,Migrena,"Ryzyko nawrotu choroby, zachować ostrożność."
+49,Depresja,Zalecana zmiana stylu życia i diety.
+50,Angina,Wskazane badania kontrolne za 2 tygodnie.
+51,Depresja,"Ryzyko nawrotu choroby, zachować ostrożność."
+52,Zapalenie płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+53,Migrena,Konieczność obserwacji w warunkach domowych.
+54,Borelioza,Zalecana konsultacja specjalistyczna.
+55,Nadciśnienie,Wymaga dalszej diagnostyki.
+56,Zapalenie pęcherza,"Przebieg łagodny, leczenie objawowe."
+57,Atopowe zapalenie skóry,Zalecana zmiana stylu życia i diety.
+58,Anemia,Wymaga dalszej diagnostyki.
+59,Osteoporoza,Wskazane badania kontrolne za 2 tygodnie.
+60,Nowotwór płuc,Leczenie szpitalne nie jest wymagane.
+61,Depresja,Zalecane leczenie farmakologiczne.
+62,Atopowe zapalenie skóry,Konieczność obserwacji w warunkach domowych.
+63,Zapalenie spojówek,Konieczność obserwacji w warunkach domowych.
+64,Borelioza,Zalecana konsultacja specjalistyczna.
+65,Zapalenie oskrzeli,Stosować leki zgodnie z zaleceniami.
+66,Zapalenie spojówek,Zalecane leczenie farmakologiczne.
+67,Zespół jelita drażliwego,"Przebieg łagodny, leczenie objawowe."
+68,Atopowe zapalenie skóry,Leczenie szpitalne nie jest wymagane.
+69,Atopowe zapalenie skóry,Stosować leki zgodnie z zaleceniami.
+70,Anemia,Stosować leki zgodnie z zaleceniami.
+71,Nowotwór piersi,"Ryzyko nawrotu choroby, zachować ostrożność."
+72,Nadciśnienie,Wymaga dalszej diagnostyki.
+73,Zapalenie wątroby typu A,Wymaga dalszej diagnostyki.
+74,Zespół napięcia przedmiesiączkowego,Zalecana konsultacja specjalistyczna.
+75,Grypa,Zalecana konsultacja specjalistyczna.
+76,Zapalenie gardła,Zalecana konsultacja specjalistyczna.
+77,Egzema,"Ryzyko nawrotu choroby, zachować ostrożność."
+78,Zapalenie gardła,Zalecane leczenie farmakologiczne.
+79,Zapalenie wątroby typu A,"Ryzyko nawrotu choroby, zachować ostrożność."
+80,Zapalenie pęcherza,Leczenie szpitalne nie jest wymagane.
+81,Atopowe zapalenie skóry,Zalecana konsultacja specjalistyczna.
+82,Zapalenie spojówek,Wskazane badania kontrolne za 2 tygodnie.
+83,Grypa,Konieczność obserwacji w warunkach domowych.
+84,Zapalenie gardła,Wskazane badania kontrolne za 2 tygodnie.
+85,Choroba refluksowa,Konieczność obserwacji w warunkach domowych.
+86,Kamica nerkowa,Zalecana zmiana stylu życia i diety.
+87,Zapalenie płuc,Zalecana zmiana stylu życia i diety.
+88,Zapalenie pęcherza,Zalecana konsultacja specjalistyczna.
+89,Choroba refluksowa,Leczenie szpitalne nie jest wymagane.
+90,COVID-19,Zalecana zmiana stylu życia i diety.
+91,Zapalenie płuc,Leczenie szpitalne nie jest wymagane.
+92,Choroba wieńcowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+93,Nowotwór piersi,"Przebieg łagodny, leczenie objawowe."
+94,Borelioza,Zalecana konsultacja specjalistyczna.
+95,Zapalenie pęcherza,Leczenie szpitalne nie jest wymagane.
+96,Nowotwór płuc,Zalecane leczenie farmakologiczne.
+97,Kamica nerkowa,Wskazane badania kontrolne za 2 tygodnie.
+98,Alergia sezonowa,Zalecana konsultacja specjalistyczna.
+99,Nowotwór płuc,Wymaga dalszej diagnostyki.
+100,Grypa,Konieczność obserwacji w warunkach domowych.
+101,Egzema,"Przebieg łagodny, leczenie objawowe."
+102,Migrena,Leczenie szpitalne nie jest wymagane.
+103,Nowotwór piersi,Stosować leki zgodnie z zaleceniami.
+104,Migrena,Zalecane leczenie farmakologiczne.
+105,Nowotwór piersi,Zalecana zmiana stylu życia i diety.
+106,Zapalenie pęcherza,Wymaga dalszej diagnostyki.
+107,Zapalenie ucha środkowego,Leczenie szpitalne nie jest wymagane.
+108,Depresja,Stosować leki zgodnie z zaleceniami.
+109,Grypa,"Przebieg łagodny, leczenie objawowe."
+110,Zespół jelita drażliwego,Konieczność obserwacji w warunkach domowych.
+111,Zapalenie wątroby typu A,Zalecana zmiana stylu życia i diety.
+112,Zapalenie zatok,Stosować leki zgodnie z zaleceniami.
+113,Niedoczynność tarczycy,Konieczność obserwacji w warunkach domowych.
+114,Egzema,Wymaga dalszej diagnostyki.
+115,Osteoporoza,Wymaga dalszej diagnostyki.
+116,COVID-19,Konieczność obserwacji w warunkach domowych.
+117,Alergia sezonowa,Konieczność obserwacji w warunkach domowych.
+118,Migrena,Zalecana konsultacja specjalistyczna.
+119,Zespół napięcia przedmiesiączkowego,Stosować leki zgodnie z zaleceniami.
+120,Zespół jelita drażliwego,Zalecana zmiana stylu życia i diety.
+121,Nowotwór płuc,"Przebieg łagodny, leczenie objawowe."
+122,Zapalenie pęcherza,Zalecane leczenie farmakologiczne.
+123,Depresja,"Przebieg łagodny, leczenie objawowe."
+124,Nadciśnienie,Zalecana zmiana stylu życia i diety.
+125,Osteoporoza,Zalecana konsultacja specjalistyczna.
+126,Zapalenie pęcherza,"Ryzyko nawrotu choroby, zachować ostrożność."
+127,Grypa,Stosować leki zgodnie z zaleceniami.
+128,Cukrzyca typu 2,Zalecane leczenie farmakologiczne.
+129,Reumatoidalne zapalenie stawów,Leczenie szpitalne nie jest wymagane.
+130,Zawał serca,Wskazane badania kontrolne za 2 tygodnie.
+131,Nowotwór płuc,Stosować leki zgodnie z zaleceniami.
+132,Zapalenie zatok,Leczenie szpitalne nie jest wymagane.
+133,Zapalenie gardła,"Przebieg łagodny, leczenie objawowe."
+134,Niedoczynność tarczycy,Wskazane badania kontrolne za 2 tygodnie.
+135,Zespół napięcia przedmiesiączkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+136,Zapalenie ucha środkowego,Konieczność obserwacji w warunkach domowych.
+137,Kamica nerkowa,Leczenie szpitalne nie jest wymagane.
+138,Nadciśnienie,Zalecana zmiana stylu życia i diety.
+139,COVID-19,Zalecana konsultacja specjalistyczna.
+140,Zespół jelita drażliwego,Zalecana konsultacja specjalistyczna.
+141,Zapalenie wątroby typu A,Leczenie szpitalne nie jest wymagane.
+142,Zawał serca,"Ryzyko nawrotu choroby, zachować ostrożność."
+143,Choroba wieńcowa,Wymaga dalszej diagnostyki.
+144,Zapalenie wątroby typu A,Stosować leki zgodnie z zaleceniami.
+145,Alergia sezonowa,Zalecane leczenie farmakologiczne.
+146,Zapalenie płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+147,Zapalenie ucha środkowego,Wskazane badania kontrolne za 2 tygodnie.
+148,COVID-19,Zalecana zmiana stylu życia i diety.
+149,Egzema,Wskazane badania kontrolne za 2 tygodnie.
+150,Zapalenie płuc,Zalecana konsultacja specjalistyczna.
+151,Grypa,"Przebieg łagodny, leczenie objawowe."
+152,Zawał serca,Stosować leki zgodnie z zaleceniami.
+153,Egzema,Zalecane leczenie farmakologiczne.
+154,Zapalenie zatok,Stosować leki zgodnie z zaleceniami.
+155,Migrena,Stosować leki zgodnie z zaleceniami.
+156,Choroba wieńcowa,Leczenie szpitalne nie jest wymagane.
+157,Grypa,Zalecana zmiana stylu życia i diety.
+158,Zespół jelita drażliwego,Zalecane leczenie farmakologiczne.
+159,Zespół jelita drażliwego,"Ryzyko nawrotu choroby, zachować ostrożność."
+160,Niedoczynność tarczycy,Zalecane leczenie farmakologiczne.
+161,Choroba wieńcowa,Konieczność obserwacji w warunkach domowych.
+162,Astma,Zalecana zmiana stylu życia i diety.
+163,Angina,"Ryzyko nawrotu choroby, zachować ostrożność."
+164,Nowotwór piersi,"Ryzyko nawrotu choroby, zachować ostrożność."
+165,Alergia sezonowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+166,Migrena,Zalecane leczenie farmakologiczne.
+167,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+168,Osteoporoza,Zalecana konsultacja specjalistyczna.
+169,Reumatoidalne zapalenie stawów,Wymaga dalszej diagnostyki.
+170,Zapalenie spojówek,Wymaga dalszej diagnostyki.
+171,Astma,"Ryzyko nawrotu choroby, zachować ostrożność."
+172,Astma,Stosować leki zgodnie z zaleceniami.
+173,Migrena,Leczenie szpitalne nie jest wymagane.
+174,Zespół jelita drażliwego,"Przebieg łagodny, leczenie objawowe."
+175,Angina,Stosować leki zgodnie z zaleceniami.
+176,Kamica nerkowa,Zalecana konsultacja specjalistyczna.
+177,Zapalenie płuc,Leczenie szpitalne nie jest wymagane.
+178,Grypa,Wskazane badania kontrolne za 2 tygodnie.
+179,Zapalenie spojówek,Zalecane leczenie farmakologiczne.
+180,Cukrzyca typu 2,"Przebieg łagodny, leczenie objawowe."
+181,Osteoporoza,Konieczność obserwacji w warunkach domowych.
+182,Nadciśnienie,Zalecana konsultacja specjalistyczna.
+183,Zawał serca,Zalecane leczenie farmakologiczne.
+184,Zespół jelita drażliwego,Zalecana zmiana stylu życia i diety.
+185,Egzema,Leczenie szpitalne nie jest wymagane.
+186,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+187,Grypa,Konieczność obserwacji w warunkach domowych.
+188,Zespół jelita drażliwego,Leczenie szpitalne nie jest wymagane.
+189,Zapalenie ucha środkowego,Wymaga dalszej diagnostyki.
+190,Borelioza,"Ryzyko nawrotu choroby, zachować ostrożność."
+191,Nadciśnienie,Zalecana zmiana stylu życia i diety.
+192,Nowotwór piersi,Wymaga dalszej diagnostyki.
+193,Zapalenie gardła,Wymaga dalszej diagnostyki.
+194,Alergia sezonowa,Wymaga dalszej diagnostyki.
+195,Alergia sezonowa,Stosować leki zgodnie z zaleceniami.
+196,Angina,Zalecana konsultacja specjalistyczna.
+197,Grypa,"Przebieg łagodny, leczenie objawowe."
+198,Zapalenie płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+199,Nadciśnienie,"Przebieg łagodny, leczenie objawowe."
+200,Zapalenie zatok,"Przebieg łagodny, leczenie objawowe."
+201,Reumatoidalne zapalenie stawów,Konieczność obserwacji w warunkach domowych.
+202,Astma,Wskazane badania kontrolne za 2 tygodnie.
+203,Choroba refluksowa,Zalecana konsultacja specjalistyczna.
+204,Zespół jelita drażliwego,Zalecana konsultacja specjalistyczna.
+205,Kamica nerkowa,Wskazane badania kontrolne za 2 tygodnie.
+206,Depresja,"Przebieg łagodny, leczenie objawowe."
+207,Zespół jelita drażliwego,"Przebieg łagodny, leczenie objawowe."
+208,Alergia sezonowa,Konieczność obserwacji w warunkach domowych.
+209,Choroba wieńcowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+210,Choroba wieńcowa,Wymaga dalszej diagnostyki.
+211,Atopowe zapalenie skóry,Stosować leki zgodnie z zaleceniami.
+212,Zapalenie płuc,Stosować leki zgodnie z zaleceniami.
+213,Zawał serca,Zalecana konsultacja specjalistyczna.
+214,Zapalenie oskrzeli,Zalecana zmiana stylu życia i diety.
+215,Zespół napięcia przedmiesiączkowego,Zalecana konsultacja specjalistyczna.
+216,COVID-19,Wskazane badania kontrolne za 2 tygodnie.
+217,Zapalenie ucha środkowego,Konieczność obserwacji w warunkach domowych.
+218,COVID-19,Stosować leki zgodnie z zaleceniami.
+219,Zespół jelita drażliwego,Wymaga dalszej diagnostyki.
+220,COVID-19,Konieczność obserwacji w warunkach domowych.
+221,COVID-19,"Ryzyko nawrotu choroby, zachować ostrożność."
+222,Choroba wieńcowa,Zalecane leczenie farmakologiczne.
+223,Zapalenie gardła,Leczenie szpitalne nie jest wymagane.
+224,Alergia sezonowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+225,Reumatoidalne zapalenie stawów,"Ryzyko nawrotu choroby, zachować ostrożność."
+226,Kamica nerkowa,Stosować leki zgodnie z zaleceniami.
+227,Zespół napięcia przedmiesiączkowego,Zalecana zmiana stylu życia i diety.
+228,Zapalenie oskrzeli,Stosować leki zgodnie z zaleceniami.
+229,Migrena,Stosować leki zgodnie z zaleceniami.
+230,Grypa,Zalecana konsultacja specjalistyczna.
+231,Zapalenie spojówek,"Ryzyko nawrotu choroby, zachować ostrożność."
+232,Borelioza,Stosować leki zgodnie z zaleceniami.
+233,Migrena,Zalecana konsultacja specjalistyczna.
+234,Zapalenie ucha środkowego,Konieczność obserwacji w warunkach domowych.
+235,Zapalenie pęcherza,"Ryzyko nawrotu choroby, zachować ostrożność."
+236,Alergia sezonowa,Zalecane leczenie farmakologiczne.
+237,Zawał serca,Zalecana zmiana stylu życia i diety.
+238,Nowotwór piersi,Zalecana zmiana stylu życia i diety.
+239,Zapalenie wątroby typu A,Wskazane badania kontrolne za 2 tygodnie.
+240,Nowotwór płuc,"Przebieg łagodny, leczenie objawowe."
+241,Choroba wieńcowa,Stosować leki zgodnie z zaleceniami.
+242,Borelioza,"Ryzyko nawrotu choroby, zachować ostrożność."
+243,Niedoczynność tarczycy,Konieczność obserwacji w warunkach domowych.
+244,Zapalenie oskrzeli,"Przebieg łagodny, leczenie objawowe."
+245,Migrena,Wskazane badania kontrolne za 2 tygodnie.
+246,Zapalenie wątroby typu A,Konieczność obserwacji w warunkach domowych.
+247,Niedoczynność tarczycy,Zalecana zmiana stylu życia i diety.
+248,Angina,Zalecana konsultacja specjalistyczna.
+249,Zapalenie pęcherza,Konieczność obserwacji w warunkach domowych.
+250,Egzema,Zalecana zmiana stylu życia i diety.
+251,Reumatoidalne zapalenie stawów,Zalecana konsultacja specjalistyczna.
+252,Borelioza,Zalecane leczenie farmakologiczne.
+253,Nadciśnienie,Konieczność obserwacji w warunkach domowych.
+254,Osteoporoza,Stosować leki zgodnie z zaleceniami.
+255,Nowotwór piersi,Wskazane badania kontrolne za 2 tygodnie.
+256,Zapalenie pęcherza,"Ryzyko nawrotu choroby, zachować ostrożność."
+257,Grypa,Zalecana konsultacja specjalistyczna.
+258,Egzema,Zalecana konsultacja specjalistyczna.
+259,Zapalenie zatok,Konieczność obserwacji w warunkach domowych.
+260,Nadciśnienie,Zalecana konsultacja specjalistyczna.
+261,Anemia,"Przebieg łagodny, leczenie objawowe."
+262,Zapalenie wątroby typu A,Wymaga dalszej diagnostyki.
+263,Anemia,Zalecana konsultacja specjalistyczna.
+264,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+265,Nowotwór płuc,Zalecana konsultacja specjalistyczna.
+266,Zapalenie ucha środkowego,Wymaga dalszej diagnostyki.
+267,Nowotwór płuc,Leczenie szpitalne nie jest wymagane.
+268,Niedoczynność tarczycy,"Przebieg łagodny, leczenie objawowe."
+269,Nowotwór płuc,Wskazane badania kontrolne za 2 tygodnie.
+270,Nowotwór piersi,"Przebieg łagodny, leczenie objawowe."
+271,Migrena,Wskazane badania kontrolne za 2 tygodnie.
+272,Reumatoidalne zapalenie stawów,Stosować leki zgodnie z zaleceniami.
+273,Reumatoidalne zapalenie stawów,Wskazane badania kontrolne za 2 tygodnie.
+274,Kamica nerkowa,Konieczność obserwacji w warunkach domowych.
+275,Zapalenie wątroby typu A,Zalecana zmiana stylu życia i diety.
+276,Niedoczynność tarczycy,Leczenie szpitalne nie jest wymagane.
+277,Cukrzyca typu 2,Stosować leki zgodnie z zaleceniami.
+278,Atopowe zapalenie skóry,Zalecana zmiana stylu życia i diety.
+279,Angina,"Przebieg łagodny, leczenie objawowe."
+280,Alergia sezonowa,"Przebieg łagodny, leczenie objawowe."
+281,Zapalenie płuc,Stosować leki zgodnie z zaleceniami.
+282,Borelioza,Leczenie szpitalne nie jest wymagane.
+283,Grypa,Zalecana zmiana stylu życia i diety.
+284,Niedoczynność tarczycy,Wymaga dalszej diagnostyki.
+285,Depresja,Zalecana konsultacja specjalistyczna.
+286,Atopowe zapalenie skóry,"Przebieg łagodny, leczenie objawowe."
+287,Zapalenie oskrzeli,"Przebieg łagodny, leczenie objawowe."
+288,Zapalenie zatok,Wskazane badania kontrolne za 2 tygodnie.
+289,Nadciśnienie,Stosować leki zgodnie z zaleceniami.
+290,Zespół napięcia przedmiesiączkowego,Zalecana konsultacja specjalistyczna.
+291,Zapalenie wątroby typu A,Zalecana konsultacja specjalistyczna.
+292,Choroba refluksowa,Konieczność obserwacji w warunkach domowych.
+293,Zespół napięcia przedmiesiączkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+294,Zapalenie oskrzeli,Konieczność obserwacji w warunkach domowych.
+295,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+296,Zapalenie pęcherza,Wskazane badania kontrolne za 2 tygodnie.
+297,Migrena,"Ryzyko nawrotu choroby, zachować ostrożność."
+298,Nadciśnienie,Stosować leki zgodnie z zaleceniami.
+299,Migrena,Wskazane badania kontrolne za 2 tygodnie.
+300,Grypa,Zalecana konsultacja specjalistyczna.
+301,Kamica nerkowa,Zalecana konsultacja specjalistyczna.
+302,Zespół napięcia przedmiesiączkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+303,Grypa,"Ryzyko nawrotu choroby, zachować ostrożność."
+304,Niedoczynność tarczycy,Wskazane badania kontrolne za 2 tygodnie.
+305,Astma,Konieczność obserwacji w warunkach domowych.
+306,Zapalenie wątroby typu A,Konieczność obserwacji w warunkach domowych.
+307,Zapalenie gardła,Zalecana zmiana stylu życia i diety.
+308,Zawał serca,Leczenie szpitalne nie jest wymagane.
+309,Zapalenie płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+310,Borelioza,Leczenie szpitalne nie jest wymagane.
+311,Zapalenie płuc,Wymaga dalszej diagnostyki.
+312,Alergia sezonowa,Wskazane badania kontrolne za 2 tygodnie.
+313,Zespół napięcia przedmiesiączkowego,Wymaga dalszej diagnostyki.
+314,Osteoporoza,Zalecane leczenie farmakologiczne.
+315,Borelioza,Zalecana zmiana stylu życia i diety.
+316,Choroba wieńcowa,"Przebieg łagodny, leczenie objawowe."
+317,Nowotwór piersi,Wskazane badania kontrolne za 2 tygodnie.
+318,Astma,"Ryzyko nawrotu choroby, zachować ostrożność."
+319,Choroba refluksowa,Zalecane leczenie farmakologiczne.
+320,Zapalenie gardła,"Ryzyko nawrotu choroby, zachować ostrożność."
+321,Nowotwór piersi,Stosować leki zgodnie z zaleceniami.
+322,Astma,Zalecana zmiana stylu życia i diety.
+323,Zapalenie płuc,Konieczność obserwacji w warunkach domowych.
+324,Zapalenie wątroby typu A,Stosować leki zgodnie z zaleceniami.
+325,Choroba refluksowa,Zalecane leczenie farmakologiczne.
+326,Zespół jelita drażliwego,Zalecana konsultacja specjalistyczna.
+327,Choroba refluksowa,Stosować leki zgodnie z zaleceniami.
+328,Zapalenie spojówek,Zalecane leczenie farmakologiczne.
+329,Zawał serca,Stosować leki zgodnie z zaleceniami.
+330,Zapalenie zatok,Zalecane leczenie farmakologiczne.
+331,Zapalenie gardła,Stosować leki zgodnie z zaleceniami.
+332,Zapalenie oskrzeli,Leczenie szpitalne nie jest wymagane.
+333,Niedoczynność tarczycy,"Przebieg łagodny, leczenie objawowe."
+334,Alergia sezonowa,Wymaga dalszej diagnostyki.
+335,Migrena,Zalecana konsultacja specjalistyczna.
+336,Osteoporoza,"Ryzyko nawrotu choroby, zachować ostrożność."
+337,Zapalenie wątroby typu A,Konieczność obserwacji w warunkach domowych.
+338,Zapalenie ucha środkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+339,Anemia,Leczenie szpitalne nie jest wymagane.
+340,Nowotwór piersi,Zalecane leczenie farmakologiczne.
+341,Cukrzyca typu 2,Stosować leki zgodnie z zaleceniami.
+342,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+343,Osteoporoza,Zalecana zmiana stylu życia i diety.
+344,Migrena,Wskazane badania kontrolne za 2 tygodnie.
+345,Nadciśnienie,Stosować leki zgodnie z zaleceniami.
+346,Zapalenie zatok,Wskazane badania kontrolne za 2 tygodnie.
+347,Niedoczynność tarczycy,Zalecane leczenie farmakologiczne.
+348,Alergia sezonowa,Konieczność obserwacji w warunkach domowych.
+349,Nadciśnienie,Wskazane badania kontrolne za 2 tygodnie.
+350,Zapalenie gardła,"Przebieg łagodny, leczenie objawowe."
+351,Choroba wieńcowa,Konieczność obserwacji w warunkach domowych.
+352,Anemia,Zalecane leczenie farmakologiczne.
+353,Zapalenie płuc,Zalecana zmiana stylu życia i diety.
+354,Nowotwór płuc,"Przebieg łagodny, leczenie objawowe."
+355,Zapalenie wątroby typu A,Konieczność obserwacji w warunkach domowych.
+356,Alergia sezonowa,Konieczność obserwacji w warunkach domowych.
+357,Zapalenie oskrzeli,Zalecana zmiana stylu życia i diety.
+358,Niedoczynność tarczycy,Zalecana konsultacja specjalistyczna.
+359,Choroba refluksowa,Konieczność obserwacji w warunkach domowych.
+360,Grypa,Wskazane badania kontrolne za 2 tygodnie.
+361,COVID-19,Zalecane leczenie farmakologiczne.
+362,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+363,Zespół jelita drażliwego,Konieczność obserwacji w warunkach domowych.
+364,Nowotwór piersi,Zalecana zmiana stylu życia i diety.
+365,Kamica nerkowa,Wymaga dalszej diagnostyki.
+366,Depresja,"Przebieg łagodny, leczenie objawowe."
+367,Angina,Stosować leki zgodnie z zaleceniami.
+368,Depresja,Wymaga dalszej diagnostyki.
+369,Choroba refluksowa,Zalecana zmiana stylu życia i diety.
+370,Nowotwór piersi,Zalecana zmiana stylu życia i diety.
+371,Zapalenie spojówek,Zalecana zmiana stylu życia i diety.
+372,Borelioza,Leczenie szpitalne nie jest wymagane.
+373,Zespół napięcia przedmiesiączkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+374,Grypa,Stosować leki zgodnie z zaleceniami.
+375,Borelioza,Stosować leki zgodnie z zaleceniami.
+376,Zapalenie ucha środkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+377,Osteoporoza,"Ryzyko nawrotu choroby, zachować ostrożność."
+378,Atopowe zapalenie skóry,"Przebieg łagodny, leczenie objawowe."
+379,Zapalenie pęcherza,Wskazane badania kontrolne za 2 tygodnie.
+380,Choroba wieńcowa,Wskazane badania kontrolne za 2 tygodnie.
+381,Zapalenie oskrzeli,Zalecana zmiana stylu życia i diety.
+382,Nadciśnienie,"Ryzyko nawrotu choroby, zachować ostrożność."
+383,Zapalenie ucha środkowego,Wymaga dalszej diagnostyki.
+384,COVID-19,Leczenie szpitalne nie jest wymagane.
+385,Zapalenie płuc,Konieczność obserwacji w warunkach domowych.
+386,Choroba refluksowa,Stosować leki zgodnie z zaleceniami.
+387,Zawał serca,"Ryzyko nawrotu choroby, zachować ostrożność."
+388,Angina,Zalecana konsultacja specjalistyczna.
+389,Zapalenie pęcherza,Zalecana zmiana stylu życia i diety.
+390,Zapalenie ucha środkowego,Zalecana zmiana stylu życia i diety.
+391,Zapalenie wątroby typu A,Wskazane badania kontrolne za 2 tygodnie.
+392,Angina,Konieczność obserwacji w warunkach domowych.
+393,Atopowe zapalenie skóry,"Przebieg łagodny, leczenie objawowe."
+394,Zespół napięcia przedmiesiączkowego,Leczenie szpitalne nie jest wymagane.
+395,Reumatoidalne zapalenie stawów,Wskazane badania kontrolne za 2 tygodnie.
+396,Zapalenie gardła,Wymaga dalszej diagnostyki.
+397,Niedoczynność tarczycy,"Przebieg łagodny, leczenie objawowe."
+398,COVID-19,Wymaga dalszej diagnostyki.
+399,Choroba refluksowa,Zalecana konsultacja specjalistyczna.
+400,Zapalenie pęcherza,Wskazane badania kontrolne za 2 tygodnie.
+401,Zapalenie spojówek,Stosować leki zgodnie z zaleceniami.
+402,COVID-19,Wskazane badania kontrolne za 2 tygodnie.
+403,Zespół jelita drażliwego,Stosować leki zgodnie z zaleceniami.
+404,Zapalenie płuc,Wymaga dalszej diagnostyki.
+405,Kamica nerkowa,Leczenie szpitalne nie jest wymagane.
+406,Niedoczynność tarczycy,"Przebieg łagodny, leczenie objawowe."
+407,Niedoczynność tarczycy,"Ryzyko nawrotu choroby, zachować ostrożność."
+408,Nowotwór piersi,Konieczność obserwacji w warunkach domowych.
+409,Zawał serca,Zalecana konsultacja specjalistyczna.
+410,Alergia sezonowa,Wskazane badania kontrolne za 2 tygodnie.
+411,Choroba refluksowa,Zalecane leczenie farmakologiczne.
+412,Borelioza,"Ryzyko nawrotu choroby, zachować ostrożność."
+413,Alergia sezonowa,Wymaga dalszej diagnostyki.
+414,Zespół napięcia przedmiesiączkowego,Zalecana zmiana stylu życia i diety.
+415,Zapalenie spojówek,Wskazane badania kontrolne za 2 tygodnie.
+416,Zapalenie spojówek,"Przebieg łagodny, leczenie objawowe."
+417,Angina,Zalecana zmiana stylu życia i diety.
+418,Depresja,Zalecana konsultacja specjalistyczna.
+419,Nadciśnienie,Zalecana zmiana stylu życia i diety.
+420,Zapalenie spojówek,Zalecane leczenie farmakologiczne.
+421,Kamica nerkowa,Zalecana zmiana stylu życia i diety.
+422,Anemia,Zalecana konsultacja specjalistyczna.
+423,Nowotwór płuc,Wymaga dalszej diagnostyki.
+424,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+425,Zespół napięcia przedmiesiączkowego,Leczenie szpitalne nie jest wymagane.
+426,Egzema,Zalecana konsultacja specjalistyczna.
+427,Nowotwór piersi,Stosować leki zgodnie z zaleceniami.
+428,Anemia,Zalecana konsultacja specjalistyczna.
+429,Nowotwór płuc,"Przebieg łagodny, leczenie objawowe."
+430,Kamica nerkowa,Zalecana konsultacja specjalistyczna.
+431,Choroba refluksowa,Wymaga dalszej diagnostyki.
+432,Angina,"Przebieg łagodny, leczenie objawowe."
+433,Nowotwór piersi,"Ryzyko nawrotu choroby, zachować ostrożność."
+434,Anemia,Zalecana zmiana stylu życia i diety.
+435,Zawał serca,"Przebieg łagodny, leczenie objawowe."
+436,Alergia sezonowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+437,Zapalenie gardła,Zalecana zmiana stylu życia i diety.
+438,Borelioza,Zalecana konsultacja specjalistyczna.
+439,Anemia,"Ryzyko nawrotu choroby, zachować ostrożność."
+440,Cukrzyca typu 2,Zalecane leczenie farmakologiczne.
+441,Zapalenie oskrzeli,Wskazane badania kontrolne za 2 tygodnie.
+442,Nowotwór płuc,Wskazane badania kontrolne za 2 tygodnie.
+443,Cukrzyca typu 2,Wskazane badania kontrolne za 2 tygodnie.
+444,Choroba wieńcowa,Leczenie szpitalne nie jest wymagane.
+445,Zapalenie gardła,Zalecana zmiana stylu życia i diety.
+446,Angina,"Ryzyko nawrotu choroby, zachować ostrożność."
+447,Nowotwór płuc,Zalecane leczenie farmakologiczne.
+448,Choroba refluksowa,Wskazane badania kontrolne za 2 tygodnie.
+449,Zapalenie oskrzeli,Stosować leki zgodnie z zaleceniami.
+450,Niedoczynność tarczycy,Leczenie szpitalne nie jest wymagane.
+451,Zawał serca,Wskazane badania kontrolne za 2 tygodnie.
+452,Zapalenie gardła,Wymaga dalszej diagnostyki.
+453,Osteoporoza,Konieczność obserwacji w warunkach domowych.
+454,Zapalenie gardła,Zalecana konsultacja specjalistyczna.
+455,Zapalenie płuc,Wskazane badania kontrolne za 2 tygodnie.
+456,Borelioza,Zalecana konsultacja specjalistyczna.
+457,Anemia,"Ryzyko nawrotu choroby, zachować ostrożność."
+458,COVID-19,Konieczność obserwacji w warunkach domowych.
+459,Migrena,Stosować leki zgodnie z zaleceniami.
+460,Cukrzyca typu 2,"Ryzyko nawrotu choroby, zachować ostrożność."
+461,Atopowe zapalenie skóry,"Przebieg łagodny, leczenie objawowe."
+462,Choroba wieńcowa,Stosować leki zgodnie z zaleceniami.
+463,Choroba refluksowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+464,Borelioza,"Ryzyko nawrotu choroby, zachować ostrożność."
+465,Choroba wieńcowa,Zalecana zmiana stylu życia i diety.
+466,Zespół jelita drażliwego,Zalecana zmiana stylu życia i diety.
+467,Zapalenie oskrzeli,Zalecana konsultacja specjalistyczna.
+468,Osteoporoza,Leczenie szpitalne nie jest wymagane.
+469,Choroba refluksowa,Zalecane leczenie farmakologiczne.
+470,Depresja,Stosować leki zgodnie z zaleceniami.
+471,Zapalenie płuc,Konieczność obserwacji w warunkach domowych.
+472,Zapalenie zatok,Zalecana konsultacja specjalistyczna.
+473,Zapalenie zatok,"Ryzyko nawrotu choroby, zachować ostrożność."
+474,Zawał serca,Konieczność obserwacji w warunkach domowych.
+475,Osteoporoza,Zalecana konsultacja specjalistyczna.
+476,Osteoporoza,Zalecana zmiana stylu życia i diety.
+477,Choroba refluksowa,Wskazane badania kontrolne za 2 tygodnie.
+478,Choroba wieńcowa,"Przebieg łagodny, leczenie objawowe."
+479,Angina,"Przebieg łagodny, leczenie objawowe."
+480,Zapalenie zatok,Zalecana konsultacja specjalistyczna.
+481,Grypa,Konieczność obserwacji w warunkach domowych.
+482,Zapalenie płuc,Leczenie szpitalne nie jest wymagane.
+483,Niedoczynność tarczycy,"Ryzyko nawrotu choroby, zachować ostrożność."
+484,Zapalenie pęcherza,Stosować leki zgodnie z zaleceniami.
+485,Osteoporoza,Zalecana zmiana stylu życia i diety.
+486,Kamica nerkowa,Leczenie szpitalne nie jest wymagane.
+487,Zapalenie płuc,Wskazane badania kontrolne za 2 tygodnie.
+488,Atopowe zapalenie skóry,Zalecana konsultacja specjalistyczna.
+489,Nowotwór płuc,Zalecana konsultacja specjalistyczna.
+490,Nowotwór płuc,Wskazane badania kontrolne za 2 tygodnie.
+491,Grypa,Wymaga dalszej diagnostyki.
+492,Borelioza,"Przebieg łagodny, leczenie objawowe."
+493,Zapalenie zatok,"Przebieg łagodny, leczenie objawowe."
+494,Depresja,Zalecana konsultacja specjalistyczna.
+495,Zespół jelita drażliwego,Zalecana zmiana stylu życia i diety.
+496,Zapalenie gardła,"Przebieg łagodny, leczenie objawowe."
+497,Zapalenie ucha środkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+498,Nowotwór piersi,Zalecana zmiana stylu życia i diety.
+499,Grypa,Leczenie szpitalne nie jest wymagane.
+500,Depresja,"Przebieg łagodny, leczenie objawowe."
+501,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+502,Niedoczynność tarczycy,Wymaga dalszej diagnostyki.
+503,Borelioza,Leczenie szpitalne nie jest wymagane.
+504,Cukrzyca typu 2,Konieczność obserwacji w warunkach domowych.
+505,Nadciśnienie,Zalecane leczenie farmakologiczne.
+506,Zawał serca,Zalecana zmiana stylu życia i diety.
+507,Anemia,"Przebieg łagodny, leczenie objawowe."
+508,Choroba wieńcowa,Zalecana konsultacja specjalistyczna.
+509,Anemia,"Przebieg łagodny, leczenie objawowe."
+510,Nowotwór piersi,Zalecana konsultacja specjalistyczna.
+511,Zapalenie oskrzeli,Zalecana zmiana stylu życia i diety.
+512,Zespół jelita drażliwego,Leczenie szpitalne nie jest wymagane.
+513,Zespół jelita drażliwego,Wymaga dalszej diagnostyki.
+514,Egzema,Wymaga dalszej diagnostyki.
+515,Reumatoidalne zapalenie stawów,Leczenie szpitalne nie jest wymagane.
+516,Zapalenie zatok,Zalecane leczenie farmakologiczne.
+517,COVID-19,"Przebieg łagodny, leczenie objawowe."
+518,Anemia,Zalecana zmiana stylu życia i diety.
+519,Nowotwór płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+520,Migrena,Leczenie szpitalne nie jest wymagane.
+521,Astma,Stosować leki zgodnie z zaleceniami.
+522,Cukrzyca typu 2,"Przebieg łagodny, leczenie objawowe."
+523,Nowotwór płuc,Wymaga dalszej diagnostyki.
+524,Zawał serca,Wymaga dalszej diagnostyki.
+525,Nowotwór płuc,"Przebieg łagodny, leczenie objawowe."
+526,Migrena,Leczenie szpitalne nie jest wymagane.
+527,COVID-19,Zalecana zmiana stylu życia i diety.
+528,Atopowe zapalenie skóry,Konieczność obserwacji w warunkach domowych.
+529,Grypa,Zalecana zmiana stylu życia i diety.
+530,Zapalenie wątroby typu A,Wymaga dalszej diagnostyki.
+531,Zawał serca,"Przebieg łagodny, leczenie objawowe."
+532,Nowotwór piersi,Zalecane leczenie farmakologiczne.
+533,Choroba wieńcowa,Wskazane badania kontrolne za 2 tygodnie.
+534,Zespół jelita drażliwego,"Ryzyko nawrotu choroby, zachować ostrożność."
+535,Alergia sezonowa,Stosować leki zgodnie z zaleceniami.
+536,Nowotwór płuc,Leczenie szpitalne nie jest wymagane.
+537,Choroba refluksowa,Konieczność obserwacji w warunkach domowych.
+538,Choroba wieńcowa,Leczenie szpitalne nie jest wymagane.
+539,Anemia,Stosować leki zgodnie z zaleceniami.
+540,Zespół jelita drażliwego,Leczenie szpitalne nie jest wymagane.
+541,Zapalenie zatok,"Ryzyko nawrotu choroby, zachować ostrożność."
+542,Zapalenie gardła,Zalecana konsultacja specjalistyczna.
+543,Atopowe zapalenie skóry,Zalecane leczenie farmakologiczne.
+544,Kamica nerkowa,Leczenie szpitalne nie jest wymagane.
+545,Nowotwór płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+546,Zapalenie pęcherza,Zalecana konsultacja specjalistyczna.
+547,Cukrzyca typu 2,Wskazane badania kontrolne za 2 tygodnie.
+548,Zapalenie zatok,Wymaga dalszej diagnostyki.
+549,Zawał serca,Stosować leki zgodnie z zaleceniami.
+550,Alergia sezonowa,"Przebieg łagodny, leczenie objawowe."
+551,Migrena,"Przebieg łagodny, leczenie objawowe."
+552,COVID-19,Konieczność obserwacji w warunkach domowych.
+553,Zapalenie zatok,Stosować leki zgodnie z zaleceniami.
+554,Nowotwór płuc,Wymaga dalszej diagnostyki.
+555,Zapalenie zatok,Zalecana zmiana stylu życia i diety.
+556,COVID-19,Zalecana zmiana stylu życia i diety.
+557,Osteoporoza,Stosować leki zgodnie z zaleceniami.
+558,Zapalenie pęcherza,"Przebieg łagodny, leczenie objawowe."
+559,Niedoczynność tarczycy,Zalecana konsultacja specjalistyczna.
+560,Zapalenie pęcherza,Zalecana zmiana stylu życia i diety.
+561,Zapalenie pęcherza,Stosować leki zgodnie z zaleceniami.
+562,Nowotwór płuc,Zalecana zmiana stylu życia i diety.
+563,Zapalenie spojówek,Konieczność obserwacji w warunkach domowych.
+564,Depresja,Konieczność obserwacji w warunkach domowych.
+565,Nowotwór płuc,Konieczność obserwacji w warunkach domowych.
+566,Zapalenie płuc,Zalecana konsultacja specjalistyczna.
+567,Zapalenie zatok,Stosować leki zgodnie z zaleceniami.
+568,Zapalenie ucha środkowego,Stosować leki zgodnie z zaleceniami.
+569,Zawał serca,Konieczność obserwacji w warunkach domowych.
+570,Zapalenie wątroby typu A,Zalecana zmiana stylu życia i diety.
+571,Niedoczynność tarczycy,Wskazane badania kontrolne za 2 tygodnie.
+572,Grypa,Wskazane badania kontrolne za 2 tygodnie.
+573,Astma,Wskazane badania kontrolne za 2 tygodnie.
+574,Zapalenie ucha środkowego,Zalecana konsultacja specjalistyczna.
+575,Nowotwór piersi,Konieczność obserwacji w warunkach domowych.
+576,Angina,"Przebieg łagodny, leczenie objawowe."
+577,COVID-19,Konieczność obserwacji w warunkach domowych.
+578,Choroba refluksowa,Stosować leki zgodnie z zaleceniami.
+579,Angina,Stosować leki zgodnie z zaleceniami.
+580,Zapalenie wątroby typu A,Wskazane badania kontrolne za 2 tygodnie.
+581,Kamica nerkowa,Leczenie szpitalne nie jest wymagane.
+582,Egzema,"Przebieg łagodny, leczenie objawowe."
+583,Zawał serca,Konieczność obserwacji w warunkach domowych.
+584,Migrena,Wymaga dalszej diagnostyki.
+585,Anemia,Zalecana konsultacja specjalistyczna.
+586,Kamica nerkowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+587,Nowotwór płuc,Zalecane leczenie farmakologiczne.
+588,Zespół napięcia przedmiesiączkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+589,Anemia,Konieczność obserwacji w warunkach domowych.
+590,Zespół napięcia przedmiesiączkowego,Zalecane leczenie farmakologiczne.
+591,Migrena,Zalecane leczenie farmakologiczne.
+592,Borelioza,Konieczność obserwacji w warunkach domowych.
+593,Zapalenie płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+594,Choroba refluksowa,Wymaga dalszej diagnostyki.
+595,Nowotwór płuc,Zalecana konsultacja specjalistyczna.
+596,Cukrzyca typu 2,Stosować leki zgodnie z zaleceniami.
+597,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+598,Osteoporoza,Zalecana zmiana stylu życia i diety.
+599,Zapalenie zatok,Zalecana zmiana stylu życia i diety.
+600,Egzema,Leczenie szpitalne nie jest wymagane.
+601,Nadciśnienie,"Ryzyko nawrotu choroby, zachować ostrożność."
+602,Anemia,Stosować leki zgodnie z zaleceniami.
+603,Choroba wieńcowa,Leczenie szpitalne nie jest wymagane.
+604,Choroba refluksowa,Zalecane leczenie farmakologiczne.
+605,Reumatoidalne zapalenie stawów,Wymaga dalszej diagnostyki.
+606,Kamica nerkowa,Stosować leki zgodnie z zaleceniami.
+607,Zawał serca,"Przebieg łagodny, leczenie objawowe."
+608,Alergia sezonowa,Stosować leki zgodnie z zaleceniami.
+609,Nowotwór piersi,"Przebieg łagodny, leczenie objawowe."
+610,Nowotwór piersi,Stosować leki zgodnie z zaleceniami.
+611,Borelioza,"Przebieg łagodny, leczenie objawowe."
+612,Choroba wieńcowa,Konieczność obserwacji w warunkach domowych.
+613,Angina,Zalecana konsultacja specjalistyczna.
+614,Zapalenie gardła,Wskazane badania kontrolne za 2 tygodnie.
+615,Zapalenie wątroby typu A,Wskazane badania kontrolne za 2 tygodnie.
+616,Atopowe zapalenie skóry,Zalecane leczenie farmakologiczne.
+617,Astma,Leczenie szpitalne nie jest wymagane.
+618,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+619,Zapalenie wątroby typu A,Zalecane leczenie farmakologiczne.
+620,Kamica nerkowa,Leczenie szpitalne nie jest wymagane.
+621,Atopowe zapalenie skóry,Konieczność obserwacji w warunkach domowych.
+622,Borelioza,Wymaga dalszej diagnostyki.
+623,Cukrzyca typu 2,Zalecana zmiana stylu życia i diety.
+624,Nadciśnienie,Leczenie szpitalne nie jest wymagane.
+625,Zapalenie gardła,Leczenie szpitalne nie jest wymagane.
+626,Zapalenie pęcherza,Leczenie szpitalne nie jest wymagane.
+627,Nadciśnienie,Zalecana zmiana stylu życia i diety.
+628,Nowotwór piersi,Zalecana zmiana stylu życia i diety.
+629,Egzema,Wymaga dalszej diagnostyki.
+630,Zapalenie wątroby typu A,Konieczność obserwacji w warunkach domowych.
+631,Nowotwór piersi,"Ryzyko nawrotu choroby, zachować ostrożność."
+632,Osteoporoza,Stosować leki zgodnie z zaleceniami.
+633,Cukrzyca typu 2,Zalecana konsultacja specjalistyczna.
+634,Borelioza,"Ryzyko nawrotu choroby, zachować ostrożność."
+635,Zapalenie wątroby typu A,Zalecane leczenie farmakologiczne.
+636,Niedoczynność tarczycy,Zalecana zmiana stylu życia i diety.
+637,Choroba refluksowa,Zalecane leczenie farmakologiczne.
+638,Zespół napięcia przedmiesiączkowego,Zalecane leczenie farmakologiczne.
+639,Grypa,"Przebieg łagodny, leczenie objawowe."
+640,Kamica nerkowa,Wskazane badania kontrolne za 2 tygodnie.
+641,Osteoporoza,Konieczność obserwacji w warunkach domowych.
+642,Depresja,Zalecana zmiana stylu życia i diety.
+643,Kamica nerkowa,Leczenie szpitalne nie jest wymagane.
+644,Nowotwór piersi,"Przebieg łagodny, leczenie objawowe."
+645,Zapalenie ucha środkowego,Zalecana zmiana stylu życia i diety.
+646,Osteoporoza,"Przebieg łagodny, leczenie objawowe."
+647,Osteoporoza,"Przebieg łagodny, leczenie objawowe."
+648,Zapalenie zatok,Zalecana konsultacja specjalistyczna.
+649,Migrena,Zalecane leczenie farmakologiczne.
+650,Zapalenie oskrzeli,Zalecana konsultacja specjalistyczna.
+651,Zapalenie ucha środkowego,Wymaga dalszej diagnostyki.
+652,Kamica nerkowa,Stosować leki zgodnie z zaleceniami.
+653,Depresja,"Przebieg łagodny, leczenie objawowe."
+654,Egzema,Konieczność obserwacji w warunkach domowych.
+655,Zapalenie pęcherza,Wskazane badania kontrolne za 2 tygodnie.
+656,Zespół jelita drażliwego,"Przebieg łagodny, leczenie objawowe."
+657,COVID-19,Stosować leki zgodnie z zaleceniami.
+658,Angina,Zalecana konsultacja specjalistyczna.
+659,Zawał serca,Wymaga dalszej diagnostyki.
+660,Zespół napięcia przedmiesiączkowego,Zalecane leczenie farmakologiczne.
+661,Zawał serca,"Przebieg łagodny, leczenie objawowe."
+662,Zespół napięcia przedmiesiączkowego,Zalecane leczenie farmakologiczne.
+663,Zawał serca,"Ryzyko nawrotu choroby, zachować ostrożność."
+664,Niedoczynność tarczycy,"Przebieg łagodny, leczenie objawowe."
+665,COVID-19,Wskazane badania kontrolne za 2 tygodnie.
+666,Zapalenie gardła,Wymaga dalszej diagnostyki.
+667,Alergia sezonowa,Leczenie szpitalne nie jest wymagane.
+668,Zapalenie gardła,Zalecana konsultacja specjalistyczna.
+669,COVID-19,Wymaga dalszej diagnostyki.
+670,Atopowe zapalenie skóry,Zalecana zmiana stylu życia i diety.
+671,Zapalenie ucha środkowego,Stosować leki zgodnie z zaleceniami.
+672,Zapalenie spojówek,"Przebieg łagodny, leczenie objawowe."
+673,COVID-19,Wymaga dalszej diagnostyki.
+674,Zapalenie płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+675,Choroba wieńcowa,Leczenie szpitalne nie jest wymagane.
+676,Zapalenie gardła,"Ryzyko nawrotu choroby, zachować ostrożność."
+677,Angina,Zalecane leczenie farmakologiczne.
+678,Zespół napięcia przedmiesiączkowego,Wskazane badania kontrolne za 2 tygodnie.
+679,Niedoczynność tarczycy,Wymaga dalszej diagnostyki.
+680,Zapalenie ucha środkowego,Stosować leki zgodnie z zaleceniami.
+681,Zapalenie zatok,Wymaga dalszej diagnostyki.
+682,Zapalenie wątroby typu A,Konieczność obserwacji w warunkach domowych.
+683,Depresja,Wymaga dalszej diagnostyki.
+684,Zespół napięcia przedmiesiączkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+685,Angina,Konieczność obserwacji w warunkach domowych.
+686,Kamica nerkowa,Zalecane leczenie farmakologiczne.
+687,Osteoporoza,"Przebieg łagodny, leczenie objawowe."
+688,Alergia sezonowa,Zalecana zmiana stylu życia i diety.
+689,Grypa,Zalecana konsultacja specjalistyczna.
+690,Osteoporoza,Zalecana konsultacja specjalistyczna.
+691,Nowotwór płuc,Zalecane leczenie farmakologiczne.
+692,Astma,Zalecana zmiana stylu życia i diety.
+693,COVID-19,Konieczność obserwacji w warunkach domowych.
+694,Zapalenie płuc,Zalecana zmiana stylu życia i diety.
+695,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+696,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+697,Alergia sezonowa,Leczenie szpitalne nie jest wymagane.
+698,Osteoporoza,Zalecana konsultacja specjalistyczna.
+699,Zapalenie płuc,Wymaga dalszej diagnostyki.
+700,Zapalenie pęcherza,Zalecane leczenie farmakologiczne.
+701,Atopowe zapalenie skóry,"Przebieg łagodny, leczenie objawowe."
+702,Zapalenie zatok,Wskazane badania kontrolne za 2 tygodnie.
+703,Zapalenie płuc,Konieczność obserwacji w warunkach domowych.
+704,Kamica nerkowa,Zalecane leczenie farmakologiczne.
+705,Angina,Stosować leki zgodnie z zaleceniami.
+706,Angina,"Ryzyko nawrotu choroby, zachować ostrożność."
+707,Zapalenie oskrzeli,Zalecana konsultacja specjalistyczna.
+708,Zapalenie spojówek,Zalecane leczenie farmakologiczne.
+709,Zespół napięcia przedmiesiączkowego,Zalecana zmiana stylu życia i diety.
+710,Zapalenie pęcherza,Zalecana konsultacja specjalistyczna.
+711,Migrena,Zalecane leczenie farmakologiczne.
+712,Zapalenie ucha środkowego,"Przebieg łagodny, leczenie objawowe."
+713,Nadciśnienie,Wskazane badania kontrolne za 2 tygodnie.
+714,Cukrzyca typu 2,Wymaga dalszej diagnostyki.
+715,Nowotwór płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+716,Zapalenie spojówek,Leczenie szpitalne nie jest wymagane.
+717,Zawał serca,Zalecana konsultacja specjalistyczna.
+718,Grypa,Konieczność obserwacji w warunkach domowych.
+719,Nowotwór płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+720,Choroba wieńcowa,Zalecana konsultacja specjalistyczna.
+721,Kamica nerkowa,Leczenie szpitalne nie jest wymagane.
+722,Zapalenie płuc,Zalecana zmiana stylu życia i diety.
+723,Migrena,"Ryzyko nawrotu choroby, zachować ostrożność."
+724,Atopowe zapalenie skóry,Zalecana zmiana stylu życia i diety.
+725,Egzema,Zalecana konsultacja specjalistyczna.
+726,Depresja,Leczenie szpitalne nie jest wymagane.
+727,Reumatoidalne zapalenie stawów,Zalecana konsultacja specjalistyczna.
+728,Depresja,Wymaga dalszej diagnostyki.
+729,Migrena,Wskazane badania kontrolne za 2 tygodnie.
+730,Choroba refluksowa,Zalecana zmiana stylu życia i diety.
+731,Migrena,"Przebieg łagodny, leczenie objawowe."
+732,Depresja,Konieczność obserwacji w warunkach domowych.
+733,Alergia sezonowa,Konieczność obserwacji w warunkach domowych.
+734,Borelioza,"Ryzyko nawrotu choroby, zachować ostrożność."
+735,Zespół jelita drażliwego,Zalecana konsultacja specjalistyczna.
+736,Kamica nerkowa,Wskazane badania kontrolne za 2 tygodnie.
+737,Zapalenie płuc,Zalecana konsultacja specjalistyczna.
+738,Zapalenie oskrzeli,Wskazane badania kontrolne za 2 tygodnie.
+739,Astma,"Przebieg łagodny, leczenie objawowe."
+740,Alergia sezonowa,Zalecane leczenie farmakologiczne.
+741,Osteoporoza,Zalecane leczenie farmakologiczne.
+742,Anemia,Zalecana konsultacja specjalistyczna.
+743,Niedoczynność tarczycy,Stosować leki zgodnie z zaleceniami.
+744,Grypa,Zalecana zmiana stylu życia i diety.
+745,Nowotwór płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+746,Zapalenie ucha środkowego,"Przebieg łagodny, leczenie objawowe."
+747,Niedoczynność tarczycy,"Ryzyko nawrotu choroby, zachować ostrożność."
+748,COVID-19,"Ryzyko nawrotu choroby, zachować ostrożność."
+749,Choroba wieńcowa,Leczenie szpitalne nie jest wymagane.
+750,Zawał serca,Wymaga dalszej diagnostyki.
+751,Zespół jelita drażliwego,Leczenie szpitalne nie jest wymagane.
+752,Borelioza,Stosować leki zgodnie z zaleceniami.
+753,Alergia sezonowa,Konieczność obserwacji w warunkach domowych.
+754,Borelioza,"Ryzyko nawrotu choroby, zachować ostrożność."
+755,Nowotwór piersi,Wymaga dalszej diagnostyki.
+756,Borelioza,Leczenie szpitalne nie jest wymagane.
+757,Choroba wieńcowa,Wymaga dalszej diagnostyki.
+758,Zapalenie płuc,Wskazane badania kontrolne za 2 tygodnie.
+759,Angina,Leczenie szpitalne nie jest wymagane.
+760,Reumatoidalne zapalenie stawów,Wymaga dalszej diagnostyki.
+761,Depresja,"Ryzyko nawrotu choroby, zachować ostrożność."
+762,Zapalenie gardła,Wymaga dalszej diagnostyki.
+763,Choroba refluksowa,Zalecana konsultacja specjalistyczna.
+764,Zapalenie ucha środkowego,Konieczność obserwacji w warunkach domowych.
+765,Zawał serca,Wskazane badania kontrolne za 2 tygodnie.
+766,Nadciśnienie,Leczenie szpitalne nie jest wymagane.
+767,Alergia sezonowa,Wskazane badania kontrolne za 2 tygodnie.
+768,Egzema,Zalecana konsultacja specjalistyczna.
+769,Depresja,Zalecane leczenie farmakologiczne.
+770,Egzema,Stosować leki zgodnie z zaleceniami.
+771,Osteoporoza,Zalecana zmiana stylu życia i diety.
+772,Astma,Leczenie szpitalne nie jest wymagane.
+773,Zapalenie płuc,Leczenie szpitalne nie jest wymagane.
+774,Depresja,Leczenie szpitalne nie jest wymagane.
+775,Zapalenie pęcherza,Stosować leki zgodnie z zaleceniami.
+776,Zapalenie pęcherza,Wymaga dalszej diagnostyki.
+777,Zapalenie pęcherza,Zalecana zmiana stylu życia i diety.
+778,Depresja,Zalecana konsultacja specjalistyczna.
+779,Zapalenie wątroby typu A,"Przebieg łagodny, leczenie objawowe."
+780,Zespół jelita drażliwego,Zalecane leczenie farmakologiczne.
+781,Niedoczynność tarczycy,Konieczność obserwacji w warunkach domowych.
+782,Zespół napięcia przedmiesiączkowego,Leczenie szpitalne nie jest wymagane.
+783,Zapalenie spojówek,"Ryzyko nawrotu choroby, zachować ostrożność."
+784,Nowotwór piersi,Stosować leki zgodnie z zaleceniami.
+785,Reumatoidalne zapalenie stawów,Konieczność obserwacji w warunkach domowych.
+786,Grypa,Wymaga dalszej diagnostyki.
+787,Choroba wieńcowa,Leczenie szpitalne nie jest wymagane.
+788,Zapalenie zatok,"Przebieg łagodny, leczenie objawowe."
+789,Cukrzyca typu 2,Zalecane leczenie farmakologiczne.
+790,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+791,Osteoporoza,"Ryzyko nawrotu choroby, zachować ostrożność."
+792,Zapalenie pęcherza,"Przebieg łagodny, leczenie objawowe."
+793,Niedoczynność tarczycy,Zalecana konsultacja specjalistyczna.
+794,Zapalenie spojówek,Wskazane badania kontrolne za 2 tygodnie.
+795,Egzema,"Przebieg łagodny, leczenie objawowe."
+796,Zapalenie ucha środkowego,Wymaga dalszej diagnostyki.
+797,Depresja,Konieczność obserwacji w warunkach domowych.
+798,Reumatoidalne zapalenie stawów,Wskazane badania kontrolne za 2 tygodnie.
+799,Zapalenie gardła,Zalecana zmiana stylu życia i diety.
+800,Osteoporoza,"Przebieg łagodny, leczenie objawowe."
+801,Zawał serca,Zalecana konsultacja specjalistyczna.
+802,Zespół jelita drażliwego,Stosować leki zgodnie z zaleceniami.
+803,Grypa,Wymaga dalszej diagnostyki.
+804,Zapalenie zatok,Leczenie szpitalne nie jest wymagane.
+805,Migrena,Zalecana zmiana stylu życia i diety.
+806,Nowotwór płuc,"Przebieg łagodny, leczenie objawowe."
+807,Zawał serca,Konieczność obserwacji w warunkach domowych.
+808,Zapalenie gardła,Leczenie szpitalne nie jest wymagane.
+809,Nowotwór piersi,Zalecana konsultacja specjalistyczna.
+810,Cukrzyca typu 2,Stosować leki zgodnie z zaleceniami.
+811,Zespół jelita drażliwego,Zalecane leczenie farmakologiczne.
+812,Zespół napięcia przedmiesiączkowego,Konieczność obserwacji w warunkach domowych.
+813,Zapalenie gardła,"Ryzyko nawrotu choroby, zachować ostrożność."
+814,Zapalenie wątroby typu A,Zalecana zmiana stylu życia i diety.
+815,Zapalenie pęcherza,"Ryzyko nawrotu choroby, zachować ostrożność."
+816,Choroba refluksowa,"Przebieg łagodny, leczenie objawowe."
+817,Migrena,Wymaga dalszej diagnostyki.
+818,Zapalenie płuc,"Przebieg łagodny, leczenie objawowe."
+819,Atopowe zapalenie skóry,Wskazane badania kontrolne za 2 tygodnie.
+820,Zapalenie spojówek,Zalecane leczenie farmakologiczne.
+821,Migrena,Konieczność obserwacji w warunkach domowych.
+822,Zespół jelita drażliwego,Konieczność obserwacji w warunkach domowych.
+823,Borelioza,Wskazane badania kontrolne za 2 tygodnie.
+824,Choroba wieńcowa,Stosować leki zgodnie z zaleceniami.
+825,Nadciśnienie,Zalecane leczenie farmakologiczne.
+826,Migrena,"Ryzyko nawrotu choroby, zachować ostrożność."
+827,Anemia,Zalecana zmiana stylu życia i diety.
+828,Atopowe zapalenie skóry,"Przebieg łagodny, leczenie objawowe."
+829,Zapalenie wątroby typu A,Konieczność obserwacji w warunkach domowych.
+830,Migrena,"Ryzyko nawrotu choroby, zachować ostrożność."
+831,Zespół napięcia przedmiesiączkowego,Zalecana zmiana stylu życia i diety.
+832,Zespół napięcia przedmiesiączkowego,Zalecane leczenie farmakologiczne.
+833,Migrena,Zalecana zmiana stylu życia i diety.
+834,Migrena,Zalecana zmiana stylu życia i diety.
+835,Migrena,Wymaga dalszej diagnostyki.
+836,Anemia,Stosować leki zgodnie z zaleceniami.
+837,Zapalenie spojówek,Wskazane badania kontrolne za 2 tygodnie.
+838,Zapalenie oskrzeli,Stosować leki zgodnie z zaleceniami.
+839,Zawał serca,"Ryzyko nawrotu choroby, zachować ostrożność."
+840,Zapalenie oskrzeli,Wskazane badania kontrolne za 2 tygodnie.
+841,Zapalenie wątroby typu A,Zalecane leczenie farmakologiczne.
+842,COVID-19,Zalecana zmiana stylu życia i diety.
+843,Alergia sezonowa,Zalecane leczenie farmakologiczne.
+844,Borelioza,Wymaga dalszej diagnostyki.
+845,Choroba refluksowa,Wskazane badania kontrolne za 2 tygodnie.
+846,Angina,"Ryzyko nawrotu choroby, zachować ostrożność."
+847,Choroba wieńcowa,Stosować leki zgodnie z zaleceniami.
+848,Zapalenie ucha środkowego,Stosować leki zgodnie z zaleceniami.
+849,Anemia,Konieczność obserwacji w warunkach domowych.
+850,Zawał serca,Zalecane leczenie farmakologiczne.
+851,Kamica nerkowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+852,Choroba wieńcowa,Zalecana konsultacja specjalistyczna.
+853,COVID-19,Leczenie szpitalne nie jest wymagane.
+854,Kamica nerkowa,Wskazane badania kontrolne za 2 tygodnie.
+855,Zapalenie ucha środkowego,Zalecana konsultacja specjalistyczna.
+856,Atopowe zapalenie skóry,Wymaga dalszej diagnostyki.
+857,Borelioza,Stosować leki zgodnie z zaleceniami.
+858,Depresja,Stosować leki zgodnie z zaleceniami.
+859,Zapalenie zatok,Wymaga dalszej diagnostyki.
+860,Nadciśnienie,Wskazane badania kontrolne za 2 tygodnie.
+861,Kamica nerkowa,Zalecana zmiana stylu życia i diety.
+862,Atopowe zapalenie skóry,Zalecana konsultacja specjalistyczna.
+863,Zespół napięcia przedmiesiączkowego,"Przebieg łagodny, leczenie objawowe."
+864,Choroba wieńcowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+865,Zapalenie ucha środkowego,Stosować leki zgodnie z zaleceniami.
+866,Zawał serca,Stosować leki zgodnie z zaleceniami.
+867,Zapalenie pęcherza,Zalecana konsultacja specjalistyczna.
+868,Kamica nerkowa,Zalecane leczenie farmakologiczne.
+869,Zapalenie gardła,"Przebieg łagodny, leczenie objawowe."
+870,Zapalenie zatok,Leczenie szpitalne nie jest wymagane.
+871,Choroba refluksowa,Leczenie szpitalne nie jest wymagane.
+872,Alergia sezonowa,Wskazane badania kontrolne za 2 tygodnie.
+873,Cukrzyca typu 2,"Przebieg łagodny, leczenie objawowe."
+874,Nadciśnienie,Wymaga dalszej diagnostyki.
+875,Niedoczynność tarczycy,Konieczność obserwacji w warunkach domowych.
+876,Osteoporoza,Stosować leki zgodnie z zaleceniami.
+877,Zapalenie ucha środkowego,Wskazane badania kontrolne za 2 tygodnie.
+878,Reumatoidalne zapalenie stawów,Wskazane badania kontrolne za 2 tygodnie.
+879,Migrena,Konieczność obserwacji w warunkach domowych.
+880,Nadciśnienie,Stosować leki zgodnie z zaleceniami.
+881,Depresja,"Ryzyko nawrotu choroby, zachować ostrożność."
+882,Zapalenie oskrzeli,"Przebieg łagodny, leczenie objawowe."
+883,Osteoporoza,Konieczność obserwacji w warunkach domowych.
+884,Angina,"Ryzyko nawrotu choroby, zachować ostrożność."
+885,Depresja,"Przebieg łagodny, leczenie objawowe."
+886,Anemia,"Przebieg łagodny, leczenie objawowe."
+887,Zawał serca,"Przebieg łagodny, leczenie objawowe."
+888,Osteoporoza,Zalecane leczenie farmakologiczne.
+889,Choroba refluksowa,"Przebieg łagodny, leczenie objawowe."
+890,Angina,Zalecana zmiana stylu życia i diety.
+891,Nowotwór płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+892,Zapalenie spojówek,Leczenie szpitalne nie jest wymagane.
+893,Egzema,Wskazane badania kontrolne za 2 tygodnie.
+894,Alergia sezonowa,Leczenie szpitalne nie jest wymagane.
+895,Niedoczynność tarczycy,Zalecana zmiana stylu życia i diety.
+896,Zespół napięcia przedmiesiączkowego,Konieczność obserwacji w warunkach domowych.
+897,Zapalenie płuc,Konieczność obserwacji w warunkach domowych.
+898,Zapalenie wątroby typu A,Stosować leki zgodnie z zaleceniami.
+899,Zapalenie płuc,"Przebieg łagodny, leczenie objawowe."
+900,Kamica nerkowa,Leczenie szpitalne nie jest wymagane.
+901,Zapalenie ucha środkowego,Wymaga dalszej diagnostyki.
+902,Reumatoidalne zapalenie stawów,Stosować leki zgodnie z zaleceniami.
+903,Anemia,Leczenie szpitalne nie jest wymagane.
+904,Reumatoidalne zapalenie stawów,Wymaga dalszej diagnostyki.
+905,Nowotwór płuc,Leczenie szpitalne nie jest wymagane.
+906,Kamica nerkowa,Wymaga dalszej diagnostyki.
+907,Depresja,Stosować leki zgodnie z zaleceniami.
+908,Depresja,"Ryzyko nawrotu choroby, zachować ostrożność."
+909,Zespół jelita drażliwego,Zalecana zmiana stylu życia i diety.
+910,Astma,"Ryzyko nawrotu choroby, zachować ostrożność."
+911,Zawał serca,"Ryzyko nawrotu choroby, zachować ostrożność."
+912,Zapalenie wątroby typu A,Wymaga dalszej diagnostyki.
+913,Zapalenie pęcherza,Zalecane leczenie farmakologiczne.
+914,Zawał serca,Leczenie szpitalne nie jest wymagane.
+915,Astma,Stosować leki zgodnie z zaleceniami.
+916,Nowotwór płuc,Zalecana konsultacja specjalistyczna.
+917,Cukrzyca typu 2,Stosować leki zgodnie z zaleceniami.
+918,Cukrzyca typu 2,Konieczność obserwacji w warunkach domowych.
+919,Choroba wieńcowa,Zalecane leczenie farmakologiczne.
+920,Atopowe zapalenie skóry,Wskazane badania kontrolne za 2 tygodnie.
+921,Reumatoidalne zapalenie stawów,Wskazane badania kontrolne za 2 tygodnie.
+922,COVID-19,"Ryzyko nawrotu choroby, zachować ostrożność."
+923,Zapalenie zatok,Leczenie szpitalne nie jest wymagane.
+924,Zapalenie zatok,Stosować leki zgodnie z zaleceniami.
+925,Depresja,Zalecana zmiana stylu życia i diety.
+926,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+927,Kamica nerkowa,Zalecane leczenie farmakologiczne.
+928,Astma,Stosować leki zgodnie z zaleceniami.
+929,Zapalenie gardła,Wymaga dalszej diagnostyki.
+930,Cukrzyca typu 2,Leczenie szpitalne nie jest wymagane.
+931,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+932,Egzema,"Przebieg łagodny, leczenie objawowe."
+933,Alergia sezonowa,Zalecana konsultacja specjalistyczna.
+934,Angina,"Ryzyko nawrotu choroby, zachować ostrożność."
+935,Zapalenie gardła,Stosować leki zgodnie z zaleceniami.
+936,Nadciśnienie,Wymaga dalszej diagnostyki.
+937,Niedoczynność tarczycy,Zalecana zmiana stylu życia i diety.
+938,Zespół napięcia przedmiesiączkowego,Wskazane badania kontrolne za 2 tygodnie.
+939,Zespół napięcia przedmiesiączkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+940,Reumatoidalne zapalenie stawów,Stosować leki zgodnie z zaleceniami.
+941,Alergia sezonowa,Wymaga dalszej diagnostyki.
+942,Zapalenie zatok,Stosować leki zgodnie z zaleceniami.
+943,Alergia sezonowa,Wskazane badania kontrolne za 2 tygodnie.
+944,Choroba wieńcowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+945,Nadciśnienie,Zalecana konsultacja specjalistyczna.
+946,Choroba wieńcowa,Wskazane badania kontrolne za 2 tygodnie.
+947,Egzema,"Przebieg łagodny, leczenie objawowe."
+948,Zapalenie ucha środkowego,Wymaga dalszej diagnostyki.
+949,Borelioza,"Ryzyko nawrotu choroby, zachować ostrożność."
+950,Migrena,Leczenie szpitalne nie jest wymagane.
+951,Choroba wieńcowa,Zalecane leczenie farmakologiczne.
+952,Astma,Leczenie szpitalne nie jest wymagane.
+953,Astma,Stosować leki zgodnie z zaleceniami.
+954,Migrena,Zalecana konsultacja specjalistyczna.
+955,Grypa,Leczenie szpitalne nie jest wymagane.
+956,Grypa,Zalecane leczenie farmakologiczne.
+957,Kamica nerkowa,Wskazane badania kontrolne za 2 tygodnie.
+958,Zapalenie zatok,Zalecane leczenie farmakologiczne.
+959,Zapalenie płuc,Wymaga dalszej diagnostyki.
+960,Alergia sezonowa,"Przebieg łagodny, leczenie objawowe."
+961,Atopowe zapalenie skóry,Zalecana konsultacja specjalistyczna.
+962,COVID-19,Stosować leki zgodnie z zaleceniami.
+963,Migrena,Zalecana konsultacja specjalistyczna.
+964,Zapalenie płuc,Zalecana zmiana stylu życia i diety.
+965,Alergia sezonowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+966,Alergia sezonowa,Leczenie szpitalne nie jest wymagane.
+967,Osteoporoza,"Ryzyko nawrotu choroby, zachować ostrożność."
+968,Angina,Zalecana zmiana stylu życia i diety.
+969,Zapalenie oskrzeli,Leczenie szpitalne nie jest wymagane.
+970,Zapalenie gardła,Konieczność obserwacji w warunkach domowych.
+971,Choroba refluksowa,Wymaga dalszej diagnostyki.
+972,Zapalenie ucha środkowego,Zalecana konsultacja specjalistyczna.
+973,Zapalenie pęcherza,Wymaga dalszej diagnostyki.
+974,Atopowe zapalenie skóry,"Przebieg łagodny, leczenie objawowe."
+975,Osteoporoza,Zalecana zmiana stylu życia i diety.
+976,Borelioza,"Ryzyko nawrotu choroby, zachować ostrożność."
+977,Zespół napięcia przedmiesiączkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+978,Zapalenie gardła,Leczenie szpitalne nie jest wymagane.
+979,Cukrzyca typu 2,Stosować leki zgodnie z zaleceniami.
+980,Anemia,Stosować leki zgodnie z zaleceniami.
+981,Osteoporoza,"Przebieg łagodny, leczenie objawowe."
+982,Atopowe zapalenie skóry,"Przebieg łagodny, leczenie objawowe."
+983,Niedoczynność tarczycy,Zalecane leczenie farmakologiczne.
+984,Zapalenie ucha środkowego,Zalecane leczenie farmakologiczne.
+985,Nowotwór płuc,Zalecana zmiana stylu życia i diety.
+986,Migrena,Leczenie szpitalne nie jest wymagane.
+987,Nadciśnienie,Stosować leki zgodnie z zaleceniami.
+988,Niedoczynność tarczycy,Leczenie szpitalne nie jest wymagane.
+989,Egzema,Konieczność obserwacji w warunkach domowych.
+990,Kamica nerkowa,Zalecana konsultacja specjalistyczna.
+991,Zawał serca,"Przebieg łagodny, leczenie objawowe."
+992,Choroba refluksowa,Wskazane badania kontrolne za 2 tygodnie.
+993,Niedoczynność tarczycy,Wskazane badania kontrolne za 2 tygodnie.
+994,Zespół napięcia przedmiesiączkowego,Wymaga dalszej diagnostyki.
+995,Atopowe zapalenie skóry,Zalecane leczenie farmakologiczne.
+996,Atopowe zapalenie skóry,Wymaga dalszej diagnostyki.
+997,Kamica nerkowa,Leczenie szpitalne nie jest wymagane.
+998,Nowotwór płuc,Zalecana zmiana stylu życia i diety.
+999,Zespół napięcia przedmiesiączkowego,Konieczność obserwacji w warunkach domowych.
+1000,Atopowe zapalenie skóry,Konieczność obserwacji w warunkach domowych.
+1001,Astma,Leczenie szpitalne nie jest wymagane.
+1002,Zapalenie oskrzeli,"Przebieg łagodny, leczenie objawowe."
+1003,Nadciśnienie,Konieczność obserwacji w warunkach domowych.
+1004,Alergia sezonowa,Stosować leki zgodnie z zaleceniami.
+1005,Astma,Leczenie szpitalne nie jest wymagane.
+1006,Angina,Zalecane leczenie farmakologiczne.
+1007,Zapalenie zatok,Wskazane badania kontrolne za 2 tygodnie.
+1008,Egzema,Stosować leki zgodnie z zaleceniami.
+1009,Astma,Wskazane badania kontrolne za 2 tygodnie.
+1010,Alergia sezonowa,Leczenie szpitalne nie jest wymagane.
+1011,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+1012,COVID-19,Wymaga dalszej diagnostyki.
+1013,Nowotwór piersi,Zalecana konsultacja specjalistyczna.
+1014,Depresja,Stosować leki zgodnie z zaleceniami.
+1015,Cukrzyca typu 2,"Przebieg łagodny, leczenie objawowe."
+1016,Atopowe zapalenie skóry,"Przebieg łagodny, leczenie objawowe."
+1017,Grypa,Zalecane leczenie farmakologiczne.
+1018,Zespół napięcia przedmiesiączkowego,"Przebieg łagodny, leczenie objawowe."
+1019,Zapalenie gardła,Konieczność obserwacji w warunkach domowych.
+1020,Grypa,"Przebieg łagodny, leczenie objawowe."
+1021,Borelioza,Zalecana konsultacja specjalistyczna.
+1022,Zespół napięcia przedmiesiączkowego,"Przebieg łagodny, leczenie objawowe."
+1023,Zapalenie płuc,Wskazane badania kontrolne za 2 tygodnie.
+1024,Zapalenie oskrzeli,Zalecana konsultacja specjalistyczna.
+1025,Osteoporoza,Zalecana zmiana stylu życia i diety.
+1026,Anemia,Zalecana zmiana stylu życia i diety.
+1027,Choroba wieńcowa,Wskazane badania kontrolne za 2 tygodnie.
+1028,Zapalenie zatok,"Przebieg łagodny, leczenie objawowe."
+1029,Zespół jelita drażliwego,Wskazane badania kontrolne za 2 tygodnie.
+1030,Grypa,Wskazane badania kontrolne za 2 tygodnie.
+1031,Zapalenie spojówek,Wskazane badania kontrolne za 2 tygodnie.
+1032,Zespół jelita drażliwego,"Przebieg łagodny, leczenie objawowe."
+1033,Atopowe zapalenie skóry,Konieczność obserwacji w warunkach domowych.
+1034,Grypa,Wskazane badania kontrolne za 2 tygodnie.
+1035,Zapalenie oskrzeli,"Ryzyko nawrotu choroby, zachować ostrożność."
+1036,Reumatoidalne zapalenie stawów,"Przebieg łagodny, leczenie objawowe."
+1037,Cukrzyca typu 2,Wymaga dalszej diagnostyki.
+1038,Zapalenie gardła,Zalecana konsultacja specjalistyczna.
+1039,Atopowe zapalenie skóry,Wymaga dalszej diagnostyki.
+1040,Alergia sezonowa,Leczenie szpitalne nie jest wymagane.
+1041,Kamica nerkowa,Zalecana konsultacja specjalistyczna.
+1042,Choroba wieńcowa,Wskazane badania kontrolne za 2 tygodnie.
+1043,Choroba refluksowa,Leczenie szpitalne nie jest wymagane.
+1044,Choroba refluksowa,Konieczność obserwacji w warunkach domowych.
+1045,Choroba wieńcowa,Wymaga dalszej diagnostyki.
+1046,Zapalenie gardła,Wskazane badania kontrolne za 2 tygodnie.
+1047,Egzema,Wymaga dalszej diagnostyki.
+1048,Atopowe zapalenie skóry,"Przebieg łagodny, leczenie objawowe."
+1049,Reumatoidalne zapalenie stawów,Leczenie szpitalne nie jest wymagane.
+1050,Zapalenie oskrzeli,"Ryzyko nawrotu choroby, zachować ostrożność."
+1051,Nowotwór płuc,Wymaga dalszej diagnostyki.
+1052,Zapalenie gardła,"Przebieg łagodny, leczenie objawowe."
+1053,Zapalenie oskrzeli,Wskazane badania kontrolne za 2 tygodnie.
+1054,Alergia sezonowa,Wymaga dalszej diagnostyki.
+1055,Cukrzyca typu 2,"Przebieg łagodny, leczenie objawowe."
+1056,Zapalenie wątroby typu A,Zalecana zmiana stylu życia i diety.
+1057,Zapalenie płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+1058,Osteoporoza,"Ryzyko nawrotu choroby, zachować ostrożność."
+1059,Zapalenie oskrzeli,Leczenie szpitalne nie jest wymagane.
+1060,Egzema,"Przebieg łagodny, leczenie objawowe."
+1061,Kamica nerkowa,Zalecane leczenie farmakologiczne.
+1062,Grypa,Zalecana konsultacja specjalistyczna.
+1063,Borelioza,Konieczność obserwacji w warunkach domowych.
+1064,Alergia sezonowa,Stosować leki zgodnie z zaleceniami.
+1065,Nowotwór piersi,"Przebieg łagodny, leczenie objawowe."
+1066,Astma,Wskazane badania kontrolne za 2 tygodnie.
+1067,Zespół napięcia przedmiesiączkowego,Zalecana konsultacja specjalistyczna.
+1068,Choroba refluksowa,Leczenie szpitalne nie jest wymagane.
+1069,Cukrzyca typu 2,"Przebieg łagodny, leczenie objawowe."
+1070,Alergia sezonowa,"Przebieg łagodny, leczenie objawowe."
+1071,Borelioza,"Ryzyko nawrotu choroby, zachować ostrożność."
+1072,Angina,"Ryzyko nawrotu choroby, zachować ostrożność."
+1073,Cukrzyca typu 2,"Przebieg łagodny, leczenie objawowe."
+1074,Choroba refluksowa,Leczenie szpitalne nie jest wymagane.
+1075,Zapalenie pęcherza,Zalecana konsultacja specjalistyczna.
+1076,Kamica nerkowa,Zalecane leczenie farmakologiczne.
+1077,Zapalenie gardła,Wymaga dalszej diagnostyki.
+1078,Zapalenie spojówek,Leczenie szpitalne nie jest wymagane.
+1079,Angina,Zalecana zmiana stylu życia i diety.
+1080,Zapalenie pęcherza,Stosować leki zgodnie z zaleceniami.
+1081,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+1082,Osteoporoza,Wymaga dalszej diagnostyki.
+1083,Depresja,Zalecane leczenie farmakologiczne.
+1084,Zespół napięcia przedmiesiączkowego,Zalecane leczenie farmakologiczne.
+1085,Astma,Wskazane badania kontrolne za 2 tygodnie.
+1086,Zapalenie gardła,"Przebieg łagodny, leczenie objawowe."
+1087,Zapalenie oskrzeli,Zalecana zmiana stylu życia i diety.
+1088,Cukrzyca typu 2,Zalecane leczenie farmakologiczne.
+1089,Nowotwór płuc,Zalecana zmiana stylu życia i diety.
+1090,Zespół napięcia przedmiesiączkowego,Konieczność obserwacji w warunkach domowych.
+1091,Zespół napięcia przedmiesiączkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+1092,Anemia,"Ryzyko nawrotu choroby, zachować ostrożność."
+1093,Choroba wieńcowa,Stosować leki zgodnie z zaleceniami.
+1094,Nowotwór piersi,"Ryzyko nawrotu choroby, zachować ostrożność."
+1095,Osteoporoza,"Ryzyko nawrotu choroby, zachować ostrożność."
+1096,Zapalenie płuc,"Przebieg łagodny, leczenie objawowe."
+1097,Osteoporoza,Konieczność obserwacji w warunkach domowych.
+1098,Alergia sezonowa,Wskazane badania kontrolne za 2 tygodnie.
+1099,Choroba wieńcowa,Zalecana konsultacja specjalistyczna.
+1100,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+1101,Zapalenie wątroby typu A,Konieczność obserwacji w warunkach domowych.
+1102,Osteoporoza,Zalecane leczenie farmakologiczne.
+1103,Nowotwór piersi,Wskazane badania kontrolne za 2 tygodnie.
+1104,Depresja,Wskazane badania kontrolne za 2 tygodnie.
+1105,Reumatoidalne zapalenie stawów,Stosować leki zgodnie z zaleceniami.
+1106,COVID-19,Wskazane badania kontrolne za 2 tygodnie.
+1107,Zapalenie spojówek,Wskazane badania kontrolne za 2 tygodnie.
+1108,Nowotwór piersi,"Ryzyko nawrotu choroby, zachować ostrożność."
+1109,Zawał serca,Wskazane badania kontrolne za 2 tygodnie.
+1110,Nowotwór piersi,Stosować leki zgodnie z zaleceniami.
+1111,Borelioza,Stosować leki zgodnie z zaleceniami.
+1112,Niedoczynność tarczycy,Zalecana konsultacja specjalistyczna.
+1113,COVID-19,"Przebieg łagodny, leczenie objawowe."
+1114,COVID-19,"Przebieg łagodny, leczenie objawowe."
+1115,Egzema,Zalecana zmiana stylu życia i diety.
+1116,Zapalenie płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+1117,Zapalenie spojówek,Stosować leki zgodnie z zaleceniami.
+1118,Zapalenie zatok,"Przebieg łagodny, leczenie objawowe."
+1119,Niedoczynność tarczycy,Zalecana konsultacja specjalistyczna.
+1120,Nowotwór płuc,Wymaga dalszej diagnostyki.
+1121,Zawał serca,Konieczność obserwacji w warunkach domowych.
+1122,Zapalenie spojówek,Zalecane leczenie farmakologiczne.
+1123,Egzema,"Przebieg łagodny, leczenie objawowe."
+1124,Borelioza,Leczenie szpitalne nie jest wymagane.
+1125,Zapalenie pęcherza,Wskazane badania kontrolne za 2 tygodnie.
+1126,Zapalenie wątroby typu A,Zalecana konsultacja specjalistyczna.
+1127,Zawał serca,Zalecane leczenie farmakologiczne.
+1128,COVID-19,Wskazane badania kontrolne za 2 tygodnie.
+1129,Alergia sezonowa,Konieczność obserwacji w warunkach domowych.
+1130,Osteoporoza,Wskazane badania kontrolne za 2 tygodnie.
+1131,Egzema,Zalecana konsultacja specjalistyczna.
+1132,Zapalenie spojówek,Stosować leki zgodnie z zaleceniami.
+1133,Nowotwór piersi,"Przebieg łagodny, leczenie objawowe."
+1134,Reumatoidalne zapalenie stawów,"Ryzyko nawrotu choroby, zachować ostrożność."
+1135,Kamica nerkowa,Zalecana zmiana stylu życia i diety.
+1136,Zapalenie oskrzeli,Wymaga dalszej diagnostyki.
+1137,Cukrzyca typu 2,Wymaga dalszej diagnostyki.
+1138,Angina,Zalecane leczenie farmakologiczne.
+1139,Astma,Stosować leki zgodnie z zaleceniami.
+1140,Nadciśnienie,Stosować leki zgodnie z zaleceniami.
+1141,Zapalenie ucha środkowego,"Przebieg łagodny, leczenie objawowe."
+1142,Osteoporoza,"Przebieg łagodny, leczenie objawowe."
+1143,Zapalenie zatok,Wymaga dalszej diagnostyki.
+1144,Zapalenie płuc,Zalecana zmiana stylu życia i diety.
+1145,Kamica nerkowa,Zalecana zmiana stylu życia i diety.
+1146,Zawał serca,"Ryzyko nawrotu choroby, zachować ostrożność."
+1147,Borelioza,Zalecana konsultacja specjalistyczna.
+1148,Choroba refluksowa,Konieczność obserwacji w warunkach domowych.
+1149,Migrena,Leczenie szpitalne nie jest wymagane.
+1150,Zapalenie pęcherza,Zalecana konsultacja specjalistyczna.
+1151,Zapalenie pęcherza,Wskazane badania kontrolne za 2 tygodnie.
+1152,Zapalenie gardła,Leczenie szpitalne nie jest wymagane.
+1153,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+1154,Nowotwór płuc,Konieczność obserwacji w warunkach domowych.
+1155,Anemia,Wymaga dalszej diagnostyki.
+1156,Osteoporoza,"Ryzyko nawrotu choroby, zachować ostrożność."
+1157,Migrena,Zalecane leczenie farmakologiczne.
+1158,Reumatoidalne zapalenie stawów,Wskazane badania kontrolne za 2 tygodnie.
+1159,Nowotwór płuc,Wskazane badania kontrolne za 2 tygodnie.
+1160,Nowotwór płuc,Zalecana konsultacja specjalistyczna.
+1161,Angina,Zalecana zmiana stylu życia i diety.
+1162,Zapalenie płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+1163,Alergia sezonowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+1164,Angina,"Ryzyko nawrotu choroby, zachować ostrożność."
+1165,Zapalenie ucha środkowego,Stosować leki zgodnie z zaleceniami.
+1166,Nadciśnienie,Stosować leki zgodnie z zaleceniami.
+1167,Cukrzyca typu 2,Zalecana konsultacja specjalistyczna.
+1168,Reumatoidalne zapalenie stawów,Zalecana zmiana stylu życia i diety.
+1169,Zapalenie zatok,Wskazane badania kontrolne za 2 tygodnie.
+1170,Osteoporoza,Wymaga dalszej diagnostyki.
+1171,Egzema,Stosować leki zgodnie z zaleceniami.
+1172,Choroba refluksowa,Wymaga dalszej diagnostyki.
+1173,Zapalenie ucha środkowego,Zalecana zmiana stylu życia i diety.
+1174,Atopowe zapalenie skóry,Zalecane leczenie farmakologiczne.
+1175,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+1176,Zapalenie płuc,Konieczność obserwacji w warunkach domowych.
+1177,Egzema,Leczenie szpitalne nie jest wymagane.
+1178,Zespół jelita drażliwego,Leczenie szpitalne nie jest wymagane.
+1179,Angina,"Ryzyko nawrotu choroby, zachować ostrożność."
+1180,Kamica nerkowa,Zalecana konsultacja specjalistyczna.
+1181,Astma,"Przebieg łagodny, leczenie objawowe."
+1182,Zapalenie zatok,Konieczność obserwacji w warunkach domowych.
+1183,Zawał serca,Wskazane badania kontrolne za 2 tygodnie.
+1184,Borelioza,Zalecane leczenie farmakologiczne.
+1185,Zespół jelita drażliwego,"Ryzyko nawrotu choroby, zachować ostrożność."
+1186,Nadciśnienie,Stosować leki zgodnie z zaleceniami.
+1187,Zapalenie oskrzeli,Zalecana konsultacja specjalistyczna.
+1188,Grypa,Zalecana zmiana stylu życia i diety.
+1189,Angina,Konieczność obserwacji w warunkach domowych.
+1190,Zespół napięcia przedmiesiączkowego,"Przebieg łagodny, leczenie objawowe."
+1191,Nowotwór płuc,Wskazane badania kontrolne za 2 tygodnie.
+1192,Zespół napięcia przedmiesiączkowego,Zalecane leczenie farmakologiczne.
+1193,Zespół jelita drażliwego,Wskazane badania kontrolne za 2 tygodnie.
+1194,Borelioza,Stosować leki zgodnie z zaleceniami.
+1195,Zapalenie wątroby typu A,Wskazane badania kontrolne za 2 tygodnie.
+1196,Borelioza,Zalecana konsultacja specjalistyczna.
+1197,Zapalenie ucha środkowego,Konieczność obserwacji w warunkach domowych.
+1198,Egzema,"Ryzyko nawrotu choroby, zachować ostrożność."
+1199,Choroba refluksowa,Konieczność obserwacji w warunkach domowych.
+1200,Nadciśnienie,"Ryzyko nawrotu choroby, zachować ostrożność."
+1201,Nadciśnienie,Stosować leki zgodnie z zaleceniami.
+1202,Zapalenie gardła,Zalecane leczenie farmakologiczne.
+1203,Reumatoidalne zapalenie stawów,Wymaga dalszej diagnostyki.
+1204,Anemia,Wymaga dalszej diagnostyki.
+1205,Alergia sezonowa,Stosować leki zgodnie z zaleceniami.
+1206,Cukrzyca typu 2,Zalecana konsultacja specjalistyczna.
+1207,Anemia,Wymaga dalszej diagnostyki.
+1208,Cukrzyca typu 2,Zalecane leczenie farmakologiczne.
+1209,Grypa,Stosować leki zgodnie z zaleceniami.
+1210,Cukrzyca typu 2,Zalecana konsultacja specjalistyczna.
+1211,Nowotwór piersi,Stosować leki zgodnie z zaleceniami.
+1212,Migrena,Zalecana zmiana stylu życia i diety.
+1213,Zapalenie gardła,Zalecane leczenie farmakologiczne.
+1214,Reumatoidalne zapalenie stawów,"Przebieg łagodny, leczenie objawowe."
+1215,Nadciśnienie,Zalecana konsultacja specjalistyczna.
+1216,Nadciśnienie,Wymaga dalszej diagnostyki.
+1217,Grypa,Wskazane badania kontrolne za 2 tygodnie.
+1218,Depresja,"Przebieg łagodny, leczenie objawowe."
+1219,Astma,Wymaga dalszej diagnostyki.
+1220,Zespół napięcia przedmiesiączkowego,Stosować leki zgodnie z zaleceniami.
+1221,Egzema,"Ryzyko nawrotu choroby, zachować ostrożność."
+1222,Egzema,"Ryzyko nawrotu choroby, zachować ostrożność."
+1223,Alergia sezonowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+1224,Choroba refluksowa,Zalecana zmiana stylu życia i diety.
+1225,Astma,"Ryzyko nawrotu choroby, zachować ostrożność."
+1226,Alergia sezonowa,Leczenie szpitalne nie jest wymagane.
+1227,Grypa,Wymaga dalszej diagnostyki.
+1228,Alergia sezonowa,"Przebieg łagodny, leczenie objawowe."
+1229,Choroba wieńcowa,Zalecana konsultacja specjalistyczna.
+1230,Egzema,Wymaga dalszej diagnostyki.
+1231,Cukrzyca typu 2,"Przebieg łagodny, leczenie objawowe."
+1232,Alergia sezonowa,Stosować leki zgodnie z zaleceniami.
+1233,Depresja,Zalecana konsultacja specjalistyczna.
+1234,Niedoczynność tarczycy,Zalecana zmiana stylu życia i diety.
+1235,Choroba refluksowa,Zalecana zmiana stylu życia i diety.
+1236,Zapalenie spojówek,Leczenie szpitalne nie jest wymagane.
+1237,Choroba refluksowa,"Przebieg łagodny, leczenie objawowe."
+1238,Zapalenie wątroby typu A,Konieczność obserwacji w warunkach domowych.
+1239,Zapalenie ucha środkowego,"Przebieg łagodny, leczenie objawowe."
+1240,Grypa,Konieczność obserwacji w warunkach domowych.
+1241,Choroba refluksowa,Zalecana konsultacja specjalistyczna.
+1242,Cukrzyca typu 2,Zalecane leczenie farmakologiczne.
+1243,Cukrzyca typu 2,"Ryzyko nawrotu choroby, zachować ostrożność."
+1244,Zapalenie ucha środkowego,Zalecane leczenie farmakologiczne.
+1245,Zapalenie wątroby typu A,Wymaga dalszej diagnostyki.
+1246,Zawał serca,Zalecane leczenie farmakologiczne.
+1247,Nadciśnienie,Stosować leki zgodnie z zaleceniami.
+1248,Zapalenie płuc,Zalecana zmiana stylu życia i diety.
+1249,Cukrzyca typu 2,Zalecana zmiana stylu życia i diety.
+1250,Choroba wieńcowa,Stosować leki zgodnie z zaleceniami.
+1251,Zawał serca,Stosować leki zgodnie z zaleceniami.
+1252,Nowotwór płuc,Stosować leki zgodnie z zaleceniami.
+1253,Atopowe zapalenie skóry,Konieczność obserwacji w warunkach domowych.
+1254,Atopowe zapalenie skóry,Stosować leki zgodnie z zaleceniami.
+1255,Egzema,"Przebieg łagodny, leczenie objawowe."
+1256,Zapalenie pęcherza,Zalecane leczenie farmakologiczne.
+1257,Zapalenie ucha środkowego,Wskazane badania kontrolne za 2 tygodnie.
+1258,Nowotwór piersi,"Ryzyko nawrotu choroby, zachować ostrożność."
+1259,Kamica nerkowa,Wskazane badania kontrolne za 2 tygodnie.
+1260,Nowotwór piersi,"Ryzyko nawrotu choroby, zachować ostrożność."
+1261,Zawał serca,Zalecana konsultacja specjalistyczna.
+1262,Osteoporoza,Wskazane badania kontrolne za 2 tygodnie.
+1263,Zapalenie spojówek,Zalecane leczenie farmakologiczne.
+1264,Reumatoidalne zapalenie stawów,Stosować leki zgodnie z zaleceniami.
+1265,Zespół napięcia przedmiesiączkowego,Zalecana konsultacja specjalistyczna.
+1266,Niedoczynność tarczycy,Stosować leki zgodnie z zaleceniami.
+1267,Grypa,Wskazane badania kontrolne za 2 tygodnie.
+1268,Alergia sezonowa,Zalecana konsultacja specjalistyczna.
+1269,Alergia sezonowa,"Przebieg łagodny, leczenie objawowe."
+1270,Migrena,Zalecane leczenie farmakologiczne.
+1271,Niedoczynność tarczycy,"Ryzyko nawrotu choroby, zachować ostrożność."
+1272,Osteoporoza,Konieczność obserwacji w warunkach domowych.
+1273,Borelioza,"Przebieg łagodny, leczenie objawowe."
+1274,Angina,"Ryzyko nawrotu choroby, zachować ostrożność."
+1275,Niedoczynność tarczycy,Zalecana konsultacja specjalistyczna.
+1276,Zapalenie zatok,Leczenie szpitalne nie jest wymagane.
+1277,Zespół jelita drażliwego,"Przebieg łagodny, leczenie objawowe."
+1278,Egzema,"Ryzyko nawrotu choroby, zachować ostrożność."
+1279,Atopowe zapalenie skóry,Wskazane badania kontrolne za 2 tygodnie.
+1280,Zapalenie wątroby typu A,Zalecana konsultacja specjalistyczna.
+1281,Atopowe zapalenie skóry,Zalecane leczenie farmakologiczne.
+1282,Zapalenie ucha środkowego,Wymaga dalszej diagnostyki.
+1283,Cukrzyca typu 2,Stosować leki zgodnie z zaleceniami.
+1284,Nowotwór płuc,Zalecana zmiana stylu życia i diety.
+1285,Choroba refluksowa,Zalecana konsultacja specjalistyczna.
+1286,Anemia,Leczenie szpitalne nie jest wymagane.
+1287,Atopowe zapalenie skóry,"Przebieg łagodny, leczenie objawowe."
+1288,Zapalenie spojówek,"Ryzyko nawrotu choroby, zachować ostrożność."
+1289,Grypa,Konieczność obserwacji w warunkach domowych.
+1290,Zapalenie pęcherza,Stosować leki zgodnie z zaleceniami.
+1291,Zapalenie zatok,Zalecana zmiana stylu życia i diety.
+1292,Zapalenie wątroby typu A,Zalecana zmiana stylu życia i diety.
+1293,Zapalenie gardła,Zalecana zmiana stylu życia i diety.
+1294,Reumatoidalne zapalenie stawów,Leczenie szpitalne nie jest wymagane.
+1295,Choroba refluksowa,Stosować leki zgodnie z zaleceniami.
+1296,Zapalenie płuc,Zalecana konsultacja specjalistyczna.
+1297,Zapalenie płuc,Zalecana zmiana stylu życia i diety.
+1298,Nowotwór płuc,Wymaga dalszej diagnostyki.
+1299,Angina,"Ryzyko nawrotu choroby, zachować ostrożność."
+1300,Zapalenie płuc,Wskazane badania kontrolne za 2 tygodnie.
+1301,Anemia,"Przebieg łagodny, leczenie objawowe."
+1302,Kamica nerkowa,"Przebieg łagodny, leczenie objawowe."
+1303,Kamica nerkowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+1304,Zespół jelita drażliwego,Leczenie szpitalne nie jest wymagane.
+1305,Borelioza,Zalecana zmiana stylu życia i diety.
+1306,Borelioza,"Przebieg łagodny, leczenie objawowe."
+1307,Reumatoidalne zapalenie stawów,Stosować leki zgodnie z zaleceniami.
+1308,Depresja,Zalecana zmiana stylu życia i diety.
+1309,Anemia,"Przebieg łagodny, leczenie objawowe."
+1310,Atopowe zapalenie skóry,Zalecana zmiana stylu życia i diety.
+1311,Nowotwór płuc,Zalecane leczenie farmakologiczne.
+1312,Kamica nerkowa,Leczenie szpitalne nie jest wymagane.
+1313,Migrena,Wskazane badania kontrolne za 2 tygodnie.
+1314,Osteoporoza,Zalecana zmiana stylu życia i diety.
+1315,Kamica nerkowa,Wymaga dalszej diagnostyki.
+1316,Atopowe zapalenie skóry,"Ryzyko nawrotu choroby, zachować ostrożność."
+1317,Zespół jelita drażliwego,Wymaga dalszej diagnostyki.
+1318,Zawał serca,Wskazane badania kontrolne za 2 tygodnie.
+1319,Egzema,Konieczność obserwacji w warunkach domowych.
+1320,Osteoporoza,Stosować leki zgodnie z zaleceniami.
+1321,Astma,"Ryzyko nawrotu choroby, zachować ostrożność."
+1322,Anemia,"Przebieg łagodny, leczenie objawowe."
+1323,Grypa,Stosować leki zgodnie z zaleceniami.
+1324,Zapalenie ucha środkowego,Zalecana zmiana stylu życia i diety.
+1325,Nowotwór płuc,Leczenie szpitalne nie jest wymagane.
+1326,Osteoporoza,Konieczność obserwacji w warunkach domowych.
+1327,Kamica nerkowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+1328,Kamica nerkowa,Zalecana zmiana stylu życia i diety.
+1329,Egzema,"Przebieg łagodny, leczenie objawowe."
+1330,Zapalenie gardła,Konieczność obserwacji w warunkach domowych.
+1331,Astma,"Przebieg łagodny, leczenie objawowe."
+1332,Choroba refluksowa,"Przebieg łagodny, leczenie objawowe."
+1333,Zespół napięcia przedmiesiączkowego,Wskazane badania kontrolne za 2 tygodnie.
+1334,Grypa,Konieczność obserwacji w warunkach domowych.
+1335,Choroba wieńcowa,"Przebieg łagodny, leczenie objawowe."
+1336,Osteoporoza,Konieczność obserwacji w warunkach domowych.
+1337,Angina,Zalecane leczenie farmakologiczne.
+1338,Zapalenie spojówek,Wymaga dalszej diagnostyki.
+1339,Zapalenie płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+1340,Osteoporoza,"Ryzyko nawrotu choroby, zachować ostrożność."
+1341,Zespół napięcia przedmiesiączkowego,Leczenie szpitalne nie jest wymagane.
+1342,Zapalenie pęcherza,Zalecana zmiana stylu życia i diety.
+1343,Zawał serca,Stosować leki zgodnie z zaleceniami.
+1344,Migrena,Konieczność obserwacji w warunkach domowych.
+1345,Nowotwór piersi,Konieczność obserwacji w warunkach domowych.
+1346,Egzema,Zalecana zmiana stylu życia i diety.
+1347,Nowotwór piersi,Konieczność obserwacji w warunkach domowych.
+1348,Zapalenie pęcherza,Zalecana zmiana stylu życia i diety.
+1349,Reumatoidalne zapalenie stawów,Stosować leki zgodnie z zaleceniami.
+1350,Angina,Wymaga dalszej diagnostyki.
+1351,Astma,Stosować leki zgodnie z zaleceniami.
+1352,Nowotwór płuc,Stosować leki zgodnie z zaleceniami.
+1353,Osteoporoza,Stosować leki zgodnie z zaleceniami.
+1354,Zespół napięcia przedmiesiączkowego,Leczenie szpitalne nie jest wymagane.
+1355,Angina,Wskazane badania kontrolne za 2 tygodnie.
+1356,Kamica nerkowa,Wskazane badania kontrolne za 2 tygodnie.
+1357,Alergia sezonowa,Stosować leki zgodnie z zaleceniami.
+1358,Zapalenie oskrzeli,Konieczność obserwacji w warunkach domowych.
+1359,Kamica nerkowa,Zalecana zmiana stylu życia i diety.
+1360,Zapalenie oskrzeli,Leczenie szpitalne nie jest wymagane.
+1361,Astma,Zalecana konsultacja specjalistyczna.
+1362,Atopowe zapalenie skóry,Wymaga dalszej diagnostyki.
+1363,Cukrzyca typu 2,Zalecana konsultacja specjalistyczna.
+1364,Osteoporoza,Wymaga dalszej diagnostyki.
+1365,Zapalenie pęcherza,"Przebieg łagodny, leczenie objawowe."
+1366,Nadciśnienie,Stosować leki zgodnie z zaleceniami.
+1367,Zapalenie ucha środkowego,Stosować leki zgodnie z zaleceniami.
+1368,Nadciśnienie,Wskazane badania kontrolne za 2 tygodnie.
+1369,Borelioza,Wymaga dalszej diagnostyki.
+1370,Atopowe zapalenie skóry,Wskazane badania kontrolne za 2 tygodnie.
+1371,Astma,Leczenie szpitalne nie jest wymagane.
+1372,Zapalenie spojówek,Wskazane badania kontrolne za 2 tygodnie.
+1373,Osteoporoza,Leczenie szpitalne nie jest wymagane.
+1374,Nadciśnienie,"Przebieg łagodny, leczenie objawowe."
+1375,Zawał serca,Zalecana konsultacja specjalistyczna.
+1376,Zapalenie gardła,Konieczność obserwacji w warunkach domowych.
+1377,Depresja,"Przebieg łagodny, leczenie objawowe."
+1378,Astma,Leczenie szpitalne nie jest wymagane.
+1379,Angina,Zalecane leczenie farmakologiczne.
+1380,Depresja,"Ryzyko nawrotu choroby, zachować ostrożność."
+1381,Zapalenie oskrzeli,Zalecane leczenie farmakologiczne.
+1382,Depresja,"Przebieg łagodny, leczenie objawowe."
+1383,Osteoporoza,Zalecana konsultacja specjalistyczna.
+1384,Kamica nerkowa,Stosować leki zgodnie z zaleceniami.
+1385,Zespół napięcia przedmiesiączkowego,Wskazane badania kontrolne za 2 tygodnie.
+1386,Angina,Leczenie szpitalne nie jest wymagane.
+1387,Choroba refluksowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+1388,Angina,Wskazane badania kontrolne za 2 tygodnie.
+1389,Cukrzyca typu 2,Zalecane leczenie farmakologiczne.
+1390,Egzema,Zalecana zmiana stylu życia i diety.
+1391,Zapalenie oskrzeli,"Przebieg łagodny, leczenie objawowe."
+1392,Depresja,Zalecana zmiana stylu życia i diety.
+1393,Atopowe zapalenie skóry,Zalecane leczenie farmakologiczne.
+1394,Zapalenie ucha środkowego,Wymaga dalszej diagnostyki.
+1395,Zapalenie płuc,Leczenie szpitalne nie jest wymagane.
+1396,Zapalenie pęcherza,Wskazane badania kontrolne za 2 tygodnie.
+1397,COVID-19,Zalecana konsultacja specjalistyczna.
+1398,Grypa,Zalecana zmiana stylu życia i diety.
+1399,Choroba refluksowa,Konieczność obserwacji w warunkach domowych.
+1400,Zapalenie płuc,Leczenie szpitalne nie jest wymagane.
+1401,Zespół napięcia przedmiesiączkowego,Zalecana konsultacja specjalistyczna.
+1402,Egzema,Zalecana zmiana stylu życia i diety.
+1403,Choroba wieńcowa,Stosować leki zgodnie z zaleceniami.
+1404,Egzema,Stosować leki zgodnie z zaleceniami.
+1405,Choroba wieńcowa,Wskazane badania kontrolne za 2 tygodnie.
+1406,Zapalenie gardła,Konieczność obserwacji w warunkach domowych.
+1407,Zawał serca,Zalecane leczenie farmakologiczne.
+1408,Zawał serca,Zalecana zmiana stylu życia i diety.
+1409,Niedoczynność tarczycy,"Przebieg łagodny, leczenie objawowe."
+1410,Alergia sezonowa,Wymaga dalszej diagnostyki.
+1411,Zapalenie oskrzeli,Wskazane badania kontrolne za 2 tygodnie.
+1412,Migrena,"Przebieg łagodny, leczenie objawowe."
+1413,Egzema,Zalecana zmiana stylu życia i diety.
+1414,Zapalenie zatok,"Przebieg łagodny, leczenie objawowe."
+1415,Zapalenie zatok,Stosować leki zgodnie z zaleceniami.
+1416,Nowotwór piersi,Zalecane leczenie farmakologiczne.
+1417,Depresja,Zalecana zmiana stylu życia i diety.
+1418,Choroba wieńcowa,"Przebieg łagodny, leczenie objawowe."
+1419,Angina,Konieczność obserwacji w warunkach domowych.
+1420,Grypa,"Przebieg łagodny, leczenie objawowe."
+1421,Alergia sezonowa,Stosować leki zgodnie z zaleceniami.
+1422,COVID-19,"Ryzyko nawrotu choroby, zachować ostrożność."
+1423,Zespół napięcia przedmiesiączkowego,Stosować leki zgodnie z zaleceniami.
+1424,Nowotwór piersi,Wskazane badania kontrolne za 2 tygodnie.
+1425,Zapalenie pęcherza,"Ryzyko nawrotu choroby, zachować ostrożność."
+1426,Nowotwór płuc,Leczenie szpitalne nie jest wymagane.
+1427,Choroba refluksowa,"Przebieg łagodny, leczenie objawowe."
+1428,Cukrzyca typu 2,Zalecana zmiana stylu życia i diety.
+1429,Migrena,Zalecane leczenie farmakologiczne.
+1430,Angina,Zalecana zmiana stylu życia i diety.
+1431,Astma,Zalecane leczenie farmakologiczne.
+1432,Zespół jelita drażliwego,Zalecane leczenie farmakologiczne.
+1433,Zapalenie zatok,"Ryzyko nawrotu choroby, zachować ostrożność."
+1434,Zespół napięcia przedmiesiączkowego,Zalecana zmiana stylu życia i diety.
+1435,Zapalenie pęcherza,Wymaga dalszej diagnostyki.
+1436,Astma,Stosować leki zgodnie z zaleceniami.
+1437,COVID-19,"Przebieg łagodny, leczenie objawowe."
+1438,Zapalenie wątroby typu A,Stosować leki zgodnie z zaleceniami.
+1439,Cukrzyca typu 2,Konieczność obserwacji w warunkach domowych.
+1440,Zapalenie spojówek,Zalecane leczenie farmakologiczne.
+1441,Zapalenie zatok,Zalecane leczenie farmakologiczne.
+1442,Zapalenie gardła,Konieczność obserwacji w warunkach domowych.
+1443,Osteoporoza,Konieczność obserwacji w warunkach domowych.
+1444,Nowotwór piersi,"Przebieg łagodny, leczenie objawowe."
+1445,Zapalenie gardła,Zalecane leczenie farmakologiczne.
+1446,Nowotwór płuc,Zalecana konsultacja specjalistyczna.
+1447,Grypa,Wymaga dalszej diagnostyki.
+1448,Nadciśnienie,"Przebieg łagodny, leczenie objawowe."
+1449,Nowotwór piersi,Zalecana zmiana stylu życia i diety.
+1450,Zespół jelita drażliwego,Konieczność obserwacji w warunkach domowych.
+1451,Angina,Zalecana zmiana stylu życia i diety.
+1452,Nowotwór płuc,Wymaga dalszej diagnostyki.
+1453,Osteoporoza,"Przebieg łagodny, leczenie objawowe."
+1454,Cukrzyca typu 2,Wskazane badania kontrolne za 2 tygodnie.
+1455,Zespół napięcia przedmiesiączkowego,Zalecane leczenie farmakologiczne.
+1456,Zapalenie oskrzeli,"Ryzyko nawrotu choroby, zachować ostrożność."
+1457,Zapalenie wątroby typu A,"Ryzyko nawrotu choroby, zachować ostrożność."
+1458,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+1459,Grypa,Zalecana zmiana stylu życia i diety.
+1460,Zapalenie oskrzeli,Wymaga dalszej diagnostyki.
+1461,Zespół jelita drażliwego,Konieczność obserwacji w warunkach domowych.
+1462,Nowotwór płuc,"Przebieg łagodny, leczenie objawowe."
+1463,Zespół jelita drażliwego,Zalecane leczenie farmakologiczne.
+1464,Zespół jelita drażliwego,"Przebieg łagodny, leczenie objawowe."
+1465,Anemia,"Ryzyko nawrotu choroby, zachować ostrożność."
+1466,Grypa,Zalecane leczenie farmakologiczne.
+1467,Zapalenie wątroby typu A,Leczenie szpitalne nie jest wymagane.
+1468,Atopowe zapalenie skóry,"Przebieg łagodny, leczenie objawowe."
+1469,Astma,Konieczność obserwacji w warunkach domowych.
+1470,Zapalenie płuc,Wymaga dalszej diagnostyki.
+1471,Zapalenie płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+1472,Nowotwór płuc,Leczenie szpitalne nie jest wymagane.
+1473,Zapalenie pęcherza,Stosować leki zgodnie z zaleceniami.
+1474,Zapalenie płuc,Leczenie szpitalne nie jest wymagane.
+1475,Osteoporoza,Stosować leki zgodnie z zaleceniami.
+1476,Zapalenie ucha środkowego,Wskazane badania kontrolne za 2 tygodnie.
+1477,Alergia sezonowa,Zalecana zmiana stylu życia i diety.
+1478,Niedoczynność tarczycy,Stosować leki zgodnie z zaleceniami.
+1479,Nowotwór piersi,Stosować leki zgodnie z zaleceniami.
+1480,Choroba refluksowa,Zalecana konsultacja specjalistyczna.
+1481,Atopowe zapalenie skóry,Leczenie szpitalne nie jest wymagane.
+1482,Zapalenie spojówek,Stosować leki zgodnie z zaleceniami.
+1483,Zapalenie wątroby typu A,Wymaga dalszej diagnostyki.
+1484,Choroba wieńcowa,Zalecana konsultacja specjalistyczna.
+1485,Borelioza,Stosować leki zgodnie z zaleceniami.
+1486,Nowotwór piersi,"Ryzyko nawrotu choroby, zachować ostrożność."
+1487,Zapalenie pęcherza,Zalecane leczenie farmakologiczne.
+1488,Borelioza,Leczenie szpitalne nie jest wymagane.
+1489,Osteoporoza,Zalecana zmiana stylu życia i diety.
+1490,Borelioza,Leczenie szpitalne nie jest wymagane.
+1491,Zapalenie pęcherza,Zalecana zmiana stylu życia i diety.
+1492,Reumatoidalne zapalenie stawów,"Przebieg łagodny, leczenie objawowe."
+1493,Niedoczynność tarczycy,Wymaga dalszej diagnostyki.
+1494,Zapalenie spojówek,Wymaga dalszej diagnostyki.
+1495,Zapalenie oskrzeli,Leczenie szpitalne nie jest wymagane.
+1496,Migrena,Zalecana zmiana stylu życia i diety.
+1497,Grypa,Konieczność obserwacji w warunkach domowych.
+1498,Zapalenie pęcherza,"Przebieg łagodny, leczenie objawowe."
+1499,Borelioza,"Ryzyko nawrotu choroby, zachować ostrożność."
+1500,Zapalenie gardła,Stosować leki zgodnie z zaleceniami.
+1501,Zapalenie płuc,Leczenie szpitalne nie jest wymagane.
+1502,Niedoczynność tarczycy,Leczenie szpitalne nie jest wymagane.
+1503,Niedoczynność tarczycy,"Przebieg łagodny, leczenie objawowe."
+1504,Zapalenie ucha środkowego,Wskazane badania kontrolne za 2 tygodnie.
+1505,Migrena,"Przebieg łagodny, leczenie objawowe."
+1506,Nowotwór piersi,Zalecana konsultacja specjalistyczna.
+1507,Egzema,Zalecane leczenie farmakologiczne.
+1508,Migrena,"Ryzyko nawrotu choroby, zachować ostrożność."
+1509,Osteoporoza,Wymaga dalszej diagnostyki.
+1510,Zapalenie zatok,"Przebieg łagodny, leczenie objawowe."
+1511,Niedoczynność tarczycy,Konieczność obserwacji w warunkach domowych.
+1512,COVID-19,Leczenie szpitalne nie jest wymagane.
+1513,Migrena,"Przebieg łagodny, leczenie objawowe."
+1514,Angina,Zalecane leczenie farmakologiczne.
+1515,Angina,Konieczność obserwacji w warunkach domowych.
+1516,Zapalenie gardła,"Przebieg łagodny, leczenie objawowe."
+1517,Alergia sezonowa,Wymaga dalszej diagnostyki.
+1518,Cukrzyca typu 2,Konieczność obserwacji w warunkach domowych.
+1519,Zawał serca,Wymaga dalszej diagnostyki.
+1520,Zapalenie wątroby typu A,Stosować leki zgodnie z zaleceniami.
+1521,Niedoczynność tarczycy,Zalecane leczenie farmakologiczne.
+1522,Zapalenie zatok,Stosować leki zgodnie z zaleceniami.
+1523,Zespół napięcia przedmiesiączkowego,Stosować leki zgodnie z zaleceniami.
+1524,COVID-19,Konieczność obserwacji w warunkach domowych.
+1525,Zapalenie wątroby typu A,Zalecana zmiana stylu życia i diety.
+1526,Nowotwór płuc,Zalecana zmiana stylu życia i diety.
+1527,Zapalenie oskrzeli,"Ryzyko nawrotu choroby, zachować ostrożność."
+1528,Zapalenie oskrzeli,"Ryzyko nawrotu choroby, zachować ostrożność."
+1529,Kamica nerkowa,Stosować leki zgodnie z zaleceniami.
+1530,Angina,Konieczność obserwacji w warunkach domowych.
+1531,Nowotwór płuc,Wskazane badania kontrolne za 2 tygodnie.
+1532,Migrena,Wskazane badania kontrolne za 2 tygodnie.
+1533,Zapalenie ucha środkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+1534,Angina,Wskazane badania kontrolne za 2 tygodnie.
+1535,Zapalenie oskrzeli,"Ryzyko nawrotu choroby, zachować ostrożność."
+1536,Nadciśnienie,"Ryzyko nawrotu choroby, zachować ostrożność."
+1537,Choroba wieńcowa,Leczenie szpitalne nie jest wymagane.
+1538,Nadciśnienie,Wymaga dalszej diagnostyki.
+1539,Anemia,Wymaga dalszej diagnostyki.
+1540,Nowotwór piersi,Wskazane badania kontrolne za 2 tygodnie.
+1541,Borelioza,"Przebieg łagodny, leczenie objawowe."
+1542,Nowotwór płuc,Zalecane leczenie farmakologiczne.
+1543,Kamica nerkowa,Konieczność obserwacji w warunkach domowych.
+1544,Zawał serca,"Przebieg łagodny, leczenie objawowe."
+1545,Zapalenie spojówek,Wymaga dalszej diagnostyki.
+1546,Grypa,Zalecana konsultacja specjalistyczna.
+1547,Angina,Leczenie szpitalne nie jest wymagane.
+1548,Zawał serca,Wymaga dalszej diagnostyki.
+1549,Alergia sezonowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+1550,Zespół jelita drażliwego,Zalecana zmiana stylu życia i diety.
+1551,Zespół napięcia przedmiesiączkowego,Leczenie szpitalne nie jest wymagane.
+1552,Astma,Konieczność obserwacji w warunkach domowych.
+1553,Zapalenie gardła,Leczenie szpitalne nie jest wymagane.
+1554,Atopowe zapalenie skóry,Zalecana konsultacja specjalistyczna.
+1555,Zawał serca,Konieczność obserwacji w warunkach domowych.
+1556,Zapalenie pęcherza,Zalecane leczenie farmakologiczne.
+1557,Choroba refluksowa,Zalecana zmiana stylu życia i diety.
+1558,Borelioza,Wskazane badania kontrolne za 2 tygodnie.
+1559,Zapalenie gardła,Zalecana konsultacja specjalistyczna.
+1560,Cukrzyca typu 2,"Przebieg łagodny, leczenie objawowe."
+1561,Nowotwór płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+1562,Anemia,Zalecane leczenie farmakologiczne.
+1563,Zespół napięcia przedmiesiączkowego,Zalecana konsultacja specjalistyczna.
+1564,Zespół napięcia przedmiesiączkowego,Zalecane leczenie farmakologiczne.
+1565,Zapalenie zatok,Zalecana konsultacja specjalistyczna.
+1566,Depresja,Stosować leki zgodnie z zaleceniami.
+1567,Atopowe zapalenie skóry,"Przebieg łagodny, leczenie objawowe."
+1568,Zawał serca,Wymaga dalszej diagnostyki.
+1569,Migrena,Zalecana konsultacja specjalistyczna.
+1570,Reumatoidalne zapalenie stawów,Zalecana konsultacja specjalistyczna.
+1571,Angina,"Ryzyko nawrotu choroby, zachować ostrożność."
+1572,Atopowe zapalenie skóry,Stosować leki zgodnie z zaleceniami.
+1573,Zapalenie wątroby typu A,Zalecane leczenie farmakologiczne.
+1574,Zapalenie płuc,Leczenie szpitalne nie jest wymagane.
+1575,Migrena,Wskazane badania kontrolne za 2 tygodnie.
+1576,Nowotwór płuc,Zalecane leczenie farmakologiczne.
+1577,Zespół jelita drażliwego,Wskazane badania kontrolne za 2 tygodnie.
+1578,Zapalenie wątroby typu A,Wymaga dalszej diagnostyki.
+1579,Cukrzyca typu 2,Wymaga dalszej diagnostyki.
+1580,Choroba wieńcowa,Stosować leki zgodnie z zaleceniami.
+1581,Nowotwór płuc,Wskazane badania kontrolne za 2 tygodnie.
+1582,Anemia,Zalecana konsultacja specjalistyczna.
+1583,Zapalenie gardła,Zalecane leczenie farmakologiczne.
+1584,Zapalenie pęcherza,Wymaga dalszej diagnostyki.
+1585,Alergia sezonowa,"Przebieg łagodny, leczenie objawowe."
+1586,Zawał serca,Leczenie szpitalne nie jest wymagane.
+1587,Zapalenie płuc,Leczenie szpitalne nie jest wymagane.
+1588,Choroba wieńcowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+1589,Cukrzyca typu 2,Zalecana konsultacja specjalistyczna.
+1590,Zapalenie spojówek,Wymaga dalszej diagnostyki.
+1591,Zapalenie oskrzeli,"Przebieg łagodny, leczenie objawowe."
+1592,Egzema,Zalecana konsultacja specjalistyczna.
+1593,Zapalenie zatok,Zalecana konsultacja specjalistyczna.
+1594,Niedoczynność tarczycy,Zalecane leczenie farmakologiczne.
+1595,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+1596,Grypa,Wymaga dalszej diagnostyki.
+1597,Zespół jelita drażliwego,Zalecana zmiana stylu życia i diety.
+1598,Grypa,Konieczność obserwacji w warunkach domowych.
+1599,Reumatoidalne zapalenie stawów,Stosować leki zgodnie z zaleceniami.
+1600,Anemia,"Ryzyko nawrotu choroby, zachować ostrożność."
+1601,COVID-19,"Przebieg łagodny, leczenie objawowe."
+1602,Nowotwór płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+1603,Nowotwór płuc,"Przebieg łagodny, leczenie objawowe."
+1604,Migrena,Zalecana konsultacja specjalistyczna.
+1605,Zespół napięcia przedmiesiączkowego,Leczenie szpitalne nie jest wymagane.
+1606,Cukrzyca typu 2,Zalecana konsultacja specjalistyczna.
+1607,Reumatoidalne zapalenie stawów,Leczenie szpitalne nie jest wymagane.
+1608,Osteoporoza,Wymaga dalszej diagnostyki.
+1609,Nowotwór płuc,Leczenie szpitalne nie jest wymagane.
+1610,Cukrzyca typu 2,Zalecana zmiana stylu życia i diety.
+1611,Zapalenie pęcherza,"Przebieg łagodny, leczenie objawowe."
+1612,Zapalenie spojówek,Stosować leki zgodnie z zaleceniami.
+1613,Depresja,Konieczność obserwacji w warunkach domowych.
+1614,Zapalenie spojówek,Zalecane leczenie farmakologiczne.
+1615,Zapalenie wątroby typu A,Zalecane leczenie farmakologiczne.
+1616,Kamica nerkowa,Wskazane badania kontrolne za 2 tygodnie.
+1617,Angina,"Przebieg łagodny, leczenie objawowe."
+1618,Zapalenie płuc,Wskazane badania kontrolne za 2 tygodnie.
+1619,Zawał serca,Zalecana zmiana stylu życia i diety.
+1620,Depresja,Zalecana konsultacja specjalistyczna.
+1621,Nowotwór płuc,Zalecana zmiana stylu życia i diety.
+1622,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+1623,Anemia,Zalecana zmiana stylu życia i diety.
+1624,Choroba refluksowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+1625,Cukrzyca typu 2,Wskazane badania kontrolne za 2 tygodnie.
+1626,Angina,Wskazane badania kontrolne za 2 tygodnie.
+1627,Cukrzyca typu 2,Leczenie szpitalne nie jest wymagane.
+1628,Nadciśnienie,Zalecana konsultacja specjalistyczna.
+1629,Zapalenie oskrzeli,Stosować leki zgodnie z zaleceniami.
+1630,Zespół jelita drażliwego,Wskazane badania kontrolne za 2 tygodnie.
+1631,Zespół jelita drażliwego,"Ryzyko nawrotu choroby, zachować ostrożność."
+1632,Borelioza,Konieczność obserwacji w warunkach domowych.
+1633,Kamica nerkowa,Konieczność obserwacji w warunkach domowych.
+1634,Nowotwór płuc,Leczenie szpitalne nie jest wymagane.
+1635,Atopowe zapalenie skóry,Wskazane badania kontrolne za 2 tygodnie.
+1636,Reumatoidalne zapalenie stawów,"Ryzyko nawrotu choroby, zachować ostrożność."
+1637,Borelioza,Wymaga dalszej diagnostyki.
+1638,Atopowe zapalenie skóry,Stosować leki zgodnie z zaleceniami.
+1639,Cukrzyca typu 2,Konieczność obserwacji w warunkach domowych.
+1640,Zespół jelita drażliwego,Konieczność obserwacji w warunkach domowych.
+1641,Choroba refluksowa,Zalecana zmiana stylu życia i diety.
+1642,Depresja,Stosować leki zgodnie z zaleceniami.
+1643,Kamica nerkowa,"Przebieg łagodny, leczenie objawowe."
+1644,Egzema,Stosować leki zgodnie z zaleceniami.
+1645,Zapalenie zatok,"Przebieg łagodny, leczenie objawowe."
+1646,Borelioza,Leczenie szpitalne nie jest wymagane.
+1647,Zapalenie spojówek,Konieczność obserwacji w warunkach domowych.
+1648,Choroba wieńcowa,Zalecana zmiana stylu życia i diety.
+1649,Zapalenie wątroby typu A,"Przebieg łagodny, leczenie objawowe."
+1650,Reumatoidalne zapalenie stawów,Konieczność obserwacji w warunkach domowych.
+1651,Egzema,Stosować leki zgodnie z zaleceniami.
+1652,Kamica nerkowa,"Przebieg łagodny, leczenie objawowe."
+1653,Nowotwór piersi,Zalecana zmiana stylu życia i diety.
+1654,Alergia sezonowa,Wymaga dalszej diagnostyki.
+1655,Choroba refluksowa,"Przebieg łagodny, leczenie objawowe."
+1656,COVID-19,Zalecana zmiana stylu życia i diety.
+1657,Borelioza,Zalecana konsultacja specjalistyczna.
+1658,Atopowe zapalenie skóry,Stosować leki zgodnie z zaleceniami.
+1659,Anemia,Wskazane badania kontrolne za 2 tygodnie.
+1660,Nowotwór płuc,Konieczność obserwacji w warunkach domowych.
+1661,Nowotwór piersi,Leczenie szpitalne nie jest wymagane.
+1662,Borelioza,Zalecana konsultacja specjalistyczna.
+1663,Choroba wieńcowa,Zalecana zmiana stylu życia i diety.
+1664,Cukrzyca typu 2,Konieczność obserwacji w warunkach domowych.
+1665,Zapalenie gardła,Wskazane badania kontrolne za 2 tygodnie.
+1666,Niedoczynność tarczycy,Zalecane leczenie farmakologiczne.
+1667,Cukrzyca typu 2,"Przebieg łagodny, leczenie objawowe."
+1668,Choroba wieńcowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+1669,Nowotwór piersi,Leczenie szpitalne nie jest wymagane.
+1670,Zespół jelita drażliwego,Leczenie szpitalne nie jest wymagane.
+1671,Zapalenie spojówek,"Przebieg łagodny, leczenie objawowe."
+1672,Zespół jelita drażliwego,Zalecane leczenie farmakologiczne.
+1673,Zapalenie wątroby typu A,"Ryzyko nawrotu choroby, zachować ostrożność."
+1674,Migrena,"Ryzyko nawrotu choroby, zachować ostrożność."
+1675,Zapalenie wątroby typu A,Wskazane badania kontrolne za 2 tygodnie.
+1676,Kamica nerkowa,Wymaga dalszej diagnostyki.
+1677,Reumatoidalne zapalenie stawów,Zalecana konsultacja specjalistyczna.
+1678,Zapalenie gardła,Stosować leki zgodnie z zaleceniami.
+1679,Astma,Zalecane leczenie farmakologiczne.
+1680,Cukrzyca typu 2,Konieczność obserwacji w warunkach domowych.
+1681,Migrena,Leczenie szpitalne nie jest wymagane.
+1682,Zespół jelita drażliwego,Zalecana konsultacja specjalistyczna.
+1683,Migrena,Wskazane badania kontrolne za 2 tygodnie.
+1684,COVID-19,Zalecane leczenie farmakologiczne.
+1685,Astma,Zalecane leczenie farmakologiczne.
+1686,Zapalenie gardła,Stosować leki zgodnie z zaleceniami.
+1687,Zespół jelita drażliwego,Konieczność obserwacji w warunkach domowych.
+1688,Zapalenie wątroby typu A,"Przebieg łagodny, leczenie objawowe."
+1689,Depresja,"Przebieg łagodny, leczenie objawowe."
+1690,Zespół jelita drażliwego,Leczenie szpitalne nie jest wymagane.
+1691,Zapalenie ucha środkowego,"Przebieg łagodny, leczenie objawowe."
+1692,Osteoporoza,Zalecane leczenie farmakologiczne.
+1693,Kamica nerkowa,"Przebieg łagodny, leczenie objawowe."
+1694,Zapalenie pęcherza,Wskazane badania kontrolne za 2 tygodnie.
+1695,COVID-19,Leczenie szpitalne nie jest wymagane.
+1696,Angina,Zalecana konsultacja specjalistyczna.
+1697,Nadciśnienie,Zalecana zmiana stylu życia i diety.
+1698,Zespół jelita drażliwego,"Ryzyko nawrotu choroby, zachować ostrożność."
+1699,Zapalenie gardła,Wymaga dalszej diagnostyki.
+1700,Anemia,Wskazane badania kontrolne za 2 tygodnie.
+1701,Depresja,"Przebieg łagodny, leczenie objawowe."
+1702,Nowotwór piersi,Zalecana zmiana stylu życia i diety.
+1703,Zapalenie pęcherza,Zalecana konsultacja specjalistyczna.
+1704,Depresja,Konieczność obserwacji w warunkach domowych.
+1705,Migrena,Zalecane leczenie farmakologiczne.
+1706,Anemia,Konieczność obserwacji w warunkach domowych.
+1707,Zapalenie wątroby typu A,Zalecana zmiana stylu życia i diety.
+1708,Zespół napięcia przedmiesiączkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+1709,COVID-19,"Przebieg łagodny, leczenie objawowe."
+1710,Migrena,Wymaga dalszej diagnostyki.
+1711,Zapalenie spojówek,"Ryzyko nawrotu choroby, zachować ostrożność."
+1712,Zawał serca,Zalecana konsultacja specjalistyczna.
+1713,Zespół napięcia przedmiesiączkowego,Zalecana zmiana stylu życia i diety.
+1714,Zespół napięcia przedmiesiączkowego,Zalecane leczenie farmakologiczne.
+1715,Zespół jelita drażliwego,"Przebieg łagodny, leczenie objawowe."
+1716,Atopowe zapalenie skóry,Wskazane badania kontrolne za 2 tygodnie.
+1717,Borelioza,Stosować leki zgodnie z zaleceniami.
+1718,Angina,"Ryzyko nawrotu choroby, zachować ostrożność."
+1719,Zespół napięcia przedmiesiączkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+1720,COVID-19,Stosować leki zgodnie z zaleceniami.
+1721,Osteoporoza,Wymaga dalszej diagnostyki.
+1722,Zespół napięcia przedmiesiączkowego,Zalecana konsultacja specjalistyczna.
+1723,Niedoczynność tarczycy,"Przebieg łagodny, leczenie objawowe."
+1724,COVID-19,Stosować leki zgodnie z zaleceniami.
+1725,Zapalenie ucha środkowego,Wskazane badania kontrolne za 2 tygodnie.
+1726,Zespół jelita drażliwego,"Przebieg łagodny, leczenie objawowe."
+1727,Choroba refluksowa,"Przebieg łagodny, leczenie objawowe."
+1728,Zespół napięcia przedmiesiączkowego,Zalecana zmiana stylu życia i diety.
+1729,Nowotwór płuc,Zalecane leczenie farmakologiczne.
+1730,Anemia,Wymaga dalszej diagnostyki.
+1731,Zawał serca,Zalecane leczenie farmakologiczne.
+1732,Zespół napięcia przedmiesiączkowego,Zalecana zmiana stylu życia i diety.
+1733,Zapalenie ucha środkowego,Stosować leki zgodnie z zaleceniami.
+1734,Zespół napięcia przedmiesiączkowego,Zalecane leczenie farmakologiczne.
+1735,Atopowe zapalenie skóry,Wskazane badania kontrolne za 2 tygodnie.
+1736,Zawał serca,Wskazane badania kontrolne za 2 tygodnie.
+1737,Nadciśnienie,Wskazane badania kontrolne za 2 tygodnie.
+1738,Choroba wieńcowa,Stosować leki zgodnie z zaleceniami.
+1739,Depresja,Konieczność obserwacji w warunkach domowych.
+1740,Zapalenie płuc,Konieczność obserwacji w warunkach domowych.
+1741,Nowotwór płuc,Zalecana konsultacja specjalistyczna.
+1742,Zapalenie pęcherza,"Przebieg łagodny, leczenie objawowe."
+1743,Egzema,Zalecane leczenie farmakologiczne.
+1744,Zespół napięcia przedmiesiączkowego,Stosować leki zgodnie z zaleceniami.
+1745,Astma,"Przebieg łagodny, leczenie objawowe."
+1746,Nadciśnienie,Zalecana konsultacja specjalistyczna.
+1747,Nadciśnienie,Zalecana zmiana stylu życia i diety.
+1748,Astma,Konieczność obserwacji w warunkach domowych.
+1749,Nadciśnienie,Leczenie szpitalne nie jest wymagane.
+1750,Choroba wieńcowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+1751,Osteoporoza,Konieczność obserwacji w warunkach domowych.
+1752,Osteoporoza,Wskazane badania kontrolne za 2 tygodnie.
+1753,Zespół jelita drażliwego,Zalecana konsultacja specjalistyczna.
+1754,Depresja,Wskazane badania kontrolne za 2 tygodnie.
+1755,Zapalenie zatok,Zalecana konsultacja specjalistyczna.
+1756,Cukrzyca typu 2,"Przebieg łagodny, leczenie objawowe."
+1757,Nadciśnienie,Zalecana zmiana stylu życia i diety.
+1758,Astma,Zalecana zmiana stylu życia i diety.
+1759,Alergia sezonowa,Konieczność obserwacji w warunkach domowych.
+1760,Nowotwór płuc,Wskazane badania kontrolne za 2 tygodnie.
+1761,Zapalenie pęcherza,"Przebieg łagodny, leczenie objawowe."
+1762,Angina,"Przebieg łagodny, leczenie objawowe."
+1763,Cukrzyca typu 2,Wymaga dalszej diagnostyki.
+1764,Migrena,Konieczność obserwacji w warunkach domowych.
+1765,Alergia sezonowa,Leczenie szpitalne nie jest wymagane.
+1766,Zapalenie gardła,"Ryzyko nawrotu choroby, zachować ostrożność."
+1767,Zapalenie płuc,Zalecana konsultacja specjalistyczna.
+1768,Osteoporoza,Leczenie szpitalne nie jest wymagane.
+1769,Alergia sezonowa,"Przebieg łagodny, leczenie objawowe."
+1770,Grypa,Stosować leki zgodnie z zaleceniami.
+1771,Zapalenie pęcherza,Konieczność obserwacji w warunkach domowych.
+1772,Angina,Leczenie szpitalne nie jest wymagane.
+1773,Astma,Wskazane badania kontrolne za 2 tygodnie.
+1774,Reumatoidalne zapalenie stawów,Zalecana konsultacja specjalistyczna.
+1775,Astma,"Ryzyko nawrotu choroby, zachować ostrożność."
+1776,Osteoporoza,Zalecana konsultacja specjalistyczna.
+1777,Anemia,Zalecana zmiana stylu życia i diety.
+1778,Zapalenie płuc,Zalecana zmiana stylu życia i diety.
+1779,Zespół jelita drażliwego,"Ryzyko nawrotu choroby, zachować ostrożność."
+1780,Anemia,"Ryzyko nawrotu choroby, zachować ostrożność."
+1781,Alergia sezonowa,Wymaga dalszej diagnostyki.
+1782,Anemia,Zalecana konsultacja specjalistyczna.
+1783,Zapalenie oskrzeli,Wymaga dalszej diagnostyki.
+1784,Zespół napięcia przedmiesiączkowego,Zalecana konsultacja specjalistyczna.
+1785,Grypa,Konieczność obserwacji w warunkach domowych.
+1786,Nowotwór piersi,Leczenie szpitalne nie jest wymagane.
+1787,Atopowe zapalenie skóry,Wskazane badania kontrolne za 2 tygodnie.
+1788,Niedoczynność tarczycy,Leczenie szpitalne nie jest wymagane.
+1789,Nowotwór piersi,Leczenie szpitalne nie jest wymagane.
+1790,Zapalenie ucha środkowego,Zalecana zmiana stylu życia i diety.
+1791,Niedoczynność tarczycy,Konieczność obserwacji w warunkach domowych.
+1792,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+1793,Atopowe zapalenie skóry,Zalecana konsultacja specjalistyczna.
+1794,Zapalenie oskrzeli,"Przebieg łagodny, leczenie objawowe."
+1795,Cukrzyca typu 2,Zalecana zmiana stylu życia i diety.
+1796,Zapalenie płuc,Konieczność obserwacji w warunkach domowych.
+1797,Zapalenie gardła,Zalecana zmiana stylu życia i diety.
+1798,Zapalenie spojówek,Wskazane badania kontrolne za 2 tygodnie.
+1799,Zespół napięcia przedmiesiączkowego,Konieczność obserwacji w warunkach domowych.
+1800,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+1801,Kamica nerkowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+1802,Egzema,Zalecane leczenie farmakologiczne.
+1803,COVID-19,Wskazane badania kontrolne za 2 tygodnie.
+1804,Osteoporoza,"Ryzyko nawrotu choroby, zachować ostrożność."
+1805,Reumatoidalne zapalenie stawów,Konieczność obserwacji w warunkach domowych.
+1806,Niedoczynność tarczycy,"Przebieg łagodny, leczenie objawowe."
+1807,Osteoporoza,Zalecane leczenie farmakologiczne.
+1808,Depresja,"Ryzyko nawrotu choroby, zachować ostrożność."
+1809,Choroba wieńcowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+1810,Niedoczynność tarczycy,"Ryzyko nawrotu choroby, zachować ostrożność."
+1811,Nowotwór piersi,Stosować leki zgodnie z zaleceniami.
+1812,COVID-19,"Ryzyko nawrotu choroby, zachować ostrożność."
+1813,Reumatoidalne zapalenie stawów,Wskazane badania kontrolne za 2 tygodnie.
+1814,Astma,"Przebieg łagodny, leczenie objawowe."
+1815,Osteoporoza,Wymaga dalszej diagnostyki.
+1816,Choroba refluksowa,Stosować leki zgodnie z zaleceniami.
+1817,Astma,Stosować leki zgodnie z zaleceniami.
+1818,Nowotwór piersi,Wskazane badania kontrolne za 2 tygodnie.
+1819,Zapalenie wątroby typu A,Wymaga dalszej diagnostyki.
+1820,Choroba refluksowa,Stosować leki zgodnie z zaleceniami.
+1821,Nowotwór płuc,Zalecane leczenie farmakologiczne.
+1822,Nowotwór płuc,Wymaga dalszej diagnostyki.
+1823,Zapalenie ucha środkowego,Stosować leki zgodnie z zaleceniami.
+1824,Egzema,Konieczność obserwacji w warunkach domowych.
+1825,Zapalenie pęcherza,Zalecane leczenie farmakologiczne.
+1826,Migrena,Zalecana konsultacja specjalistyczna.
+1827,Zespół jelita drażliwego,Zalecane leczenie farmakologiczne.
+1828,Angina,Leczenie szpitalne nie jest wymagane.
+1829,COVID-19,Leczenie szpitalne nie jest wymagane.
+1830,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+1831,Zawał serca,Wskazane badania kontrolne za 2 tygodnie.
+1832,Borelioza,Zalecana zmiana stylu życia i diety.
+1833,Nowotwór piersi,Stosować leki zgodnie z zaleceniami.
+1834,Kamica nerkowa,Konieczność obserwacji w warunkach domowych.
+1835,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+1836,Zapalenie gardła,"Ryzyko nawrotu choroby, zachować ostrożność."
+1837,Atopowe zapalenie skóry,Wskazane badania kontrolne za 2 tygodnie.
+1838,Zapalenie oskrzeli,Leczenie szpitalne nie jest wymagane.
+1839,Cukrzyca typu 2,Zalecana konsultacja specjalistyczna.
+1840,Zespół napięcia przedmiesiączkowego,Stosować leki zgodnie z zaleceniami.
+1841,Zawał serca,Konieczność obserwacji w warunkach domowych.
+1842,Osteoporoza,Zalecana konsultacja specjalistyczna.
+1843,Egzema,Wymaga dalszej diagnostyki.
+1844,Zespół napięcia przedmiesiączkowego,Konieczność obserwacji w warunkach domowych.
+1845,Niedoczynność tarczycy,"Przebieg łagodny, leczenie objawowe."
+1846,Zapalenie oskrzeli,Zalecane leczenie farmakologiczne.
+1847,Zapalenie zatok,Zalecane leczenie farmakologiczne.
+1848,Reumatoidalne zapalenie stawów,"Przebieg łagodny, leczenie objawowe."
+1849,Zapalenie spojówek,Zalecana zmiana stylu życia i diety.
+1850,Egzema,Wskazane badania kontrolne za 2 tygodnie.
+1851,Osteoporoza,Wskazane badania kontrolne za 2 tygodnie.
+1852,Choroba wieńcowa,"Przebieg łagodny, leczenie objawowe."
+1853,Grypa,Wymaga dalszej diagnostyki.
+1854,Zapalenie pęcherza,Zalecane leczenie farmakologiczne.
+1855,Choroba wieńcowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+1856,Cukrzyca typu 2,"Przebieg łagodny, leczenie objawowe."
+1857,Nowotwór piersi,Zalecana konsultacja specjalistyczna.
+1858,Atopowe zapalenie skóry,Wymaga dalszej diagnostyki.
+1859,Nadciśnienie,"Ryzyko nawrotu choroby, zachować ostrożność."
+1860,Borelioza,Zalecana zmiana stylu życia i diety.
+1861,Zapalenie płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+1862,Choroba wieńcowa,Zalecana zmiana stylu życia i diety.
+1863,Borelioza,Stosować leki zgodnie z zaleceniami.
+1864,Osteoporoza,Zalecana zmiana stylu życia i diety.
+1865,Zespół jelita drażliwego,Zalecana zmiana stylu życia i diety.
+1866,Anemia,"Przebieg łagodny, leczenie objawowe."
+1867,Angina,Wskazane badania kontrolne za 2 tygodnie.
+1868,Nowotwór płuc,Konieczność obserwacji w warunkach domowych.
+1869,Borelioza,Leczenie szpitalne nie jest wymagane.
+1870,Zapalenie zatok,"Ryzyko nawrotu choroby, zachować ostrożność."
+1871,Niedoczynność tarczycy,Zalecane leczenie farmakologiczne.
+1872,Zapalenie zatok,Konieczność obserwacji w warunkach domowych.
+1873,Migrena,Zalecana konsultacja specjalistyczna.
+1874,Depresja,"Przebieg łagodny, leczenie objawowe."
+1875,Anemia,"Ryzyko nawrotu choroby, zachować ostrożność."
+1876,Osteoporoza,Wymaga dalszej diagnostyki.
+1877,Zapalenie płuc,Wskazane badania kontrolne za 2 tygodnie.
+1878,Niedoczynność tarczycy,Wskazane badania kontrolne za 2 tygodnie.
+1879,Borelioza,Konieczność obserwacji w warunkach domowych.
+1880,Nadciśnienie,"Przebieg łagodny, leczenie objawowe."
+1881,Zapalenie pęcherza,Zalecana zmiana stylu życia i diety.
+1882,Nowotwór płuc,Wymaga dalszej diagnostyki.
+1883,Kamica nerkowa,Zalecane leczenie farmakologiczne.
+1884,Zapalenie wątroby typu A,Wskazane badania kontrolne za 2 tygodnie.
+1885,Zapalenie wątroby typu A,Zalecana konsultacja specjalistyczna.
+1886,Zapalenie spojówek,"Ryzyko nawrotu choroby, zachować ostrożność."
+1887,Angina,Stosować leki zgodnie z zaleceniami.
+1888,Zapalenie płuc,Wymaga dalszej diagnostyki.
+1889,Zapalenie zatok,"Przebieg łagodny, leczenie objawowe."
+1890,Atopowe zapalenie skóry,"Ryzyko nawrotu choroby, zachować ostrożność."
+1891,Niedoczynność tarczycy,Zalecana zmiana stylu życia i diety.
+1892,COVID-19,Wskazane badania kontrolne za 2 tygodnie.
+1893,Zapalenie wątroby typu A,"Przebieg łagodny, leczenie objawowe."
+1894,Choroba refluksowa,"Przebieg łagodny, leczenie objawowe."
+1895,Zapalenie pęcherza,Stosować leki zgodnie z zaleceniami.
+1896,Zapalenie pęcherza,Zalecana zmiana stylu życia i diety.
+1897,Kamica nerkowa,Zalecana zmiana stylu życia i diety.
+1898,Zespół napięcia przedmiesiączkowego,Wymaga dalszej diagnostyki.
+1899,Migrena,Wymaga dalszej diagnostyki.
+1900,Nadciśnienie,Zalecane leczenie farmakologiczne.
+1901,Osteoporoza,Leczenie szpitalne nie jest wymagane.
+1902,Zapalenie wątroby typu A,"Ryzyko nawrotu choroby, zachować ostrożność."
+1903,Nadciśnienie,Zalecana konsultacja specjalistyczna.
+1904,Astma,Zalecane leczenie farmakologiczne.
+1905,Nowotwór płuc,Zalecana konsultacja specjalistyczna.
+1906,Zapalenie oskrzeli,Zalecana konsultacja specjalistyczna.
+1907,Choroba refluksowa,Stosować leki zgodnie z zaleceniami.
+1908,Zapalenie ucha środkowego,Zalecana zmiana stylu życia i diety.
+1909,Nadciśnienie,Zalecane leczenie farmakologiczne.
+1910,Zapalenie pęcherza,Konieczność obserwacji w warunkach domowych.
+1911,Borelioza,Wymaga dalszej diagnostyki.
+1912,Zapalenie oskrzeli,Zalecana zmiana stylu życia i diety.
+1913,Nadciśnienie,Zalecane leczenie farmakologiczne.
+1914,Grypa,"Przebieg łagodny, leczenie objawowe."
+1915,Zapalenie pęcherza,Wskazane badania kontrolne za 2 tygodnie.
+1916,Atopowe zapalenie skóry,Wymaga dalszej diagnostyki.
+1917,Zespół jelita drażliwego,Zalecana zmiana stylu życia i diety.
+1918,Choroba refluksowa,Zalecana zmiana stylu życia i diety.
+1919,Cukrzyca typu 2,Zalecana zmiana stylu życia i diety.
+1920,Choroba refluksowa,Zalecana konsultacja specjalistyczna.
+1921,Cukrzyca typu 2,"Ryzyko nawrotu choroby, zachować ostrożność."
+1922,Choroba wieńcowa,Zalecana konsultacja specjalistyczna.
+1923,Migrena,"Ryzyko nawrotu choroby, zachować ostrożność."
+1924,Depresja,Konieczność obserwacji w warunkach domowych.
+1925,Zapalenie oskrzeli,Wskazane badania kontrolne za 2 tygodnie.
+1926,Borelioza,Zalecana konsultacja specjalistyczna.
+1927,Nowotwór płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+1928,Zapalenie ucha środkowego,Leczenie szpitalne nie jest wymagane.
+1929,Zapalenie zatok,Konieczność obserwacji w warunkach domowych.
+1930,Niedoczynność tarczycy,Wskazane badania kontrolne za 2 tygodnie.
+1931,Anemia,Konieczność obserwacji w warunkach domowych.
+1932,Kamica nerkowa,"Przebieg łagodny, leczenie objawowe."
+1933,Anemia,"Ryzyko nawrotu choroby, zachować ostrożność."
+1934,Osteoporoza,Zalecana konsultacja specjalistyczna.
+1935,Zapalenie oskrzeli,Wymaga dalszej diagnostyki.
+1936,Astma,Zalecana zmiana stylu życia i diety.
+1937,Zapalenie gardła,Zalecana konsultacja specjalistyczna.
+1938,Migrena,"Ryzyko nawrotu choroby, zachować ostrożność."
+1939,Reumatoidalne zapalenie stawów,Zalecana konsultacja specjalistyczna.
+1940,Cukrzyca typu 2,Konieczność obserwacji w warunkach domowych.
+1941,Borelioza,Stosować leki zgodnie z zaleceniami.
+1942,Anemia,"Ryzyko nawrotu choroby, zachować ostrożność."
+1943,Zapalenie wątroby typu A,Wskazane badania kontrolne za 2 tygodnie.
+1944,Zapalenie gardła,Leczenie szpitalne nie jest wymagane.
+1945,Zapalenie zatok,"Przebieg łagodny, leczenie objawowe."
+1946,Nowotwór płuc,Zalecane leczenie farmakologiczne.
+1947,Zapalenie płuc,Zalecana konsultacja specjalistyczna.
+1948,Niedoczynność tarczycy,"Przebieg łagodny, leczenie objawowe."
+1949,Zapalenie ucha środkowego,Wymaga dalszej diagnostyki.
+1950,Astma,Zalecane leczenie farmakologiczne.
+1951,Choroba wieńcowa,Wskazane badania kontrolne za 2 tygodnie.
+1952,Alergia sezonowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+1953,Nowotwór piersi,Wskazane badania kontrolne za 2 tygodnie.
+1954,Kamica nerkowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+1955,Reumatoidalne zapalenie stawów,Stosować leki zgodnie z zaleceniami.
+1956,Zapalenie wątroby typu A,Stosować leki zgodnie z zaleceniami.
+1957,Alergia sezonowa,Zalecane leczenie farmakologiczne.
+1958,Zapalenie pęcherza,Konieczność obserwacji w warunkach domowych.
+1959,Zapalenie spojówek,Wymaga dalszej diagnostyki.
+1960,Atopowe zapalenie skóry,Stosować leki zgodnie z zaleceniami.
+1961,Osteoporoza,Zalecane leczenie farmakologiczne.
+1962,Reumatoidalne zapalenie stawów,"Przebieg łagodny, leczenie objawowe."
+1963,Atopowe zapalenie skóry,Konieczność obserwacji w warunkach domowych.
+1964,Egzema,Zalecana konsultacja specjalistyczna.
+1965,Zapalenie spojówek,Zalecane leczenie farmakologiczne.
+1966,Grypa,Stosować leki zgodnie z zaleceniami.
+1967,Borelioza,Zalecana zmiana stylu życia i diety.
+1968,Zapalenie płuc,Stosować leki zgodnie z zaleceniami.
+1969,Grypa,Wymaga dalszej diagnostyki.
+1970,Nowotwór płuc,Leczenie szpitalne nie jest wymagane.
+1971,Egzema,"Przebieg łagodny, leczenie objawowe."
+1972,Osteoporoza,Stosować leki zgodnie z zaleceniami.
+1973,Zespół jelita drażliwego,Leczenie szpitalne nie jest wymagane.
+1974,Niedoczynność tarczycy,Leczenie szpitalne nie jest wymagane.
+1975,Egzema,Wskazane badania kontrolne za 2 tygodnie.
+1976,Zapalenie oskrzeli,"Ryzyko nawrotu choroby, zachować ostrożność."
+1977,Choroba refluksowa,Leczenie szpitalne nie jest wymagane.
+1978,Nowotwór piersi,Zalecane leczenie farmakologiczne.
+1979,Choroba refluksowa,Stosować leki zgodnie z zaleceniami.
+1980,Angina,Wskazane badania kontrolne za 2 tygodnie.
+1981,Cukrzyca typu 2,"Ryzyko nawrotu choroby, zachować ostrożność."
+1982,Zapalenie spojówek,"Ryzyko nawrotu choroby, zachować ostrożność."
+1983,Depresja,Stosować leki zgodnie z zaleceniami.
+1984,Depresja,"Ryzyko nawrotu choroby, zachować ostrożność."
+1985,Choroba wieńcowa,Konieczność obserwacji w warunkach domowych.
+1986,Zapalenie oskrzeli,"Przebieg łagodny, leczenie objawowe."
+1987,Choroba wieńcowa,Wskazane badania kontrolne za 2 tygodnie.
+1988,Choroba wieńcowa,Zalecane leczenie farmakologiczne.
+1989,Depresja,Zalecane leczenie farmakologiczne.
+1990,Depresja,"Ryzyko nawrotu choroby, zachować ostrożność."
+1991,Anemia,Wskazane badania kontrolne za 2 tygodnie.
+1992,Grypa,Wskazane badania kontrolne za 2 tygodnie.
+1993,Astma,Wymaga dalszej diagnostyki.
+1994,Zespół jelita drażliwego,Leczenie szpitalne nie jest wymagane.
+1995,Zapalenie spojówek,Zalecane leczenie farmakologiczne.
+1996,Zapalenie zatok,Zalecana zmiana stylu życia i diety.
+1997,Astma,"Ryzyko nawrotu choroby, zachować ostrożność."
+1998,COVID-19,Leczenie szpitalne nie jest wymagane.
+1999,Choroba refluksowa,Wymaga dalszej diagnostyki.
+2000,Anemia,Wskazane badania kontrolne za 2 tygodnie.
+2001,Borelioza,Zalecana konsultacja specjalistyczna.
+2002,Egzema,Zalecane leczenie farmakologiczne.
+2003,Zapalenie wątroby typu A,Wymaga dalszej diagnostyki.
+2004,Borelioza,"Przebieg łagodny, leczenie objawowe."
+2005,Nowotwór płuc,Zalecane leczenie farmakologiczne.
+2006,Migrena,Zalecana konsultacja specjalistyczna.
+2007,Choroba wieńcowa,Zalecana konsultacja specjalistyczna.
+2008,Choroba refluksowa,Konieczność obserwacji w warunkach domowych.
+2009,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+2010,Zapalenie wątroby typu A,"Przebieg łagodny, leczenie objawowe."
+2011,Zapalenie pęcherza,Stosować leki zgodnie z zaleceniami.
+2012,Migrena,Konieczność obserwacji w warunkach domowych.
+2013,Zapalenie zatok,Leczenie szpitalne nie jest wymagane.
+2014,Cukrzyca typu 2,Wymaga dalszej diagnostyki.
+2015,Osteoporoza,Wymaga dalszej diagnostyki.
+2016,Grypa,"Przebieg łagodny, leczenie objawowe."
+2017,Cukrzyca typu 2,Konieczność obserwacji w warunkach domowych.
+2018,Alergia sezonowa,Wymaga dalszej diagnostyki.
+2019,Zawał serca,Stosować leki zgodnie z zaleceniami.
+2020,Zapalenie gardła,Leczenie szpitalne nie jest wymagane.
+2021,Nowotwór piersi,Leczenie szpitalne nie jest wymagane.
+2022,Zapalenie gardła,"Ryzyko nawrotu choroby, zachować ostrożność."
+2023,Zespół jelita drażliwego,Wymaga dalszej diagnostyki.
+2024,Zapalenie ucha środkowego,Wymaga dalszej diagnostyki.
+2025,Zapalenie ucha środkowego,Zalecana konsultacja specjalistyczna.
+2026,Zespół napięcia przedmiesiączkowego,"Przebieg łagodny, leczenie objawowe."
+2027,Choroba wieńcowa,Zalecane leczenie farmakologiczne.
+2028,Nadciśnienie,Wymaga dalszej diagnostyki.
+2029,Zapalenie pęcherza,Zalecana konsultacja specjalistyczna.
+2030,Borelioza,Zalecana konsultacja specjalistyczna.
+2031,Egzema,"Ryzyko nawrotu choroby, zachować ostrożność."
+2032,Zapalenie ucha środkowego,Zalecane leczenie farmakologiczne.
+2033,Borelioza,Wskazane badania kontrolne za 2 tygodnie.
+2034,Zapalenie wątroby typu A,Wymaga dalszej diagnostyki.
+2035,Niedoczynność tarczycy,"Przebieg łagodny, leczenie objawowe."
+2036,Zapalenie pęcherza,"Przebieg łagodny, leczenie objawowe."
+2037,Nowotwór płuc,Zalecana zmiana stylu życia i diety.
+2038,Cukrzyca typu 2,"Przebieg łagodny, leczenie objawowe."
+2039,Atopowe zapalenie skóry,Leczenie szpitalne nie jest wymagane.
+2040,Nowotwór piersi,Wskazane badania kontrolne za 2 tygodnie.
+2041,Kamica nerkowa,Stosować leki zgodnie z zaleceniami.
+2042,Egzema,Zalecane leczenie farmakologiczne.
+2043,Zapalenie oskrzeli,"Ryzyko nawrotu choroby, zachować ostrożność."
+2044,Egzema,Zalecane leczenie farmakologiczne.
+2045,Zapalenie ucha środkowego,Zalecane leczenie farmakologiczne.
+2046,Zapalenie płuc,Stosować leki zgodnie z zaleceniami.
+2047,Zapalenie spojówek,Zalecane leczenie farmakologiczne.
+2048,Kamica nerkowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+2049,Nadciśnienie,Zalecana konsultacja specjalistyczna.
+2050,Migrena,Zalecana zmiana stylu życia i diety.
+2051,Zapalenie gardła,Zalecana zmiana stylu życia i diety.
+2052,Reumatoidalne zapalenie stawów,"Ryzyko nawrotu choroby, zachować ostrożność."
+2053,Atopowe zapalenie skóry,Leczenie szpitalne nie jest wymagane.
+2054,Borelioza,Wymaga dalszej diagnostyki.
+2055,Zapalenie oskrzeli,Stosować leki zgodnie z zaleceniami.
+2056,Anemia,Konieczność obserwacji w warunkach domowych.
+2057,Zapalenie wątroby typu A,Konieczność obserwacji w warunkach domowych.
+2058,Zapalenie oskrzeli,Wymaga dalszej diagnostyki.
+2059,Astma,Konieczność obserwacji w warunkach domowych.
+2060,Reumatoidalne zapalenie stawów,Konieczność obserwacji w warunkach domowych.
+2061,Zespół napięcia przedmiesiączkowego,Zalecana konsultacja specjalistyczna.
+2062,Zespół jelita drażliwego,Stosować leki zgodnie z zaleceniami.
+2063,Zapalenie spojówek,Wymaga dalszej diagnostyki.
+2064,Zapalenie płuc,Wymaga dalszej diagnostyki.
+2065,Atopowe zapalenie skóry,Konieczność obserwacji w warunkach domowych.
+2066,Zapalenie zatok,Wskazane badania kontrolne za 2 tygodnie.
+2067,Angina,Zalecane leczenie farmakologiczne.
+2068,Choroba refluksowa,Stosować leki zgodnie z zaleceniami.
+2069,Alergia sezonowa,Wymaga dalszej diagnostyki.
+2070,Reumatoidalne zapalenie stawów,Leczenie szpitalne nie jest wymagane.
+2071,Migrena,Stosować leki zgodnie z zaleceniami.
+2072,Zapalenie gardła,Wymaga dalszej diagnostyki.
+2073,Choroba wieńcowa,Stosować leki zgodnie z zaleceniami.
+2074,Kamica nerkowa,Wymaga dalszej diagnostyki.
+2075,Alergia sezonowa,Zalecana zmiana stylu życia i diety.
+2076,COVID-19,Zalecana zmiana stylu życia i diety.
+2077,Nadciśnienie,"Przebieg łagodny, leczenie objawowe."
+2078,Astma,Konieczność obserwacji w warunkach domowych.
+2079,Zapalenie zatok,Leczenie szpitalne nie jest wymagane.
+2080,Nadciśnienie,Leczenie szpitalne nie jest wymagane.
+2081,Zapalenie zatok,Leczenie szpitalne nie jest wymagane.
+2082,Zapalenie zatok,Wymaga dalszej diagnostyki.
+2083,Niedoczynność tarczycy,Zalecane leczenie farmakologiczne.
+2084,Zapalenie zatok,Wskazane badania kontrolne za 2 tygodnie.
+2085,Nadciśnienie,Stosować leki zgodnie z zaleceniami.
+2086,Zespół jelita drażliwego,Zalecane leczenie farmakologiczne.
+2087,Reumatoidalne zapalenie stawów,Wymaga dalszej diagnostyki.
+2088,Migrena,Zalecana zmiana stylu życia i diety.
+2089,Grypa,Wymaga dalszej diagnostyki.
+2090,Nowotwór płuc,Zalecane leczenie farmakologiczne.
+2091,Nowotwór płuc,Stosować leki zgodnie z zaleceniami.
+2092,Niedoczynność tarczycy,Leczenie szpitalne nie jest wymagane.
+2093,Migrena,Konieczność obserwacji w warunkach domowych.
+2094,Zapalenie pęcherza,Zalecana zmiana stylu życia i diety.
+2095,Anemia,Wymaga dalszej diagnostyki.
+2096,Borelioza,Zalecana konsultacja specjalistyczna.
+2097,Alergia sezonowa,Zalecana zmiana stylu życia i diety.
+2098,Migrena,Zalecane leczenie farmakologiczne.
+2099,Nowotwór płuc,"Przebieg łagodny, leczenie objawowe."
+2100,Reumatoidalne zapalenie stawów,Zalecana konsultacja specjalistyczna.
+2101,Anemia,Wskazane badania kontrolne za 2 tygodnie.
+2102,Grypa,Leczenie szpitalne nie jest wymagane.
+2103,Zespół jelita drażliwego,Zalecana zmiana stylu życia i diety.
+2104,Egzema,"Ryzyko nawrotu choroby, zachować ostrożność."
+2105,Anemia,Zalecane leczenie farmakologiczne.
+2106,Zapalenie wątroby typu A,"Przebieg łagodny, leczenie objawowe."
+2107,Zespół napięcia przedmiesiączkowego,"Przebieg łagodny, leczenie objawowe."
+2108,Choroba refluksowa,Stosować leki zgodnie z zaleceniami.
+2109,Reumatoidalne zapalenie stawów,Wskazane badania kontrolne za 2 tygodnie.
+2110,Zapalenie spojówek,Zalecana zmiana stylu życia i diety.
+2111,Choroba refluksowa,Konieczność obserwacji w warunkach domowych.
+2112,Anemia,Zalecana zmiana stylu życia i diety.
+2113,Zapalenie gardła,Wskazane badania kontrolne za 2 tygodnie.
+2114,Choroba wieńcowa,Zalecana zmiana stylu życia i diety.
+2115,Atopowe zapalenie skóry,Zalecane leczenie farmakologiczne.
+2116,Zapalenie gardła,Wskazane badania kontrolne za 2 tygodnie.
+2117,Egzema,Konieczność obserwacji w warunkach domowych.
+2118,Reumatoidalne zapalenie stawów,Zalecana zmiana stylu życia i diety.
+2119,Alergia sezonowa,Zalecana zmiana stylu życia i diety.
+2120,Zapalenie gardła,"Przebieg łagodny, leczenie objawowe."
+2121,Reumatoidalne zapalenie stawów,Zalecane leczenie farmakologiczne.
+2122,Depresja,"Przebieg łagodny, leczenie objawowe."
+2123,Zapalenie oskrzeli,Wymaga dalszej diagnostyki.
+2124,Niedoczynność tarczycy,Zalecana konsultacja specjalistyczna.
+2125,COVID-19,Konieczność obserwacji w warunkach domowych.
+2126,Zapalenie gardła,Zalecana zmiana stylu życia i diety.
+2127,Grypa,"Przebieg łagodny, leczenie objawowe."
+2128,Zapalenie gardła,Zalecane leczenie farmakologiczne.
+2129,Zapalenie spojówek,Wymaga dalszej diagnostyki.
+2130,Borelioza,"Przebieg łagodny, leczenie objawowe."
+2131,Zawał serca,Zalecana konsultacja specjalistyczna.
+2132,Osteoporoza,Wymaga dalszej diagnostyki.
+2133,Zapalenie płuc,Stosować leki zgodnie z zaleceniami.
+2134,Zapalenie spojówek,Wskazane badania kontrolne za 2 tygodnie.
+2135,Zespół jelita drażliwego,"Ryzyko nawrotu choroby, zachować ostrożność."
+2136,Egzema,Zalecana konsultacja specjalistyczna.
+2137,COVID-19,Wskazane badania kontrolne za 2 tygodnie.
+2138,Zapalenie ucha środkowego,"Przebieg łagodny, leczenie objawowe."
+2139,Anemia,"Ryzyko nawrotu choroby, zachować ostrożność."
+2140,Atopowe zapalenie skóry,Konieczność obserwacji w warunkach domowych.
+2141,Zapalenie wątroby typu A,Zalecane leczenie farmakologiczne.
+2142,Choroba wieńcowa,Zalecane leczenie farmakologiczne.
+2143,Zapalenie wątroby typu A,"Ryzyko nawrotu choroby, zachować ostrożność."
+2144,Zapalenie pęcherza,Zalecane leczenie farmakologiczne.
+2145,Astma,"Ryzyko nawrotu choroby, zachować ostrożność."
+2146,Choroba refluksowa,"Przebieg łagodny, leczenie objawowe."
+2147,Zapalenie spojówek,Wymaga dalszej diagnostyki.
+2148,Choroba refluksowa,Zalecana konsultacja specjalistyczna.
+2149,Choroba refluksowa,Konieczność obserwacji w warunkach domowych.
+2150,Alergia sezonowa,Wskazane badania kontrolne za 2 tygodnie.
+2151,Grypa,"Ryzyko nawrotu choroby, zachować ostrożność."
+2152,Cukrzyca typu 2,Zalecana zmiana stylu życia i diety.
+2153,Nowotwór piersi,Stosować leki zgodnie z zaleceniami.
+2154,Zapalenie zatok,"Przebieg łagodny, leczenie objawowe."
+2155,Zawał serca,"Przebieg łagodny, leczenie objawowe."
+2156,Zespół jelita drażliwego,"Ryzyko nawrotu choroby, zachować ostrożność."
+2157,Zespół napięcia przedmiesiączkowego,Konieczność obserwacji w warunkach domowych.
+2158,Zapalenie pęcherza,"Ryzyko nawrotu choroby, zachować ostrożność."
+2159,Depresja,"Ryzyko nawrotu choroby, zachować ostrożność."
+2160,Reumatoidalne zapalenie stawów,Zalecane leczenie farmakologiczne.
+2161,Anemia,"Ryzyko nawrotu choroby, zachować ostrożność."
+2162,Zespół napięcia przedmiesiączkowego,"Przebieg łagodny, leczenie objawowe."
+2163,Osteoporoza,Wymaga dalszej diagnostyki.
+2164,Zespół jelita drażliwego,Stosować leki zgodnie z zaleceniami.
+2165,Choroba wieńcowa,Wymaga dalszej diagnostyki.
+2166,Zespół jelita drażliwego,Leczenie szpitalne nie jest wymagane.
+2167,Zapalenie zatok,Wskazane badania kontrolne za 2 tygodnie.
+2168,Angina,Wymaga dalszej diagnostyki.
+2169,Migrena,"Przebieg łagodny, leczenie objawowe."
+2170,Choroba refluksowa,Konieczność obserwacji w warunkach domowych.
+2171,Anemia,Leczenie szpitalne nie jest wymagane.
+2172,Alergia sezonowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+2173,Grypa,Zalecana konsultacja specjalistyczna.
+2174,Angina,Stosować leki zgodnie z zaleceniami.
+2175,Zapalenie spojówek,Zalecana zmiana stylu życia i diety.
+2176,Borelioza,Zalecane leczenie farmakologiczne.
+2177,Nowotwór płuc,"Przebieg łagodny, leczenie objawowe."
+2178,Alergia sezonowa,Wymaga dalszej diagnostyki.
+2179,Zapalenie zatok,Wskazane badania kontrolne za 2 tygodnie.
+2180,Choroba wieńcowa,Konieczność obserwacji w warunkach domowych.
+2181,Egzema,Wskazane badania kontrolne za 2 tygodnie.
+2182,Zapalenie ucha środkowego,Wymaga dalszej diagnostyki.
+2183,Zespół napięcia przedmiesiączkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+2184,Egzema,"Przebieg łagodny, leczenie objawowe."
+2185,Kamica nerkowa,Zalecane leczenie farmakologiczne.
+2186,Borelioza,Stosować leki zgodnie z zaleceniami.
+2187,Nowotwór płuc,"Przebieg łagodny, leczenie objawowe."
+2188,Borelioza,"Ryzyko nawrotu choroby, zachować ostrożność."
+2189,Depresja,Wskazane badania kontrolne za 2 tygodnie.
+2190,Angina,Wymaga dalszej diagnostyki.
+2191,Migrena,Zalecana zmiana stylu życia i diety.
+2192,Reumatoidalne zapalenie stawów,"Przebieg łagodny, leczenie objawowe."
+2193,Zapalenie spojówek,Zalecane leczenie farmakologiczne.
+2194,COVID-19,"Ryzyko nawrotu choroby, zachować ostrożność."
+2195,Zapalenie spojówek,Leczenie szpitalne nie jest wymagane.
+2196,Cukrzyca typu 2,Wymaga dalszej diagnostyki.
+2197,Zawał serca,Zalecana konsultacja specjalistyczna.
+2198,Depresja,"Przebieg łagodny, leczenie objawowe."
+2199,COVID-19,Stosować leki zgodnie z zaleceniami.
+2200,Migrena,Zalecane leczenie farmakologiczne.
+2201,Choroba wieńcowa,Zalecane leczenie farmakologiczne.
+2202,Zapalenie spojówek,Wymaga dalszej diagnostyki.
+2203,Zespół jelita drażliwego,Zalecana zmiana stylu życia i diety.
+2204,Zawał serca,"Przebieg łagodny, leczenie objawowe."
+2205,Nadciśnienie,Stosować leki zgodnie z zaleceniami.
+2206,Anemia,Zalecana zmiana stylu życia i diety.
+2207,Zapalenie gardła,Wymaga dalszej diagnostyki.
+2208,Choroba wieńcowa,Zalecana zmiana stylu życia i diety.
+2209,Anemia,Zalecane leczenie farmakologiczne.
+2210,Nowotwór płuc,Konieczność obserwacji w warunkach domowych.
+2211,Zapalenie pęcherza,Zalecane leczenie farmakologiczne.
+2212,Atopowe zapalenie skóry,"Przebieg łagodny, leczenie objawowe."
+2213,Zapalenie spojówek,Stosować leki zgodnie z zaleceniami.
+2214,Migrena,Wymaga dalszej diagnostyki.
+2215,Depresja,Zalecana zmiana stylu życia i diety.
+2216,Zespół jelita drażliwego,Zalecane leczenie farmakologiczne.
+2217,Zapalenie wątroby typu A,Stosować leki zgodnie z zaleceniami.
+2218,Zapalenie ucha środkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+2219,Zapalenie pęcherza,Zalecane leczenie farmakologiczne.
+2220,Migrena,Zalecana zmiana stylu życia i diety.
+2221,Angina,Konieczność obserwacji w warunkach domowych.
+2222,Egzema,Zalecana konsultacja specjalistyczna.
+2223,Zapalenie pęcherza,"Przebieg łagodny, leczenie objawowe."
+2224,Zapalenie oskrzeli,Zalecana konsultacja specjalistyczna.
+2225,Egzema,"Przebieg łagodny, leczenie objawowe."
+2226,Egzema,Zalecana konsultacja specjalistyczna.
+2227,Choroba refluksowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+2228,Astma,"Ryzyko nawrotu choroby, zachować ostrożność."
+2229,Depresja,Zalecana zmiana stylu życia i diety.
+2230,Reumatoidalne zapalenie stawów,Zalecane leczenie farmakologiczne.
+2231,Zapalenie gardła,"Przebieg łagodny, leczenie objawowe."
+2232,Zapalenie płuc,Konieczność obserwacji w warunkach domowych.
+2233,Zapalenie wątroby typu A,Zalecana konsultacja specjalistyczna.
+2234,Cukrzyca typu 2,Zalecana konsultacja specjalistyczna.
+2235,Nowotwór płuc,Wskazane badania kontrolne za 2 tygodnie.
+2236,Grypa,Zalecana konsultacja specjalistyczna.
+2237,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+2238,Alergia sezonowa,Wskazane badania kontrolne za 2 tygodnie.
+2239,Migrena,Wymaga dalszej diagnostyki.
+2240,Zapalenie pęcherza,"Przebieg łagodny, leczenie objawowe."
+2241,Cukrzyca typu 2,Zalecana konsultacja specjalistyczna.
+2242,Zapalenie spojówek,Wymaga dalszej diagnostyki.
+2243,Zapalenie wątroby typu A,"Przebieg łagodny, leczenie objawowe."
+2244,Zapalenie pęcherza,Konieczność obserwacji w warunkach domowych.
+2245,Borelioza,"Ryzyko nawrotu choroby, zachować ostrożność."
+2246,Zapalenie pęcherza,Zalecana zmiana stylu życia i diety.
+2247,COVID-19,"Ryzyko nawrotu choroby, zachować ostrożność."
+2248,Zapalenie wątroby typu A,Zalecana konsultacja specjalistyczna.
+2249,Zawał serca,Konieczność obserwacji w warunkach domowych.
+2250,Kamica nerkowa,Konieczność obserwacji w warunkach domowych.
+2251,COVID-19,Zalecane leczenie farmakologiczne.
+2252,Egzema,Wskazane badania kontrolne za 2 tygodnie.
+2253,Choroba refluksowa,Wskazane badania kontrolne za 2 tygodnie.
+2254,Nowotwór piersi,Wymaga dalszej diagnostyki.
+2255,Zapalenie gardła,Zalecana konsultacja specjalistyczna.
+2256,Astma,"Przebieg łagodny, leczenie objawowe."
+2257,Zapalenie gardła,Leczenie szpitalne nie jest wymagane.
+2258,Nowotwór płuc,Wskazane badania kontrolne za 2 tygodnie.
+2259,Reumatoidalne zapalenie stawów,Zalecane leczenie farmakologiczne.
+2260,Alergia sezonowa,Leczenie szpitalne nie jest wymagane.
+2261,Depresja,Zalecana konsultacja specjalistyczna.
+2262,Anemia,Zalecane leczenie farmakologiczne.
+2263,Cukrzyca typu 2,"Przebieg łagodny, leczenie objawowe."
+2264,Nadciśnienie,Stosować leki zgodnie z zaleceniami.
+2265,Nadciśnienie,Konieczność obserwacji w warunkach domowych.
+2266,Choroba wieńcowa,Stosować leki zgodnie z zaleceniami.
+2267,Reumatoidalne zapalenie stawów,Zalecana konsultacja specjalistyczna.
+2268,Zapalenie oskrzeli,Wskazane badania kontrolne za 2 tygodnie.
+2269,Atopowe zapalenie skóry,"Przebieg łagodny, leczenie objawowe."
+2270,Reumatoidalne zapalenie stawów,"Przebieg łagodny, leczenie objawowe."
+2271,Nadciśnienie,Leczenie szpitalne nie jest wymagane.
+2272,Osteoporoza,Zalecana zmiana stylu życia i diety.
+2273,Zawał serca,Wymaga dalszej diagnostyki.
+2274,Zapalenie wątroby typu A,Leczenie szpitalne nie jest wymagane.
+2275,Nadciśnienie,Stosować leki zgodnie z zaleceniami.
+2276,Nowotwór piersi,Zalecana konsultacja specjalistyczna.
+2277,Zespół jelita drażliwego,Stosować leki zgodnie z zaleceniami.
+2278,Angina,Zalecane leczenie farmakologiczne.
+2279,Grypa,Zalecane leczenie farmakologiczne.
+2280,Angina,Zalecane leczenie farmakologiczne.
+2281,Nadciśnienie,Stosować leki zgodnie z zaleceniami.
+2282,Zapalenie pęcherza,Zalecana zmiana stylu życia i diety.
+2283,Nadciśnienie,Wymaga dalszej diagnostyki.
+2284,Egzema,"Ryzyko nawrotu choroby, zachować ostrożność."
+2285,Migrena,"Ryzyko nawrotu choroby, zachować ostrożność."
+2286,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+2287,Angina,Zalecana konsultacja specjalistyczna.
+2288,Zapalenie ucha środkowego,Stosować leki zgodnie z zaleceniami.
+2289,Zespół napięcia przedmiesiączkowego,Wymaga dalszej diagnostyki.
+2290,Choroba refluksowa,Konieczność obserwacji w warunkach domowych.
+2291,Choroba wieńcowa,Zalecana konsultacja specjalistyczna.
+2292,Nadciśnienie,Leczenie szpitalne nie jest wymagane.
+2293,Osteoporoza,Zalecana zmiana stylu życia i diety.
+2294,Nowotwór płuc,Konieczność obserwacji w warunkach domowych.
+2295,Atopowe zapalenie skóry,Leczenie szpitalne nie jest wymagane.
+2296,Cukrzyca typu 2,Zalecana konsultacja specjalistyczna.
+2297,Alergia sezonowa,Konieczność obserwacji w warunkach domowych.
+2298,Zapalenie oskrzeli,Stosować leki zgodnie z zaleceniami.
+2299,Zespół napięcia przedmiesiączkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+2300,Zapalenie oskrzeli,Leczenie szpitalne nie jest wymagane.
+2301,Zapalenie wątroby typu A,"Ryzyko nawrotu choroby, zachować ostrożność."
+2302,Angina,Zalecane leczenie farmakologiczne.
+2303,Astma,Zalecane leczenie farmakologiczne.
+2304,Choroba wieńcowa,"Przebieg łagodny, leczenie objawowe."
+2305,Zespół napięcia przedmiesiączkowego,Stosować leki zgodnie z zaleceniami.
+2306,Borelioza,Wymaga dalszej diagnostyki.
+2307,Zapalenie płuc,Leczenie szpitalne nie jest wymagane.
+2308,Zespół jelita drażliwego,Leczenie szpitalne nie jest wymagane.
+2309,Osteoporoza,Wskazane badania kontrolne za 2 tygodnie.
+2310,Zespół napięcia przedmiesiączkowego,Zalecana zmiana stylu życia i diety.
+2311,Zapalenie gardła,"Przebieg łagodny, leczenie objawowe."
+2312,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+2313,Zespół jelita drażliwego,Leczenie szpitalne nie jest wymagane.
+2314,Depresja,Stosować leki zgodnie z zaleceniami.
+2315,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+2316,Zapalenie płuc,Konieczność obserwacji w warunkach domowych.
+2317,Zapalenie pęcherza,Zalecana zmiana stylu życia i diety.
+2318,Zespół napięcia przedmiesiączkowego,Zalecane leczenie farmakologiczne.
+2319,Zapalenie oskrzeli,"Ryzyko nawrotu choroby, zachować ostrożność."
+2320,Astma,Wskazane badania kontrolne za 2 tygodnie.
+2321,COVID-19,"Przebieg łagodny, leczenie objawowe."
+2322,Zapalenie spojówek,Zalecana zmiana stylu życia i diety.
+2323,Nowotwór piersi,Zalecana zmiana stylu życia i diety.
+2324,Zapalenie ucha środkowego,Zalecane leczenie farmakologiczne.
+2325,Alergia sezonowa,Zalecana konsultacja specjalistyczna.
+2326,Cukrzyca typu 2,Zalecane leczenie farmakologiczne.
+2327,Zespół jelita drażliwego,Zalecane leczenie farmakologiczne.
+2328,Zapalenie gardła,Wskazane badania kontrolne za 2 tygodnie.
+2329,Choroba wieńcowa,Leczenie szpitalne nie jest wymagane.
+2330,Zapalenie gardła,Leczenie szpitalne nie jest wymagane.
+2331,Grypa,Konieczność obserwacji w warunkach domowych.
+2332,Choroba wieńcowa,Zalecana konsultacja specjalistyczna.
+2333,Nowotwór płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+2334,Anemia,Leczenie szpitalne nie jest wymagane.
+2335,Egzema,Wskazane badania kontrolne za 2 tygodnie.
+2336,Egzema,Leczenie szpitalne nie jest wymagane.
+2337,Cukrzyca typu 2,Wskazane badania kontrolne za 2 tygodnie.
+2338,Zespół jelita drażliwego,"Przebieg łagodny, leczenie objawowe."
+2339,Osteoporoza,Wymaga dalszej diagnostyki.
+2340,Osteoporoza,Wskazane badania kontrolne za 2 tygodnie.
+2341,Choroba refluksowa,Zalecana konsultacja specjalistyczna.
+2342,Zapalenie zatok,Wskazane badania kontrolne za 2 tygodnie.
+2343,Zapalenie zatok,Zalecana konsultacja specjalistyczna.
+2344,Angina,"Przebieg łagodny, leczenie objawowe."
+2345,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+2346,Zapalenie płuc,Leczenie szpitalne nie jest wymagane.
+2347,Zapalenie wątroby typu A,"Przebieg łagodny, leczenie objawowe."
+2348,Migrena,Konieczność obserwacji w warunkach domowych.
+2349,Choroba wieńcowa,Wymaga dalszej diagnostyki.
+2350,Nowotwór piersi,Zalecane leczenie farmakologiczne.
+2351,Zespół napięcia przedmiesiączkowego,Konieczność obserwacji w warunkach domowych.
+2352,Zespół napięcia przedmiesiączkowego,Zalecana konsultacja specjalistyczna.
+2353,Zapalenie ucha środkowego,Stosować leki zgodnie z zaleceniami.
+2354,Choroba refluksowa,Zalecane leczenie farmakologiczne.
+2355,Alergia sezonowa,Wskazane badania kontrolne za 2 tygodnie.
+2356,Depresja,Stosować leki zgodnie z zaleceniami.
+2357,Borelioza,Leczenie szpitalne nie jest wymagane.
+2358,Alergia sezonowa,Konieczność obserwacji w warunkach domowych.
+2359,Egzema,Zalecane leczenie farmakologiczne.
+2360,Nadciśnienie,"Ryzyko nawrotu choroby, zachować ostrożność."
+2361,Zespół napięcia przedmiesiączkowego,Konieczność obserwacji w warunkach domowych.
+2362,Zapalenie spojówek,Konieczność obserwacji w warunkach domowych.
+2363,Choroba refluksowa,Leczenie szpitalne nie jest wymagane.
+2364,Angina,"Przebieg łagodny, leczenie objawowe."
+2365,Migrena,Stosować leki zgodnie z zaleceniami.
+2366,Anemia,Leczenie szpitalne nie jest wymagane.
+2367,Alergia sezonowa,Konieczność obserwacji w warunkach domowych.
+2368,Borelioza,Zalecana konsultacja specjalistyczna.
+2369,Nowotwór piersi,Zalecana zmiana stylu życia i diety.
+2370,Astma,Stosować leki zgodnie z zaleceniami.
+2371,Zapalenie oskrzeli,Konieczność obserwacji w warunkach domowych.
+2372,Astma,Konieczność obserwacji w warunkach domowych.
+2373,Anemia,"Przebieg łagodny, leczenie objawowe."
+2374,COVID-19,"Przebieg łagodny, leczenie objawowe."
+2375,Zapalenie ucha środkowego,"Przebieg łagodny, leczenie objawowe."
+2376,Choroba wieńcowa,Zalecana zmiana stylu życia i diety.
+2377,Kamica nerkowa,Wymaga dalszej diagnostyki.
+2378,Niedoczynność tarczycy,"Przebieg łagodny, leczenie objawowe."
+2379,Osteoporoza,Wymaga dalszej diagnostyki.
+2380,Nadciśnienie,Wymaga dalszej diagnostyki.
+2381,Nowotwór piersi,Leczenie szpitalne nie jest wymagane.
+2382,Nowotwór piersi,Wymaga dalszej diagnostyki.
+2383,Astma,Zalecana zmiana stylu życia i diety.
+2384,Egzema,"Przebieg łagodny, leczenie objawowe."
+2385,Nadciśnienie,"Przebieg łagodny, leczenie objawowe."
+2386,Atopowe zapalenie skóry,"Przebieg łagodny, leczenie objawowe."
+2387,Reumatoidalne zapalenie stawów,Wskazane badania kontrolne za 2 tygodnie.
+2388,Kamica nerkowa,"Przebieg łagodny, leczenie objawowe."
+2389,Zapalenie oskrzeli,Wskazane badania kontrolne za 2 tygodnie.
+2390,Zapalenie oskrzeli,Wymaga dalszej diagnostyki.
+2391,Nadciśnienie,Zalecana zmiana stylu życia i diety.
+2392,Atopowe zapalenie skóry,Stosować leki zgodnie z zaleceniami.
+2393,Zespół napięcia przedmiesiączkowego,Wymaga dalszej diagnostyki.
+2394,Nowotwór piersi,Leczenie szpitalne nie jest wymagane.
+2395,Zapalenie spojówek,Leczenie szpitalne nie jest wymagane.
+2396,Grypa,Zalecane leczenie farmakologiczne.
+2397,Alergia sezonowa,"Przebieg łagodny, leczenie objawowe."
+2398,Angina,Zalecane leczenie farmakologiczne.
+2399,Migrena,Stosować leki zgodnie z zaleceniami.
+2400,Zapalenie spojówek,Wymaga dalszej diagnostyki.
+2401,Reumatoidalne zapalenie stawów,Zalecana zmiana stylu życia i diety.
+2402,Grypa,"Przebieg łagodny, leczenie objawowe."
+2403,Zespół napięcia przedmiesiączkowego,Stosować leki zgodnie z zaleceniami.
+2404,Nowotwór płuc,"Ryzyko nawrotu choroby, zachować ostrożność."
+2405,Choroba wieńcowa,Konieczność obserwacji w warunkach domowych.
+2406,Zapalenie gardła,Wskazane badania kontrolne za 2 tygodnie.
+2407,Grypa,Zalecana zmiana stylu życia i diety.
+2408,COVID-19,Wskazane badania kontrolne za 2 tygodnie.
+2409,Zapalenie płuc,Zalecana zmiana stylu życia i diety.
+2410,Zapalenie ucha środkowego,Zalecana konsultacja specjalistyczna.
+2411,Astma,Wymaga dalszej diagnostyki.
+2412,Zapalenie zatok,Zalecana zmiana stylu życia i diety.
+2413,Cukrzyca typu 2,Wymaga dalszej diagnostyki.
+2414,Choroba refluksowa,Wymaga dalszej diagnostyki.
+2415,Choroba refluksowa,"Przebieg łagodny, leczenie objawowe."
+2416,Depresja,Wskazane badania kontrolne za 2 tygodnie.
+2417,Nowotwór płuc,Stosować leki zgodnie z zaleceniami.
+2418,Angina,Zalecana zmiana stylu życia i diety.
+2419,Reumatoidalne zapalenie stawów,Wskazane badania kontrolne za 2 tygodnie.
+2420,Egzema,Zalecana konsultacja specjalistyczna.
+2421,Zapalenie pęcherza,"Przebieg łagodny, leczenie objawowe."
+2422,Osteoporoza,Wymaga dalszej diagnostyki.
+2423,Anemia,"Ryzyko nawrotu choroby, zachować ostrożność."
+2424,Zespół jelita drażliwego,Stosować leki zgodnie z zaleceniami.
+2425,Borelioza,Wskazane badania kontrolne za 2 tygodnie.
+2426,Cukrzyca typu 2,Wymaga dalszej diagnostyki.
+2427,Choroba wieńcowa,Zalecane leczenie farmakologiczne.
+2428,Choroba refluksowa,Zalecana konsultacja specjalistyczna.
+2429,Zapalenie spojówek,Zalecane leczenie farmakologiczne.
+2430,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+2431,Borelioza,"Przebieg łagodny, leczenie objawowe."
+2432,Atopowe zapalenie skóry,Wskazane badania kontrolne za 2 tygodnie.
+2433,Zapalenie wątroby typu A,Wskazane badania kontrolne za 2 tygodnie.
+2434,Zapalenie oskrzeli,Leczenie szpitalne nie jest wymagane.
+2435,Migrena,Wymaga dalszej diagnostyki.
+2436,Reumatoidalne zapalenie stawów,Wskazane badania kontrolne za 2 tygodnie.
+2437,Angina,Zalecane leczenie farmakologiczne.
+2438,Egzema,Zalecane leczenie farmakologiczne.
+2439,COVID-19,Stosować leki zgodnie z zaleceniami.
+2440,Zespół napięcia przedmiesiączkowego,Wskazane badania kontrolne za 2 tygodnie.
+2441,Nadciśnienie,Zalecane leczenie farmakologiczne.
+2442,Zespół napięcia przedmiesiączkowego,Zalecana konsultacja specjalistyczna.
+2443,Nowotwór piersi,Wymaga dalszej diagnostyki.
+2444,Kamica nerkowa,"Przebieg łagodny, leczenie objawowe."
+2445,Migrena,Zalecana konsultacja specjalistyczna.
+2446,COVID-19,Konieczność obserwacji w warunkach domowych.
+2447,Borelioza,Stosować leki zgodnie z zaleceniami.
+2448,Astma,Wskazane badania kontrolne za 2 tygodnie.
+2449,Alergia sezonowa,Wskazane badania kontrolne za 2 tygodnie.
+2450,Migrena,"Ryzyko nawrotu choroby, zachować ostrożność."
+2451,Atopowe zapalenie skóry,Wskazane badania kontrolne za 2 tygodnie.
+2452,Osteoporoza,Zalecana zmiana stylu życia i diety.
+2453,COVID-19,Leczenie szpitalne nie jest wymagane.
+2454,Choroba wieńcowa,Konieczność obserwacji w warunkach domowych.
+2455,Zapalenie oskrzeli,Wymaga dalszej diagnostyki.
+2456,Anemia,Konieczność obserwacji w warunkach domowych.
+2457,Grypa,Leczenie szpitalne nie jest wymagane.
+2458,Zawał serca,"Przebieg łagodny, leczenie objawowe."
+2459,Borelioza,Konieczność obserwacji w warunkach domowych.
+2460,Anemia,"Ryzyko nawrotu choroby, zachować ostrożność."
+2461,Reumatoidalne zapalenie stawów,Wskazane badania kontrolne za 2 tygodnie.
+2462,Zapalenie oskrzeli,"Przebieg łagodny, leczenie objawowe."
+2463,Depresja,Stosować leki zgodnie z zaleceniami.
+2464,Zapalenie gardła,Zalecane leczenie farmakologiczne.
+2465,Migrena,Stosować leki zgodnie z zaleceniami.
+2466,Zawał serca,Zalecane leczenie farmakologiczne.
+2467,Astma,Leczenie szpitalne nie jest wymagane.
+2468,Zapalenie płuc,Zalecana zmiana stylu życia i diety.
+2469,Cukrzyca typu 2,Konieczność obserwacji w warunkach domowych.
+2470,Choroba refluksowa,Zalecana zmiana stylu życia i diety.
+2471,Alergia sezonowa,Zalecane leczenie farmakologiczne.
+2472,Zawał serca,Konieczność obserwacji w warunkach domowych.
+2473,Zapalenie pęcherza,Wskazane badania kontrolne za 2 tygodnie.
+2474,Zapalenie spojówek,Zalecana zmiana stylu życia i diety.
+2475,Zespół napięcia przedmiesiączkowego,Konieczność obserwacji w warunkach domowych.
+2476,Nowotwór piersi,Wymaga dalszej diagnostyki.
+2477,Choroba refluksowa,Zalecana konsultacja specjalistyczna.
+2478,Zapalenie płuc,Zalecana zmiana stylu życia i diety.
+2479,Zespół napięcia przedmiesiączkowego,Zalecana zmiana stylu życia i diety.
+2480,Anemia,Zalecana konsultacja specjalistyczna.
+2481,Borelioza,Zalecana zmiana stylu życia i diety.
+2482,Migrena,Konieczność obserwacji w warunkach domowych.
+2483,Angina,Leczenie szpitalne nie jest wymagane.
+2484,Zapalenie zatok,Zalecana zmiana stylu życia i diety.
+2485,Egzema,Zalecana konsultacja specjalistyczna.
+2486,Egzema,Wymaga dalszej diagnostyki.
+2487,Alergia sezonowa,"Przebieg łagodny, leczenie objawowe."
+2488,Choroba refluksowa,Zalecana konsultacja specjalistyczna.
+2489,Zapalenie wątroby typu A,Wskazane badania kontrolne za 2 tygodnie.
+2490,Astma,Wskazane badania kontrolne za 2 tygodnie.
+2491,Angina,Leczenie szpitalne nie jest wymagane.
+2492,Nowotwór płuc,Zalecana konsultacja specjalistyczna.
+2493,Niedoczynność tarczycy,Wymaga dalszej diagnostyki.
+2494,Nowotwór piersi,Wskazane badania kontrolne za 2 tygodnie.
+2495,Angina,"Ryzyko nawrotu choroby, zachować ostrożność."
+2496,Alergia sezonowa,"Przebieg łagodny, leczenie objawowe."
+2497,Zapalenie zatok,Leczenie szpitalne nie jest wymagane.
+2498,Depresja,Leczenie szpitalne nie jest wymagane.
+2499,Depresja,Stosować leki zgodnie z zaleceniami.
+2500,Zapalenie płuc,"Przebieg łagodny, leczenie objawowe."
+2501,Reumatoidalne zapalenie stawów,Leczenie szpitalne nie jest wymagane.
+2502,Angina,Konieczność obserwacji w warunkach domowych.
+2503,Grypa,Stosować leki zgodnie z zaleceniami.
+2504,Zapalenie spojówek,Wymaga dalszej diagnostyki.
+2505,Osteoporoza,Zalecana zmiana stylu życia i diety.
+2506,Zapalenie wątroby typu A,Stosować leki zgodnie z zaleceniami.
+2507,Angina,Leczenie szpitalne nie jest wymagane.
+2508,Osteoporoza,Wskazane badania kontrolne za 2 tygodnie.
+2509,Zapalenie ucha środkowego,Leczenie szpitalne nie jest wymagane.
+2510,Osteoporoza,Wskazane badania kontrolne za 2 tygodnie.
+2511,Zespół jelita drażliwego,Wymaga dalszej diagnostyki.
+2512,Zespół napięcia przedmiesiączkowego,Zalecana zmiana stylu życia i diety.
+2513,Zespół napięcia przedmiesiączkowego,Stosować leki zgodnie z zaleceniami.
+2514,Zapalenie spojówek,Wymaga dalszej diagnostyki.
+2515,COVID-19,Zalecane leczenie farmakologiczne.
+2516,Nowotwór płuc,Wskazane badania kontrolne za 2 tygodnie.
+2517,Migrena,Zalecana konsultacja specjalistyczna.
+2518,Egzema,Leczenie szpitalne nie jest wymagane.
+2519,Kamica nerkowa,Zalecana zmiana stylu życia i diety.
+2520,Borelioza,Wymaga dalszej diagnostyki.
+2521,Choroba wieńcowa,"Przebieg łagodny, leczenie objawowe."
+2522,Zespół jelita drażliwego,Wskazane badania kontrolne za 2 tygodnie.
+2523,Osteoporoza,"Przebieg łagodny, leczenie objawowe."
+2524,Zapalenie zatok,Leczenie szpitalne nie jest wymagane.
+2525,Zespół jelita drażliwego,Zalecane leczenie farmakologiczne.
+2526,Angina,Zalecana konsultacja specjalistyczna.
+2527,Nowotwór płuc,"Przebieg łagodny, leczenie objawowe."
+2528,Grypa,Zalecane leczenie farmakologiczne.
+2529,Zapalenie wątroby typu A,Zalecana zmiana stylu życia i diety.
+2530,Niedoczynność tarczycy,Wskazane badania kontrolne za 2 tygodnie.
+2531,Cukrzyca typu 2,Zalecane leczenie farmakologiczne.
+2532,Zapalenie gardła,Wskazane badania kontrolne za 2 tygodnie.
+2533,Egzema,Wymaga dalszej diagnostyki.
+2534,Nadciśnienie,"Przebieg łagodny, leczenie objawowe."
+2535,Borelioza,Zalecane leczenie farmakologiczne.
+2536,Astma,Wymaga dalszej diagnostyki.
+2537,Zespół napięcia przedmiesiączkowego,Leczenie szpitalne nie jest wymagane.
+2538,Astma,Zalecana zmiana stylu życia i diety.
+2539,Zespół jelita drażliwego,Wymaga dalszej diagnostyki.
+2540,Choroba refluksowa,Zalecana zmiana stylu życia i diety.
+2541,Cukrzyca typu 2,Stosować leki zgodnie z zaleceniami.
+2542,Astma,"Ryzyko nawrotu choroby, zachować ostrożność."
+2543,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+2544,Egzema,Zalecana zmiana stylu życia i diety.
+2545,Zawał serca,Wskazane badania kontrolne za 2 tygodnie.
+2546,Osteoporoza,Zalecane leczenie farmakologiczne.
+2547,Zapalenie płuc,"Przebieg łagodny, leczenie objawowe."
+2548,Zespół jelita drażliwego,Konieczność obserwacji w warunkach domowych.
+2549,Angina,"Ryzyko nawrotu choroby, zachować ostrożność."
+2550,Zawał serca,"Ryzyko nawrotu choroby, zachować ostrożność."
+2551,Choroba refluksowa,Wskazane badania kontrolne za 2 tygodnie.
+2552,Zapalenie pęcherza,Zalecane leczenie farmakologiczne.
+2553,Zawał serca,Zalecana konsultacja specjalistyczna.
+2554,Niedoczynność tarczycy,Wskazane badania kontrolne za 2 tygodnie.
+2555,Reumatoidalne zapalenie stawów,Zalecana zmiana stylu życia i diety.
+2556,Reumatoidalne zapalenie stawów,Stosować leki zgodnie z zaleceniami.
+2557,Angina,Leczenie szpitalne nie jest wymagane.
+2558,Nadciśnienie,"Ryzyko nawrotu choroby, zachować ostrożność."
+2559,Nowotwór płuc,Wskazane badania kontrolne za 2 tygodnie.
+2560,Astma,Zalecana konsultacja specjalistyczna.
+2561,Cukrzyca typu 2,Konieczność obserwacji w warunkach domowych.
+2562,Angina,Wskazane badania kontrolne za 2 tygodnie.
+2563,Choroba wieńcowa,Wymaga dalszej diagnostyki.
+2564,Egzema,"Przebieg łagodny, leczenie objawowe."
+2565,Egzema,"Ryzyko nawrotu choroby, zachować ostrożność."
+2566,Depresja,Wymaga dalszej diagnostyki.
+2567,Reumatoidalne zapalenie stawów,Stosować leki zgodnie z zaleceniami.
+2568,Zapalenie ucha środkowego,Zalecana konsultacja specjalistyczna.
+2569,Egzema,Stosować leki zgodnie z zaleceniami.
+2570,Niedoczynność tarczycy,Wymaga dalszej diagnostyki.
+2571,Nowotwór piersi,Leczenie szpitalne nie jest wymagane.
+2572,Nadciśnienie,"Ryzyko nawrotu choroby, zachować ostrożność."
+2573,Grypa,"Przebieg łagodny, leczenie objawowe."
+2574,Zapalenie pęcherza,Wymaga dalszej diagnostyki.
+2575,Nadciśnienie,Zalecana zmiana stylu życia i diety.
+2576,Zapalenie pęcherza,Zalecane leczenie farmakologiczne.
+2577,Zespół napięcia przedmiesiączkowego,Wymaga dalszej diagnostyki.
+2578,Depresja,Wskazane badania kontrolne za 2 tygodnie.
+2579,Anemia,Leczenie szpitalne nie jest wymagane.
+2580,Kamica nerkowa,Zalecana konsultacja specjalistyczna.
+2581,Nowotwór piersi,"Ryzyko nawrotu choroby, zachować ostrożność."
+2582,Zapalenie ucha środkowego,Wskazane badania kontrolne za 2 tygodnie.
+2583,Zapalenie gardła,"Przebieg łagodny, leczenie objawowe."
+2584,COVID-19,"Ryzyko nawrotu choroby, zachować ostrożność."
+2585,Cukrzyca typu 2,Leczenie szpitalne nie jest wymagane.
+2586,Choroba refluksowa,Konieczność obserwacji w warunkach domowych.
+2587,Choroba wieńcowa,Zalecana zmiana stylu życia i diety.
+2588,Astma,Zalecana konsultacja specjalistyczna.
+2589,Kamica nerkowa,Zalecane leczenie farmakologiczne.
+2590,Osteoporoza,Wskazane badania kontrolne za 2 tygodnie.
+2591,Choroba refluksowa,Leczenie szpitalne nie jest wymagane.
+2592,Zapalenie oskrzeli,Wymaga dalszej diagnostyki.
+2593,Zapalenie wątroby typu A,Konieczność obserwacji w warunkach domowych.
+2594,Choroba refluksowa,Zalecane leczenie farmakologiczne.
+2595,Anemia,"Ryzyko nawrotu choroby, zachować ostrożność."
+2596,COVID-19,Konieczność obserwacji w warunkach domowych.
+2597,Migrena,Wskazane badania kontrolne za 2 tygodnie.
+2598,Nowotwór płuc,Leczenie szpitalne nie jest wymagane.
+2599,Migrena,Zalecana konsultacja specjalistyczna.
+2600,Nowotwór piersi,"Ryzyko nawrotu choroby, zachować ostrożność."
+2601,Zapalenie pęcherza,Zalecana konsultacja specjalistyczna.
+2602,Cukrzyca typu 2,Zalecane leczenie farmakologiczne.
+2603,Zapalenie pęcherza,Wymaga dalszej diagnostyki.
+2604,Atopowe zapalenie skóry,Zalecana zmiana stylu życia i diety.
+2605,Alergia sezonowa,Wymaga dalszej diagnostyki.
+2606,Egzema,Konieczność obserwacji w warunkach domowych.
+2607,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+2608,Borelioza,"Ryzyko nawrotu choroby, zachować ostrożność."
+2609,Zawał serca,"Przebieg łagodny, leczenie objawowe."
+2610,Zapalenie wątroby typu A,"Przebieg łagodny, leczenie objawowe."
+2611,Anemia,Wymaga dalszej diagnostyki.
+2612,Alergia sezonowa,Leczenie szpitalne nie jest wymagane.
+2613,Kamica nerkowa,Wskazane badania kontrolne za 2 tygodnie.
+2614,Angina,Stosować leki zgodnie z zaleceniami.
+2615,Depresja,Zalecana zmiana stylu życia i diety.
+2616,Zawał serca,Zalecane leczenie farmakologiczne.
+2617,Atopowe zapalenie skóry,Zalecana zmiana stylu życia i diety.
+2618,Zapalenie wątroby typu A,Wskazane badania kontrolne za 2 tygodnie.
+2619,Zapalenie gardła,"Ryzyko nawrotu choroby, zachować ostrożność."
+2620,Nowotwór płuc,Zalecane leczenie farmakologiczne.
+2621,Niedoczynność tarczycy,"Ryzyko nawrotu choroby, zachować ostrożność."
+2622,Anemia,Wskazane badania kontrolne za 2 tygodnie.
+2623,Osteoporoza,Zalecane leczenie farmakologiczne.
+2624,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+2625,Zespół napięcia przedmiesiączkowego,Leczenie szpitalne nie jest wymagane.
+2626,Osteoporoza,Wymaga dalszej diagnostyki.
+2627,Zapalenie pęcherza,Zalecana konsultacja specjalistyczna.
+2628,Depresja,Stosować leki zgodnie z zaleceniami.
+2629,Kamica nerkowa,Zalecana konsultacja specjalistyczna.
+2630,Nadciśnienie,Wskazane badania kontrolne za 2 tygodnie.
+2631,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+2632,Borelioza,Leczenie szpitalne nie jest wymagane.
+2633,Zawał serca,Wymaga dalszej diagnostyki.
+2634,Choroba wieńcowa,Wskazane badania kontrolne za 2 tygodnie.
+2635,Osteoporoza,Wymaga dalszej diagnostyki.
+2636,Alergia sezonowa,Wymaga dalszej diagnostyki.
+2637,Reumatoidalne zapalenie stawów,Stosować leki zgodnie z zaleceniami.
+2638,Niedoczynność tarczycy,"Ryzyko nawrotu choroby, zachować ostrożność."
+2639,Zapalenie oskrzeli,Leczenie szpitalne nie jest wymagane.
+2640,Zespół jelita drażliwego,"Przebieg łagodny, leczenie objawowe."
+2641,Zapalenie wątroby typu A,Zalecana zmiana stylu życia i diety.
+2642,Choroba refluksowa,Leczenie szpitalne nie jest wymagane.
+2643,Angina,Zalecana konsultacja specjalistyczna.
+2644,Reumatoidalne zapalenie stawów,Zalecane leczenie farmakologiczne.
+2645,Borelioza,Zalecane leczenie farmakologiczne.
+2646,Depresja,Leczenie szpitalne nie jest wymagane.
+2647,Zapalenie wątroby typu A,Zalecana zmiana stylu życia i diety.
+2648,Choroba wieńcowa,Leczenie szpitalne nie jest wymagane.
+2649,Choroba refluksowa,Zalecana konsultacja specjalistyczna.
+2650,Zapalenie zatok,Zalecana zmiana stylu życia i diety.
+2651,Borelioza,Zalecana zmiana stylu życia i diety.
+2652,Cukrzyca typu 2,Wymaga dalszej diagnostyki.
+2653,Choroba refluksowa,Stosować leki zgodnie z zaleceniami.
+2654,Zawał serca,Leczenie szpitalne nie jest wymagane.
+2655,Nowotwór piersi,Zalecane leczenie farmakologiczne.
+2656,Zawał serca,Wymaga dalszej diagnostyki.
+2657,Zapalenie ucha środkowego,Zalecana konsultacja specjalistyczna.
+2658,Anemia,Leczenie szpitalne nie jest wymagane.
+2659,Niedoczynność tarczycy,"Ryzyko nawrotu choroby, zachować ostrożność."
+2660,Zespół napięcia przedmiesiączkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+2661,Egzema,Leczenie szpitalne nie jest wymagane.
+2662,Alergia sezonowa,Zalecane leczenie farmakologiczne.
+2663,Zawał serca,Konieczność obserwacji w warunkach domowych.
+2664,Zespół napięcia przedmiesiączkowego,Wymaga dalszej diagnostyki.
+2665,Cukrzyca typu 2,"Ryzyko nawrotu choroby, zachować ostrożność."
+2666,Atopowe zapalenie skóry,Zalecana zmiana stylu życia i diety.
+2667,Atopowe zapalenie skóry,Wskazane badania kontrolne za 2 tygodnie.
+2668,Osteoporoza,Zalecana zmiana stylu życia i diety.
+2669,Zapalenie wątroby typu A,Leczenie szpitalne nie jest wymagane.
+2670,Atopowe zapalenie skóry,Zalecana konsultacja specjalistyczna.
+2671,Reumatoidalne zapalenie stawów,Stosować leki zgodnie z zaleceniami.
+2672,Egzema,"Ryzyko nawrotu choroby, zachować ostrożność."
+2673,Zapalenie oskrzeli,Leczenie szpitalne nie jest wymagane.
+2674,Kamica nerkowa,Leczenie szpitalne nie jest wymagane.
+2675,Grypa,Wskazane badania kontrolne za 2 tygodnie.
+2676,Alergia sezonowa,"Przebieg łagodny, leczenie objawowe."
+2677,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+2678,Zespół jelita drażliwego,Zalecane leczenie farmakologiczne.
+2679,Zapalenie płuc,Wskazane badania kontrolne za 2 tygodnie.
+2680,Zespół napięcia przedmiesiączkowego,Zalecana zmiana stylu życia i diety.
+2681,Borelioza,"Ryzyko nawrotu choroby, zachować ostrożność."
+2682,Zapalenie oskrzeli,Zalecane leczenie farmakologiczne.
+2683,Zapalenie gardła,Zalecana konsultacja specjalistyczna.
+2684,Zespół jelita drażliwego,Leczenie szpitalne nie jest wymagane.
+2685,Alergia sezonowa,Stosować leki zgodnie z zaleceniami.
+2686,Zapalenie płuc,Konieczność obserwacji w warunkach domowych.
+2687,Choroba wieńcowa,Zalecana konsultacja specjalistyczna.
+2688,Niedoczynność tarczycy,"Ryzyko nawrotu choroby, zachować ostrożność."
+2689,Niedoczynność tarczycy,"Przebieg łagodny, leczenie objawowe."
+2690,Reumatoidalne zapalenie stawów,Stosować leki zgodnie z zaleceniami.
+2691,Choroba refluksowa,Zalecana konsultacja specjalistyczna.
+2692,Anemia,Zalecana konsultacja specjalistyczna.
+2693,Zespół jelita drażliwego,Wskazane badania kontrolne za 2 tygodnie.
+2694,Depresja,"Przebieg łagodny, leczenie objawowe."
+2695,Migrena,Stosować leki zgodnie z zaleceniami.
+2696,Niedoczynność tarczycy,Zalecana konsultacja specjalistyczna.
+2697,Choroba wieńcowa,Wymaga dalszej diagnostyki.
+2698,Kamica nerkowa,Zalecana konsultacja specjalistyczna.
+2699,Borelioza,"Ryzyko nawrotu choroby, zachować ostrożność."
+2700,Alergia sezonowa,Stosować leki zgodnie z zaleceniami.
+2701,Zespół napięcia przedmiesiączkowego,Zalecana konsultacja specjalistyczna.
+2702,Zapalenie pęcherza,Wskazane badania kontrolne za 2 tygodnie.
+2703,Depresja,"Przebieg łagodny, leczenie objawowe."
+2704,Borelioza,Leczenie szpitalne nie jest wymagane.
+2705,Zapalenie płuc,Wymaga dalszej diagnostyki.
+2706,Depresja,Leczenie szpitalne nie jest wymagane.
+2707,Migrena,Leczenie szpitalne nie jest wymagane.
+2708,Niedoczynność tarczycy,Stosować leki zgodnie z zaleceniami.
+2709,Zapalenie płuc,Zalecane leczenie farmakologiczne.
+2710,Atopowe zapalenie skóry,Leczenie szpitalne nie jest wymagane.
+2711,Choroba wieńcowa,Wskazane badania kontrolne za 2 tygodnie.
+2712,Kamica nerkowa,Zalecane leczenie farmakologiczne.
+2713,Kamica nerkowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+2714,Choroba refluksowa,Konieczność obserwacji w warunkach domowych.
+2715,Depresja,Zalecane leczenie farmakologiczne.
+2716,Egzema,Konieczność obserwacji w warunkach domowych.
+2717,Zapalenie gardła,Leczenie szpitalne nie jest wymagane.
+2718,Cukrzyca typu 2,Wymaga dalszej diagnostyki.
+2719,Nowotwór płuc,Zalecana zmiana stylu życia i diety.
+2720,Nowotwór płuc,Zalecana konsultacja specjalistyczna.
+2721,Astma,"Przebieg łagodny, leczenie objawowe."
+2722,Borelioza,Zalecana zmiana stylu życia i diety.
+2723,Anemia,Konieczność obserwacji w warunkach domowych.
+2724,Zapalenie oskrzeli,Wymaga dalszej diagnostyki.
+2725,Zapalenie płuc,"Przebieg łagodny, leczenie objawowe."
+2726,Niedoczynność tarczycy,Konieczność obserwacji w warunkach domowych.
+2727,Nadciśnienie,Stosować leki zgodnie z zaleceniami.
+2728,Choroba refluksowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+2729,Migrena,Stosować leki zgodnie z zaleceniami.
+2730,Kamica nerkowa,"Przebieg łagodny, leczenie objawowe."
+2731,Migrena,"Przebieg łagodny, leczenie objawowe."
+2732,Alergia sezonowa,Stosować leki zgodnie z zaleceniami.
+2733,COVID-19,Wskazane badania kontrolne za 2 tygodnie.
+2734,Nowotwór płuc,Leczenie szpitalne nie jest wymagane.
+2735,Migrena,"Przebieg łagodny, leczenie objawowe."
+2736,Zapalenie wątroby typu A,"Ryzyko nawrotu choroby, zachować ostrożność."
+2737,Kamica nerkowa,Zalecane leczenie farmakologiczne.
+2738,Angina,Zalecana zmiana stylu życia i diety.
+2739,Zespół jelita drażliwego,Zalecana konsultacja specjalistyczna.
+2740,Migrena,Konieczność obserwacji w warunkach domowych.
+2741,Nadciśnienie,Zalecane leczenie farmakologiczne.
+2742,Zapalenie ucha środkowego,Zalecana konsultacja specjalistyczna.
+2743,Nowotwór piersi,Wskazane badania kontrolne za 2 tygodnie.
+2744,Zapalenie gardła,Zalecana zmiana stylu życia i diety.
+2745,Nowotwór płuc,Leczenie szpitalne nie jest wymagane.
+2746,Astma,Zalecana zmiana stylu życia i diety.
+2747,Reumatoidalne zapalenie stawów,"Ryzyko nawrotu choroby, zachować ostrożność."
+2748,Grypa,Konieczność obserwacji w warunkach domowych.
+2749,Zapalenie płuc,Zalecana konsultacja specjalistyczna.
+2750,Anemia,Leczenie szpitalne nie jest wymagane.
+2751,Zapalenie ucha środkowego,Wskazane badania kontrolne za 2 tygodnie.
+2752,Zapalenie pęcherza,Zalecana konsultacja specjalistyczna.
+2753,Borelioza,Leczenie szpitalne nie jest wymagane.
+2754,Zapalenie wątroby typu A,Wskazane badania kontrolne za 2 tygodnie.
+2755,Astma,Stosować leki zgodnie z zaleceniami.
+2756,Zapalenie spojówek,"Ryzyko nawrotu choroby, zachować ostrożność."
+2757,Zawał serca,Konieczność obserwacji w warunkach domowych.
+2758,Zapalenie zatok,Zalecana konsultacja specjalistyczna.
+2759,Reumatoidalne zapalenie stawów,"Ryzyko nawrotu choroby, zachować ostrożność."
+2760,Borelioza,Leczenie szpitalne nie jest wymagane.
+2761,Borelioza,Konieczność obserwacji w warunkach domowych.
+2762,Borelioza,Zalecana zmiana stylu życia i diety.
+2763,Zapalenie wątroby typu A,Stosować leki zgodnie z zaleceniami.
+2764,Kamica nerkowa,Zalecana zmiana stylu życia i diety.
+2765,Choroba refluksowa,Zalecana konsultacja specjalistyczna.
+2766,Reumatoidalne zapalenie stawów,Konieczność obserwacji w warunkach domowych.
+2767,Zapalenie gardła,Wymaga dalszej diagnostyki.
+2768,Zapalenie wątroby typu A,Stosować leki zgodnie z zaleceniami.
+2769,Angina,Zalecana konsultacja specjalistyczna.
+2770,Grypa,Zalecane leczenie farmakologiczne.
+2771,Zapalenie oskrzeli,Zalecana konsultacja specjalistyczna.
+2772,Zapalenie zatok,Stosować leki zgodnie z zaleceniami.
+2773,Depresja,Zalecana zmiana stylu życia i diety.
+2774,Depresja,Wymaga dalszej diagnostyki.
+2775,Anemia,Zalecana konsultacja specjalistyczna.
+2776,Zapalenie gardła,Stosować leki zgodnie z zaleceniami.
+2777,Kamica nerkowa,Wymaga dalszej diagnostyki.
+2778,COVID-19,Zalecane leczenie farmakologiczne.
+2779,Kamica nerkowa,Stosować leki zgodnie z zaleceniami.
+2780,Nowotwór płuc,Zalecane leczenie farmakologiczne.
+2781,COVID-19,Wskazane badania kontrolne za 2 tygodnie.
+2782,Alergia sezonowa,Wymaga dalszej diagnostyki.
+2783,Choroba refluksowa,Konieczność obserwacji w warunkach domowych.
+2784,Choroba refluksowa,Leczenie szpitalne nie jest wymagane.
+2785,Zespół napięcia przedmiesiączkowego,Wskazane badania kontrolne za 2 tygodnie.
+2786,Atopowe zapalenie skóry,Zalecana konsultacja specjalistyczna.
+2787,Atopowe zapalenie skóry,"Przebieg łagodny, leczenie objawowe."
+2788,Zapalenie wątroby typu A,"Ryzyko nawrotu choroby, zachować ostrożność."
+2789,Zawał serca,Konieczność obserwacji w warunkach domowych.
+2790,Zapalenie spojówek,Zalecana konsultacja specjalistyczna.
+2791,Grypa,Zalecana konsultacja specjalistyczna.
+2792,Zapalenie płuc,Leczenie szpitalne nie jest wymagane.
+2793,Zapalenie pęcherza,Stosować leki zgodnie z zaleceniami.
+2794,Choroba refluksowa,"Przebieg łagodny, leczenie objawowe."
+2795,Cukrzyca typu 2,Leczenie szpitalne nie jest wymagane.
+2796,COVID-19,Zalecana konsultacja specjalistyczna.
+2797,Migrena,Zalecana konsultacja specjalistyczna.
+2798,Egzema,Wymaga dalszej diagnostyki.
+2799,Reumatoidalne zapalenie stawów,"Przebieg łagodny, leczenie objawowe."
+2800,Osteoporoza,Zalecane leczenie farmakologiczne.
+2801,Zapalenie zatok,Zalecana zmiana stylu życia i diety.
+2802,Nadciśnienie,Zalecane leczenie farmakologiczne.
+2803,Zespół napięcia przedmiesiączkowego,Zalecane leczenie farmakologiczne.
+2804,Nadciśnienie,Leczenie szpitalne nie jest wymagane.
+2805,Anemia,Wskazane badania kontrolne za 2 tygodnie.
+2806,Choroba wieńcowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+2807,Zapalenie pęcherza,"Przebieg łagodny, leczenie objawowe."
+2808,Nowotwór piersi,Stosować leki zgodnie z zaleceniami.
+2809,Angina,Leczenie szpitalne nie jest wymagane.
+2810,Zapalenie pęcherza,"Ryzyko nawrotu choroby, zachować ostrożność."
+2811,Niedoczynność tarczycy,Leczenie szpitalne nie jest wymagane.
+2812,Nadciśnienie,"Ryzyko nawrotu choroby, zachować ostrożność."
+2813,Alergia sezonowa,Zalecana konsultacja specjalistyczna.
+2814,Zapalenie ucha środkowego,"Ryzyko nawrotu choroby, zachować ostrożność."
+2815,Nowotwór piersi,Stosować leki zgodnie z zaleceniami.
+2816,Choroba wieńcowa,Stosować leki zgodnie z zaleceniami.
+2817,Zespół jelita drażliwego,"Ryzyko nawrotu choroby, zachować ostrożność."
+2818,Reumatoidalne zapalenie stawów,Wskazane badania kontrolne za 2 tygodnie.
+2819,Osteoporoza,Zalecana zmiana stylu życia i diety.
+2820,Zapalenie oskrzeli,Stosować leki zgodnie z zaleceniami.
+2821,Osteoporoza,Zalecana zmiana stylu życia i diety.
+2822,Nadciśnienie,Leczenie szpitalne nie jest wymagane.
+2823,Nowotwór piersi,Wskazane badania kontrolne za 2 tygodnie.
+2824,Anemia,Wymaga dalszej diagnostyki.
+2825,Niedoczynność tarczycy,Zalecane leczenie farmakologiczne.
+2826,Alergia sezonowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+2827,Zapalenie gardła,"Ryzyko nawrotu choroby, zachować ostrożność."
+2828,Alergia sezonowa,Wymaga dalszej diagnostyki.
+2829,Nowotwór piersi,"Przebieg łagodny, leczenie objawowe."
+2830,Egzema,"Ryzyko nawrotu choroby, zachować ostrożność."
+2831,COVID-19,Zalecana zmiana stylu życia i diety.
+2832,Alergia sezonowa,Zalecane leczenie farmakologiczne.
+2833,Kamica nerkowa,Zalecana konsultacja specjalistyczna.
+2834,Alergia sezonowa,Zalecana konsultacja specjalistyczna.
+2835,COVID-19,Wskazane badania kontrolne za 2 tygodnie.
+2836,Zapalenie pęcherza,Wymaga dalszej diagnostyki.
+2837,Zapalenie wątroby typu A,Stosować leki zgodnie z zaleceniami.
+2838,Cukrzyca typu 2,Konieczność obserwacji w warunkach domowych.
+2839,Anemia,Leczenie szpitalne nie jest wymagane.
+2840,Osteoporoza,"Przebieg łagodny, leczenie objawowe."
+2841,Zapalenie pęcherza,Stosować leki zgodnie z zaleceniami.
+2842,Zapalenie płuc,"Przebieg łagodny, leczenie objawowe."
+2843,COVID-19,Stosować leki zgodnie z zaleceniami.
+2844,Zapalenie zatok,Konieczność obserwacji w warunkach domowych.
+2845,Zapalenie spojówek,Wymaga dalszej diagnostyki.
+2846,Atopowe zapalenie skóry,"Ryzyko nawrotu choroby, zachować ostrożność."
+2847,Atopowe zapalenie skóry,"Przebieg łagodny, leczenie objawowe."
+2848,Zapalenie pęcherza,Wskazane badania kontrolne za 2 tygodnie.
+2849,Choroba refluksowa,"Przebieg łagodny, leczenie objawowe."
+2850,Angina,Zalecana zmiana stylu życia i diety.
+2851,Borelioza,Konieczność obserwacji w warunkach domowych.
+2852,Choroba wieńcowa,Zalecana zmiana stylu życia i diety.
+2853,Atopowe zapalenie skóry,Zalecana zmiana stylu życia i diety.
+2854,Zapalenie gardła,Zalecana konsultacja specjalistyczna.
+2855,Zawał serca,Zalecana zmiana stylu życia i diety.
+2856,Zawał serca,Zalecane leczenie farmakologiczne.
+2857,Alergia sezonowa,Zalecana zmiana stylu życia i diety.
+2858,Alergia sezonowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+2859,Cukrzyca typu 2,Zalecana konsultacja specjalistyczna.
+2860,Astma,Stosować leki zgodnie z zaleceniami.
+2861,Anemia,Zalecana zmiana stylu życia i diety.
+2862,Nowotwór piersi,Leczenie szpitalne nie jest wymagane.
+2863,Atopowe zapalenie skóry,Wymaga dalszej diagnostyki.
+2864,COVID-19,"Ryzyko nawrotu choroby, zachować ostrożność."
+2865,Kamica nerkowa,Zalecana konsultacja specjalistyczna.
+2866,Anemia,Zalecana konsultacja specjalistyczna.
+2867,Osteoporoza,Zalecane leczenie farmakologiczne.
+2868,Migrena,Zalecana konsultacja specjalistyczna.
+2869,Zapalenie płuc,Wskazane badania kontrolne za 2 tygodnie.
+2870,Astma,Leczenie szpitalne nie jest wymagane.
+2871,Egzema,Zalecana konsultacja specjalistyczna.
+2872,Zapalenie oskrzeli,Zalecane leczenie farmakologiczne.
+2873,Choroba wieńcowa,Leczenie szpitalne nie jest wymagane.
+2874,Atopowe zapalenie skóry,Zalecana zmiana stylu życia i diety.
+2875,Nowotwór piersi,Leczenie szpitalne nie jest wymagane.
+2876,Zawał serca,Stosować leki zgodnie z zaleceniami.
+2877,COVID-19,Stosować leki zgodnie z zaleceniami.
+2878,Zapalenie ucha środkowego,Zalecana konsultacja specjalistyczna.
+2879,Anemia,Leczenie szpitalne nie jest wymagane.
+2880,Niedoczynność tarczycy,Zalecane leczenie farmakologiczne.
+2881,Zapalenie oskrzeli,"Przebieg łagodny, leczenie objawowe."
+2882,Angina,Konieczność obserwacji w warunkach domowych.
+2883,Zapalenie zatok,"Przebieg łagodny, leczenie objawowe."
+2884,Zespół napięcia przedmiesiączkowego,Wymaga dalszej diagnostyki.
+2885,Kamica nerkowa,Wymaga dalszej diagnostyki.
+2886,Nowotwór piersi,Wymaga dalszej diagnostyki.
+2887,Zapalenie ucha środkowego,Zalecana konsultacja specjalistyczna.
+2888,COVID-19,Zalecana zmiana stylu życia i diety.
+2889,Nadciśnienie,Zalecane leczenie farmakologiczne.
+2890,Osteoporoza,Zalecana zmiana stylu życia i diety.
+2891,Zapalenie pęcherza,Zalecana zmiana stylu życia i diety.
+2892,Zapalenie ucha środkowego,Zalecane leczenie farmakologiczne.
+2893,Nadciśnienie,Konieczność obserwacji w warunkach domowych.
+2894,Egzema,"Ryzyko nawrotu choroby, zachować ostrożność."
+2895,Zespół jelita drażliwego,Leczenie szpitalne nie jest wymagane.
+2896,Egzema,Zalecane leczenie farmakologiczne.
+2897,Egzema,Zalecane leczenie farmakologiczne.
+2898,Zapalenie spojówek,"Ryzyko nawrotu choroby, zachować ostrożność."
+2899,Nadciśnienie,"Przebieg łagodny, leczenie objawowe."
+2900,Atopowe zapalenie skóry,Wymaga dalszej diagnostyki.
+2901,Zapalenie gardła,Zalecana konsultacja specjalistyczna.
+2902,Niedoczynność tarczycy,Zalecane leczenie farmakologiczne.
+2903,Osteoporoza,Zalecana konsultacja specjalistyczna.
+2904,Zapalenie gardła,"Przebieg łagodny, leczenie objawowe."
+2905,Zapalenie pęcherza,Wymaga dalszej diagnostyki.
+2906,Nowotwór piersi,Wskazane badania kontrolne za 2 tygodnie.
+2907,Nowotwór piersi,Zalecana konsultacja specjalistyczna.
+2908,Astma,Wymaga dalszej diagnostyki.
+2909,Nadciśnienie,Wymaga dalszej diagnostyki.
+2910,Zapalenie gardła,Wskazane badania kontrolne za 2 tygodnie.
+2911,Niedoczynność tarczycy,Wymaga dalszej diagnostyki.
+2912,Reumatoidalne zapalenie stawów,Zalecana konsultacja specjalistyczna.
+2913,Zapalenie oskrzeli,Wymaga dalszej diagnostyki.
+2914,Zapalenie oskrzeli,"Ryzyko nawrotu choroby, zachować ostrożność."
+2915,Reumatoidalne zapalenie stawów,Stosować leki zgodnie z zaleceniami.
+2916,Zawał serca,"Przebieg łagodny, leczenie objawowe."
+2917,Egzema,Zalecana zmiana stylu życia i diety.
+2918,COVID-19,Zalecane leczenie farmakologiczne.
+2919,Choroba refluksowa,Zalecana zmiana stylu życia i diety.
+2920,Egzema,Wskazane badania kontrolne za 2 tygodnie.
+2921,Zespół napięcia przedmiesiączkowego,Stosować leki zgodnie z zaleceniami.
+2922,COVID-19,Leczenie szpitalne nie jest wymagane.
+2923,Grypa,Zalecana konsultacja specjalistyczna.
+2924,Nowotwór piersi,Konieczność obserwacji w warunkach domowych.
+2925,Migrena,Zalecana konsultacja specjalistyczna.
+2926,Choroba refluksowa,Zalecana konsultacja specjalistyczna.
+2927,Migrena,Wymaga dalszej diagnostyki.
+2928,Choroba refluksowa,Zalecane leczenie farmakologiczne.
+2929,Niedoczynność tarczycy,Leczenie szpitalne nie jest wymagane.
+2930,Reumatoidalne zapalenie stawów,Stosować leki zgodnie z zaleceniami.
+2931,Grypa,Zalecana zmiana stylu życia i diety.
+2932,Kamica nerkowa,Zalecana konsultacja specjalistyczna.
+2933,Osteoporoza,Zalecana zmiana stylu życia i diety.
+2934,Choroba refluksowa,Wskazane badania kontrolne za 2 tygodnie.
+2935,Reumatoidalne zapalenie stawów,Zalecane leczenie farmakologiczne.
+2936,Egzema,Stosować leki zgodnie z zaleceniami.
+2937,Zapalenie ucha środkowego,Wskazane badania kontrolne za 2 tygodnie.
+2938,Cukrzyca typu 2,Zalecane leczenie farmakologiczne.
+2939,COVID-19,Zalecana zmiana stylu życia i diety.
+2940,Zapalenie ucha środkowego,Zalecana konsultacja specjalistyczna.
+2941,Atopowe zapalenie skóry,Zalecane leczenie farmakologiczne.
+2942,Migrena,"Przebieg łagodny, leczenie objawowe."
+2943,Nowotwór piersi,Wymaga dalszej diagnostyki.
+2944,Osteoporoza,Konieczność obserwacji w warunkach domowych.
+2945,Egzema,Wskazane badania kontrolne za 2 tygodnie.
+2946,Zapalenie ucha środkowego,Leczenie szpitalne nie jest wymagane.
+2947,Kamica nerkowa,Leczenie szpitalne nie jest wymagane.
+2948,Zapalenie płuc,Wskazane badania kontrolne za 2 tygodnie.
+2949,Zapalenie zatok,Zalecana konsultacja specjalistyczna.
+2950,COVID-19,Zalecane leczenie farmakologiczne.
+2951,Choroba wieńcowa,Wymaga dalszej diagnostyki.
+2952,Osteoporoza,Zalecane leczenie farmakologiczne.
+2953,Osteoporoza,"Ryzyko nawrotu choroby, zachować ostrożność."
+2954,Astma,Wskazane badania kontrolne za 2 tygodnie.
+2955,Zapalenie gardła,Stosować leki zgodnie z zaleceniami.
+2956,Zapalenie pęcherza,"Ryzyko nawrotu choroby, zachować ostrożność."
+2957,Depresja,Leczenie szpitalne nie jest wymagane.
+2958,Atopowe zapalenie skóry,Konieczność obserwacji w warunkach domowych.
+2959,Astma,Zalecana konsultacja specjalistyczna.
+2960,Astma,"Ryzyko nawrotu choroby, zachować ostrożność."
+2961,Nadciśnienie,Wskazane badania kontrolne za 2 tygodnie.
+2962,Zapalenie wątroby typu A,Zalecana zmiana stylu życia i diety.
+2963,Angina,Wskazane badania kontrolne za 2 tygodnie.
+2964,Depresja,Zalecana konsultacja specjalistyczna.
+2965,Reumatoidalne zapalenie stawów,Konieczność obserwacji w warunkach domowych.
+2966,Migrena,Stosować leki zgodnie z zaleceniami.
+2967,Kamica nerkowa,Konieczność obserwacji w warunkach domowych.
+2968,Zapalenie pęcherza,Zalecane leczenie farmakologiczne.
+2969,Depresja,Konieczność obserwacji w warunkach domowych.
+2970,Zapalenie oskrzeli,"Przebieg łagodny, leczenie objawowe."
+2971,Astma,Wymaga dalszej diagnostyki.
+2972,Angina,Zalecana zmiana stylu życia i diety.
+2973,Zapalenie płuc,Wskazane badania kontrolne za 2 tygodnie.
+2974,Atopowe zapalenie skóry,Zalecana zmiana stylu życia i diety.
+2975,Zawał serca,Stosować leki zgodnie z zaleceniami.
+2976,Zapalenie wątroby typu A,Konieczność obserwacji w warunkach domowych.
+2977,Cukrzyca typu 2,Stosować leki zgodnie z zaleceniami.
+2978,Zawał serca,Zalecana zmiana stylu życia i diety.
+2979,Zapalenie ucha środkowego,Stosować leki zgodnie z zaleceniami.
+2980,Choroba refluksowa,Wskazane badania kontrolne za 2 tygodnie.
+2981,Alergia sezonowa,"Przebieg łagodny, leczenie objawowe."
+2982,Choroba wieńcowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+2983,Migrena,Zalecana konsultacja specjalistyczna.
+2984,Choroba wieńcowa,"Ryzyko nawrotu choroby, zachować ostrożność."
+2985,Zapalenie wątroby typu A,Zalecane leczenie farmakologiczne.
+2986,Zapalenie gardła,Zalecane leczenie farmakologiczne.
+2987,Astma,Wymaga dalszej diagnostyki.
+2988,Zapalenie gardła,Zalecane leczenie farmakologiczne.
+2989,COVID-19,Zalecane leczenie farmakologiczne.
+2990,Zapalenie spojówek,Leczenie szpitalne nie jest wymagane.
+2991,Depresja,Wymaga dalszej diagnostyki.
+2992,Zawał serca,Wskazane badania kontrolne za 2 tygodnie.
+2993,Zespół jelita drażliwego,Wymaga dalszej diagnostyki.
+2994,Atopowe zapalenie skóry,Zalecana konsultacja specjalistyczna.
+2995,Zapalenie wątroby typu A,Leczenie szpitalne nie jest wymagane.
+2996,Zapalenie oskrzeli,Leczenie szpitalne nie jest wymagane.
+2997,Grypa,Leczenie szpitalne nie jest wymagane.
+2998,Migrena,Stosować leki zgodnie z zaleceniami.
+2999,Zawał serca,Wymaga dalszej diagnostyki.
+3000,Osteoporoza,Zalecana zmiana stylu życia i diety.

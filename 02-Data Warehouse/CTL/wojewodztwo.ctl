@@ -1,0 +1,13 @@
+LOAD DATA
+CHARACTERSET AL32UTF8
+INFILE 'CSV/wojewodztwo.csv'
+BADFILE 'CTL/BAD/wojewodztwo.bad'
+DISCARDFILE 'CTL/BAD/wojewodztwo.dsc'
+INTO TABLE wojewodztwo
+APPEND
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+TRAILING NULLCOLS
+(
+ id_wojewodztwo,
+  nazwa
+)

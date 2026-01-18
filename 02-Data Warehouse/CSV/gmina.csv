@@ -1,0 +1,2635 @@
+id_gmina,nazwa
+1,Bolesławiec
+2,Bolesławiec
+3,Gromadka
+4,Nowogrodziec
+5,Osiecznica
+6,Warta Bolesławiecka
+7,Bielawa
+8,Dzierżoniów
+9,Dzierżoniów
+10,Łagiewniki
+11,Niemcza
+12,Pieszyce
+13,Piława Górna
+14,Głogów
+15,Głogów
+16,Jerzmanowa
+17,Kotla
+18,Pęcław
+19,Żukowice
+20,Góra
+21,Jemielno
+22,Niechlów
+23,Wąsosz
+24,Bolków
+25,Jawor
+26,Męcinka
+27,Mściwojów
+28,Paszowice
+29,Wądroże Wielkie
+30,Jelenia Góra
+31,Janowice Wielkie
+32,Jeżów Sudecki
+33,Karpacz
+34,Kowary
+35,Mysłakowice
+36,Piechowice
+37,Podgórzyn
+38,Stara Kamienica
+39,Szklarska Poręba
+40,Kamienna Góra
+41,Kamienna Góra
+42,Lubawka
+43,Marciszów
+44,Bystrzyca Kłodzka
+45,Duszniki-Zdrój
+46,Kłodzko
+47,Kłodzko
+48,Kudowa-Zdrój
+49,Lądek-Zdrój
+50,Lewin Kłodzki
+51,Międzylesie
+52,Nowa Ruda
+53,Nowa Ruda
+54,Polanica-Zdrój
+55,Radków
+56,Stronie Śląskie
+57,Szczytna
+58,Legnica
+59,Chojnów
+60,Chojnów
+61,Krotoszyce
+62,Kunice
+63,Legnickie Pole
+64,Miłkowice
+65,Prochowice
+66,Ruja
+67,Leśna
+68,Lubań
+69,Lubań
+70,Olszyna
+71,Platerówka
+72,Siekierczyn
+73,Świeradów-Zdrój
+74,Lubin
+75,Lubin
+76,Rudna
+77,Ścinawa
+78,Gryfów Śląski
+79,Lubomierz
+80,Lwówek Śląski
+81,Mirsk
+82,Wleń
+83,Cieszków
+84,Krośnice
+85,Milicz
+86,Bierutów
+87,Dobroszyce
+88,Dziadowa Kłoda
+89,Międzybórz
+90,Oleśnica
+91,Oleśnica
+92,Syców
+93,Twardogóra
+94,Domaniów
+95,Jelcz-Laskowice
+96,Oława
+97,Oława
+98,Chocianów
+99,Gaworzyce
+100,Grębocice
+101,Polkowice
+102,Przemków
+103,Radwanice
+104,Borów
+105,Kondratowice
+106,Przeworno
+107,Strzelin
+108,Wiązów
+109,Kostomłoty
+110,Kostomłoty
+111,Malczyce
+112,Malczyce
+113,Miękinia
+114,Miękinia
+115,Środa Śląska
+116,Środa Śląska
+117,Udanin
+118,Udanin
+119,Dobromierz
+120,Dobromierz
+121,Jaworzyna Śląska
+122,Jaworzyna Śląska
+123,Marcinowice
+124,Marcinowice
+125,Strzegom
+126,Strzegom
+127,Świdnica
+128,Świdnica
+129,Świdnica
+130,Świdnica
+131,Świebodzice
+132,Świebodzice
+133,Żarów
+134,Żarów
+135,Oborniki Śląskie
+136,Prusice
+137,Trzebnica
+138,Wisznia Mała
+139,Zawonia
+140,Żmigród
+141,Boguszów-Gorce
+142,Czarny Bór
+143,Głuszyca
+144,Jedlina-Zdrój
+145,Mieroszów
+146,Stare Bogaczowice
+147,Szczawno-Zdrój
+148,Walim
+149,Wałbrzych
+150,Brzeg Dolny
+151,Wińsko
+152,Wołów
+153,Wrocław
+154,Czernica
+155,Długołęka
+156,Jordanów Śląski
+157,Kąty Wrocławskie
+158,Kobierzyce
+159,Mietków
+160,Siechnice
+161,Sobótka
+162,Żórawina
+163,Bardo
+164,Ciepłowody
+165,Kamieniec Ząbkowicki
+166,Stoszowice
+167,Ząbkowice Śląskie
+168,Ziębice
+169,Złoty Stok
+170,Bogatynia
+171,Pieńsk
+172,Sulików
+173,Węgliniec
+174,Zawidów
+175,Zgorzelec
+176,Zgorzelec
+177,Pielgrzymka
+178,Świerzawa
+179,Wojcieszów
+180,Zagrodno
+181,Złotoryja
+182,Złotoryja
+183,Aleksandrów Kujawski
+184,Aleksandrów Kujawski
+185,Bądkowo
+186,Ciechocinek
+187,Koneck
+188,Nieszawa
+189,Raciążek
+190,Waganiec
+191,Zakrzewo
+192,Bartniczka
+193,Bobrowo
+194,Brodnica
+195,Brodnica
+196,Brzozie
+197,Górzno
+198,Jabłonowo Pomorskie
+199,Osiek
+200,Świedziebnia
+201,Zbiczno
+202,Białe Błota
+203,Dąbrowa Chełmińska
+204,Dobrcz
+205,Koronowo
+206,Nowa Wieś Wielka
+207,Osielsko
+208,Sicienko
+209,Solec Kujawski
+210,Bydgoszcz
+211,Chełmno
+212,Chełmno
+213,Kijewo Królewskie
+214,Lisewo
+215,Papowo Biskupie
+216,Stolno
+217,Unisław
+218,Ciechocin
+219,Golub-Dobrzyń
+220,Golub-Dobrzyń
+221,Kowalewo Pomorskie
+222,Radomin
+223,Zbójno
+224,Grudziądz
+225,Grudziądz
+226,Gruta
+227,Łasin
+228,Radzyń Chełmiński
+229,Rogóźno
+230,Świecie nad Osą
+231,Dąbrowa Biskupia
+232,Gniewkowo
+233,Inowrocław
+234,Inowrocław
+235,Janikowo
+236,Kruszwica
+237,Pakość
+238,Rojewo
+239,Złotniki Kujawskie
+240,Bobrowniki
+241,Chrostkowo
+242,Dobrzyń nad Wisłą
+243,Kikół
+244,Lipno
+245,Lipno
+246,Skępe
+247,Tłuchowo
+248,Wielgie
+249,Dąbrowa
+250,Jeziora Wielkie
+251,Mogilno
+252,Strzelno
+253,Kcynia
+254,Mrocza
+255,Nakło nad Notecią
+256,Sadki
+257,Szubin
+258,Bytoń
+259,Dobre
+260,Osięciny
+261,Piotrków Kujawski
+262,Radziejów
+263,Radziejów
+264,Topólka
+265,Brzuze
+266,Rogowo
+267,Rypin
+268,Rypin
+269,Skrwilno
+270,Wąpielsk
+271,Kamień Krajeński
+272,Sępólno Krajeńskie
+273,Sośno
+274,Więcbork
+275,Bukowiec
+276,Dragacz
+277,Drzycim
+278,Jeżewo
+279,Lniano
+280,Nowe
+281,Osie
+282,Pruszcz
+283,Świecie
+284,Świekatowo
+285,Warlubie
+286,Toruń
+287,Chełmża
+288,Chełmża
+289,Czernikowo
+290,Lubicz
+291,Łubianka
+292,Łysomice
+293,Obrowo
+294,Wielka Nieszawka
+295,Zławieś Wielka
+296,Cekcyn
+297,Gostycyn
+298,Kęsowo
+299,Lubiewo
+300,Śliwice
+301,Tuchola
+302,Dębowa Łąka
+303,Książki
+304,Płużnica
+305,Wąbrzeźno
+306,Wąbrzeźno
+307,Włocławek
+308,Baruchowo
+309,Boniewo
+310,Brześć Kujawski
+311,Choceń
+312,Chodecz
+313,Fabianki
+314,Izbica Kujawska
+315,Kowal
+316,Kowal
+317,Lubanie
+318,Lubień Kujawski
+319,Lubraniec
+320,Włocławek
+321,Barcin
+322,Gąsawa
+323,Janowiec Wielkopolski
+324,Łabiszyn
+325,Rogowo
+326,Żnin
+327,Biała Podlaska
+328,Drelów
+329,Janów Podlaski
+330,Kodeń
+331,Konstantynów
+332,Leśna Podlaska
+333,Łomazy
+334,Międzyrzec Podlaski
+335,Międzyrzec Podlaski
+336,Piszczac
+337,Rokitno
+338,Rossosz
+339,Sławatycze
+340,Sosnówka
+341,Terespol
+342,Terespol
+343,Tuczna
+344,Wisznice
+345,Zalesie
+346,Biała Podlaska
+347,Aleksandrów
+348,Biłgoraj
+349,Biłgoraj
+350,Biszcza
+351,Frampol
+352,Goraj
+353,Józefów
+354,Księżpol
+355,Łukowa
+356,Obsza
+357,Potok Górny
+358,Tarnogród
+359,Tereszpol
+360,Turobin
+361,Chełm
+362,Białopole
+363,Chełm
+364,Dorohusk
+365,Dubienka
+366,Kamień
+367,Leśniowice
+368,Rejowiec
+369,Rejowiec Fabryczny
+370,Rejowiec Fabryczny
+371,Ruda-Huta
+372,Sawin
+373,Siedliszcze
+374,Wierzbica
+375,Wojsławice
+376,Żmudź
+377,Dołhobyczów
+378,Horodło
+379,Hrubieszów
+380,Hrubieszów
+381,Mircze
+382,Trzeszczany
+383,Uchanie
+384,Werbkowice
+385,Batorz
+386,Chrzanów
+387,Dzwola
+388,Godziszów
+389,Janów Lubelski
+390,Modliborzyce
+391,Potok Wielki
+392,Fajsławice
+393,Gorzków
+394,Izbica
+395,Krasnystaw
+396,Krasnystaw
+397,Kraśniczyn
+398,Łopiennik Górny
+399,Rudnik
+400,Siennica Różana
+401,Żółkiewka
+402,Annopol
+403,Dzierzkowice
+404,Gościeradów
+405,Kraśnik
+406,Kraśnik
+407,Szastarka
+408,Trzydnik Duży
+409,Urzędów
+410,Wilkołaz
+411,Zakrzówek
+412,Abramów
+413,Firlej
+414,Jeziorzany
+415,Kamionka
+416,Kock
+417,Lubartów
+418,Lubartów
+419,Michów
+420,Niedźwiada
+421,Ostrów Lubelski
+422,Ostrówek
+423,Serniki
+424,Uścimów
+425,Bełżyce
+426,Borzechów
+427,Bychawa
+428,Garbów
+429,Głusk
+430,Jabłonna
+431,Jastków
+432,Konopnica
+433,Krzczonów
+434,Niedrzwica Duża
+435,Niemce
+436,Strzyżewice
+437,Wojciechów
+438,Wólka
+439,Wysokie
+440,Zakrzew
+441,Lublin
+442,Cyców
+443,Ludwin
+444,Łęczna
+445,Milejów
+446,Puchaczów
+447,Spiczyn
+448,Adamów
+449,Krzywda
+450,Łuków
+451,Łuków
+452,Serokomla
+453,Stanin
+454,Stoczek Łukowski
+455,Stoczek Łukowski
+456,Trzebieszów
+457,Wojcieszków
+458,Wola Mysłowska
+459,Chodel
+460,Chodel
+461,Józefów nad Wisłą
+462,Józefów nad Wisłą
+463,Karczmiska
+464,Karczmiska
+465,Łaziska
+466,Łaziska
+467,Opole Lubelskie
+468,Opole Lubelskie
+469,Poniatowa
+470,Poniatowa
+471,Wilków
+472,Wilków
+473,Dębowa Kłoda
+474,Jabłoń
+475,Milanów
+476,Parczew
+477,Podedwórze
+478,Siemień
+479,Sosnowica
+480,Baranów
+481,Janowiec
+482,Kazimierz Dolny
+483,Końskowola
+484,Kurów
+485,Markuszów
+486,Nałęczów
+487,Puławy
+488,Puławy
+489,Wąwolnica
+490,Żyrzyn
+491,Borki
+492,Czemierniki
+493,Kąkolewnica
+494,Komarówka Podlaska
+495,Radzyń Podlaski
+496,Radzyń Podlaski
+497,Ulan-Majorat
+498,Wohyń
+499,Dęblin
+500,Kłoczew
+501,Nowodwór
+502,Ryki
+503,Stężyca
+504,Ułęż
+505,Mełgiew
+506,Mełgiew
+507,Piaski
+508,Piaski
+509,Rybczewice
+510,Rybczewice
+511,Świdnik
+512,Świdnik
+513,Trawniki
+514,Trawniki
+515,Bełżec
+516,Bełżec
+517,Jarczów
+518,Jarczów
+519,Krynice
+520,Krynice
+521,Lubycza Królewska
+522,Lubycza Królewska
+523,Łaszczów
+524,Łaszczów
+525,Rachanie
+526,Rachanie
+527,Susiec
+528,Susiec
+529,Tarnawatka
+530,Tarnawatka
+531,Telatyn
+532,Telatyn
+533,Tomaszów Lubelski
+534,Tomaszów Lubelski
+535,Tomaszów Lubelski
+536,Tomaszów Lubelski
+537,Tyszowce
+538,Tyszowce
+539,Ulhówek
+540,Ulhówek
+541,Hanna
+542,Hańsk
+543,Stary Brus
+544,Urszulin
+545,Włodawa
+546,Włodawa
+547,Wola Uhruska
+548,Wyryki
+549,Adamów
+550,Grabowiec
+551,Komarów-Osada
+552,Krasnobród
+553,Łabunie
+554,Miączyn
+555,Nielisz
+556,Radecznica
+557,Sitno
+558,Skierbieszów
+559,Stary Zamość
+560,Sułów
+561,Szczebrzeszyn
+562,Zamość
+563,Zwierzyniec
+564,Zamość
+565,Bogdaniec
+566,Deszczno
+567,Kłodawa
+568,Kostrzyn nad Odrą
+569,Lubiszyn
+570,Santok
+571,Witnica
+572,Gorzów Wielkopolski
+573,Bobrowice
+574,Bobrowice
+575,Bytnica
+576,Bytnica
+577,Dąbie
+578,Dąbie
+579,Gubin
+580,Gubin
+581,Gubin
+582,Gubin
+583,Krosno Odrzańskie
+584,Krosno Odrzańskie
+585,Maszewo
+586,Maszewo
+587,Bledzew
+588,Międzyrzecz
+589,Przytoczna
+590,Pszczew
+591,Skwierzyna
+592,Trzciel
+593,Bytom Odrzański
+594,Kolsko
+595,Kożuchów
+596,Nowa Sól
+597,Nowa Sól
+598,Nowe Miasteczko
+599,Otyń
+600,Siedlisko
+601,Sława
+602,Szlichtyngowa
+603,Wschowa
+604,Cybinka
+605,Górzyca
+606,Ośno Lubuskie
+607,Rzepin
+608,Słubice
+609,Dobiegniew
+610,Drezdenko
+611,Stare Kurowo
+612,Strzelce Krajeńskie
+613,Zwierzyn
+614,Krzeszyce
+615,Lubniewice
+616,Słońsk
+617,Sulęcin
+618,Torzym
+619,Lubrza
+620,Łagów
+621,Skąpe
+622,Szczaniec
+623,Świebodzin
+624,Zbąszynek
+625,Zielona Góra
+626,Babimost
+627,Bojadła
+628,Czerwieńsk
+629,Kargowa
+630,Nowogród Bobrzański
+631,Sulechów
+632,Świdnica
+633,Trzebiechów
+634,Zabór
+635,Brzeźnica
+636,Gozdnica
+637,Iłowa
+638,Małomice
+639,Niegosławice
+640,Szprotawa
+641,Wymiarki
+642,Żagań
+643,Żagań
+644,Brody
+645,Jasień
+646,Lipinki Łużyckie
+647,Lubsko
+648,Łęknica
+649,Przewóz
+650,Trzebiel
+651,Tuplice
+652,Żary
+653,Żary
+654,Bełchatów
+655,Bełchatów
+656,Drużbice
+657,Kleszczów
+658,Kluki
+659,Rusiec
+660,Szczerców
+661,Zelów
+662,Bedlno
+663,Dąbrowice
+664,Krośniewice
+665,Krzyżanów
+666,Kutno
+667,Kutno
+668,Łanięta
+669,Nowe Ostrowy
+670,Oporów
+671,Strzelce
+672,Żychlin
+673,Buczek
+674,Łask
+675,Sędziejowice
+676,Widawa
+677,Wodzierady
+678,Daszyna
+679,Góra Świętej Małgorzaty
+680,Grabów
+681,Łęczyca
+682,Łęczyca
+683,Piątek
+684,Świnice Warckie
+685,Witonia
+686,Bielawy
+687,Chąśno
+688,Domaniewice
+689,Kiernozia
+690,Kocierzew Południowy
+691,Łowicz
+692,Łowicz
+693,Łyszkowice
+694,Nieborów
+695,Zduny
+696,Andrespol
+697,Brójce
+698,Brzeziny
+699,Brzeziny
+700,Dmosin
+701,Jeżów
+702,Koluszki
+703,Nowosolna
+704,Rogów
+705,Rzgów
+706,Tuszyn
+707,Łódź
+708,Białaczów
+709,Drzewica
+710,Mniszków
+711,Opoczno
+712,Paradyż
+713,Poświętne
+714,Sławno
+715,Żarnów
+716,Dłutów
+717,Dobroń
+718,Konstantynów Łódzki
+719,Ksawerów
+720,Lutomiersk
+721,Pabianice
+722,Pabianice
+723,Działoszyn
+724,Kiełczygłów
+725,Nowa Brzeźnica
+726,Pajęczno
+727,Rząśnia
+728,Siemkowice
+729,Strzelce Wielkie
+730,Sulmierzyce
+731,Aleksandrów
+732,Czarnocin
+733,Gorzkowice
+734,Grabica
+735,Łęki Szlacheckie
+736,Moszczenica
+737,Ręczno
+738,Rozprza
+739,Sulejów
+740,Wola Krzysztoporska
+741,Wolbórz
+742,Piotrków Trybunalski
+743,Dalików
+744,Pęczniew
+745,Poddębice
+746,Uniejów
+747,Wartkowice
+748,Zadzim
+749,Dobryszyce
+750,Gidle
+751,Gomunice
+752,Kamieńsk
+753,Kobiele Wielkie
+754,Kodrąb
+755,Lgota Wielka
+756,Ładzice
+757,Masłowice
+758,Przedbórz
+759,Radomsko
+760,Radomsko
+761,Wielgomłyny
+762,Żytno
+763,Biała Rawska
+764,Cielądz
+765,Rawa Mazowiecka
+766,Rawa Mazowiecka
+767,Regnów
+768,Sadkowice
+769,Błaszki
+770,Brąszewice
+771,Brzeźnio
+772,Burzenin
+773,Goszczanów
+774,Klonowa
+775,Sieradz
+776,Sieradz
+777,Warta
+778,Wróblew
+779,Złoczew
+780,Skierniewice
+781,Bolimów
+782,Głuchów
+783,Godzianów
+784,Kowiesy
+785,Lipce Reymontowskie
+786,Maków
+787,Nowy Kawęczyn
+788,Skierniewice
+789,Słupia
+790,Będków
+791,Będków
+792,Budziszewice
+793,Budziszewice
+794,Czerniewice
+795,Czerniewice
+796,Inowłódz
+797,Inowłódz
+798,Lubochnia
+799,Lubochnia
+800,Rokiciny
+801,Rokiciny
+802,Rzeczyca
+803,Rzeczyca
+804,Tomaszów Mazowiecki
+805,Tomaszów Mazowiecki
+806,Tomaszów Mazowiecki
+807,Tomaszów Mazowiecki
+808,Ujazd
+809,Ujazd
+810,Żelechlinek
+811,Żelechlinek
+812,Biała
+813,Czarnożyły
+814,Konopnica
+815,Mokrsko
+816,Osjaków
+817,Ostrówek
+818,Pątnów
+819,Skomlin
+820,Wieluń
+821,Wierzchlas
+822,Bolesławiec
+823,Czastary
+824,Galewice
+825,Lututów
+826,Łubnice
+827,Sokolniki
+828,Wieruszów
+829,Szadek
+830,Zapolice
+831,Zduńska Wola
+832,Zduńska Wola
+833,Aleksandrów Łódzki
+834,Głowno
+835,Głowno
+836,Ozorków
+837,Ozorków
+838,Parzęczew
+839,Stryków
+840,Zgierz
+841,Zgierz
+842,Bochnia
+843,Bochnia
+844,Drwinia
+845,Lipnica Murowana
+846,Łapanów
+847,Nowy Wiśnicz
+848,Rzezawa
+849,Trzciana
+850,Żegocina
+851,Borzęcin
+852,Borzęcin
+853,Brzesko
+854,Brzesko
+855,Czchów
+856,Czchów
+857,Dębno
+858,Dębno
+859,Gnojnik
+860,Gnojnik
+861,Iwkowa
+862,Iwkowa
+863,Szczurowa
+864,Szczurowa
+865,Alwernia
+866,Babice
+867,Chrzanów
+868,Libiąż
+869,Trzebinia
+870,Bolesław
+871,Dąbrowa Tarnowska
+872,Gręboszów
+873,Mędrzechów
+874,Olesno
+875,Radgoszcz
+876,Szczucin
+877,Biecz
+878,Bobowa
+879,Gorlice
+880,Gorlice
+881,Lipinki
+882,Łużna
+883,Moszczenica
+884,Ropa
+885,Sękowa
+886,Uście Gorlickie
+887,Czernichów
+888,Igołomia-Wawrzeńczyce
+889,Iwanowice
+890,Jerzmanowice-Przeginia
+891,Kocmyrzów-Luborzyca
+892,Krzeszowice
+893,Liszki
+894,Michałowice
+895,Mogilany
+896,Skała
+897,Skawina
+898,Słomniki
+899,Sułoszowa
+900,Świątniki Górne
+901,Wielka Wieś
+902,Zabierzów
+903,Zielonki
+904,Kraków
+905,Dobra
+906,Jodłownik
+907,Kamienica
+908,Laskowa
+909,Limanowa
+910,Limanowa
+911,Łukowica
+912,Mszana Dolna
+913,Mszana Dolna
+914,Niedźwiedź
+915,Słopnice
+916,Tymbark
+917,Charsznica
+918,Gołcza
+919,Kozłów
+920,Książ Wielki
+921,Miechów
+922,Racławice
+923,Słaboszów
+924,Dobczyce
+925,Lubień
+926,Myślenice
+927,Pcim
+928,Raciechowice
+929,Siepraw
+930,Sułkowice
+931,Tokarnia
+932,Wiśniowa
+933,Chełmiec
+934,Gródek nad Dunajcem
+935,Grybów
+936,Grybów
+937,Kamionka Wielka
+938,Korzenna
+939,Krynica-Zdrój
+940,Łabowa
+941,Łącko
+942,Łososina Dolna
+943,Muszyna
+944,Nawojowa
+945,Piwniczna-Zdrój
+946,Podegrodzie
+947,Rytro
+948,Stary Sącz
+949,Czarny Dunajec
+950,Czorsztyn
+951,Jabłonka
+952,Krościenko nad Dunajcem
+953,Lipnica Wielka
+954,Łapsze Niżne
+955,Nowy Targ
+956,Nowy Targ
+957,Ochotnica Dolna
+958,Raba Wyżna
+959,Rabka-Zdrój
+960,Spytkowice
+961,Szaflary
+962,Szczawnica
+963,Nowy Sącz
+964,Bolesław
+965,Bukowno
+966,Klucze
+967,Olkusz
+968,Trzyciąż
+969,Wolbrom
+970,Brzeszcze
+971,Chełmek
+972,Kęty
+973,Osiek
+974,Oświęcim
+975,Oświęcim
+976,Polanka Wielka
+977,Przeciszów
+978,Zator
+979,Koniusza
+980,Koszyce
+981,Nowe Brzesko
+982,Pałecznica
+983,Proszowice
+984,Radziemice
+985,Budzów
+986,Bystra-Sidzina
+987,Jordanów
+988,Jordanów
+989,Maków Podhalański
+990,Stryszawa
+991,Sucha Beskidzka
+992,Zawoja
+993,Zembrzyce
+994,Ciężkowice
+995,Gromnik
+996,Lisia Góra
+997,Pleśna
+998,Radłów
+999,Ryglice
+1000,Rzepiennik Strzyżewski
+1001,Skrzyszów
+1002,Szerzyny
+1003,Tarnów
+1004,Tuchów
+1005,Wierzchosławice
+1006,Wietrzychowice
+1007,Wojnicz
+1008,Zakliczyn
+1009,Żabno
+1010,Tarnów
+1011,Biały Dunajec
+1012,Bukowina Tatrzańska
+1013,Kościelisko
+1014,Poronin
+1015,Zakopane
+1016,Andrychów
+1017,Brzeźnica
+1018,Kalwaria Zebrzydowska
+1019,Lanckorona
+1020,Mucharz
+1021,Spytkowice
+1022,Stryszów
+1023,Tomice
+1024,Wadowice
+1025,Wieprz
+1026,Biskupice
+1027,Gdów
+1028,Kłaj
+1029,Niepołomice
+1030,Wieliczka
+1031,Białobrzegi
+1032,Promna
+1033,Radzanów
+1034,Stara Błotnica
+1035,Stromiec
+1036,Wyśmierzyce
+1037,Ciechanów
+1038,Ciechanów
+1039,Glinojeck
+1040,Gołymin-Ośrodek
+1041,Grudusk
+1042,Ojrzeń
+1043,Opinogóra Górna
+1044,Regimin
+1045,Sońsk
+1046,Borowie
+1047,Garwolin
+1048,Garwolin
+1049,Górzno
+1050,Łaskarzew
+1051,Łaskarzew
+1052,Maciejowice
+1053,Miastków Kościelny
+1054,Parysów
+1055,Pilawa
+1056,Sobolew
+1057,Trojanów
+1058,Wilga
+1059,Żelechów
+1060,Gostynin
+1061,Gostynin
+1062,Pacyna
+1063,Sanniki
+1064,Szczawin Kościelny
+1065,Baranów
+1066,Baranów
+1067,Grodzisk Mazowiecki
+1068,Grodzisk Mazowiecki
+1069,Jaktorów
+1070,Jaktorów
+1071,Milanówek
+1072,Milanówek
+1073,Podkowa Leśna
+1074,Podkowa Leśna
+1075,Żabia Wola
+1076,Żabia Wola
+1077,Belsk Duży
+1078,Błędów
+1079,Chynów
+1080,Goszczyn
+1081,Grójec
+1082,Jasieniec
+1083,Mogielnica
+1084,Nowe Miasto nad Pilicą
+1085,Pniewy
+1086,Warka
+1087,Garbatka-Letnisko
+1088,Głowaczów
+1089,Gniewoszów
+1090,Grabów nad Pilicą
+1091,Kozienice
+1092,Magnuszew
+1093,Sieciechów
+1094,Jabłonna
+1095,Legionowo
+1096,Nieporęt
+1097,Serock
+1098,Wieliszew
+1099,Chotcza
+1100,Ciepielów
+1101,Lipsko
+1102,Rzeczniów
+1103,Sienno
+1104,Solec nad Wisłą
+1105,Huszlew
+1106,Łosice
+1107,Olszanka
+1108,Platerów
+1109,Sarnaki
+1110,Stara Kornica
+1111,Czerwonka
+1112,Karniewo
+1113,Krasnosielc
+1114,Maków Mazowiecki
+1115,Młynarze
+1116,Płoniawy-Bramura
+1117,Różan
+1118,Rzewnie
+1119,Sypniewo
+1120,Szelków
+1121,Cegłów
+1122,Dębe Wielkie
+1123,Dobre
+1124,Halinów
+1125,Jakubów
+1126,Kałuszyn
+1127,Latowicz
+1128,Mińsk Mazowiecki
+1129,Mińsk Mazowiecki
+1130,Mrozy
+1131,Siennica
+1132,Stanisławów
+1133,Sulejówek
+1134,Dzierzgowo
+1135,Lipowiec Kościelny
+1136,Mława
+1137,Radzanów
+1138,Strzegowo
+1139,Stupsk
+1140,Szreńsk
+1141,Szydłowo
+1142,Wieczfnia Kościelna
+1143,Wiśniewo
+1144,Czosnów
+1145,Czosnów
+1146,Leoncin
+1147,Leoncin
+1148,Nasielsk
+1149,Nasielsk
+1150,Nowy Dwór Mazowiecki
+1151,Nowy Dwór Mazowiecki
+1152,Pomiechówek
+1153,Pomiechówek
+1154,Zakroczym
+1155,Zakroczym
+1156,Baranowo
+1157,Czarnia
+1158,Czerwin
+1159,Goworowo
+1160,Kadzidło
+1161,Lelis
+1162,Łyse
+1163,Myszyniec
+1164,Olszewo-Borki
+1165,Rzekuń
+1166,Troszyn
+1167,Ostrołęka
+1168,Andrzejewo
+1169,Andrzejewo
+1170,Boguty-Pianki
+1171,Boguty-Pianki
+1172,Brok
+1173,Brok
+1174,Małkinia Górna
+1175,Małkinia Górna
+1176,Nur
+1177,Nur
+1178,Ostrów Mazowiecka
+1179,Ostrów Mazowiecka
+1180,Ostrów Mazowiecka
+1181,Ostrów Mazowiecka
+1182,Stary Lubotyń
+1183,Stary Lubotyń
+1184,Szulborze Wielkie
+1185,Szulborze Wielkie
+1186,Wąsewo
+1187,Wąsewo
+1188,Zaręby Kościelne
+1189,Zaręby Kościelne
+1190,Celestynów
+1191,Józefów
+1192,Karczew
+1193,Kołbiel
+1194,Osieck
+1195,Otwock
+1196,Sobienie-Jeziory
+1197,Wiązowna
+1198,Góra Kalwaria
+1199,Konstancin-Jeziorna
+1200,Lesznowola
+1201,Piaseczno
+1202,Prażmów
+1203,Tarczyn
+1204,Płock
+1205,Bielsk
+1206,Bodzanów
+1207,Brudzeń Duży
+1208,Bulkowo
+1209,Drobin
+1210,Gąbin
+1211,Łąck
+1212,Mała Wieś
+1213,Nowy Duninów
+1214,Radzanowo
+1215,Słubice
+1216,Słupno
+1217,Stara Biała
+1218,Staroźreby
+1219,Wyszogród
+1220,Baboszewo
+1221,Czerwińsk nad Wisłą
+1222,Dzierzążnia
+1223,Joniec
+1224,Naruszewo
+1225,Nowe Miasto
+1226,Płońsk
+1227,Płońsk
+1228,Raciąż
+1229,Raciąż
+1230,Sochocin
+1231,Załuski
+1232,Brwinów
+1233,Michałowice
+1234,Nadarzyn
+1235,Piastów
+1236,Pruszków
+1237,Raszyn
+1238,Chorzele
+1239,Czernice Borowe
+1240,Jednorożec
+1241,Krasne
+1242,Krzynowłoga Mała
+1243,Przasnysz
+1244,Przasnysz
+1245,Borkowice
+1246,Gielniów
+1247,Klwów
+1248,Odrzywół
+1249,Potworów
+1250,Przysucha
+1251,Rusinów
+1252,Wieniawa
+1253,Gzy
+1254,Obryte
+1255,Pokrzywnica
+1256,Pułtusk
+1257,Świercze
+1258,Winnica
+1259,Zatory
+1260,Radom
+1261,Gózd
+1262,Iłża
+1263,Jastrzębia
+1264,Jedlińsk
+1265,Jedlnia-Letnisko
+1266,Kowala
+1267,Pionki
+1268,Pionki
+1269,Przytyk
+1270,Skaryszew
+1271,Wierzbica
+1272,Wolanów
+1273,Zakrzew
+1274,Siedlce
+1275,Domanice
+1276,Korczew
+1277,Kotuń
+1278,Mokobody
+1279,Mordy
+1280,Paprotnia
+1281,Przesmyki
+1282,Siedlce
+1283,Skórzec
+1284,Suchożebry
+1285,Wiśniew
+1286,Wodynie
+1287,Zbuczyn
+1288,Gozdowo
+1289,Mochowo
+1290,Rościszewo
+1291,Sierpc
+1292,Sierpc
+1293,Szczutowo
+1294,Zawidz
+1295,Brochów
+1296,Iłów
+1297,Młodzieszyn
+1298,Nowa Sucha
+1299,Rybno
+1300,Sochaczew
+1301,Sochaczew
+1302,Teresin
+1303,Bielany
+1304,Ceranów
+1305,Jabłonna Lacka
+1306,Kosów Lacki
+1307,Repki
+1308,Sabnie
+1309,Sokołów Podlaski
+1310,Sokołów Podlaski
+1311,Sterdyń
+1312,Chlewiska
+1313,Jastrząb
+1314,Mirów
+1315,Orońsko
+1316,Szydłowiec
+1317,Warszawa
+1318,Błonie
+1319,Izabelin
+1320,Kampinos
+1321,Leszno
+1322,Łomianki
+1323,Ożarów Mazowiecki
+1324,Stare Babice
+1325,Grębków
+1326,Korytnica
+1327,Liw
+1328,Łochów
+1329,Miedzna
+1330,Sadowne
+1331,Stoczek
+1332,Węgrów
+1333,Wierzbno
+1334,Dąbrówka
+1335,Jadów
+1336,Klembów
+1337,Kobyłka
+1338,Marki
+1339,Poświętne
+1340,Radzymin
+1341,Strachówka
+1342,Tłuszcz
+1343,Wołomin
+1344,Ząbki
+1345,Zielonka
+1346,Brańszczyk
+1347,Długosiodło
+1348,Rząśnik
+1349,Somianka
+1350,Wyszków
+1351,Zabrodzie
+1352,Kazanów
+1353,Policzna
+1354,Przyłęk
+1355,Tczów
+1356,Zwoleń
+1357,Bieżuń
+1358,Kuczbork-Osada
+1359,Lubowidz
+1360,Lutocin
+1361,Siemiątkowo
+1362,Żuromin
+1363,Mszczonów
+1364,Puszcza Mariańska
+1365,Radziejowice
+1366,Wiskitki
+1367,Żyrardów
+1368,Brzeg
+1369,Brzeg
+1370,Grodków
+1371,Grodków
+1372,Lewin Brzeski
+1373,Lewin Brzeski
+1374,Lubsza
+1375,Lubsza
+1376,Olszanka
+1377,Olszanka
+1378,Skarbimierz
+1379,Skarbimierz
+1380,Baborów
+1381,Branice
+1382,Głubczyce
+1383,Kietrz
+1384,Bierawa
+1385,Cisek
+1386,Kędzierzyn-Koźle
+1387,Pawłowiczki
+1388,Polska Cerekiew
+1389,Reńska Wieś
+1390,Byczyna
+1391,Kluczbork
+1392,Lasowice Wielkie
+1393,Wołczyn
+1394,Gogolin
+1395,Krapkowice
+1396,Strzeleczki
+1397,Walce
+1398,Zdzieszowice
+1399,Domaszowice
+1400,Namysłów
+1401,Pokój
+1402,Świerczów
+1403,Wilków
+1404,Głuchołazy
+1405,Kamiennik
+1406,Korfantów
+1407,Łambinowice
+1408,Nysa
+1409,Otmuchów
+1410,Paczków
+1411,Pakosławice
+1412,Skoroszyce
+1413,Dobrodzień
+1414,Gorzów Śląski
+1415,Olesno
+1416,Praszka
+1417,Radłów
+1418,Rudniki
+1419,Zębowice
+1420,Opole
+1421,Chrząstowice
+1422,Chrząstowice
+1423,Dąbrowa
+1424,Dąbrowa
+1425,Dobrzeń Wielki
+1426,Dobrzeń Wielki
+1427,Komprachcice
+1428,Komprachcice
+1429,Łubniany
+1430,Łubniany
+1431,Murów
+1432,Murów
+1433,Niemodlin
+1434,Niemodlin
+1435,Ozimek
+1436,Ozimek
+1437,Popielów
+1438,Popielów
+1439,Prószków
+1440,Prószków
+1441,Tarnów Opolski
+1442,Tarnów Opolski
+1443,Tułowice
+1444,Tułowice
+1445,Turawa
+1446,Turawa
+1447,Biała
+1448,Głogówek
+1449,Lubrza
+1450,Prudnik
+1451,Izbicko
+1452,Jemielnica
+1453,Kolonowskie
+1454,Leśnica
+1455,Strzelce Opolskie
+1456,Ujazd
+1457,Zawadzkie
+1458,Baligród
+1459,Cisna
+1460,Czarna
+1461,Lesko
+1462,Lutowiska
+1463,Olszanica
+1464,Solina
+1465,Ustrzyki Dolne
+1466,Brzozów
+1467,Domaradz
+1468,Dydnia
+1469,Haczów
+1470,Jasienica Rosielna
+1471,Nozdrzec
+1472,Brzostek
+1473,Czarna
+1474,Dębica
+1475,Dębica
+1476,Jodłowa
+1477,Pilzno
+1478,Żyraków
+1479,Chłopice
+1480,Jarosław
+1481,Jarosław
+1482,Laszki
+1483,Pawłosiów
+1484,Pruchnik
+1485,Radymno
+1486,Radymno
+1487,Rokietnica
+1488,Roźwienica
+1489,Wiązownica
+1490,Brzyska
+1491,Dębowiec
+1492,Jasło
+1493,Jasło
+1494,Kołaczyce
+1495,Krempna
+1496,Nowy Żmigród
+1497,Osiek Jasielski
+1498,Skołyszyn
+1499,Tarnowiec
+1500,Cmolas
+1501,Dzikowiec
+1502,Kolbuszowa
+1503,Majdan Królewski
+1504,Niwiska
+1505,Raniżów
+1506,Krosno
+1507,Chorkówka
+1508,Chorkówka
+1509,Dukla
+1510,Dukla
+1511,Iwonicz-Zdrój
+1512,Iwonicz-Zdrój
+1513,Jaśliska
+1514,Jaśliska
+1515,Jedlicze
+1516,Jedlicze
+1517,Korczyna
+1518,Korczyna
+1519,Krościenko Wyżne
+1520,Krościenko Wyżne
+1521,Miejsce Piastowe
+1522,Miejsce Piastowe
+1523,Rymanów
+1524,Rymanów
+1525,Wojaszówka
+1526,Wojaszówka
+1527,Grodzisko Dolne
+1528,Kuryłówka
+1529,Leżajsk
+1530,Leżajsk
+1531,Nowa Sarzyna
+1532,Cieszanów
+1533,Horyniec-Zdrój
+1534,Lubaczów
+1535,Lubaczów
+1536,Narol
+1537,Oleszyce
+1538,Stary Dzików
+1539,Wielkie Oczy
+1540,Białobrzegi
+1541,Czarna
+1542,Łańcut
+1543,Łańcut
+1544,Markowa
+1545,Rakszawa
+1546,Żołynia
+1547,Borowa
+1548,Czermin
+1549,Gawłuszowice
+1550,Mielec
+1551,Mielec
+1552,Padew Narodowa
+1553,Przecław
+1554,Radomyśl Wielki
+1555,Tuszów Narodowy
+1556,Wadowice Górne
+1557,Harasiuki
+1558,Jarocin
+1559,Jeżowe
+1560,Krzeszów
+1561,Nisko
+1562,Rudnik nad Sanem
+1563,Ulanów
+1564,Bircza
+1565,Dubiecko
+1566,Fredropol
+1567,Krasiczyn
+1568,Krzywcza
+1569,Medyka
+1570,Orły
+1571,Przemyśl
+1572,Stubno
+1573,Żurawica
+1574,Przemyśl
+1575,Adamówka
+1576,Gać
+1577,Jawornik Polski
+1578,Kańczuga
+1579,Przeworsk
+1580,Przeworsk
+1581,Sieniawa
+1582,Tryńcza
+1583,Zarzecze
+1584,Iwierzyce
+1585,Ostrów
+1586,Ropczyce
+1587,Sędziszów Małopolski
+1588,Wielopole Skrzyńskie
+1589,Błażowa
+1590,Boguchwała
+1591,Chmielnik
+1592,Dynów
+1593,Dynów
+1594,Głogów Małopolski
+1595,Hyżne
+1596,Kamień
+1597,Krasne
+1598,Lubenia
+1599,Sokołów Małopolski
+1600,Świlcza
+1601,Trzebownisko
+1602,Tyczyn
+1603,Rzeszów
+1604,Besko
+1605,Bukowsko
+1606,Komańcza
+1607,Sanok
+1608,Sanok
+1609,Tyrawa Wołoska
+1610,Zagórz
+1611,Zarszyn
+1612,Bojanów
+1613,Pysznica
+1614,Radomyśl nad Sanem
+1615,Stalowa Wola
+1616,Zaklików
+1617,Zaleszany
+1618,Czudec
+1619,Frysztak
+1620,Niebylec
+1621,Strzyżów
+1622,Wiśniowa
+1623,Tarnobrzeg
+1624,Baranów Sandomierski
+1625,Gorzyce
+1626,Grębów
+1627,Nowa Dęba
+1628,Augustów
+1629,Augustów
+1630,Bargłów Kościelny
+1631,Lipsk
+1632,Nowinka
+1633,Płaska
+1634,Sztabin
+1635,Choroszcz
+1636,Czarna Białostocka
+1637,Dobrzyniewo Duże
+1638,Gródek
+1639,Juchnowiec Kościelny
+1640,Łapy
+1641,Michałowo
+1642,Poświętne
+1643,Supraśl
+1644,Suraż
+1645,Turośń Kościelna
+1646,Tykocin
+1647,Wasilków
+1648,Zabłudów
+1649,Zawady
+1650,Białystok
+1651,Bielsk Podlaski
+1652,Bielsk Podlaski
+1653,Bielsk Podlaski
+1654,Bielsk Podlaski
+1655,Boćki
+1656,Boćki
+1657,Brańsk
+1658,Brańsk
+1659,Brańsk
+1660,Brańsk
+1661,Orla
+1662,Orla
+1663,Rudka
+1664,Rudka
+1665,Wyszki
+1666,Wyszki
+1667,Grajewo
+1668,Grajewo
+1669,Radziłów
+1670,Rajgród
+1671,Szczuczyn
+1672,Wąsosz
+1673,Białowieża
+1674,Czeremcha
+1675,Czyże
+1676,Dubicze Cerkiewne
+1677,Hajnówka
+1678,Hajnówka
+1679,Kleszczele
+1680,Narew
+1681,Narewka
+1682,Grabowo
+1683,Kolno
+1684,Kolno
+1685,Mały Płock
+1686,Stawiski
+1687,Turośl
+1688,Łomża
+1689,Jedwabne
+1690,Łomża
+1691,Miastkowo
+1692,Nowogród
+1693,Piątnica
+1694,Przytuły
+1695,Śniadowo
+1696,Wizna
+1697,Zbójna
+1698,Goniądz
+1699,Jasionówka
+1700,Jaświły
+1701,Knyszyn
+1702,Krypno
+1703,Mońki
+1704,Trzcianne
+1705,Giby
+1706,Krasnopol
+1707,Puńsk
+1708,Sejny
+1709,Sejny
+1710,Drohiczyn
+1711,Dziadkowice
+1712,Grodzisk
+1713,Mielnik
+1714,Milejczyce
+1715,Nurzec-Stacja
+1716,Perlejewo
+1717,Siemiatycze
+1718,Siemiatycze
+1719,Dąbrowa Białostocka
+1720,Janów
+1721,Korycin
+1722,Krynki
+1723,Kuźnica
+1724,Nowy Dwór
+1725,Sidra
+1726,Sokółka
+1727,Suchowola
+1728,Szudziałowo
+1729,Bakałarzewo
+1730,Filipów
+1731,Jeleniewo
+1732,Przerośl
+1733,Raczki
+1734,Rutka-Tartak
+1735,Suwałki
+1736,Szypliszki
+1737,Wiżajny
+1738,Suwałki
+1739,Ciechanowiec
+1740,Czyżew
+1741,Klukowo
+1742,Kobylin-Borzymy
+1743,Kulesze Kościelne
+1744,Nowe Piekuty
+1745,Sokoły
+1746,Szepietowo
+1747,Wysokie Mazowieckie
+1748,Wysokie Mazowieckie
+1749,Kołaki Kościelne
+1750,Rutki
+1751,Szumowo
+1752,Zambrów
+1753,Zambrów
+1754,Borzytuchom
+1755,Bytów
+1756,Czarna Dąbrówka
+1757,Kołczygłowy
+1758,Lipnica
+1759,Miastko
+1760,Parchowo
+1761,Studzienice
+1762,Trzebielino
+1763,Tuchomie
+1764,Brusy
+1765,Chojnice
+1766,Chojnice
+1767,Czersk
+1768,Konarzyny
+1769,Czarne
+1770,Człuchów
+1771,Człuchów
+1772,Debrzno
+1773,Koczała
+1774,Przechlewo
+1775,Rzeczenica
+1776,Gdańsk
+1777,Cedry Wielkie
+1778,Kolbudy
+1779,Pruszcz Gdański
+1780,Pruszcz Gdański
+1781,Przywidz
+1782,Pszczółki
+1783,Suchy Dąb
+1784,Trąbki Wielkie
+1785,Gdynia
+1786,Chmielno
+1787,Kartuzy
+1788,Przodkowo
+1789,Sierakowice
+1790,Somonino
+1791,Stężyca
+1792,Sulęczyno
+1793,Żukowo
+1794,Dziemiany
+1795,Karsin
+1796,Kościerzyna
+1797,Kościerzyna
+1798,Liniewo
+1799,Lipusz
+1800,Nowa Karczma
+1801,Stara Kiszewa
+1802,Gardeja
+1803,Kwidzyn
+1804,Kwidzyn
+1805,Prabuty
+1806,Ryjewo
+1807,Sadlinki
+1808,Cewice
+1809,Lębork
+1810,Łeba
+1811,Nowa Wieś Lęborska
+1812,Wicko
+1813,Lichnowy
+1814,Malbork
+1815,Malbork
+1816,Miłoradz
+1817,Nowy Staw
+1818,Stare Pole
+1819,Krynica Morska
+1820,Krynica Morska
+1821,Nowy Dwór Gdański
+1822,Nowy Dwór Gdański
+1823,Ostaszewo
+1824,Ostaszewo
+1825,Stegna
+1826,Stegna
+1827,Sztutowo
+1828,Sztutowo
+1829,Hel
+1830,Jastarnia
+1831,Kosakowo
+1832,Krokowa
+1833,Puck
+1834,Puck
+1835,Władysławowo
+1836,Słupsk
+1837,Damnica
+1838,Dębnica Kaszubska
+1839,Główczyce
+1840,Kępice
+1841,Kobylnica
+1842,Potęgowo
+1843,Słupsk
+1844,Smołdzino
+1845,Ustka
+1846,Ustka
+1847,Sopot
+1848,Bobowo
+1849,Czarna Woda
+1850,Kaliska
+1851,Lubichowo
+1852,Osieczna
+1853,Osiek
+1854,Skarszewy
+1855,Skórcz
+1856,Skórcz
+1857,Smętowo Graniczne
+1858,Starogard Gdański
+1859,Starogard Gdański
+1860,Zblewo
+1861,Dzierzgoń
+1862,Mikołajki Pomorskie
+1863,Stary Dzierzgoń
+1864,Stary Targ
+1865,Sztum
+1866,Gniew
+1867,Morzeszczyn
+1868,Pelplin
+1869,Subkowy
+1870,Tczew
+1871,Tczew
+1872,Choczewo
+1873,Gniewino
+1874,Linia
+1875,Luzino
+1876,Łęczyce
+1877,Reda
+1878,Rumia
+1879,Szemud
+1880,Wejherowo
+1881,Wejherowo
+1882,Będzin
+1883,Bobrowniki
+1884,Czeladź
+1885,Mierzęcice
+1886,Psary
+1887,Siewierz
+1888,Sławków
+1889,Wojkowice
+1890,Bestwina
+1891,Bestwina
+1892,Buczkowice
+1893,Buczkowice
+1894,Czechowice-Dziedzice
+1895,Czechowice-Dziedzice
+1896,Jasienica
+1897,Jasienica
+1898,Jaworze
+1899,Jaworze
+1900,Kozy
+1901,Kozy
+1902,Porąbka
+1903,Porąbka
+1904,Szczyrk
+1905,Szczyrk
+1906,Wilamowice
+1907,Wilamowice
+1908,Wilkowice
+1909,Wilkowice
+1910,Bielsko-Biała
+1911,Bieruń
+1912,Bojszowy
+1913,Chełm Śląski
+1914,Imielin
+1915,Lędziny
+1916,Bytom
+1917,Chorzów
+1918,Brenna
+1919,Chybie
+1920,Cieszyn
+1921,Dębowiec
+1922,Goleszów
+1923,Hażlach
+1924,Istebna
+1925,Skoczów
+1926,Strumień
+1927,Ustroń
+1928,Wisła
+1929,Zebrzydowice
+1930,Częstochowa
+1931,Blachownia
+1932,Dąbrowa Zielona
+1933,Janów
+1934,Kamienica Polska
+1935,Kłomnice
+1936,Koniecpol
+1937,Konopiska
+1938,Kruszyna
+1939,Lelów
+1940,Mstów
+1941,Mykanów
+1942,Olsztyn
+1943,Poczesna
+1944,Przyrów
+1945,Rędziny
+1946,Starcza
+1947,Dąbrowa Górnicza
+1948,Gliwice
+1949,Gierałtowice
+1950,Knurów
+1951,Pilchowice
+1952,Pyskowice
+1953,Rudziniec
+1954,Sośnicowice
+1955,Toszek
+1956,Wielowieś
+1957,Jastrzębie-Zdrój
+1958,Jaworzno
+1959,Katowice
+1960,Kłobuck
+1961,Krzepice
+1962,Lipie
+1963,Miedźno
+1964,Opatów
+1965,Panki
+1966,Popów
+1967,Przystajń
+1968,Wręczyca Wielka
+1969,Boronów
+1970,Ciasna
+1971,Herby
+1972,Kochanowice
+1973,Koszęcin
+1974,Lubliniec
+1975,Pawonków
+1976,Woźniki
+1977,Łaziska Górne
+1978,Mikołów
+1979,Ornontowice
+1980,Orzesze
+1981,Wyry
+1982,Mysłowice
+1983,Koziegłowy
+1984,Myszków
+1985,Niegowa
+1986,Poraj
+1987,Żarki
+1988,Piekary Śląskie
+1989,Goczałkowice-Zdrój
+1990,Kobiór
+1991,Miedźna
+1992,Pawłowice
+1993,Pszczyna
+1994,Suszec
+1995,Kornowac
+1996,Krzanowice
+1997,Krzyżanowice
+1998,Kuźnia Raciborska
+1999,Nędza
+2000,Pietrowice Wielkie
+2001,Racibórz
+2002,Rudnik
+2003,Ruda Śląska
+2004,Czerwionka-Leszczyny
+2005,Gaszowice
+2006,Jejkowice
+2007,Lyski
+2008,Świerklany
+2009,Rybnik
+2010,Siemianowice Śląskie
+2011,Sosnowiec
+2012,Świętochłowice
+2013,Kalety
+2014,Krupski Młyn
+2015,Miasteczko Śląskie
+2016,Ożarowice
+2017,Radzionków
+2018,Świerklaniec
+2019,Tarnowskie Góry
+2020,Tworóg
+2021,Zbrosławice
+2022,Tychy
+2023,Godów
+2024,Gorzyce
+2025,Lubomia
+2026,Marklowice
+2027,Mszana
+2028,Pszów
+2029,Radlin
+2030,Rydułtowy
+2031,Wodzisław Śląski
+2032,Zabrze
+2033,Irządze
+2034,Kroczyce
+2035,Łazy
+2036,Ogrodzieniec
+2037,Pilica
+2038,Poręba
+2039,Szczekociny
+2040,Włodowice
+2041,Zawiercie
+2042,Żarnowiec
+2043,Żory
+2044,Czernichów
+2045,Gilowice
+2046,Jeleśnia
+2047,Koszarawa
+2048,Lipowa
+2049,Łękawica
+2050,Łodygowice
+2051,Milówka
+2052,Radziechowy-Wieprz
+2053,Rajcza
+2054,Ślemień
+2055,Świnna
+2056,Ujsoły
+2057,Węgierska Górka
+2058,Żywiec
+2059,Busko-Zdrój
+2060,Gnojno
+2061,Nowy Korczyn
+2062,Pacanów
+2063,Solec-Zdrój
+2064,Stopnica
+2065,Tuczępy
+2066,Wiślica
+2067,Imielno
+2068,Jędrzejów
+2069,Małogoszcz
+2070,Nagłowice
+2071,Oksa
+2072,Sędziszów
+2073,Słupia (Jędrzejowska)
+2074,Sobków
+2075,Wodzisław
+2076,Bejsce
+2077,Czarnocin
+2078,Kazimierza Wielka
+2079,Opatowiec
+2080,Skalbmierz
+2081,Kielce
+2082,Bieliny
+2083,Bodzentyn
+2084,Chęciny
+2085,Chmielnik
+2086,Daleszyce
+2087,Górno
+2088,Łagów
+2089,Łopuszno
+2090,Masłów
+2091,Miedziana Góra
+2092,Mniów
+2093,Morawica
+2094,Nowa Słupia
+2095,Piekoszów
+2096,Pierzchnica
+2097,Raków
+2098,Sitkówka-Nowiny
+2099,Strawczyn
+2100,Zagnańsk
+2101,Fałków
+2102,Gowarczów
+2103,Końskie
+2104,Radoszyce
+2105,Ruda Maleniecka
+2106,Słupia Konecka
+2107,Smyków
+2108,Stąporków
+2109,Baćkowice
+2110,Iwaniska
+2111,Lipnik
+2112,Opatów
+2113,Ożarów
+2114,Sadowie
+2115,Tarłów
+2116,Wojciechowice
+2117,Bałtów
+2118,Bodzechów
+2119,Ćmielów
+2120,Kunów
+2121,Ostrowiec Świętokrzyski
+2122,Waśniów
+2123,Działoszyce
+2124,Kije
+2125,Michałów
+2126,Pińczów
+2127,Złota
+2128,Dwikozy
+2129,Klimontów
+2130,Koprzywnica
+2131,Łoniów
+2132,Obrazów
+2133,Samborzec
+2134,Sandomierz
+2135,Wilczyce
+2136,Zawichost
+2137,Bliżyn
+2138,Łączna
+2139,Skarżysko Kościelne
+2140,Skarżysko-Kamienna
+2141,Suchedniów
+2142,Brody
+2143,Mirzec
+2144,Pawłów
+2145,Starachowice
+2146,Wąchock
+2147,Bogoria
+2148,Łubnice
+2149,Oleśnica
+2150,Osiek
+2151,Połaniec
+2152,Rytwiany
+2153,Staszów
+2154,Szydłów
+2155,Kluczewsko
+2156,Krasocin
+2157,Moskorzew
+2158,Radków
+2159,Secemin
+2160,Włoszczowa
+2161,Bartoszyce
+2162,Bartoszyce
+2163,Bisztynek
+2164,Górowo Iławeckie
+2165,Górowo Iławeckie
+2166,Sępopol
+2167,Braniewo
+2168,Braniewo
+2169,Frombork
+2170,Lelkowo
+2171,Pieniężno
+2172,Płoskinia
+2173,Wilczęta
+2174,Działdowo
+2175,Działdowo
+2176,Iłowo-Osada
+2177,Lidzbark
+2178,Płośnica
+2179,Rybno
+2180,Elbląg
+2181,Elbląg
+2182,Godkowo
+2183,Gronowo Elbląskie
+2184,Markusy
+2185,Milejewo
+2186,Młynary
+2187,Pasłęk
+2188,Rychliki
+2189,Tolkmicko
+2190,Ełk
+2191,Ełk
+2192,Kalinowo
+2193,Prostki
+2194,Stare Juchy
+2195,Banie Mazurskie
+2196,Budry
+2197,Giżycko
+2198,Giżycko
+2199,Kruklanki
+2200,Miłki
+2201,Pozezdrze
+2202,Ryn
+2203,Węgorzewo
+2204,Wydminy
+2205,Iława
+2206,Iława
+2207,Kisielice
+2208,Lubawa
+2209,Lubawa
+2210,Susz
+2211,Zalewo
+2212,Barciany
+2213,Kętrzyn
+2214,Kętrzyn
+2215,Korsze
+2216,Reszel
+2217,Srokowo
+2218,Kiwity
+2219,Lidzbark Warmiński
+2220,Lidzbark Warmiński
+2221,Lubomino
+2222,Orneta
+2223,Mikołajki
+2224,Mrągowo
+2225,Mrągowo
+2226,Piecki
+2227,Sorkwity
+2228,Janowiec Kościelny
+2229,Janowo
+2230,Kozłowo
+2231,Nidzica
+2232,Biskupiec
+2233,Grodziczno
+2234,Kurzętnik
+2235,Nowe Miasto Lubawskie
+2236,Nowe Miasto Lubawskie
+2237,Dubeninki
+2238,Gołdap
+2239,Kowale Oleckie
+2240,Olecko
+2241,Świętajno
+2242,Wieliczki
+2243,Olsztyn
+2244,Barczewo
+2245,Biskupiec
+2246,Dobre Miasto
+2247,Dywity
+2248,Gietrzwałd
+2249,Jeziorany
+2250,Jonkowo
+2251,Kolno
+2252,Olsztynek
+2253,Purda
+2254,Stawiguda
+2255,Świątki
+2256,Dąbrówno
+2257,Grunwald
+2258,Łukta
+2259,Małdyty
+2260,Miłakowo
+2261,Miłomłyn
+2262,Morąg
+2263,Ostróda
+2264,Ostróda
+2265,Biała Piska
+2266,Orzysz
+2267,Pisz
+2268,Ruciane-Nida
+2269,Dźwierzuty
+2270,Jedwabno
+2271,Pasym
+2272,Rozogi
+2273,Szczytno
+2274,Szczytno
+2275,Świętajno
+2276,Wielbark
+2277,Budzyń
+2278,Chodzież
+2279,Chodzież
+2280,Margonin
+2281,Szamocin
+2282,Czarnków
+2283,Czarnków
+2284,Drawsko
+2285,Krzyż Wielkopolski
+2286,Lubasz
+2287,Połajewo
+2288,Trzcianka
+2289,Wieleń
+2290,Czerniejewo
+2291,Gniezno
+2292,Gniezno
+2293,Kiszkowo
+2294,Kłecko
+2295,Łubowo
+2296,Mieleszyn
+2297,Niechanowo
+2298,Trzemeszno
+2299,Witkowo
+2300,Borek Wielkopolski
+2301,Gostyń
+2302,Krobia
+2303,Pępowo
+2304,Piaski
+2305,Pogorzela
+2306,Poniec
+2307,Granowo
+2308,Granowo
+2309,Grodzisk Wielkopolski
+2310,Grodzisk Wielkopolski
+2311,Kamieniec
+2312,Kamieniec
+2313,Rakoniewice
+2314,Rakoniewice
+2315,Wielichowo
+2316,Wielichowo
+2317,Jaraczewo
+2318,Jarocin
+2319,Kotlin
+2320,Żerków
+2321,Blizanów
+2322,Brzeziny
+2323,Ceków-Kolonia
+2324,Godziesze Wielkie
+2325,Koźminek
+2326,Lisków
+2327,Mycielin
+2328,Opatówek
+2329,Stawiszyn
+2330,Szczytniki
+2331,Żelazków
+2332,Kalisz
+2333,Baranów
+2334,Bralin
+2335,Kępno
+2336,Łęka Opatowska
+2337,Perzów
+2338,Rychtal
+2339,Trzcinica
+2340,Babiak
+2341,Chodów
+2342,Dąbie
+2343,Grzegorzew
+2344,Kłodawa
+2345,Koło
+2346,Koło
+2347,Kościelec
+2348,Olszówka
+2349,Osiek Mały
+2350,Przedecz
+2351,Konin
+2352,Golina
+2353,Grodziec
+2354,Kazimierz Biskupi
+2355,Kleczew
+2356,Kramsk
+2357,Krzymów
+2358,Rychwał
+2359,Rzgów
+2360,Skulsk
+2361,Sompolno
+2362,Stare Miasto
+2363,Ślesin
+2364,Wierzbinek
+2365,Wilczyn
+2366,Czempiń
+2367,Kościan
+2368,Kościan
+2369,Krzywiń
+2370,Śmigiel
+2371,Kobylin
+2372,Koźmin Wielkopolski
+2373,Krotoszyn
+2374,Rozdrażew
+2375,Sulmierzyce
+2376,Zduny
+2377,Krzemieniewo
+2378,Lipno
+2379,Osieczna
+2380,Rydzyna
+2381,Święciechowa
+2382,Wijewo
+2383,Włoszakowice
+2384,Leszno
+2385,Chrzypsko Wielkie
+2386,Kwilcz
+2387,Międzychód
+2388,Sieraków
+2389,Kuślin
+2390,Lwówek
+2391,Miedzichowo
+2392,Nowy Tomyśl
+2393,Opalenica
+2394,Zbąszyń
+2395,Oborniki
+2396,Rogoźno
+2397,Ryczywół
+2398,Nowe Skalmierzyce
+2399,Nowe Skalmierzyce
+2400,Odolanów
+2401,Odolanów
+2402,Ostrów Wielkopolski
+2403,Ostrów Wielkopolski
+2404,Ostrów Wielkopolski
+2405,Ostrów Wielkopolski
+2406,Przygodzice
+2407,Przygodzice
+2408,Raszków
+2409,Raszków
+2410,Sieroszewice
+2411,Sieroszewice
+2412,Sośnie
+2413,Sośnie
+2414,Czajków
+2415,Doruchów
+2416,Grabów nad Prosną
+2417,Kobyla Góra
+2418,Kraszewice
+2419,Mikstat
+2420,Ostrzeszów
+2421,Białośliwie
+2422,Kaczory
+2423,Łobżenica
+2424,Miasteczko Krajeńskie
+2425,Piła
+2426,Szydłowo
+2427,Ujście
+2428,Wyrzysk
+2429,Wysoka
+2430,Chocz
+2431,Czermin
+2432,Dobrzyca
+2433,Gizałki
+2434,Gołuchów
+2435,Pleszew
+2436,Poznań
+2437,Buk
+2438,Czerwonak
+2439,Dopiewo
+2440,Kleszczewo
+2441,Komorniki
+2442,Kostrzyn
+2443,Kórnik
+2444,Luboń
+2445,Mosina
+2446,Murowana Goślina
+2447,Pobiedziska
+2448,Puszczykowo
+2449,Rokietnica
+2450,Stęszew
+2451,Suchy Las
+2452,Swarzędz
+2453,Tarnowo Podgórne
+2454,Bojanowo
+2455,Jutrosin
+2456,Miejska Górka
+2457,Pakosław
+2458,Rawicz
+2459,Lądek
+2460,Orchowo
+2461,Ostrowite
+2462,Powidz
+2463,Słupca
+2464,Słupca
+2465,Strzałkowo
+2466,Zagórów
+2467,Duszniki
+2468,Kaźmierz
+2469,Obrzycko
+2470,Obrzycko
+2471,Ostroróg
+2472,Pniewy
+2473,Szamotuły
+2474,Wronki
+2475,Dominowo
+2476,Dominowo
+2477,Krzykosy
+2478,Krzykosy
+2479,Nowe Miasto nad Wartą
+2480,Nowe Miasto nad Wartą
+2481,Środa Wielkopolska
+2482,Środa Wielkopolska
+2483,Zaniemyśl
+2484,Zaniemyśl
+2485,Brodnica
+2486,Dolsk
+2487,Książ Wielkopolski
+2488,Śrem
+2489,Brudzew
+2490,Dobra
+2491,Kawęczyn
+2492,Malanów
+2493,Przykona
+2494,Tuliszków
+2495,Turek
+2496,Turek
+2497,Władysławów
+2498,Damasławek
+2499,Gołańcz
+2500,Mieścisko
+2501,Skoki
+2502,Wapno
+2503,Wągrowiec
+2504,Wągrowiec
+2505,Przemęt
+2506,Siedlec
+2507,Wolsztyn
+2508,Kołaczkowo
+2509,Miłosław
+2510,Nekla
+2511,Pyzdry
+2512,Września
+2513,Jastrowie
+2514,Krajenka
+2515,Lipka
+2516,Okonek
+2517,Tarnówka
+2518,Zakrzewo
+2519,Złotów
+2520,Złotów
+2521,Białogard
+2522,Białogard
+2523,Karlino
+2524,Tychowo
+2525,Bierzwnik
+2526,Choszczno
+2527,Drawno
+2528,Krzęcin
+2529,Pełczyce
+2530,Recz
+2531,Czaplinek
+2532,Drawsko Pomorskie
+2533,Kalisz Pomorski
+2534,Ostrowice
+2535,Wierzchowo
+2536,Złocieniec
+2537,Goleniów
+2538,Maszewo
+2539,Nowogard
+2540,Osina
+2541,Przybiernów
+2542,Stepnica
+2543,Brojce
+2544,Gryfice
+2545,Karnice
+2546,Płoty
+2547,Rewal
+2548,Trzebiatów
+2549,Banie
+2550,Cedynia
+2551,Chojna
+2552,Gryfino
+2553,Mieszkowice
+2554,Moryń
+2555,Stare Czarnowo
+2556,Trzcińsko-Zdrój
+2557,Widuchowa
+2558,Dziwnów
+2559,Golczewo
+2560,Kamień Pomorski
+2561,Międzyzdroje
+2562,Świerzno
+2563,Wolin
+2564,Dygowo
+2565,Gościno
+2566,Kołobrzeg
+2567,Kołobrzeg
+2568,Rymań
+2569,Siemyśl
+2570,Ustronie Morskie
+2571,Koszalin
+2572,Będzino
+2573,Biesiekierz
+2574,Bobolice
+2575,Manowo
+2576,Mielno
+2577,Polanów
+2578,Sianów
+2579,Świeszyno
+2580,Dobra
+2581,Łobez
+2582,Radowo Małe
+2583,Resko
+2584,Węgorzyno
+2585,Barlinek
+2586,Boleszkowice
+2587,Dębno
+2588,Myślibórz
+2589,Nowogródek Pomorski
+2590,Dobra (Szczecińska)
+2591,Kołbaskowo
+2592,Nowe Warpno
+2593,Police
+2594,Bielice
+2595,Kozielice
+2596,Lipiany
+2597,Przelewice
+2598,Pyrzyce
+2599,Warnice
+2600,Darłowo
+2601,Darłowo
+2602,Malechowo
+2603,Postomino
+2604,Sławno
+2605,Sławno
+2606,Chociwel
+2607,Dobrzany
+2608,Dolice
+2609,Ińsko
+2610,Kobylanka
+2611,Marianowo
+2612,Stara Dąbrowa
+2613,Stargard
+2614,Stargard
+2615,Suchań
+2616,Szczecin
+2617,Barwice
+2618,Biały Bór
+2619,Borne Sulinowo
+2620,Grzmiąca
+2621,Szczecinek
+2622,Szczecinek
+2623,Brzeżno
+2624,Połczyn-Zdrój
+2625,Rąbino
+2626,Sławoborze
+2627,Świdwin
+2628,Świdwin
+2629,Świnoujście
+2630,Człopa
+2631,Mirosławiec
+2632,Tuczno
+2633,Wałcz
+2634,Wałcz

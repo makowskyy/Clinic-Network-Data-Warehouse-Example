@@ -1,0 +1,14 @@
+LOAD DATA
+CHARACTERSET AL32UTF8
+INFILE 'CSV/diagnozy.csv'
+BADFILE 'BAD/diagnozy.bad'
+DISCARDFILE 'BAD/diagnozy.dsc'
+INTO TABLE diagnozy
+APPEND
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+TRAILING NULLCOLS
+(
+  id_diagnozy,
+  nazwa,
+  opis
+)

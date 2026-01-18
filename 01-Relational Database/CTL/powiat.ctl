@@ -1,0 +1,14 @@
+LOAD DATA
+CHARACTERSET AL32UTF8
+INFILE 'CSV/powiat.csv'
+BADFILE 'CTL/BAD/powiat.bad'
+DISCARDFILE 'CTL/BAD/powiat.dsc'
+INTO TABLE powiat
+APPEND
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+TRAILING NULLCOLS
+(
+  id_powiat,
+  nazwa,
+  id_wojewodztwo
+)

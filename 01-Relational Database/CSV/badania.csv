@@ -1,0 +1,3001 @@
+id_badania,nazwa,opis
+1,USG jamy brzusznej,Wskazanie do wykonania w ramach profilaktyki.
+2,Cytologia,Standardowe badanie diagnostyczne.
+3,Badanie przeciwciał,Badanie obrazowe wysokiej rozdzielczości.
+4,RTG klatki piersiowej,Zalecane przy podejrzeniu infekcji.
+5,Badanie poziomu witaminy D,Ocena stanu układu krążenia.
+6,Badanie kału,Standardowe badanie diagnostyczne.
+7,Test alergiczny,Pomiar funkcji narządów wewnętrznych.
+8,Badanie okulistyczne,Wymaga przygotowania na czczo.
+9,RTG klatki piersiowej,Ocena stanu układu krążenia.
+10,Badanie poziomu witaminy D,Wymaga przygotowania na czczo.
+11,Kolonoskopia,Badanie obrazowe wysokiej rozdzielczości.
+12,Spirometria,Nieinwazyjne i bezbolesne.
+13,Test alergiczny,Stosowane w diagnostyce przewlekłych chorób.
+14,Badanie kału,Pomiar funkcji narządów wewnętrznych.
+15,Badanie kału,Wyniki dostępne w ciągu 24 godzin.
+16,Morfologia krwi,Standardowe badanie diagnostyczne.
+17,Badanie okulistyczne,Zalecane przy podejrzeniu infekcji.
+18,Spirometria,Zalecane przy podejrzeniu infekcji.
+19,Badanie okulistyczne,Ocena stanu układu krążenia.
+20,Badanie tarczycy,Wskazanie do wykonania w ramach profilaktyki.
+21,Spirometria,Wyniki dostępne w ciągu 24 godzin.
+22,Spirometria,Zalecane przy podejrzeniu infekcji.
+23,Lipidogram,Pomiar funkcji narządów wewnętrznych.
+24,Tomografia komputerowa,Wyniki dostępne w ciągu 24 godzin.
+25,Test alergiczny,Wyniki dostępne w ciągu 24 godzin.
+26,Badanie hormonalne,Pomiar funkcji narządów wewnętrznych.
+27,Test alergiczny,Wyniki dostępne w ciągu 24 godzin.
+28,Lipidogram,Standardowe badanie diagnostyczne.
+29,Holter EKG,Wymaga przygotowania na czczo.
+30,Holter EKG,Pomiar funkcji narządów wewnętrznych.
+31,Badanie okulistyczne,Zalecane przy podejrzeniu infekcji.
+32,Echo serca,Stosowane w diagnostyce przewlekłych chorób.
+33,Badanie poziomu witaminy D,Wymaga przygotowania na czczo.
+34,Badanie tarczycy,Badanie obrazowe wysokiej rozdzielczości.
+35,EKG,Standardowe badanie diagnostyczne.
+36,Badanie przeciwciał,Pomiar funkcji narządów wewnętrznych.
+37,Badanie kału,Stosowane w diagnostyce przewlekłych chorób.
+38,EKG,Nieinwazyjne i bezbolesne.
+39,Holter EKG,Wskazanie do wykonania w ramach profilaktyki.
+40,Spirometria,Badanie obrazowe wysokiej rozdzielczości.
+41,Badanie hormonalne,Wyniki dostępne w ciągu 24 godzin.
+42,Holter EKG,Ocena stanu układu krążenia.
+43,Badanie poziomu witaminy D,Stosowane w diagnostyce przewlekłych chorób.
+44,Test obciążenia glukozą,Ocena stanu układu krążenia.
+45,Test obciążenia glukozą,Badanie obrazowe wysokiej rozdzielczości.
+46,Spirometria,Nieinwazyjne i bezbolesne.
+47,Test PCR,Stosowane w diagnostyce przewlekłych chorób.
+48,RTG klatki piersiowej,Wyniki dostępne w ciągu 24 godzin.
+49,Kolonoskopia,Wskazanie do wykonania w ramach profilaktyki.
+50,Test obciążenia glukozą,Nieinwazyjne i bezbolesne.
+51,Echo serca,Zalecane przy podejrzeniu infekcji.
+52,Test alergiczny,Wskazanie do wykonania w ramach profilaktyki.
+53,Badanie hormonalne,Nieinwazyjne i bezbolesne.
+54,Test alergiczny,Ocena stanu układu krążenia.
+55,Badanie kału,Standardowe badanie diagnostyczne.
+56,USG jamy brzusznej,Stosowane w diagnostyce przewlekłych chorób.
+57,Holter EKG,Ocena stanu układu krążenia.
+58,Badanie okulistyczne,Wyniki dostępne w ciągu 24 godzin.
+59,Tomografia komputerowa,Wyniki dostępne w ciągu 24 godzin.
+60,Rezonans magnetyczny,Wymaga przygotowania na czczo.
+61,Holter EKG,Wymaga przygotowania na czczo.
+62,Test obciążenia glukozą,Wskazanie do wykonania w ramach profilaktyki.
+63,Tomografia komputerowa,Badanie obrazowe wysokiej rozdzielczości.
+64,Badanie kału,Wymaga przygotowania na czczo.
+65,Test obciążenia glukozą,Zalecane przy podejrzeniu infekcji.
+66,Rezonans magnetyczny,Zalecane przy podejrzeniu infekcji.
+67,Badanie przeciwciał,Badanie obrazowe wysokiej rozdzielczości.
+68,Echo serca,Standardowe badanie diagnostyczne.
+69,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+70,Test obciążenia glukozą,Wymaga przygotowania na czczo.
+71,Tomografia komputerowa,Badanie obrazowe wysokiej rozdzielczości.
+72,Spirometria,Standardowe badanie diagnostyczne.
+73,Badanie okulistyczne,Stosowane w diagnostyce przewlekłych chorób.
+74,Holter EKG,Wymaga przygotowania na czczo.
+75,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+76,EKG,Standardowe badanie diagnostyczne.
+77,EKG,Standardowe badanie diagnostyczne.
+78,Tomografia komputerowa,Wymaga przygotowania na czczo.
+79,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+80,Morfologia krwi,Zalecane przy podejrzeniu infekcji.
+81,Badanie okulistyczne,Badanie obrazowe wysokiej rozdzielczości.
+82,Badanie poziomu cukru,Wskazanie do wykonania w ramach profilaktyki.
+83,Lipidogram,Ocena stanu układu krążenia.
+84,EKG,Standardowe badanie diagnostyczne.
+85,Morfologia krwi,Badanie obrazowe wysokiej rozdzielczości.
+86,Badanie przeciwciał,Stosowane w diagnostyce przewlekłych chorób.
+87,Badanie hormonalne,Badanie obrazowe wysokiej rozdzielczości.
+88,Badanie hormonalne,Wskazanie do wykonania w ramach profilaktyki.
+89,Badanie okulistyczne,Ocena stanu układu krążenia.
+90,EKG,Standardowe badanie diagnostyczne.
+91,Holter EKG,Zalecane przy podejrzeniu infekcji.
+92,Gastroskopia,Wymaga przygotowania na czczo.
+93,Cytologia,Ocena stanu układu krążenia.
+94,USG jamy brzusznej,Wyniki dostępne w ciągu 24 godzin.
+95,RTG klatki piersiowej,Wymaga przygotowania na czczo.
+96,Holter EKG,Wyniki dostępne w ciągu 24 godzin.
+97,Kolonoskopia,Wymaga przygotowania na czczo.
+98,Badanie przeciwciał,Zalecane przy podejrzeniu infekcji.
+99,Test obciążenia glukozą,Badanie obrazowe wysokiej rozdzielczości.
+100,Test PCR,Standardowe badanie diagnostyczne.
+101,Echo serca,Wyniki dostępne w ciągu 24 godzin.
+102,Lipidogram,Badanie obrazowe wysokiej rozdzielczości.
+103,Badanie przeciwciał,Nieinwazyjne i bezbolesne.
+104,Badanie moczu,Pomiar funkcji narządów wewnętrznych.
+105,Gastroskopia,Ocena stanu układu krążenia.
+106,Test obciążenia glukozą,Pomiar funkcji narządów wewnętrznych.
+107,Badanie hormonalne,Zalecane przy podejrzeniu infekcji.
+108,RTG klatki piersiowej,Standardowe badanie diagnostyczne.
+109,Badanie moczu,Standardowe badanie diagnostyczne.
+110,Badanie tarczycy,Ocena stanu układu krążenia.
+111,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+112,Cytologia,Wyniki dostępne w ciągu 24 godzin.
+113,Kolonoskopia,Stosowane w diagnostyce przewlekłych chorób.
+114,Badanie poziomu cukru,Wskazanie do wykonania w ramach profilaktyki.
+115,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+116,Morfologia krwi,Standardowe badanie diagnostyczne.
+117,Lipidogram,Ocena stanu układu krążenia.
+118,Badanie hormonalne,Ocena stanu układu krążenia.
+119,Lipidogram,Wyniki dostępne w ciągu 24 godzin.
+120,USG jamy brzusznej,Zalecane przy podejrzeniu infekcji.
+121,Morfologia krwi,Ocena stanu układu krążenia.
+122,Cytologia,Wyniki dostępne w ciągu 24 godzin.
+123,USG jamy brzusznej,Zalecane przy podejrzeniu infekcji.
+124,Badanie okulistyczne,Wymaga przygotowania na czczo.
+125,Gastroskopia,Standardowe badanie diagnostyczne.
+126,Badanie tarczycy,Badanie obrazowe wysokiej rozdzielczości.
+127,Kolonoskopia,Zalecane przy podejrzeniu infekcji.
+128,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+129,Test obciążenia glukozą,Wyniki dostępne w ciągu 24 godzin.
+130,Test PCR,Stosowane w diagnostyce przewlekłych chorób.
+131,Echo serca,Standardowe badanie diagnostyczne.
+132,Spirometria,Stosowane w diagnostyce przewlekłych chorób.
+133,Morfologia krwi,Pomiar funkcji narządów wewnętrznych.
+134,Test PCR,Badanie obrazowe wysokiej rozdzielczości.
+135,Test PCR,Wymaga przygotowania na czczo.
+136,Lipidogram,Ocena stanu układu krążenia.
+137,Holter EKG,Wymaga przygotowania na czczo.
+138,Gastroskopia,Badanie obrazowe wysokiej rozdzielczości.
+139,Rezonans magnetyczny,Ocena stanu układu krążenia.
+140,Holter EKG,Stosowane w diagnostyce przewlekłych chorób.
+141,Test obciążenia glukozą,Stosowane w diagnostyce przewlekłych chorób.
+142,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+143,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+144,Badanie tarczycy,Standardowe badanie diagnostyczne.
+145,Spirometria,Wymaga przygotowania na czczo.
+146,Holter EKG,Ocena stanu układu krążenia.
+147,Holter EKG,Badanie obrazowe wysokiej rozdzielczości.
+148,Spirometria,Stosowane w diagnostyce przewlekłych chorób.
+149,EKG,Wskazanie do wykonania w ramach profilaktyki.
+150,Spirometria,Wskazanie do wykonania w ramach profilaktyki.
+151,Badanie poziomu witaminy D,Zalecane przy podejrzeniu infekcji.
+152,Cytologia,Standardowe badanie diagnostyczne.
+153,Cytologia,Stosowane w diagnostyce przewlekłych chorób.
+154,Lipidogram,Nieinwazyjne i bezbolesne.
+155,Cytologia,Wskazanie do wykonania w ramach profilaktyki.
+156,USG jamy brzusznej,Stosowane w diagnostyce przewlekłych chorób.
+157,Badanie tarczycy,Ocena stanu układu krążenia.
+158,Morfologia krwi,Stosowane w diagnostyce przewlekłych chorób.
+159,Badanie kału,Nieinwazyjne i bezbolesne.
+160,Morfologia krwi,Zalecane przy podejrzeniu infekcji.
+161,Rezonans magnetyczny,Ocena stanu układu krążenia.
+162,Badanie okulistyczne,Pomiar funkcji narządów wewnętrznych.
+163,Badanie tarczycy,Badanie obrazowe wysokiej rozdzielczości.
+164,Test obciążenia glukozą,Badanie obrazowe wysokiej rozdzielczości.
+165,Tomografia komputerowa,Ocena stanu układu krążenia.
+166,Morfologia krwi,Wyniki dostępne w ciągu 24 godzin.
+167,USG jamy brzusznej,Badanie obrazowe wysokiej rozdzielczości.
+168,Morfologia krwi,Stosowane w diagnostyce przewlekłych chorób.
+169,Cytologia,Nieinwazyjne i bezbolesne.
+170,USG jamy brzusznej,Wskazanie do wykonania w ramach profilaktyki.
+171,Cytologia,Pomiar funkcji narządów wewnętrznych.
+172,Spirometria,Pomiar funkcji narządów wewnętrznych.
+173,EKG,Wskazanie do wykonania w ramach profilaktyki.
+174,Echo serca,Wskazanie do wykonania w ramach profilaktyki.
+175,Gastroskopia,Zalecane przy podejrzeniu infekcji.
+176,Badanie hormonalne,Nieinwazyjne i bezbolesne.
+177,Echo serca,Wyniki dostępne w ciągu 24 godzin.
+178,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+179,Tomografia komputerowa,Zalecane przy podejrzeniu infekcji.
+180,EKG,Badanie obrazowe wysokiej rozdzielczości.
+181,Badanie hormonalne,Badanie obrazowe wysokiej rozdzielczości.
+182,Rezonans magnetyczny,Wyniki dostępne w ciągu 24 godzin.
+183,USG jamy brzusznej,Stosowane w diagnostyce przewlekłych chorób.
+184,Badanie okulistyczne,Stosowane w diagnostyce przewlekłych chorób.
+185,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+186,Lipidogram,Wyniki dostępne w ciągu 24 godzin.
+187,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+188,Rezonans magnetyczny,Stosowane w diagnostyce przewlekłych chorób.
+189,Echo serca,Pomiar funkcji narządów wewnętrznych.
+190,Spirometria,Stosowane w diagnostyce przewlekłych chorób.
+191,USG jamy brzusznej,Wskazanie do wykonania w ramach profilaktyki.
+192,RTG klatki piersiowej,Wyniki dostępne w ciągu 24 godzin.
+193,Audiometria,Pomiar funkcji narządów wewnętrznych.
+194,Test alergiczny,Nieinwazyjne i bezbolesne.
+195,EKG,Badanie obrazowe wysokiej rozdzielczości.
+196,Cytologia,Wyniki dostępne w ciągu 24 godzin.
+197,Cytologia,Wskazanie do wykonania w ramach profilaktyki.
+198,RTG klatki piersiowej,Pomiar funkcji narządów wewnętrznych.
+199,Lipidogram,Badanie obrazowe wysokiej rozdzielczości.
+200,Rezonans magnetyczny,Standardowe badanie diagnostyczne.
+201,Test obciążenia glukozą,Nieinwazyjne i bezbolesne.
+202,Rezonans magnetyczny,Pomiar funkcji narządów wewnętrznych.
+203,Echo serca,Standardowe badanie diagnostyczne.
+204,Badanie okulistyczne,Stosowane w diagnostyce przewlekłych chorób.
+205,Morfologia krwi,Standardowe badanie diagnostyczne.
+206,USG jamy brzusznej,Ocena stanu układu krążenia.
+207,Badanie kału,Pomiar funkcji narządów wewnętrznych.
+208,Lipidogram,Wyniki dostępne w ciągu 24 godzin.
+209,RTG klatki piersiowej,Wskazanie do wykonania w ramach profilaktyki.
+210,Tomografia komputerowa,Wymaga przygotowania na czczo.
+211,Rezonans magnetyczny,Wyniki dostępne w ciągu 24 godzin.
+212,Echo serca,Nieinwazyjne i bezbolesne.
+213,Spirometria,Nieinwazyjne i bezbolesne.
+214,Holter EKG,Stosowane w diagnostyce przewlekłych chorób.
+215,Kolonoskopia,Wyniki dostępne w ciągu 24 godzin.
+216,Morfologia krwi,Standardowe badanie diagnostyczne.
+217,USG jamy brzusznej,Wskazanie do wykonania w ramach profilaktyki.
+218,Spirometria,Badanie obrazowe wysokiej rozdzielczości.
+219,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+220,Badanie okulistyczne,Wyniki dostępne w ciągu 24 godzin.
+221,Badanie okulistyczne,Wskazanie do wykonania w ramach profilaktyki.
+222,Badanie kału,Zalecane przy podejrzeniu infekcji.
+223,Rezonans magnetyczny,Ocena stanu układu krążenia.
+224,USG jamy brzusznej,Ocena stanu układu krążenia.
+225,Holter EKG,Pomiar funkcji narządów wewnętrznych.
+226,Morfologia krwi,Wskazanie do wykonania w ramach profilaktyki.
+227,USG jamy brzusznej,Standardowe badanie diagnostyczne.
+228,Cytologia,Badanie obrazowe wysokiej rozdzielczości.
+229,Badanie przeciwciał,Standardowe badanie diagnostyczne.
+230,USG jamy brzusznej,Zalecane przy podejrzeniu infekcji.
+231,Test obciążenia glukozą,Pomiar funkcji narządów wewnętrznych.
+232,Morfologia krwi,Stosowane w diagnostyce przewlekłych chorób.
+233,Tomografia komputerowa,Wskazanie do wykonania w ramach profilaktyki.
+234,EKG,Zalecane przy podejrzeniu infekcji.
+235,Kolonoskopia,Nieinwazyjne i bezbolesne.
+236,Lipidogram,Zalecane przy podejrzeniu infekcji.
+237,Audiometria,Standardowe badanie diagnostyczne.
+238,Audiometria,Pomiar funkcji narządów wewnętrznych.
+239,Badanie kału,Wskazanie do wykonania w ramach profilaktyki.
+240,RTG klatki piersiowej,Stosowane w diagnostyce przewlekłych chorób.
+241,Rezonans magnetyczny,Wymaga przygotowania na czczo.
+242,RTG klatki piersiowej,Standardowe badanie diagnostyczne.
+243,Badanie tarczycy,Zalecane przy podejrzeniu infekcji.
+244,Lipidogram,Stosowane w diagnostyce przewlekłych chorób.
+245,Kolonoskopia,Standardowe badanie diagnostyczne.
+246,Morfologia krwi,Wskazanie do wykonania w ramach profilaktyki.
+247,Test alergiczny,Zalecane przy podejrzeniu infekcji.
+248,Spirometria,Stosowane w diagnostyce przewlekłych chorób.
+249,Gastroskopia,Badanie obrazowe wysokiej rozdzielczości.
+250,Badanie okulistyczne,Pomiar funkcji narządów wewnętrznych.
+251,Badanie okulistyczne,Wyniki dostępne w ciągu 24 godzin.
+252,Badanie kału,Nieinwazyjne i bezbolesne.
+253,Test obciążenia glukozą,Badanie obrazowe wysokiej rozdzielczości.
+254,Badanie tarczycy,Ocena stanu układu krążenia.
+255,Test obciążenia glukozą,Badanie obrazowe wysokiej rozdzielczości.
+256,Test obciążenia glukozą,Wymaga przygotowania na czczo.
+257,Lipidogram,Pomiar funkcji narządów wewnętrznych.
+258,Rezonans magnetyczny,Stosowane w diagnostyce przewlekłych chorób.
+259,Test alergiczny,Wyniki dostępne w ciągu 24 godzin.
+260,Echo serca,Zalecane przy podejrzeniu infekcji.
+261,Lipidogram,Zalecane przy podejrzeniu infekcji.
+262,Badanie poziomu witaminy D,Badanie obrazowe wysokiej rozdzielczości.
+263,Rezonans magnetyczny,Wskazanie do wykonania w ramach profilaktyki.
+264,Badanie moczu,Wyniki dostępne w ciągu 24 godzin.
+265,Holter EKG,Zalecane przy podejrzeniu infekcji.
+266,Badanie moczu,Zalecane przy podejrzeniu infekcji.
+267,RTG klatki piersiowej,Wyniki dostępne w ciągu 24 godzin.
+268,Kolonoskopia,Standardowe badanie diagnostyczne.
+269,Rezonans magnetyczny,Pomiar funkcji narządów wewnętrznych.
+270,Test PCR,Badanie obrazowe wysokiej rozdzielczości.
+271,Badanie hormonalne,Stosowane w diagnostyce przewlekłych chorób.
+272,Badanie poziomu cukru,Wymaga przygotowania na czczo.
+273,Badanie hormonalne,Nieinwazyjne i bezbolesne.
+274,USG jamy brzusznej,Wskazanie do wykonania w ramach profilaktyki.
+275,Gastroskopia,Wymaga przygotowania na czczo.
+276,Audiometria,Pomiar funkcji narządów wewnętrznych.
+277,Badanie tarczycy,Wyniki dostępne w ciągu 24 godzin.
+278,Spirometria,Wymaga przygotowania na czczo.
+279,Kolonoskopia,Nieinwazyjne i bezbolesne.
+280,Lipidogram,Badanie obrazowe wysokiej rozdzielczości.
+281,RTG klatki piersiowej,Ocena stanu układu krążenia.
+282,Test alergiczny,Badanie obrazowe wysokiej rozdzielczości.
+283,Lipidogram,Standardowe badanie diagnostyczne.
+284,Audiometria,Ocena stanu układu krążenia.
+285,Badanie tarczycy,Wymaga przygotowania na czczo.
+286,Test obciążenia glukozą,Badanie obrazowe wysokiej rozdzielczości.
+287,Badanie kału,Wyniki dostępne w ciągu 24 godzin.
+288,Gastroskopia,Badanie obrazowe wysokiej rozdzielczości.
+289,Spirometria,Wymaga przygotowania na czczo.
+290,Holter EKG,Wyniki dostępne w ciągu 24 godzin.
+291,Tomografia komputerowa,Pomiar funkcji narządów wewnętrznych.
+292,Badanie kału,Ocena stanu układu krążenia.
+293,Badanie przeciwciał,Wyniki dostępne w ciągu 24 godzin.
+294,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+295,Holter EKG,Standardowe badanie diagnostyczne.
+296,Kolonoskopia,Pomiar funkcji narządów wewnętrznych.
+297,RTG klatki piersiowej,Wskazanie do wykonania w ramach profilaktyki.
+298,Badanie tarczycy,Wyniki dostępne w ciągu 24 godzin.
+299,Badanie okulistyczne,Standardowe badanie diagnostyczne.
+300,Badanie poziomu cukru,Pomiar funkcji narządów wewnętrznych.
+301,Badanie tarczycy,Stosowane w diagnostyce przewlekłych chorób.
+302,Kolonoskopia,Pomiar funkcji narządów wewnętrznych.
+303,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+304,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+305,Badanie moczu,Stosowane w diagnostyce przewlekłych chorób.
+306,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+307,Badanie poziomu witaminy D,Standardowe badanie diagnostyczne.
+308,Holter EKG,Pomiar funkcji narządów wewnętrznych.
+309,Test PCR,Pomiar funkcji narządów wewnętrznych.
+310,EKG,Standardowe badanie diagnostyczne.
+311,Echo serca,Wyniki dostępne w ciągu 24 godzin.
+312,Audiometria,Standardowe badanie diagnostyczne.
+313,Badanie hormonalne,Stosowane w diagnostyce przewlekłych chorób.
+314,EKG,Wymaga przygotowania na czczo.
+315,EKG,Zalecane przy podejrzeniu infekcji.
+316,EKG,Wskazanie do wykonania w ramach profilaktyki.
+317,Test PCR,Badanie obrazowe wysokiej rozdzielczości.
+318,Badanie poziomu cukru,Zalecane przy podejrzeniu infekcji.
+319,Badanie poziomu witaminy D,Standardowe badanie diagnostyczne.
+320,Rezonans magnetyczny,Pomiar funkcji narządów wewnętrznych.
+321,Gastroskopia,Wskazanie do wykonania w ramach profilaktyki.
+322,Badanie hormonalne,Ocena stanu układu krążenia.
+323,RTG klatki piersiowej,Nieinwazyjne i bezbolesne.
+324,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+325,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+326,Cytologia,Wymaga przygotowania na czczo.
+327,Kolonoskopia,Wyniki dostępne w ciągu 24 godzin.
+328,Badanie okulistyczne,Zalecane przy podejrzeniu infekcji.
+329,Badanie hormonalne,Nieinwazyjne i bezbolesne.
+330,Morfologia krwi,Zalecane przy podejrzeniu infekcji.
+331,Badanie hormonalne,Nieinwazyjne i bezbolesne.
+332,Tomografia komputerowa,Wskazanie do wykonania w ramach profilaktyki.
+333,Kolonoskopia,Stosowane w diagnostyce przewlekłych chorób.
+334,Cytologia,Standardowe badanie diagnostyczne.
+335,Morfologia krwi,Nieinwazyjne i bezbolesne.
+336,Lipidogram,Standardowe badanie diagnostyczne.
+337,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+338,EKG,Pomiar funkcji narządów wewnętrznych.
+339,Badanie moczu,Nieinwazyjne i bezbolesne.
+340,Cytologia,Stosowane w diagnostyce przewlekłych chorób.
+341,Test alergiczny,Wskazanie do wykonania w ramach profilaktyki.
+342,Badanie przeciwciał,Stosowane w diagnostyce przewlekłych chorób.
+343,Kolonoskopia,Standardowe badanie diagnostyczne.
+344,Badanie tarczycy,Wyniki dostępne w ciągu 24 godzin.
+345,RTG klatki piersiowej,Wskazanie do wykonania w ramach profilaktyki.
+346,EKG,Wskazanie do wykonania w ramach profilaktyki.
+347,Badanie okulistyczne,Wymaga przygotowania na czczo.
+348,Rezonans magnetyczny,Wskazanie do wykonania w ramach profilaktyki.
+349,Badanie poziomu witaminy D,Badanie obrazowe wysokiej rozdzielczości.
+350,RTG klatki piersiowej,Pomiar funkcji narządów wewnętrznych.
+351,Badanie okulistyczne,Stosowane w diagnostyce przewlekłych chorób.
+352,Badanie hormonalne,Pomiar funkcji narządów wewnętrznych.
+353,Badanie przeciwciał,Standardowe badanie diagnostyczne.
+354,Badanie kału,Zalecane przy podejrzeniu infekcji.
+355,RTG klatki piersiowej,Standardowe badanie diagnostyczne.
+356,Badanie poziomu cukru,Wyniki dostępne w ciągu 24 godzin.
+357,Badanie hormonalne,Stosowane w diagnostyce przewlekłych chorób.
+358,Badanie moczu,Wyniki dostępne w ciągu 24 godzin.
+359,Test PCR,Standardowe badanie diagnostyczne.
+360,Badanie moczu,Stosowane w diagnostyce przewlekłych chorób.
+361,EKG,Standardowe badanie diagnostyczne.
+362,Test alergiczny,Pomiar funkcji narządów wewnętrznych.
+363,Rezonans magnetyczny,Standardowe badanie diagnostyczne.
+364,Badanie moczu,Ocena stanu układu krążenia.
+365,RTG klatki piersiowej,Badanie obrazowe wysokiej rozdzielczości.
+366,Badanie poziomu witaminy D,Wyniki dostępne w ciągu 24 godzin.
+367,USG jamy brzusznej,Zalecane przy podejrzeniu infekcji.
+368,Holter EKG,Wyniki dostępne w ciągu 24 godzin.
+369,Badanie przeciwciał,Stosowane w diagnostyce przewlekłych chorób.
+370,EKG,Wymaga przygotowania na czczo.
+371,Badanie przeciwciał,Pomiar funkcji narządów wewnętrznych.
+372,Badanie poziomu witaminy D,Stosowane w diagnostyce przewlekłych chorób.
+373,Tomografia komputerowa,Badanie obrazowe wysokiej rozdzielczości.
+374,Cytologia,Pomiar funkcji narządów wewnętrznych.
+375,Test PCR,Wymaga przygotowania na czczo.
+376,Cytologia,Stosowane w diagnostyce przewlekłych chorób.
+377,Kolonoskopia,Nieinwazyjne i bezbolesne.
+378,RTG klatki piersiowej,Pomiar funkcji narządów wewnętrznych.
+379,Badanie poziomu cukru,Zalecane przy podejrzeniu infekcji.
+380,RTG klatki piersiowej,Standardowe badanie diagnostyczne.
+381,Lipidogram,Wskazanie do wykonania w ramach profilaktyki.
+382,Test obciążenia glukozą,Stosowane w diagnostyce przewlekłych chorób.
+383,Morfologia krwi,Standardowe badanie diagnostyczne.
+384,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+385,Lipidogram,Badanie obrazowe wysokiej rozdzielczości.
+386,RTG klatki piersiowej,Zalecane przy podejrzeniu infekcji.
+387,Holter EKG,Ocena stanu układu krążenia.
+388,Badanie okulistyczne,Wskazanie do wykonania w ramach profilaktyki.
+389,Echo serca,Wyniki dostępne w ciągu 24 godzin.
+390,RTG klatki piersiowej,Wymaga przygotowania na czczo.
+391,Echo serca,Badanie obrazowe wysokiej rozdzielczości.
+392,Test alergiczny,Nieinwazyjne i bezbolesne.
+393,Badanie okulistyczne,Wymaga przygotowania na czczo.
+394,Badanie hormonalne,Wymaga przygotowania na czczo.
+395,Test obciążenia glukozą,Wyniki dostępne w ciągu 24 godzin.
+396,Gastroskopia,Stosowane w diagnostyce przewlekłych chorób.
+397,Badanie okulistyczne,Pomiar funkcji narządów wewnętrznych.
+398,Badanie kału,Standardowe badanie diagnostyczne.
+399,Morfologia krwi,Ocena stanu układu krążenia.
+400,Echo serca,Wskazanie do wykonania w ramach profilaktyki.
+401,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+402,Kolonoskopia,Pomiar funkcji narządów wewnętrznych.
+403,Morfologia krwi,Wymaga przygotowania na czczo.
+404,Tomografia komputerowa,Pomiar funkcji narządów wewnętrznych.
+405,Morfologia krwi,Zalecane przy podejrzeniu infekcji.
+406,Echo serca,Wymaga przygotowania na czczo.
+407,Badanie poziomu cukru,Pomiar funkcji narządów wewnętrznych.
+408,Test alergiczny,Nieinwazyjne i bezbolesne.
+409,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+410,Gastroskopia,Zalecane przy podejrzeniu infekcji.
+411,Badanie tarczycy,Badanie obrazowe wysokiej rozdzielczości.
+412,Test alergiczny,Nieinwazyjne i bezbolesne.
+413,Test obciążenia glukozą,Standardowe badanie diagnostyczne.
+414,Badanie przeciwciał,Nieinwazyjne i bezbolesne.
+415,Badanie hormonalne,Stosowane w diagnostyce przewlekłych chorób.
+416,Badanie okulistyczne,Nieinwazyjne i bezbolesne.
+417,Badanie kału,Wymaga przygotowania na czczo.
+418,Gastroskopia,Pomiar funkcji narządów wewnętrznych.
+419,EKG,Zalecane przy podejrzeniu infekcji.
+420,Morfologia krwi,Standardowe badanie diagnostyczne.
+421,Test obciążenia glukozą,Standardowe badanie diagnostyczne.
+422,Badanie przeciwciał,Ocena stanu układu krążenia.
+423,Badanie hormonalne,Standardowe badanie diagnostyczne.
+424,Cytologia,Wymaga przygotowania na czczo.
+425,Morfologia krwi,Badanie obrazowe wysokiej rozdzielczości.
+426,Holter EKG,Ocena stanu układu krążenia.
+427,Spirometria,Wyniki dostępne w ciągu 24 godzin.
+428,Badanie kału,Standardowe badanie diagnostyczne.
+429,Rezonans magnetyczny,Zalecane przy podejrzeniu infekcji.
+430,USG jamy brzusznej,Ocena stanu układu krążenia.
+431,Badanie poziomu cukru,Wskazanie do wykonania w ramach profilaktyki.
+432,Badanie kału,Nieinwazyjne i bezbolesne.
+433,Badanie poziomu witaminy D,Standardowe badanie diagnostyczne.
+434,Gastroskopia,Pomiar funkcji narządów wewnętrznych.
+435,Badanie tarczycy,Pomiar funkcji narządów wewnętrznych.
+436,Test PCR,Stosowane w diagnostyce przewlekłych chorób.
+437,Holter EKG,Badanie obrazowe wysokiej rozdzielczości.
+438,Badanie tarczycy,Pomiar funkcji narządów wewnętrznych.
+439,Test obciążenia glukozą,Nieinwazyjne i bezbolesne.
+440,USG jamy brzusznej,Nieinwazyjne i bezbolesne.
+441,Test obciążenia glukozą,Stosowane w diagnostyce przewlekłych chorób.
+442,Test PCR,Ocena stanu układu krążenia.
+443,Gastroskopia,Nieinwazyjne i bezbolesne.
+444,Badanie poziomu cukru,Standardowe badanie diagnostyczne.
+445,Badanie kału,Wymaga przygotowania na czczo.
+446,Lipidogram,Nieinwazyjne i bezbolesne.
+447,Morfologia krwi,Nieinwazyjne i bezbolesne.
+448,Badanie tarczycy,Pomiar funkcji narządów wewnętrznych.
+449,Cytologia,Badanie obrazowe wysokiej rozdzielczości.
+450,Tomografia komputerowa,Zalecane przy podejrzeniu infekcji.
+451,Test alergiczny,Wskazanie do wykonania w ramach profilaktyki.
+452,Badanie tarczycy,Standardowe badanie diagnostyczne.
+453,Badanie okulistyczne,Stosowane w diagnostyce przewlekłych chorób.
+454,Rezonans magnetyczny,Standardowe badanie diagnostyczne.
+455,Badanie tarczycy,Zalecane przy podejrzeniu infekcji.
+456,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+457,Tomografia komputerowa,Wymaga przygotowania na czczo.
+458,Badanie okulistyczne,Badanie obrazowe wysokiej rozdzielczości.
+459,Morfologia krwi,Nieinwazyjne i bezbolesne.
+460,Badanie moczu,Ocena stanu układu krążenia.
+461,Badanie okulistyczne,Nieinwazyjne i bezbolesne.
+462,EKG,Stosowane w diagnostyce przewlekłych chorób.
+463,Audiometria,Nieinwazyjne i bezbolesne.
+464,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+465,Spirometria,Zalecane przy podejrzeniu infekcji.
+466,Spirometria,Stosowane w diagnostyce przewlekłych chorób.
+467,Echo serca,Standardowe badanie diagnostyczne.
+468,Badanie hormonalne,Pomiar funkcji narządów wewnętrznych.
+469,Test obciążenia glukozą,Zalecane przy podejrzeniu infekcji.
+470,Lipidogram,Zalecane przy podejrzeniu infekcji.
+471,Test PCR,Zalecane przy podejrzeniu infekcji.
+472,Spirometria,Ocena stanu układu krążenia.
+473,Badanie moczu,Badanie obrazowe wysokiej rozdzielczości.
+474,Cytologia,Pomiar funkcji narządów wewnętrznych.
+475,Holter EKG,Badanie obrazowe wysokiej rozdzielczości.
+476,USG jamy brzusznej,Stosowane w diagnostyce przewlekłych chorób.
+477,Kolonoskopia,Stosowane w diagnostyce przewlekłych chorób.
+478,Audiometria,Wskazanie do wykonania w ramach profilaktyki.
+479,Badanie okulistyczne,Wskazanie do wykonania w ramach profilaktyki.
+480,Tomografia komputerowa,Zalecane przy podejrzeniu infekcji.
+481,Badanie poziomu cukru,Badanie obrazowe wysokiej rozdzielczości.
+482,Spirometria,Standardowe badanie diagnostyczne.
+483,Badanie okulistyczne,Standardowe badanie diagnostyczne.
+484,Test PCR,Pomiar funkcji narządów wewnętrznych.
+485,Badanie kału,Wskazanie do wykonania w ramach profilaktyki.
+486,Holter EKG,Stosowane w diagnostyce przewlekłych chorób.
+487,Badanie moczu,Zalecane przy podejrzeniu infekcji.
+488,Holter EKG,Ocena stanu układu krążenia.
+489,Badanie poziomu witaminy D,Nieinwazyjne i bezbolesne.
+490,Spirometria,Stosowane w diagnostyce przewlekłych chorób.
+491,Echo serca,Nieinwazyjne i bezbolesne.
+492,Spirometria,Wyniki dostępne w ciągu 24 godzin.
+493,Kolonoskopia,Wyniki dostępne w ciągu 24 godzin.
+494,RTG klatki piersiowej,Zalecane przy podejrzeniu infekcji.
+495,Spirometria,Nieinwazyjne i bezbolesne.
+496,Tomografia komputerowa,Wskazanie do wykonania w ramach profilaktyki.
+497,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+498,RTG klatki piersiowej,Nieinwazyjne i bezbolesne.
+499,Holter EKG,Wymaga przygotowania na czczo.
+500,Badanie poziomu witaminy D,Wyniki dostępne w ciągu 24 godzin.
+501,Holter EKG,Nieinwazyjne i bezbolesne.
+502,Badanie przeciwciał,Wymaga przygotowania na czczo.
+503,Rezonans magnetyczny,Nieinwazyjne i bezbolesne.
+504,RTG klatki piersiowej,Wyniki dostępne w ciągu 24 godzin.
+505,USG jamy brzusznej,Wyniki dostępne w ciągu 24 godzin.
+506,Test alergiczny,Wskazanie do wykonania w ramach profilaktyki.
+507,Test alergiczny,Wymaga przygotowania na czczo.
+508,Audiometria,Nieinwazyjne i bezbolesne.
+509,Audiometria,Badanie obrazowe wysokiej rozdzielczości.
+510,Audiometria,Zalecane przy podejrzeniu infekcji.
+511,USG jamy brzusznej,Ocena stanu układu krążenia.
+512,Cytologia,Stosowane w diagnostyce przewlekłych chorób.
+513,Badanie poziomu witaminy D,Wymaga przygotowania na czczo.
+514,Badanie okulistyczne,Standardowe badanie diagnostyczne.
+515,Badanie hormonalne,Nieinwazyjne i bezbolesne.
+516,Audiometria,Standardowe badanie diagnostyczne.
+517,Rezonans magnetyczny,Standardowe badanie diagnostyczne.
+518,Badanie przeciwciał,Wymaga przygotowania na czczo.
+519,RTG klatki piersiowej,Wyniki dostępne w ciągu 24 godzin.
+520,Badanie okulistyczne,Nieinwazyjne i bezbolesne.
+521,Badanie kału,Nieinwazyjne i bezbolesne.
+522,Rezonans magnetyczny,Wskazanie do wykonania w ramach profilaktyki.
+523,Echo serca,Pomiar funkcji narządów wewnętrznych.
+524,Rezonans magnetyczny,Zalecane przy podejrzeniu infekcji.
+525,Badanie kału,Pomiar funkcji narządów wewnętrznych.
+526,Badanie okulistyczne,Wymaga przygotowania na czczo.
+527,RTG klatki piersiowej,Nieinwazyjne i bezbolesne.
+528,Spirometria,Zalecane przy podejrzeniu infekcji.
+529,Lipidogram,Pomiar funkcji narządów wewnętrznych.
+530,RTG klatki piersiowej,Ocena stanu układu krążenia.
+531,Test alergiczny,Ocena stanu układu krążenia.
+532,Badanie moczu,Standardowe badanie diagnostyczne.
+533,Badanie hormonalne,Standardowe badanie diagnostyczne.
+534,Cytologia,Stosowane w diagnostyce przewlekłych chorób.
+535,Badanie kału,Wskazanie do wykonania w ramach profilaktyki.
+536,Badanie tarczycy,Wskazanie do wykonania w ramach profilaktyki.
+537,Cytologia,Ocena stanu układu krążenia.
+538,Test obciążenia glukozą,Zalecane przy podejrzeniu infekcji.
+539,Badanie poziomu witaminy D,Badanie obrazowe wysokiej rozdzielczości.
+540,Badanie kału,Nieinwazyjne i bezbolesne.
+541,Test PCR,Zalecane przy podejrzeniu infekcji.
+542,Badanie hormonalne,Standardowe badanie diagnostyczne.
+543,Badanie przeciwciał,Nieinwazyjne i bezbolesne.
+544,Badanie poziomu witaminy D,Zalecane przy podejrzeniu infekcji.
+545,Lipidogram,Zalecane przy podejrzeniu infekcji.
+546,Echo serca,Wyniki dostępne w ciągu 24 godzin.
+547,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+548,RTG klatki piersiowej,Nieinwazyjne i bezbolesne.
+549,Test obciążenia glukozą,Badanie obrazowe wysokiej rozdzielczości.
+550,Badanie moczu,Zalecane przy podejrzeniu infekcji.
+551,Morfologia krwi,Wyniki dostępne w ciągu 24 godzin.
+552,Badanie kału,Badanie obrazowe wysokiej rozdzielczości.
+553,Test alergiczny,Zalecane przy podejrzeniu infekcji.
+554,Badanie poziomu witaminy D,Ocena stanu układu krążenia.
+555,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+556,Rezonans magnetyczny,Stosowane w diagnostyce przewlekłych chorób.
+557,USG jamy brzusznej,Wymaga przygotowania na czczo.
+558,EKG,Ocena stanu układu krążenia.
+559,Echo serca,Standardowe badanie diagnostyczne.
+560,Spirometria,Standardowe badanie diagnostyczne.
+561,Cytologia,Ocena stanu układu krążenia.
+562,Holter EKG,Pomiar funkcji narządów wewnętrznych.
+563,Lipidogram,Ocena stanu układu krążenia.
+564,Badanie tarczycy,Standardowe badanie diagnostyczne.
+565,Badanie poziomu cukru,Wymaga przygotowania na czczo.
+566,Badanie okulistyczne,Ocena stanu układu krążenia.
+567,Rezonans magnetyczny,Zalecane przy podejrzeniu infekcji.
+568,Test obciążenia glukozą,Badanie obrazowe wysokiej rozdzielczości.
+569,Badanie poziomu cukru,Pomiar funkcji narządów wewnętrznych.
+570,Cytologia,Standardowe badanie diagnostyczne.
+571,Gastroskopia,Stosowane w diagnostyce przewlekłych chorób.
+572,Gastroskopia,Wyniki dostępne w ciągu 24 godzin.
+573,Gastroskopia,Standardowe badanie diagnostyczne.
+574,Badanie tarczycy,Ocena stanu układu krążenia.
+575,Badanie poziomu cukru,Wymaga przygotowania na czczo.
+576,Badanie hormonalne,Wyniki dostępne w ciągu 24 godzin.
+577,Badanie poziomu witaminy D,Wymaga przygotowania na czczo.
+578,Badanie okulistyczne,Wymaga przygotowania na czczo.
+579,Test obciążenia glukozą,Ocena stanu układu krążenia.
+580,Cytologia,Standardowe badanie diagnostyczne.
+581,Gastroskopia,Stosowane w diagnostyce przewlekłych chorób.
+582,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+583,Badanie tarczycy,Wymaga przygotowania na czczo.
+584,Rezonans magnetyczny,Nieinwazyjne i bezbolesne.
+585,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+586,Lipidogram,Zalecane przy podejrzeniu infekcji.
+587,USG jamy brzusznej,Wyniki dostępne w ciągu 24 godzin.
+588,Rezonans magnetyczny,Wyniki dostępne w ciągu 24 godzin.
+589,Badanie moczu,Ocena stanu układu krążenia.
+590,Badanie hormonalne,Nieinwazyjne i bezbolesne.
+591,Audiometria,Pomiar funkcji narządów wewnętrznych.
+592,Badanie przeciwciał,Badanie obrazowe wysokiej rozdzielczości.
+593,Badanie okulistyczne,Pomiar funkcji narządów wewnętrznych.
+594,Test alergiczny,Nieinwazyjne i bezbolesne.
+595,EKG,Badanie obrazowe wysokiej rozdzielczości.
+596,Spirometria,Standardowe badanie diagnostyczne.
+597,Holter EKG,Wskazanie do wykonania w ramach profilaktyki.
+598,Badanie poziomu witaminy D,Stosowane w diagnostyce przewlekłych chorób.
+599,EKG,Stosowane w diagnostyce przewlekłych chorób.
+600,Lipidogram,Nieinwazyjne i bezbolesne.
+601,Badanie przeciwciał,Wymaga przygotowania na czczo.
+602,Audiometria,Wyniki dostępne w ciągu 24 godzin.
+603,Badanie okulistyczne,Zalecane przy podejrzeniu infekcji.
+604,Badanie hormonalne,Stosowane w diagnostyce przewlekłych chorób.
+605,Test obciążenia glukozą,Ocena stanu układu krążenia.
+606,Test alergiczny,Wymaga przygotowania na czczo.
+607,Badanie moczu,Badanie obrazowe wysokiej rozdzielczości.
+608,Kolonoskopia,Wymaga przygotowania na czczo.
+609,Rezonans magnetyczny,Wyniki dostępne w ciągu 24 godzin.
+610,Badanie tarczycy,Nieinwazyjne i bezbolesne.
+611,Cytologia,Standardowe badanie diagnostyczne.
+612,Cytologia,Badanie obrazowe wysokiej rozdzielczości.
+613,Badanie kału,Wymaga przygotowania na czczo.
+614,Badanie kału,Wyniki dostępne w ciągu 24 godzin.
+615,Badanie moczu,Standardowe badanie diagnostyczne.
+616,Badanie okulistyczne,Wymaga przygotowania na czczo.
+617,USG jamy brzusznej,Zalecane przy podejrzeniu infekcji.
+618,Badanie okulistyczne,Pomiar funkcji narządów wewnętrznych.
+619,Badanie hormonalne,Badanie obrazowe wysokiej rozdzielczości.
+620,Echo serca,Ocena stanu układu krążenia.
+621,Morfologia krwi,Pomiar funkcji narządów wewnętrznych.
+622,Audiometria,Wyniki dostępne w ciągu 24 godzin.
+623,Cytologia,Wskazanie do wykonania w ramach profilaktyki.
+624,Test PCR,Ocena stanu układu krążenia.
+625,Badanie okulistyczne,Stosowane w diagnostyce przewlekłych chorób.
+626,Badanie hormonalne,Wyniki dostępne w ciągu 24 godzin.
+627,Echo serca,Pomiar funkcji narządów wewnętrznych.
+628,Badanie tarczycy,Ocena stanu układu krążenia.
+629,Test obciążenia glukozą,Wyniki dostępne w ciągu 24 godzin.
+630,Audiometria,Pomiar funkcji narządów wewnętrznych.
+631,Badanie moczu,Pomiar funkcji narządów wewnętrznych.
+632,Badanie kału,Ocena stanu układu krążenia.
+633,Cytologia,Stosowane w diagnostyce przewlekłych chorób.
+634,Echo serca,Wyniki dostępne w ciągu 24 godzin.
+635,Badanie poziomu cukru,Ocena stanu układu krążenia.
+636,Audiometria,Stosowane w diagnostyce przewlekłych chorób.
+637,Test PCR,Badanie obrazowe wysokiej rozdzielczości.
+638,Badanie poziomu cukru,Zalecane przy podejrzeniu infekcji.
+639,Lipidogram,Wymaga przygotowania na czczo.
+640,Test alergiczny,Nieinwazyjne i bezbolesne.
+641,USG jamy brzusznej,Nieinwazyjne i bezbolesne.
+642,Kolonoskopia,Wyniki dostępne w ciągu 24 godzin.
+643,Cytologia,Standardowe badanie diagnostyczne.
+644,Holter EKG,Standardowe badanie diagnostyczne.
+645,Test obciążenia glukozą,Pomiar funkcji narządów wewnętrznych.
+646,Badanie poziomu witaminy D,Wyniki dostępne w ciągu 24 godzin.
+647,Spirometria,Zalecane przy podejrzeniu infekcji.
+648,Kolonoskopia,Nieinwazyjne i bezbolesne.
+649,Test PCR,Ocena stanu układu krążenia.
+650,Badanie poziomu witaminy D,Nieinwazyjne i bezbolesne.
+651,Kolonoskopia,Pomiar funkcji narządów wewnętrznych.
+652,Test obciążenia glukozą,Ocena stanu układu krążenia.
+653,Badanie poziomu cukru,Wyniki dostępne w ciągu 24 godzin.
+654,Badanie tarczycy,Nieinwazyjne i bezbolesne.
+655,EKG,Wymaga przygotowania na czczo.
+656,Morfologia krwi,Wskazanie do wykonania w ramach profilaktyki.
+657,Test alergiczny,Nieinwazyjne i bezbolesne.
+658,Badanie kału,Pomiar funkcji narządów wewnętrznych.
+659,Test PCR,Stosowane w diagnostyce przewlekłych chorób.
+660,EKG,Wyniki dostępne w ciągu 24 godzin.
+661,Tomografia komputerowa,Ocena stanu układu krążenia.
+662,EKG,Wyniki dostępne w ciągu 24 godzin.
+663,RTG klatki piersiowej,Wyniki dostępne w ciągu 24 godzin.
+664,Badanie przeciwciał,Badanie obrazowe wysokiej rozdzielczości.
+665,Test obciążenia glukozą,Wymaga przygotowania na czczo.
+666,Badanie kału,Nieinwazyjne i bezbolesne.
+667,Lipidogram,Zalecane przy podejrzeniu infekcji.
+668,Gastroskopia,Pomiar funkcji narządów wewnętrznych.
+669,Gastroskopia,Wymaga przygotowania na czczo.
+670,Badanie okulistyczne,Standardowe badanie diagnostyczne.
+671,Badanie tarczycy,Stosowane w diagnostyce przewlekłych chorób.
+672,Lipidogram,Wymaga przygotowania na czczo.
+673,Badanie hormonalne,Wskazanie do wykonania w ramach profilaktyki.
+674,Badanie kału,Zalecane przy podejrzeniu infekcji.
+675,Badanie hormonalne,Standardowe badanie diagnostyczne.
+676,Morfologia krwi,Badanie obrazowe wysokiej rozdzielczości.
+677,Badanie przeciwciał,Zalecane przy podejrzeniu infekcji.
+678,Echo serca,Badanie obrazowe wysokiej rozdzielczości.
+679,Cytologia,Nieinwazyjne i bezbolesne.
+680,Rezonans magnetyczny,Zalecane przy podejrzeniu infekcji.
+681,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+682,Audiometria,Badanie obrazowe wysokiej rozdzielczości.
+683,Badanie tarczycy,Zalecane przy podejrzeniu infekcji.
+684,Holter EKG,Wyniki dostępne w ciągu 24 godzin.
+685,Kolonoskopia,Nieinwazyjne i bezbolesne.
+686,Badanie moczu,Pomiar funkcji narządów wewnętrznych.
+687,Badanie hormonalne,Wyniki dostępne w ciągu 24 godzin.
+688,Audiometria,Nieinwazyjne i bezbolesne.
+689,Lipidogram,Badanie obrazowe wysokiej rozdzielczości.
+690,Badanie tarczycy,Wyniki dostępne w ciągu 24 godzin.
+691,Test alergiczny,Wskazanie do wykonania w ramach profilaktyki.
+692,RTG klatki piersiowej,Zalecane przy podejrzeniu infekcji.
+693,Echo serca,Wymaga przygotowania na czczo.
+694,Badanie przeciwciał,Nieinwazyjne i bezbolesne.
+695,Badanie przeciwciał,Standardowe badanie diagnostyczne.
+696,Badanie okulistyczne,Badanie obrazowe wysokiej rozdzielczości.
+697,Lipidogram,Pomiar funkcji narządów wewnętrznych.
+698,Audiometria,Nieinwazyjne i bezbolesne.
+699,Badanie kału,Wskazanie do wykonania w ramach profilaktyki.
+700,Badanie tarczycy,Wskazanie do wykonania w ramach profilaktyki.
+701,Rezonans magnetyczny,Stosowane w diagnostyce przewlekłych chorób.
+702,Lipidogram,Ocena stanu układu krążenia.
+703,Badanie hormonalne,Pomiar funkcji narządów wewnętrznych.
+704,Lipidogram,Wymaga przygotowania na czczo.
+705,Badanie moczu,Wskazanie do wykonania w ramach profilaktyki.
+706,Morfologia krwi,Zalecane przy podejrzeniu infekcji.
+707,Test alergiczny,Standardowe badanie diagnostyczne.
+708,Badanie przeciwciał,Standardowe badanie diagnostyczne.
+709,Test PCR,Pomiar funkcji narządów wewnętrznych.
+710,Rezonans magnetyczny,Wskazanie do wykonania w ramach profilaktyki.
+711,Holter EKG,Zalecane przy podejrzeniu infekcji.
+712,Morfologia krwi,Pomiar funkcji narządów wewnętrznych.
+713,Kolonoskopia,Badanie obrazowe wysokiej rozdzielczości.
+714,Badanie hormonalne,Standardowe badanie diagnostyczne.
+715,RTG klatki piersiowej,Standardowe badanie diagnostyczne.
+716,Rezonans magnetyczny,Wskazanie do wykonania w ramach profilaktyki.
+717,Badanie hormonalne,Nieinwazyjne i bezbolesne.
+718,Audiometria,Nieinwazyjne i bezbolesne.
+719,USG jamy brzusznej,Wyniki dostępne w ciągu 24 godzin.
+720,Tomografia komputerowa,Pomiar funkcji narządów wewnętrznych.
+721,Badanie tarczycy,Wymaga przygotowania na czczo.
+722,EKG,Ocena stanu układu krążenia.
+723,Morfologia krwi,Stosowane w diagnostyce przewlekłych chorób.
+724,Gastroskopia,Wymaga przygotowania na czczo.
+725,Test obciążenia glukozą,Zalecane przy podejrzeniu infekcji.
+726,Test PCR,Wymaga przygotowania na czczo.
+727,Test PCR,Ocena stanu układu krążenia.
+728,Spirometria,Zalecane przy podejrzeniu infekcji.
+729,Echo serca,Nieinwazyjne i bezbolesne.
+730,RTG klatki piersiowej,Wymaga przygotowania na czczo.
+731,EKG,Wymaga przygotowania na czczo.
+732,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+733,Cytologia,Pomiar funkcji narządów wewnętrznych.
+734,Badanie okulistyczne,Nieinwazyjne i bezbolesne.
+735,Spirometria,Ocena stanu układu krążenia.
+736,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+737,Badanie poziomu witaminy D,Nieinwazyjne i bezbolesne.
+738,Test obciążenia glukozą,Wskazanie do wykonania w ramach profilaktyki.
+739,Badanie kału,Pomiar funkcji narządów wewnętrznych.
+740,Rezonans magnetyczny,Pomiar funkcji narządów wewnętrznych.
+741,Badanie poziomu witaminy D,Pomiar funkcji narządów wewnętrznych.
+742,Badanie hormonalne,Wymaga przygotowania na czczo.
+743,Badanie kału,Nieinwazyjne i bezbolesne.
+744,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+745,Badanie przeciwciał,Wskazanie do wykonania w ramach profilaktyki.
+746,Badanie kału,Stosowane w diagnostyce przewlekłych chorób.
+747,Badanie moczu,Badanie obrazowe wysokiej rozdzielczości.
+748,Badanie poziomu witaminy D,Stosowane w diagnostyce przewlekłych chorób.
+749,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+750,Gastroskopia,Pomiar funkcji narządów wewnętrznych.
+751,Echo serca,Wymaga przygotowania na czczo.
+752,Cytologia,Wymaga przygotowania na czczo.
+753,Rezonans magnetyczny,Wymaga przygotowania na czczo.
+754,Lipidogram,Ocena stanu układu krążenia.
+755,USG jamy brzusznej,Badanie obrazowe wysokiej rozdzielczości.
+756,Cytologia,Standardowe badanie diagnostyczne.
+757,Echo serca,Ocena stanu układu krążenia.
+758,USG jamy brzusznej,Standardowe badanie diagnostyczne.
+759,Holter EKG,Wskazanie do wykonania w ramach profilaktyki.
+760,RTG klatki piersiowej,Badanie obrazowe wysokiej rozdzielczości.
+761,Tomografia komputerowa,Ocena stanu układu krążenia.
+762,Badanie poziomu witaminy D,Wskazanie do wykonania w ramach profilaktyki.
+763,EKG,Badanie obrazowe wysokiej rozdzielczości.
+764,Tomografia komputerowa,Wymaga przygotowania na czczo.
+765,Badanie poziomu cukru,Standardowe badanie diagnostyczne.
+766,EKG,Standardowe badanie diagnostyczne.
+767,Echo serca,Zalecane przy podejrzeniu infekcji.
+768,Rezonans magnetyczny,Ocena stanu układu krążenia.
+769,EKG,Pomiar funkcji narządów wewnętrznych.
+770,Badanie przeciwciał,Badanie obrazowe wysokiej rozdzielczości.
+771,Badanie kału,Badanie obrazowe wysokiej rozdzielczości.
+772,Badanie hormonalne,Badanie obrazowe wysokiej rozdzielczości.
+773,Badanie przeciwciał,Nieinwazyjne i bezbolesne.
+774,Badanie okulistyczne,Zalecane przy podejrzeniu infekcji.
+775,Echo serca,Ocena stanu układu krążenia.
+776,Badanie okulistyczne,Wyniki dostępne w ciągu 24 godzin.
+777,Holter EKG,Wyniki dostępne w ciągu 24 godzin.
+778,Test PCR,Ocena stanu układu krążenia.
+779,Echo serca,Wymaga przygotowania na czczo.
+780,Kolonoskopia,Wskazanie do wykonania w ramach profilaktyki.
+781,Test PCR,Wyniki dostępne w ciągu 24 godzin.
+782,Rezonans magnetyczny,Nieinwazyjne i bezbolesne.
+783,Badanie moczu,Wymaga przygotowania na czczo.
+784,Badanie okulistyczne,Nieinwazyjne i bezbolesne.
+785,Rezonans magnetyczny,Nieinwazyjne i bezbolesne.
+786,Badanie okulistyczne,Badanie obrazowe wysokiej rozdzielczości.
+787,Morfologia krwi,Zalecane przy podejrzeniu infekcji.
+788,Test PCR,Stosowane w diagnostyce przewlekłych chorób.
+789,Gastroskopia,Wyniki dostępne w ciągu 24 godzin.
+790,Rezonans magnetyczny,Pomiar funkcji narządów wewnętrznych.
+791,Holter EKG,Stosowane w diagnostyce przewlekłych chorób.
+792,Rezonans magnetyczny,Nieinwazyjne i bezbolesne.
+793,Tomografia komputerowa,Pomiar funkcji narządów wewnętrznych.
+794,Badanie poziomu cukru,Standardowe badanie diagnostyczne.
+795,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+796,Badanie poziomu witaminy D,Pomiar funkcji narządów wewnętrznych.
+797,Badanie moczu,Pomiar funkcji narządów wewnętrznych.
+798,Badanie przeciwciał,Standardowe badanie diagnostyczne.
+799,Badanie poziomu cukru,Wymaga przygotowania na czczo.
+800,Badanie przeciwciał,Wskazanie do wykonania w ramach profilaktyki.
+801,Badanie kału,Zalecane przy podejrzeniu infekcji.
+802,Badanie przeciwciał,Zalecane przy podejrzeniu infekcji.
+803,Holter EKG,Standardowe badanie diagnostyczne.
+804,Test alergiczny,Ocena stanu układu krążenia.
+805,Badanie hormonalne,Wskazanie do wykonania w ramach profilaktyki.
+806,Test alergiczny,Zalecane przy podejrzeniu infekcji.
+807,Badanie kału,Standardowe badanie diagnostyczne.
+808,Echo serca,Pomiar funkcji narządów wewnętrznych.
+809,Badanie kału,Badanie obrazowe wysokiej rozdzielczości.
+810,Gastroskopia,Zalecane przy podejrzeniu infekcji.
+811,Badanie przeciwciał,Badanie obrazowe wysokiej rozdzielczości.
+812,Kolonoskopia,Nieinwazyjne i bezbolesne.
+813,Morfologia krwi,Zalecane przy podejrzeniu infekcji.
+814,Badanie kału,Ocena stanu układu krążenia.
+815,Tomografia komputerowa,Ocena stanu układu krążenia.
+816,Badanie hormonalne,Standardowe badanie diagnostyczne.
+817,Spirometria,Wyniki dostępne w ciągu 24 godzin.
+818,Badanie hormonalne,Ocena stanu układu krążenia.
+819,Badanie kału,Stosowane w diagnostyce przewlekłych chorób.
+820,Audiometria,Wskazanie do wykonania w ramach profilaktyki.
+821,Badanie hormonalne,Pomiar funkcji narządów wewnętrznych.
+822,Badanie poziomu cukru,Zalecane przy podejrzeniu infekcji.
+823,Kolonoskopia,Wyniki dostępne w ciągu 24 godzin.
+824,Echo serca,Standardowe badanie diagnostyczne.
+825,Cytologia,Pomiar funkcji narządów wewnętrznych.
+826,Test alergiczny,Stosowane w diagnostyce przewlekłych chorób.
+827,USG jamy brzusznej,Nieinwazyjne i bezbolesne.
+828,Badanie przeciwciał,Zalecane przy podejrzeniu infekcji.
+829,Cytologia,Zalecane przy podejrzeniu infekcji.
+830,Lipidogram,Wyniki dostępne w ciągu 24 godzin.
+831,USG jamy brzusznej,Zalecane przy podejrzeniu infekcji.
+832,Test obciążenia glukozą,Pomiar funkcji narządów wewnętrznych.
+833,Kolonoskopia,Ocena stanu układu krążenia.
+834,Test alergiczny,Standardowe badanie diagnostyczne.
+835,Test obciążenia glukozą,Zalecane przy podejrzeniu infekcji.
+836,Test obciążenia glukozą,Ocena stanu układu krążenia.
+837,Test obciążenia glukozą,Wymaga przygotowania na czczo.
+838,Test obciążenia glukozą,Pomiar funkcji narządów wewnętrznych.
+839,Badanie tarczycy,Badanie obrazowe wysokiej rozdzielczości.
+840,Echo serca,Pomiar funkcji narządów wewnętrznych.
+841,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+842,Echo serca,Standardowe badanie diagnostyczne.
+843,Rezonans magnetyczny,Standardowe badanie diagnostyczne.
+844,Test alergiczny,Nieinwazyjne i bezbolesne.
+845,Lipidogram,Nieinwazyjne i bezbolesne.
+846,Badanie hormonalne,Standardowe badanie diagnostyczne.
+847,USG jamy brzusznej,Stosowane w diagnostyce przewlekłych chorób.
+848,Badanie przeciwciał,Wskazanie do wykonania w ramach profilaktyki.
+849,EKG,Nieinwazyjne i bezbolesne.
+850,Audiometria,Zalecane przy podejrzeniu infekcji.
+851,Rezonans magnetyczny,Wyniki dostępne w ciągu 24 godzin.
+852,USG jamy brzusznej,Wymaga przygotowania na czczo.
+853,Test obciążenia glukozą,Wymaga przygotowania na czczo.
+854,Test PCR,Ocena stanu układu krążenia.
+855,Badanie poziomu witaminy D,Ocena stanu układu krążenia.
+856,Badanie tarczycy,Badanie obrazowe wysokiej rozdzielczości.
+857,Test obciążenia glukozą,Wskazanie do wykonania w ramach profilaktyki.
+858,Badanie poziomu cukru,Standardowe badanie diagnostyczne.
+859,Test obciążenia glukozą,Badanie obrazowe wysokiej rozdzielczości.
+860,Echo serca,Wymaga przygotowania na czczo.
+861,USG jamy brzusznej,Nieinwazyjne i bezbolesne.
+862,Lipidogram,Wskazanie do wykonania w ramach profilaktyki.
+863,Echo serca,Wymaga przygotowania na czczo.
+864,USG jamy brzusznej,Stosowane w diagnostyce przewlekłych chorób.
+865,Test PCR,Nieinwazyjne i bezbolesne.
+866,Rezonans magnetyczny,Wskazanie do wykonania w ramach profilaktyki.
+867,Badanie przeciwciał,Ocena stanu układu krążenia.
+868,Badanie hormonalne,Standardowe badanie diagnostyczne.
+869,Badanie tarczycy,Pomiar funkcji narządów wewnętrznych.
+870,Badanie okulistyczne,Stosowane w diagnostyce przewlekłych chorób.
+871,Spirometria,Badanie obrazowe wysokiej rozdzielczości.
+872,Badanie poziomu witaminy D,Wskazanie do wykonania w ramach profilaktyki.
+873,Badanie przeciwciał,Badanie obrazowe wysokiej rozdzielczości.
+874,Lipidogram,Pomiar funkcji narządów wewnętrznych.
+875,Badanie kału,Wymaga przygotowania na czczo.
+876,Badanie przeciwciał,Stosowane w diagnostyce przewlekłych chorób.
+877,Badanie okulistyczne,Wyniki dostępne w ciągu 24 godzin.
+878,Badanie moczu,Zalecane przy podejrzeniu infekcji.
+879,Badanie poziomu witaminy D,Zalecane przy podejrzeniu infekcji.
+880,Badanie przeciwciał,Ocena stanu układu krążenia.
+881,Kolonoskopia,Wyniki dostępne w ciągu 24 godzin.
+882,Badanie moczu,Standardowe badanie diagnostyczne.
+883,Spirometria,Stosowane w diagnostyce przewlekłych chorób.
+884,Badanie przeciwciał,Pomiar funkcji narządów wewnętrznych.
+885,Tomografia komputerowa,Wymaga przygotowania na czczo.
+886,EKG,Nieinwazyjne i bezbolesne.
+887,RTG klatki piersiowej,Nieinwazyjne i bezbolesne.
+888,EKG,Stosowane w diagnostyce przewlekłych chorób.
+889,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+890,Morfologia krwi,Pomiar funkcji narządów wewnętrznych.
+891,Echo serca,Ocena stanu układu krążenia.
+892,Test alergiczny,Wyniki dostępne w ciągu 24 godzin.
+893,Test obciążenia glukozą,Wskazanie do wykonania w ramach profilaktyki.
+894,Gastroskopia,Wskazanie do wykonania w ramach profilaktyki.
+895,Morfologia krwi,Standardowe badanie diagnostyczne.
+896,Morfologia krwi,Nieinwazyjne i bezbolesne.
+897,Lipidogram,Badanie obrazowe wysokiej rozdzielczości.
+898,Badanie tarczycy,Ocena stanu układu krążenia.
+899,Gastroskopia,Wyniki dostępne w ciągu 24 godzin.
+900,Holter EKG,Ocena stanu układu krążenia.
+901,Echo serca,Ocena stanu układu krążenia.
+902,Gastroskopia,Stosowane w diagnostyce przewlekłych chorób.
+903,Badanie tarczycy,Stosowane w diagnostyce przewlekłych chorób.
+904,Badanie tarczycy,Wyniki dostępne w ciągu 24 godzin.
+905,USG jamy brzusznej,Ocena stanu układu krążenia.
+906,Badanie moczu,Ocena stanu układu krążenia.
+907,Cytologia,Ocena stanu układu krążenia.
+908,Badanie okulistyczne,Standardowe badanie diagnostyczne.
+909,Test alergiczny,Pomiar funkcji narządów wewnętrznych.
+910,RTG klatki piersiowej,Standardowe badanie diagnostyczne.
+911,Lipidogram,Wymaga przygotowania na czczo.
+912,Cytologia,Pomiar funkcji narządów wewnętrznych.
+913,Badanie okulistyczne,Wymaga przygotowania na czczo.
+914,Echo serca,Wymaga przygotowania na czczo.
+915,RTG klatki piersiowej,Stosowane w diagnostyce przewlekłych chorób.
+916,Audiometria,Ocena stanu układu krążenia.
+917,Test alergiczny,Stosowane w diagnostyce przewlekłych chorób.
+918,Lipidogram,Stosowane w diagnostyce przewlekłych chorób.
+919,Tomografia komputerowa,Wskazanie do wykonania w ramach profilaktyki.
+920,Badanie tarczycy,Zalecane przy podejrzeniu infekcji.
+921,EKG,Stosowane w diagnostyce przewlekłych chorób.
+922,Badanie przeciwciał,Pomiar funkcji narządów wewnętrznych.
+923,Rezonans magnetyczny,Stosowane w diagnostyce przewlekłych chorób.
+924,Badanie okulistyczne,Ocena stanu układu krążenia.
+925,Badanie kału,Pomiar funkcji narządów wewnętrznych.
+926,Badanie moczu,Standardowe badanie diagnostyczne.
+927,Badanie okulistyczne,Pomiar funkcji narządów wewnętrznych.
+928,Test obciążenia glukozą,Wskazanie do wykonania w ramach profilaktyki.
+929,Audiometria,Standardowe badanie diagnostyczne.
+930,Tomografia komputerowa,Pomiar funkcji narządów wewnętrznych.
+931,Cytologia,Zalecane przy podejrzeniu infekcji.
+932,Tomografia komputerowa,Badanie obrazowe wysokiej rozdzielczości.
+933,Tomografia komputerowa,Wskazanie do wykonania w ramach profilaktyki.
+934,Lipidogram,Wymaga przygotowania na czczo.
+935,Lipidogram,Wyniki dostępne w ciągu 24 godzin.
+936,Badanie kału,Zalecane przy podejrzeniu infekcji.
+937,Kolonoskopia,Stosowane w diagnostyce przewlekłych chorób.
+938,Gastroskopia,Badanie obrazowe wysokiej rozdzielczości.
+939,Badanie poziomu witaminy D,Badanie obrazowe wysokiej rozdzielczości.
+940,Test obciążenia glukozą,Pomiar funkcji narządów wewnętrznych.
+941,Badanie poziomu witaminy D,Ocena stanu układu krążenia.
+942,Cytologia,Wyniki dostępne w ciągu 24 godzin.
+943,Lipidogram,Ocena stanu układu krążenia.
+944,Badanie kału,Wyniki dostępne w ciągu 24 godzin.
+945,Kolonoskopia,Wyniki dostępne w ciągu 24 godzin.
+946,Gastroskopia,Wymaga przygotowania na czczo.
+947,Gastroskopia,Wyniki dostępne w ciągu 24 godzin.
+948,USG jamy brzusznej,Wyniki dostępne w ciągu 24 godzin.
+949,Badanie poziomu witaminy D,Zalecane przy podejrzeniu infekcji.
+950,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+951,Badanie poziomu witaminy D,Stosowane w diagnostyce przewlekłych chorób.
+952,Badanie kału,Stosowane w diagnostyce przewlekłych chorób.
+953,Badanie kału,Wyniki dostępne w ciągu 24 godzin.
+954,Test alergiczny,Stosowane w diagnostyce przewlekłych chorób.
+955,Badanie tarczycy,Wyniki dostępne w ciągu 24 godzin.
+956,Badanie kału,Stosowane w diagnostyce przewlekłych chorób.
+957,Test alergiczny,Ocena stanu układu krążenia.
+958,Test alergiczny,Standardowe badanie diagnostyczne.
+959,Spirometria,Badanie obrazowe wysokiej rozdzielczości.
+960,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+961,Badanie kału,Standardowe badanie diagnostyczne.
+962,Test obciążenia glukozą,Pomiar funkcji narządów wewnętrznych.
+963,Spirometria,Ocena stanu układu krążenia.
+964,Rezonans magnetyczny,Stosowane w diagnostyce przewlekłych chorób.
+965,Audiometria,Wskazanie do wykonania w ramach profilaktyki.
+966,Audiometria,Wymaga przygotowania na czczo.
+967,Test obciążenia glukozą,Badanie obrazowe wysokiej rozdzielczości.
+968,Badanie przeciwciał,Badanie obrazowe wysokiej rozdzielczości.
+969,Test obciążenia glukozą,Wyniki dostępne w ciągu 24 godzin.
+970,EKG,Wymaga przygotowania na czczo.
+971,Tomografia komputerowa,Zalecane przy podejrzeniu infekcji.
+972,Morfologia krwi,Stosowane w diagnostyce przewlekłych chorób.
+973,Badanie tarczycy,Nieinwazyjne i bezbolesne.
+974,RTG klatki piersiowej,Nieinwazyjne i bezbolesne.
+975,EKG,Wskazanie do wykonania w ramach profilaktyki.
+976,Test PCR,Standardowe badanie diagnostyczne.
+977,Echo serca,Pomiar funkcji narządów wewnętrznych.
+978,Gastroskopia,Badanie obrazowe wysokiej rozdzielczości.
+979,Cytologia,Wymaga przygotowania na czczo.
+980,Gastroskopia,Ocena stanu układu krążenia.
+981,Cytologia,Pomiar funkcji narządów wewnętrznych.
+982,Echo serca,Stosowane w diagnostyce przewlekłych chorób.
+983,Rezonans magnetyczny,Nieinwazyjne i bezbolesne.
+984,RTG klatki piersiowej,Wymaga przygotowania na czczo.
+985,Morfologia krwi,Standardowe badanie diagnostyczne.
+986,Gastroskopia,Wyniki dostępne w ciągu 24 godzin.
+987,Test obciążenia glukozą,Ocena stanu układu krążenia.
+988,Gastroskopia,Ocena stanu układu krążenia.
+989,USG jamy brzusznej,Nieinwazyjne i bezbolesne.
+990,Audiometria,Stosowane w diagnostyce przewlekłych chorób.
+991,Badanie kału,Stosowane w diagnostyce przewlekłych chorób.
+992,RTG klatki piersiowej,Standardowe badanie diagnostyczne.
+993,Rezonans magnetyczny,Pomiar funkcji narządów wewnętrznych.
+994,EKG,Nieinwazyjne i bezbolesne.
+995,Test PCR,Zalecane przy podejrzeniu infekcji.
+996,Badanie moczu,Wskazanie do wykonania w ramach profilaktyki.
+997,Kolonoskopia,Ocena stanu układu krążenia.
+998,Cytologia,Badanie obrazowe wysokiej rozdzielczości.
+999,Badanie okulistyczne,Stosowane w diagnostyce przewlekłych chorób.
+1000,Badanie poziomu cukru,Wymaga przygotowania na czczo.
+1001,Kolonoskopia,Stosowane w diagnostyce przewlekłych chorób.
+1002,Kolonoskopia,Wskazanie do wykonania w ramach profilaktyki.
+1003,Morfologia krwi,Badanie obrazowe wysokiej rozdzielczości.
+1004,Lipidogram,Zalecane przy podejrzeniu infekcji.
+1005,Test obciążenia glukozą,Stosowane w diagnostyce przewlekłych chorób.
+1006,Badanie moczu,Zalecane przy podejrzeniu infekcji.
+1007,Test alergiczny,Pomiar funkcji narządów wewnętrznych.
+1008,Holter EKG,Wyniki dostępne w ciągu 24 godzin.
+1009,Badanie moczu,Wyniki dostępne w ciągu 24 godzin.
+1010,Badanie okulistyczne,Pomiar funkcji narządów wewnętrznych.
+1011,Badanie poziomu cukru,Ocena stanu układu krążenia.
+1012,Badanie kału,Zalecane przy podejrzeniu infekcji.
+1013,USG jamy brzusznej,Wymaga przygotowania na czczo.
+1014,Holter EKG,Badanie obrazowe wysokiej rozdzielczości.
+1015,Cytologia,Standardowe badanie diagnostyczne.
+1016,Badanie moczu,Wyniki dostępne w ciągu 24 godzin.
+1017,Tomografia komputerowa,Wymaga przygotowania na czczo.
+1018,Lipidogram,Nieinwazyjne i bezbolesne.
+1019,Badanie hormonalne,Nieinwazyjne i bezbolesne.
+1020,RTG klatki piersiowej,Wymaga przygotowania na czczo.
+1021,Badanie moczu,Wyniki dostępne w ciągu 24 godzin.
+1022,Badanie tarczycy,Wyniki dostępne w ciągu 24 godzin.
+1023,Tomografia komputerowa,Wyniki dostępne w ciągu 24 godzin.
+1024,Lipidogram,Wymaga przygotowania na czczo.
+1025,Badanie przeciwciał,Zalecane przy podejrzeniu infekcji.
+1026,Morfologia krwi,Wyniki dostępne w ciągu 24 godzin.
+1027,Badanie kału,Wskazanie do wykonania w ramach profilaktyki.
+1028,Badanie okulistyczne,Stosowane w diagnostyce przewlekłych chorób.
+1029,Lipidogram,Badanie obrazowe wysokiej rozdzielczości.
+1030,Audiometria,Ocena stanu układu krążenia.
+1031,Holter EKG,Standardowe badanie diagnostyczne.
+1032,RTG klatki piersiowej,Badanie obrazowe wysokiej rozdzielczości.
+1033,Badanie przeciwciał,Pomiar funkcji narządów wewnętrznych.
+1034,Badanie okulistyczne,Nieinwazyjne i bezbolesne.
+1035,Test obciążenia glukozą,Wyniki dostępne w ciągu 24 godzin.
+1036,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+1037,RTG klatki piersiowej,Nieinwazyjne i bezbolesne.
+1038,Badanie przeciwciał,Zalecane przy podejrzeniu infekcji.
+1039,Badanie przeciwciał,Wskazanie do wykonania w ramach profilaktyki.
+1040,Badanie tarczycy,Wyniki dostępne w ciągu 24 godzin.
+1041,USG jamy brzusznej,Wskazanie do wykonania w ramach profilaktyki.
+1042,Test alergiczny,Wymaga przygotowania na czczo.
+1043,RTG klatki piersiowej,Wyniki dostępne w ciągu 24 godzin.
+1044,Badanie moczu,Pomiar funkcji narządów wewnętrznych.
+1045,RTG klatki piersiowej,Nieinwazyjne i bezbolesne.
+1046,Badanie kału,Badanie obrazowe wysokiej rozdzielczości.
+1047,Cytologia,Standardowe badanie diagnostyczne.
+1048,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+1049,Holter EKG,Stosowane w diagnostyce przewlekłych chorób.
+1050,Test alergiczny,Ocena stanu układu krążenia.
+1051,Badanie poziomu cukru,Pomiar funkcji narządów wewnętrznych.
+1052,Tomografia komputerowa,Wskazanie do wykonania w ramach profilaktyki.
+1053,Test PCR,Pomiar funkcji narządów wewnętrznych.
+1054,Audiometria,Nieinwazyjne i bezbolesne.
+1055,Badanie moczu,Wymaga przygotowania na czczo.
+1056,Rezonans magnetyczny,Badanie obrazowe wysokiej rozdzielczości.
+1057,Rezonans magnetyczny,Stosowane w diagnostyce przewlekłych chorób.
+1058,Badanie kału,Standardowe badanie diagnostyczne.
+1059,Rezonans magnetyczny,Standardowe badanie diagnostyczne.
+1060,Rezonans magnetyczny,Pomiar funkcji narządów wewnętrznych.
+1061,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+1062,EKG,Wymaga przygotowania na czczo.
+1063,Badanie moczu,Standardowe badanie diagnostyczne.
+1064,Badanie kału,Standardowe badanie diagnostyczne.
+1065,Badanie kału,Wymaga przygotowania na czczo.
+1066,Test alergiczny,Ocena stanu układu krążenia.
+1067,Badanie tarczycy,Wskazanie do wykonania w ramach profilaktyki.
+1068,USG jamy brzusznej,Zalecane przy podejrzeniu infekcji.
+1069,Badanie hormonalne,Ocena stanu układu krążenia.
+1070,Badanie tarczycy,Pomiar funkcji narządów wewnętrznych.
+1071,Morfologia krwi,Wskazanie do wykonania w ramach profilaktyki.
+1072,Lipidogram,Nieinwazyjne i bezbolesne.
+1073,Test PCR,Wskazanie do wykonania w ramach profilaktyki.
+1074,Badanie poziomu witaminy D,Stosowane w diagnostyce przewlekłych chorób.
+1075,Cytologia,Pomiar funkcji narządów wewnętrznych.
+1076,Badanie kału,Standardowe badanie diagnostyczne.
+1077,Tomografia komputerowa,Wyniki dostępne w ciągu 24 godzin.
+1078,Badanie przeciwciał,Pomiar funkcji narządów wewnętrznych.
+1079,Badanie moczu,Standardowe badanie diagnostyczne.
+1080,USG jamy brzusznej,Nieinwazyjne i bezbolesne.
+1081,Badanie kału,Stosowane w diagnostyce przewlekłych chorób.
+1082,Holter EKG,Wyniki dostępne w ciągu 24 godzin.
+1083,Echo serca,Nieinwazyjne i bezbolesne.
+1084,Badanie kału,Standardowe badanie diagnostyczne.
+1085,Badanie moczu,Wyniki dostępne w ciągu 24 godzin.
+1086,Badanie okulistyczne,Nieinwazyjne i bezbolesne.
+1087,RTG klatki piersiowej,Nieinwazyjne i bezbolesne.
+1088,Holter EKG,Wyniki dostępne w ciągu 24 godzin.
+1089,Badanie tarczycy,Zalecane przy podejrzeniu infekcji.
+1090,Test obciążenia glukozą,Standardowe badanie diagnostyczne.
+1091,USG jamy brzusznej,Wskazanie do wykonania w ramach profilaktyki.
+1092,Badanie okulistyczne,Nieinwazyjne i bezbolesne.
+1093,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+1094,Gastroskopia,Standardowe badanie diagnostyczne.
+1095,Cytologia,Standardowe badanie diagnostyczne.
+1096,Badanie tarczycy,Ocena stanu układu krążenia.
+1097,Test alergiczny,Badanie obrazowe wysokiej rozdzielczości.
+1098,Badanie tarczycy,Zalecane przy podejrzeniu infekcji.
+1099,Echo serca,Wskazanie do wykonania w ramach profilaktyki.
+1100,Kolonoskopia,Wyniki dostępne w ciągu 24 godzin.
+1101,Lipidogram,Zalecane przy podejrzeniu infekcji.
+1102,Badanie poziomu witaminy D,Stosowane w diagnostyce przewlekłych chorób.
+1103,Tomografia komputerowa,Wyniki dostępne w ciągu 24 godzin.
+1104,RTG klatki piersiowej,Ocena stanu układu krążenia.
+1105,Cytologia,Badanie obrazowe wysokiej rozdzielczości.
+1106,Badanie kału,Badanie obrazowe wysokiej rozdzielczości.
+1107,Badanie tarczycy,Nieinwazyjne i bezbolesne.
+1108,Badanie hormonalne,Wskazanie do wykonania w ramach profilaktyki.
+1109,Badanie przeciwciał,Nieinwazyjne i bezbolesne.
+1110,Kolonoskopia,Badanie obrazowe wysokiej rozdzielczości.
+1111,USG jamy brzusznej,Nieinwazyjne i bezbolesne.
+1112,Rezonans magnetyczny,Pomiar funkcji narządów wewnętrznych.
+1113,Badanie poziomu witaminy D,Standardowe badanie diagnostyczne.
+1114,Test obciążenia glukozą,Pomiar funkcji narządów wewnętrznych.
+1115,Badanie poziomu cukru,Ocena stanu układu krążenia.
+1116,Test PCR,Badanie obrazowe wysokiej rozdzielczości.
+1117,Gastroskopia,Wyniki dostępne w ciągu 24 godzin.
+1118,Spirometria,Nieinwazyjne i bezbolesne.
+1119,Badanie kału,Wskazanie do wykonania w ramach profilaktyki.
+1120,Badanie kału,Wymaga przygotowania na czczo.
+1121,Badanie tarczycy,Stosowane w diagnostyce przewlekłych chorób.
+1122,Test PCR,Zalecane przy podejrzeniu infekcji.
+1123,Tomografia komputerowa,Zalecane przy podejrzeniu infekcji.
+1124,Rezonans magnetyczny,Zalecane przy podejrzeniu infekcji.
+1125,USG jamy brzusznej,Standardowe badanie diagnostyczne.
+1126,EKG,Badanie obrazowe wysokiej rozdzielczości.
+1127,Badanie tarczycy,Badanie obrazowe wysokiej rozdzielczości.
+1128,RTG klatki piersiowej,Wymaga przygotowania na czczo.
+1129,Badanie okulistyczne,Pomiar funkcji narządów wewnętrznych.
+1130,Badanie okulistyczne,Badanie obrazowe wysokiej rozdzielczości.
+1131,Lipidogram,Stosowane w diagnostyce przewlekłych chorób.
+1132,RTG klatki piersiowej,Zalecane przy podejrzeniu infekcji.
+1133,Badanie tarczycy,Standardowe badanie diagnostyczne.
+1134,Echo serca,Wyniki dostępne w ciągu 24 godzin.
+1135,Badanie okulistyczne,Standardowe badanie diagnostyczne.
+1136,Badanie przeciwciał,Wymaga przygotowania na czczo.
+1137,Badanie poziomu witaminy D,Nieinwazyjne i bezbolesne.
+1138,Cytologia,Zalecane przy podejrzeniu infekcji.
+1139,Test obciążenia glukozą,Stosowane w diagnostyce przewlekłych chorób.
+1140,Badanie poziomu witaminy D,Wyniki dostępne w ciągu 24 godzin.
+1141,Badanie okulistyczne,Pomiar funkcji narządów wewnętrznych.
+1142,Tomografia komputerowa,Stosowane w diagnostyce przewlekłych chorób.
+1143,Kolonoskopia,Zalecane przy podejrzeniu infekcji.
+1144,Echo serca,Zalecane przy podejrzeniu infekcji.
+1145,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+1146,Rezonans magnetyczny,Wskazanie do wykonania w ramach profilaktyki.
+1147,Badanie poziomu cukru,Wyniki dostępne w ciągu 24 godzin.
+1148,Badanie kału,Wymaga przygotowania na czczo.
+1149,Holter EKG,Wskazanie do wykonania w ramach profilaktyki.
+1150,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+1151,Morfologia krwi,Pomiar funkcji narządów wewnętrznych.
+1152,Gastroskopia,Nieinwazyjne i bezbolesne.
+1153,Rezonans magnetyczny,Zalecane przy podejrzeniu infekcji.
+1154,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+1155,Badanie poziomu cukru,Pomiar funkcji narządów wewnętrznych.
+1156,Badanie hormonalne,Wyniki dostępne w ciągu 24 godzin.
+1157,Test obciążenia glukozą,Ocena stanu układu krążenia.
+1158,Badanie moczu,Wymaga przygotowania na czczo.
+1159,Audiometria,Standardowe badanie diagnostyczne.
+1160,Badanie okulistyczne,Badanie obrazowe wysokiej rozdzielczości.
+1161,Badanie moczu,Wymaga przygotowania na czczo.
+1162,Gastroskopia,Wyniki dostępne w ciągu 24 godzin.
+1163,Gastroskopia,Wskazanie do wykonania w ramach profilaktyki.
+1164,Morfologia krwi,Wyniki dostępne w ciągu 24 godzin.
+1165,Spirometria,Badanie obrazowe wysokiej rozdzielczości.
+1166,Echo serca,Badanie obrazowe wysokiej rozdzielczości.
+1167,Badanie poziomu witaminy D,Stosowane w diagnostyce przewlekłych chorób.
+1168,Kolonoskopia,Standardowe badanie diagnostyczne.
+1169,Test alergiczny,Wskazanie do wykonania w ramach profilaktyki.
+1170,Morfologia krwi,Nieinwazyjne i bezbolesne.
+1171,Morfologia krwi,Pomiar funkcji narządów wewnętrznych.
+1172,Badanie poziomu witaminy D,Ocena stanu układu krążenia.
+1173,Test PCR,Badanie obrazowe wysokiej rozdzielczości.
+1174,Badanie hormonalne,Pomiar funkcji narządów wewnętrznych.
+1175,USG jamy brzusznej,Stosowane w diagnostyce przewlekłych chorób.
+1176,Test PCR,Pomiar funkcji narządów wewnętrznych.
+1177,Badanie moczu,Wskazanie do wykonania w ramach profilaktyki.
+1178,Echo serca,Wyniki dostępne w ciągu 24 godzin.
+1179,Badanie poziomu witaminy D,Nieinwazyjne i bezbolesne.
+1180,Badanie poziomu cukru,Ocena stanu układu krążenia.
+1181,Badanie przeciwciał,Wymaga przygotowania na czczo.
+1182,Tomografia komputerowa,Stosowane w diagnostyce przewlekłych chorób.
+1183,Audiometria,Pomiar funkcji narządów wewnętrznych.
+1184,Lipidogram,Wymaga przygotowania na czczo.
+1185,Test alergiczny,Nieinwazyjne i bezbolesne.
+1186,Badanie tarczycy,Wskazanie do wykonania w ramach profilaktyki.
+1187,Echo serca,Pomiar funkcji narządów wewnętrznych.
+1188,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+1189,Cytologia,Stosowane w diagnostyce przewlekłych chorób.
+1190,Rezonans magnetyczny,Standardowe badanie diagnostyczne.
+1191,Lipidogram,Zalecane przy podejrzeniu infekcji.
+1192,Badanie poziomu cukru,Pomiar funkcji narządów wewnętrznych.
+1193,Holter EKG,Zalecane przy podejrzeniu infekcji.
+1194,Rezonans magnetyczny,Stosowane w diagnostyce przewlekłych chorób.
+1195,Rezonans magnetyczny,Standardowe badanie diagnostyczne.
+1196,Badanie przeciwciał,Pomiar funkcji narządów wewnętrznych.
+1197,Test obciążenia glukozą,Nieinwazyjne i bezbolesne.
+1198,Rezonans magnetyczny,Stosowane w diagnostyce przewlekłych chorób.
+1199,Gastroskopia,Zalecane przy podejrzeniu infekcji.
+1200,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+1201,Test PCR,Ocena stanu układu krążenia.
+1202,Badanie moczu,Standardowe badanie diagnostyczne.
+1203,Rezonans magnetyczny,Stosowane w diagnostyce przewlekłych chorób.
+1204,Kolonoskopia,Pomiar funkcji narządów wewnętrznych.
+1205,Test PCR,Stosowane w diagnostyce przewlekłych chorób.
+1206,Badanie poziomu cukru,Wymaga przygotowania na czczo.
+1207,Lipidogram,Wymaga przygotowania na czczo.
+1208,Badanie tarczycy,Nieinwazyjne i bezbolesne.
+1209,Badanie przeciwciał,Ocena stanu układu krążenia.
+1210,Tomografia komputerowa,Stosowane w diagnostyce przewlekłych chorób.
+1211,Audiometria,Wyniki dostępne w ciągu 24 godzin.
+1212,Badanie hormonalne,Nieinwazyjne i bezbolesne.
+1213,RTG klatki piersiowej,Ocena stanu układu krążenia.
+1214,Badanie poziomu cukru,Zalecane przy podejrzeniu infekcji.
+1215,Kolonoskopia,Wyniki dostępne w ciągu 24 godzin.
+1216,Badanie poziomu witaminy D,Badanie obrazowe wysokiej rozdzielczości.
+1217,Morfologia krwi,Badanie obrazowe wysokiej rozdzielczości.
+1218,Kolonoskopia,Zalecane przy podejrzeniu infekcji.
+1219,Badanie moczu,Wymaga przygotowania na czczo.
+1220,Audiometria,Zalecane przy podejrzeniu infekcji.
+1221,Badanie kału,Badanie obrazowe wysokiej rozdzielczości.
+1222,Test PCR,Standardowe badanie diagnostyczne.
+1223,RTG klatki piersiowej,Wyniki dostępne w ciągu 24 godzin.
+1224,Test obciążenia glukozą,Badanie obrazowe wysokiej rozdzielczości.
+1225,Badanie kału,Nieinwazyjne i bezbolesne.
+1226,USG jamy brzusznej,Zalecane przy podejrzeniu infekcji.
+1227,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+1228,EKG,Nieinwazyjne i bezbolesne.
+1229,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+1230,Audiometria,Wyniki dostępne w ciągu 24 godzin.
+1231,Spirometria,Zalecane przy podejrzeniu infekcji.
+1232,Badanie okulistyczne,Pomiar funkcji narządów wewnętrznych.
+1233,Holter EKG,Nieinwazyjne i bezbolesne.
+1234,Lipidogram,Badanie obrazowe wysokiej rozdzielczości.
+1235,Lipidogram,Badanie obrazowe wysokiej rozdzielczości.
+1236,Echo serca,Ocena stanu układu krążenia.
+1237,Gastroskopia,Standardowe badanie diagnostyczne.
+1238,EKG,Stosowane w diagnostyce przewlekłych chorób.
+1239,EKG,Badanie obrazowe wysokiej rozdzielczości.
+1240,Kolonoskopia,Wyniki dostępne w ciągu 24 godzin.
+1241,Holter EKG,Badanie obrazowe wysokiej rozdzielczości.
+1242,RTG klatki piersiowej,Ocena stanu układu krążenia.
+1243,Gastroskopia,Wyniki dostępne w ciągu 24 godzin.
+1244,Test PCR,Nieinwazyjne i bezbolesne.
+1245,Badanie hormonalne,Standardowe badanie diagnostyczne.
+1246,RTG klatki piersiowej,Ocena stanu układu krążenia.
+1247,Tomografia komputerowa,Stosowane w diagnostyce przewlekłych chorób.
+1248,Spirometria,Wskazanie do wykonania w ramach profilaktyki.
+1249,Badanie tarczycy,Badanie obrazowe wysokiej rozdzielczości.
+1250,Echo serca,Wymaga przygotowania na czczo.
+1251,Kolonoskopia,Badanie obrazowe wysokiej rozdzielczości.
+1252,Kolonoskopia,Ocena stanu układu krążenia.
+1253,Badanie przeciwciał,Ocena stanu układu krążenia.
+1254,Gastroskopia,Ocena stanu układu krążenia.
+1255,Audiometria,Wyniki dostępne w ciągu 24 godzin.
+1256,Test PCR,Zalecane przy podejrzeniu infekcji.
+1257,Badanie poziomu witaminy D,Ocena stanu układu krążenia.
+1258,Audiometria,Nieinwazyjne i bezbolesne.
+1259,Badanie moczu,Wyniki dostępne w ciągu 24 godzin.
+1260,Badanie hormonalne,Nieinwazyjne i bezbolesne.
+1261,EKG,Stosowane w diagnostyce przewlekłych chorób.
+1262,Rezonans magnetyczny,Ocena stanu układu krążenia.
+1263,Rezonans magnetyczny,Nieinwazyjne i bezbolesne.
+1264,USG jamy brzusznej,Wymaga przygotowania na czczo.
+1265,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+1266,Gastroskopia,Zalecane przy podejrzeniu infekcji.
+1267,RTG klatki piersiowej,Wyniki dostępne w ciągu 24 godzin.
+1268,Tomografia komputerowa,Stosowane w diagnostyce przewlekłych chorób.
+1269,Test alergiczny,Badanie obrazowe wysokiej rozdzielczości.
+1270,Badanie moczu,Zalecane przy podejrzeniu infekcji.
+1271,Gastroskopia,Wskazanie do wykonania w ramach profilaktyki.
+1272,Spirometria,Stosowane w diagnostyce przewlekłych chorób.
+1273,Test PCR,Zalecane przy podejrzeniu infekcji.
+1274,USG jamy brzusznej,Wskazanie do wykonania w ramach profilaktyki.
+1275,Badanie poziomu witaminy D,Wskazanie do wykonania w ramach profilaktyki.
+1276,Rezonans magnetyczny,Ocena stanu układu krążenia.
+1277,Test obciążenia glukozą,Stosowane w diagnostyce przewlekłych chorób.
+1278,Badanie poziomu witaminy D,Stosowane w diagnostyce przewlekłych chorób.
+1279,Test alergiczny,Stosowane w diagnostyce przewlekłych chorób.
+1280,Badanie okulistyczne,Badanie obrazowe wysokiej rozdzielczości.
+1281,EKG,Nieinwazyjne i bezbolesne.
+1282,Spirometria,Wymaga przygotowania na czczo.
+1283,EKG,Badanie obrazowe wysokiej rozdzielczości.
+1284,Morfologia krwi,Standardowe badanie diagnostyczne.
+1285,Badanie kału,Ocena stanu układu krążenia.
+1286,Lipidogram,Ocena stanu układu krążenia.
+1287,Morfologia krwi,Nieinwazyjne i bezbolesne.
+1288,Badanie okulistyczne,Standardowe badanie diagnostyczne.
+1289,RTG klatki piersiowej,Standardowe badanie diagnostyczne.
+1290,Cytologia,Wymaga przygotowania na czczo.
+1291,Audiometria,Nieinwazyjne i bezbolesne.
+1292,Holter EKG,Pomiar funkcji narządów wewnętrznych.
+1293,Badanie moczu,Badanie obrazowe wysokiej rozdzielczości.
+1294,Badanie poziomu cukru,Wymaga przygotowania na czczo.
+1295,EKG,Standardowe badanie diagnostyczne.
+1296,Kolonoskopia,Standardowe badanie diagnostyczne.
+1297,Kolonoskopia,Nieinwazyjne i bezbolesne.
+1298,Test alergiczny,Wymaga przygotowania na czczo.
+1299,Spirometria,Wymaga przygotowania na czczo.
+1300,Holter EKG,Standardowe badanie diagnostyczne.
+1301,Cytologia,Badanie obrazowe wysokiej rozdzielczości.
+1302,Badanie okulistyczne,Nieinwazyjne i bezbolesne.
+1303,Lipidogram,Stosowane w diagnostyce przewlekłych chorób.
+1304,Tomografia komputerowa,Stosowane w diagnostyce przewlekłych chorób.
+1305,Test PCR,Stosowane w diagnostyce przewlekłych chorób.
+1306,RTG klatki piersiowej,Standardowe badanie diagnostyczne.
+1307,Badanie tarczycy,Ocena stanu układu krążenia.
+1308,Holter EKG,Ocena stanu układu krążenia.
+1309,Tomografia komputerowa,Wskazanie do wykonania w ramach profilaktyki.
+1310,Test PCR,Ocena stanu układu krążenia.
+1311,Badanie kału,Wymaga przygotowania na czczo.
+1312,Tomografia komputerowa,Badanie obrazowe wysokiej rozdzielczości.
+1313,Badanie moczu,Badanie obrazowe wysokiej rozdzielczości.
+1314,Badanie poziomu witaminy D,Ocena stanu układu krążenia.
+1315,Badanie hormonalne,Wymaga przygotowania na czczo.
+1316,Badanie moczu,Wskazanie do wykonania w ramach profilaktyki.
+1317,Lipidogram,Zalecane przy podejrzeniu infekcji.
+1318,Spirometria,Pomiar funkcji narządów wewnętrznych.
+1319,Badanie przeciwciał,Zalecane przy podejrzeniu infekcji.
+1320,Badanie przeciwciał,Badanie obrazowe wysokiej rozdzielczości.
+1321,Test PCR,Ocena stanu układu krążenia.
+1322,Tomografia komputerowa,Ocena stanu układu krążenia.
+1323,Badanie tarczycy,Zalecane przy podejrzeniu infekcji.
+1324,Badanie kału,Ocena stanu układu krążenia.
+1325,Holter EKG,Wyniki dostępne w ciągu 24 godzin.
+1326,Test PCR,Zalecane przy podejrzeniu infekcji.
+1327,Morfologia krwi,Zalecane przy podejrzeniu infekcji.
+1328,Badanie moczu,Nieinwazyjne i bezbolesne.
+1329,Badanie hormonalne,Badanie obrazowe wysokiej rozdzielczości.
+1330,Tomografia komputerowa,Wymaga przygotowania na czczo.
+1331,Badanie kału,Stosowane w diagnostyce przewlekłych chorób.
+1332,Rezonans magnetyczny,Zalecane przy podejrzeniu infekcji.
+1333,Badanie hormonalne,Badanie obrazowe wysokiej rozdzielczości.
+1334,Spirometria,Wymaga przygotowania na czczo.
+1335,Cytologia,Nieinwazyjne i bezbolesne.
+1336,Badanie tarczycy,Stosowane w diagnostyce przewlekłych chorób.
+1337,Audiometria,Zalecane przy podejrzeniu infekcji.
+1338,Spirometria,Wskazanie do wykonania w ramach profilaktyki.
+1339,Kolonoskopia,Standardowe badanie diagnostyczne.
+1340,Badanie poziomu cukru,Wskazanie do wykonania w ramach profilaktyki.
+1341,Echo serca,Ocena stanu układu krążenia.
+1342,EKG,Standardowe badanie diagnostyczne.
+1343,Lipidogram,Pomiar funkcji narządów wewnętrznych.
+1344,Test obciążenia glukozą,Nieinwazyjne i bezbolesne.
+1345,Morfologia krwi,Badanie obrazowe wysokiej rozdzielczości.
+1346,Spirometria,Zalecane przy podejrzeniu infekcji.
+1347,Badanie przeciwciał,Wyniki dostępne w ciągu 24 godzin.
+1348,Badanie kału,Zalecane przy podejrzeniu infekcji.
+1349,Badanie poziomu witaminy D,Nieinwazyjne i bezbolesne.
+1350,Badanie tarczycy,Stosowane w diagnostyce przewlekłych chorób.
+1351,Badanie tarczycy,Ocena stanu układu krążenia.
+1352,EKG,Wskazanie do wykonania w ramach profilaktyki.
+1353,Spirometria,Zalecane przy podejrzeniu infekcji.
+1354,Cytologia,Stosowane w diagnostyce przewlekłych chorób.
+1355,Lipidogram,Stosowane w diagnostyce przewlekłych chorób.
+1356,Holter EKG,Wymaga przygotowania na czczo.
+1357,Holter EKG,Wyniki dostępne w ciągu 24 godzin.
+1358,Cytologia,Wskazanie do wykonania w ramach profilaktyki.
+1359,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+1360,Badanie okulistyczne,Nieinwazyjne i bezbolesne.
+1361,Badanie okulistyczne,Ocena stanu układu krążenia.
+1362,Badanie poziomu cukru,Pomiar funkcji narządów wewnętrznych.
+1363,Badanie okulistyczne,Ocena stanu układu krążenia.
+1364,Holter EKG,Ocena stanu układu krążenia.
+1365,Test PCR,Nieinwazyjne i bezbolesne.
+1366,Badanie poziomu witaminy D,Pomiar funkcji narządów wewnętrznych.
+1367,Test obciążenia glukozą,Zalecane przy podejrzeniu infekcji.
+1368,Rezonans magnetyczny,Pomiar funkcji narządów wewnętrznych.
+1369,Badanie tarczycy,Wymaga przygotowania na czczo.
+1370,Gastroskopia,Stosowane w diagnostyce przewlekłych chorób.
+1371,Spirometria,Stosowane w diagnostyce przewlekłych chorób.
+1372,Test obciążenia glukozą,Nieinwazyjne i bezbolesne.
+1373,Kolonoskopia,Pomiar funkcji narządów wewnętrznych.
+1374,Badanie kału,Stosowane w diagnostyce przewlekłych chorób.
+1375,Test alergiczny,Ocena stanu układu krążenia.
+1376,Badanie przeciwciał,Standardowe badanie diagnostyczne.
+1377,Test PCR,Wskazanie do wykonania w ramach profilaktyki.
+1378,Audiometria,Wyniki dostępne w ciągu 24 godzin.
+1379,Rezonans magnetyczny,Stosowane w diagnostyce przewlekłych chorób.
+1380,Badanie poziomu witaminy D,Standardowe badanie diagnostyczne.
+1381,Badanie tarczycy,Wyniki dostępne w ciągu 24 godzin.
+1382,Badanie przeciwciał,Wskazanie do wykonania w ramach profilaktyki.
+1383,Rezonans magnetyczny,Stosowane w diagnostyce przewlekłych chorób.
+1384,Lipidogram,Ocena stanu układu krążenia.
+1385,Test obciążenia glukozą,Wyniki dostępne w ciągu 24 godzin.
+1386,USG jamy brzusznej,Wskazanie do wykonania w ramach profilaktyki.
+1387,Test obciążenia glukozą,Stosowane w diagnostyce przewlekłych chorób.
+1388,Badanie poziomu cukru,Wskazanie do wykonania w ramach profilaktyki.
+1389,Morfologia krwi,Badanie obrazowe wysokiej rozdzielczości.
+1390,Morfologia krwi,Badanie obrazowe wysokiej rozdzielczości.
+1391,Badanie poziomu witaminy D,Wskazanie do wykonania w ramach profilaktyki.
+1392,Gastroskopia,Wskazanie do wykonania w ramach profilaktyki.
+1393,Test alergiczny,Badanie obrazowe wysokiej rozdzielczości.
+1394,Cytologia,Stosowane w diagnostyce przewlekłych chorób.
+1395,Test obciążenia glukozą,Wyniki dostępne w ciągu 24 godzin.
+1396,Badanie poziomu cukru,Wyniki dostępne w ciągu 24 godzin.
+1397,USG jamy brzusznej,Badanie obrazowe wysokiej rozdzielczości.
+1398,Badanie moczu,Stosowane w diagnostyce przewlekłych chorób.
+1399,Spirometria,Wyniki dostępne w ciągu 24 godzin.
+1400,EKG,Ocena stanu układu krążenia.
+1401,Badanie tarczycy,Wymaga przygotowania na czczo.
+1402,Gastroskopia,Wskazanie do wykonania w ramach profilaktyki.
+1403,Spirometria,Pomiar funkcji narządów wewnętrznych.
+1404,Badanie moczu,Ocena stanu układu krążenia.
+1405,Audiometria,Stosowane w diagnostyce przewlekłych chorób.
+1406,Holter EKG,Badanie obrazowe wysokiej rozdzielczości.
+1407,EKG,Ocena stanu układu krążenia.
+1408,Gastroskopia,Stosowane w diagnostyce przewlekłych chorób.
+1409,Holter EKG,Standardowe badanie diagnostyczne.
+1410,Test alergiczny,Wyniki dostępne w ciągu 24 godzin.
+1411,Kolonoskopia,Standardowe badanie diagnostyczne.
+1412,Badanie poziomu witaminy D,Nieinwazyjne i bezbolesne.
+1413,Badanie hormonalne,Badanie obrazowe wysokiej rozdzielczości.
+1414,Badanie poziomu cukru,Standardowe badanie diagnostyczne.
+1415,Kolonoskopia,Nieinwazyjne i bezbolesne.
+1416,EKG,Standardowe badanie diagnostyczne.
+1417,Tomografia komputerowa,Ocena stanu układu krążenia.
+1418,Rezonans magnetyczny,Wskazanie do wykonania w ramach profilaktyki.
+1419,RTG klatki piersiowej,Ocena stanu układu krążenia.
+1420,Badanie poziomu cukru,Wyniki dostępne w ciągu 24 godzin.
+1421,Holter EKG,Stosowane w diagnostyce przewlekłych chorób.
+1422,RTG klatki piersiowej,Standardowe badanie diagnostyczne.
+1423,Holter EKG,Nieinwazyjne i bezbolesne.
+1424,Test alergiczny,Badanie obrazowe wysokiej rozdzielczości.
+1425,Test alergiczny,Pomiar funkcji narządów wewnętrznych.
+1426,Spirometria,Zalecane przy podejrzeniu infekcji.
+1427,Test PCR,Wymaga przygotowania na czczo.
+1428,Morfologia krwi,Badanie obrazowe wysokiej rozdzielczości.
+1429,Holter EKG,Stosowane w diagnostyce przewlekłych chorób.
+1430,Holter EKG,Wymaga przygotowania na czczo.
+1431,Badanie hormonalne,Standardowe badanie diagnostyczne.
+1432,Kolonoskopia,Wskazanie do wykonania w ramach profilaktyki.
+1433,Gastroskopia,Badanie obrazowe wysokiej rozdzielczości.
+1434,Holter EKG,Wymaga przygotowania na czczo.
+1435,Badanie poziomu witaminy D,Stosowane w diagnostyce przewlekłych chorób.
+1436,Audiometria,Wskazanie do wykonania w ramach profilaktyki.
+1437,Test alergiczny,Zalecane przy podejrzeniu infekcji.
+1438,Holter EKG,Pomiar funkcji narządów wewnętrznych.
+1439,Lipidogram,Wymaga przygotowania na czczo.
+1440,Morfologia krwi,Nieinwazyjne i bezbolesne.
+1441,Badanie tarczycy,Pomiar funkcji narządów wewnętrznych.
+1442,Morfologia krwi,Standardowe badanie diagnostyczne.
+1443,Morfologia krwi,Wymaga przygotowania na czczo.
+1444,RTG klatki piersiowej,Pomiar funkcji narządów wewnętrznych.
+1445,Audiometria,Ocena stanu układu krążenia.
+1446,Test PCR,Ocena stanu układu krążenia.
+1447,EKG,Stosowane w diagnostyce przewlekłych chorób.
+1448,Test PCR,Stosowane w diagnostyce przewlekłych chorób.
+1449,Cytologia,Wymaga przygotowania na czczo.
+1450,Morfologia krwi,Pomiar funkcji narządów wewnętrznych.
+1451,Badanie poziomu cukru,Wyniki dostępne w ciągu 24 godzin.
+1452,EKG,Badanie obrazowe wysokiej rozdzielczości.
+1453,Test alergiczny,Stosowane w diagnostyce przewlekłych chorób.
+1454,Badanie moczu,Wskazanie do wykonania w ramach profilaktyki.
+1455,Holter EKG,Wyniki dostępne w ciągu 24 godzin.
+1456,Lipidogram,Wskazanie do wykonania w ramach profilaktyki.
+1457,Test obciążenia glukozą,Standardowe badanie diagnostyczne.
+1458,Spirometria,Wskazanie do wykonania w ramach profilaktyki.
+1459,Audiometria,Standardowe badanie diagnostyczne.
+1460,Badanie przeciwciał,Zalecane przy podejrzeniu infekcji.
+1461,Spirometria,Wskazanie do wykonania w ramach profilaktyki.
+1462,Tomografia komputerowa,Ocena stanu układu krążenia.
+1463,Badanie przeciwciał,Standardowe badanie diagnostyczne.
+1464,Morfologia krwi,Zalecane przy podejrzeniu infekcji.
+1465,Badanie przeciwciał,Wymaga przygotowania na czczo.
+1466,Lipidogram,Pomiar funkcji narządów wewnętrznych.
+1467,Badanie okulistyczne,Zalecane przy podejrzeniu infekcji.
+1468,RTG klatki piersiowej,Wymaga przygotowania na czczo.
+1469,Test alergiczny,Wyniki dostępne w ciągu 24 godzin.
+1470,Gastroskopia,Wyniki dostępne w ciągu 24 godzin.
+1471,Rezonans magnetyczny,Stosowane w diagnostyce przewlekłych chorób.
+1472,Badanie poziomu witaminy D,Standardowe badanie diagnostyczne.
+1473,Badanie poziomu cukru,Wskazanie do wykonania w ramach profilaktyki.
+1474,Test alergiczny,Pomiar funkcji narządów wewnętrznych.
+1475,Lipidogram,Badanie obrazowe wysokiej rozdzielczości.
+1476,Badanie poziomu cukru,Pomiar funkcji narządów wewnętrznych.
+1477,Tomografia komputerowa,Wyniki dostępne w ciągu 24 godzin.
+1478,RTG klatki piersiowej,Ocena stanu układu krążenia.
+1479,Rezonans magnetyczny,Nieinwazyjne i bezbolesne.
+1480,EKG,Pomiar funkcji narządów wewnętrznych.
+1481,Cytologia,Stosowane w diagnostyce przewlekłych chorób.
+1482,Badanie poziomu witaminy D,Ocena stanu układu krążenia.
+1483,Echo serca,Nieinwazyjne i bezbolesne.
+1484,Kolonoskopia,Ocena stanu układu krążenia.
+1485,Test PCR,Nieinwazyjne i bezbolesne.
+1486,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+1487,EKG,Stosowane w diagnostyce przewlekłych chorób.
+1488,Morfologia krwi,Pomiar funkcji narządów wewnętrznych.
+1489,Badanie kału,Wymaga przygotowania na czczo.
+1490,Badanie przeciwciał,Wyniki dostępne w ciągu 24 godzin.
+1491,Badanie tarczycy,Standardowe badanie diagnostyczne.
+1492,Test alergiczny,Wskazanie do wykonania w ramach profilaktyki.
+1493,Gastroskopia,Wskazanie do wykonania w ramach profilaktyki.
+1494,Badanie poziomu cukru,Wyniki dostępne w ciągu 24 godzin.
+1495,Holter EKG,Wyniki dostępne w ciągu 24 godzin.
+1496,Badanie hormonalne,Pomiar funkcji narządów wewnętrznych.
+1497,Cytologia,Stosowane w diagnostyce przewlekłych chorób.
+1498,Badanie kału,Stosowane w diagnostyce przewlekłych chorób.
+1499,Lipidogram,Pomiar funkcji narządów wewnętrznych.
+1500,Tomografia komputerowa,Zalecane przy podejrzeniu infekcji.
+1501,Badanie kału,Badanie obrazowe wysokiej rozdzielczości.
+1502,Badanie kału,Pomiar funkcji narządów wewnętrznych.
+1503,Morfologia krwi,Wskazanie do wykonania w ramach profilaktyki.
+1504,USG jamy brzusznej,Nieinwazyjne i bezbolesne.
+1505,Gastroskopia,Pomiar funkcji narządów wewnętrznych.
+1506,Audiometria,Pomiar funkcji narządów wewnętrznych.
+1507,Badanie moczu,Zalecane przy podejrzeniu infekcji.
+1508,Tomografia komputerowa,Stosowane w diagnostyce przewlekłych chorób.
+1509,RTG klatki piersiowej,Standardowe badanie diagnostyczne.
+1510,Audiometria,Wymaga przygotowania na czczo.
+1511,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+1512,Badanie hormonalne,Nieinwazyjne i bezbolesne.
+1513,USG jamy brzusznej,Zalecane przy podejrzeniu infekcji.
+1514,Badanie okulistyczne,Wskazanie do wykonania w ramach profilaktyki.
+1515,Badanie kału,Nieinwazyjne i bezbolesne.
+1516,Badanie przeciwciał,Wskazanie do wykonania w ramach profilaktyki.
+1517,Echo serca,Nieinwazyjne i bezbolesne.
+1518,Lipidogram,Wyniki dostępne w ciągu 24 godzin.
+1519,Holter EKG,Badanie obrazowe wysokiej rozdzielczości.
+1520,Audiometria,Wymaga przygotowania na czczo.
+1521,Badanie poziomu witaminy D,Pomiar funkcji narządów wewnętrznych.
+1522,Holter EKG,Pomiar funkcji narządów wewnętrznych.
+1523,Badanie okulistyczne,Pomiar funkcji narządów wewnętrznych.
+1524,Holter EKG,Pomiar funkcji narządów wewnętrznych.
+1525,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+1526,Test obciążenia glukozą,Wyniki dostępne w ciągu 24 godzin.
+1527,Tomografia komputerowa,Pomiar funkcji narządów wewnętrznych.
+1528,Rezonans magnetyczny,Pomiar funkcji narządów wewnętrznych.
+1529,EKG,Ocena stanu układu krążenia.
+1530,EKG,Badanie obrazowe wysokiej rozdzielczości.
+1531,Kolonoskopia,Wskazanie do wykonania w ramach profilaktyki.
+1532,Cytologia,Stosowane w diagnostyce przewlekłych chorób.
+1533,USG jamy brzusznej,Wskazanie do wykonania w ramach profilaktyki.
+1534,USG jamy brzusznej,Standardowe badanie diagnostyczne.
+1535,Kolonoskopia,Standardowe badanie diagnostyczne.
+1536,Spirometria,Standardowe badanie diagnostyczne.
+1537,Cytologia,Wyniki dostępne w ciągu 24 godzin.
+1538,Badanie poziomu witaminy D,Zalecane przy podejrzeniu infekcji.
+1539,Test alergiczny,Wskazanie do wykonania w ramach profilaktyki.
+1540,Badanie tarczycy,Wyniki dostępne w ciągu 24 godzin.
+1541,Test alergiczny,Wskazanie do wykonania w ramach profilaktyki.
+1542,Badanie kału,Pomiar funkcji narządów wewnętrznych.
+1543,Badanie przeciwciał,Wymaga przygotowania na czczo.
+1544,Cytologia,Nieinwazyjne i bezbolesne.
+1545,Gastroskopia,Wskazanie do wykonania w ramach profilaktyki.
+1546,Spirometria,Wyniki dostępne w ciągu 24 godzin.
+1547,EKG,Wskazanie do wykonania w ramach profilaktyki.
+1548,EKG,Pomiar funkcji narządów wewnętrznych.
+1549,Test obciążenia glukozą,Wyniki dostępne w ciągu 24 godzin.
+1550,Badanie okulistyczne,Stosowane w diagnostyce przewlekłych chorób.
+1551,Badanie tarczycy,Wymaga przygotowania na czczo.
+1552,Test alergiczny,Wyniki dostępne w ciągu 24 godzin.
+1553,Badanie poziomu witaminy D,Wymaga przygotowania na czczo.
+1554,RTG klatki piersiowej,Pomiar funkcji narządów wewnętrznych.
+1555,Badanie kału,Wskazanie do wykonania w ramach profilaktyki.
+1556,Spirometria,Badanie obrazowe wysokiej rozdzielczości.
+1557,Morfologia krwi,Wymaga przygotowania na czczo.
+1558,Badanie moczu,Zalecane przy podejrzeniu infekcji.
+1559,Spirometria,Wymaga przygotowania na czczo.
+1560,Lipidogram,Zalecane przy podejrzeniu infekcji.
+1561,USG jamy brzusznej,Wymaga przygotowania na czczo.
+1562,Badanie kału,Badanie obrazowe wysokiej rozdzielczości.
+1563,Badanie poziomu witaminy D,Nieinwazyjne i bezbolesne.
+1564,Lipidogram,Standardowe badanie diagnostyczne.
+1565,Spirometria,Wskazanie do wykonania w ramach profilaktyki.
+1566,Spirometria,Badanie obrazowe wysokiej rozdzielczości.
+1567,Tomografia komputerowa,Badanie obrazowe wysokiej rozdzielczości.
+1568,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+1569,Tomografia komputerowa,Wskazanie do wykonania w ramach profilaktyki.
+1570,Holter EKG,Wskazanie do wykonania w ramach profilaktyki.
+1571,Badanie moczu,Standardowe badanie diagnostyczne.
+1572,Gastroskopia,Badanie obrazowe wysokiej rozdzielczości.
+1573,Lipidogram,Nieinwazyjne i bezbolesne.
+1574,Kolonoskopia,Zalecane przy podejrzeniu infekcji.
+1575,Kolonoskopia,Nieinwazyjne i bezbolesne.
+1576,EKG,Wskazanie do wykonania w ramach profilaktyki.
+1577,Badanie okulistyczne,Wyniki dostępne w ciągu 24 godzin.
+1578,Lipidogram,Pomiar funkcji narządów wewnętrznych.
+1579,Badanie hormonalne,Wymaga przygotowania na czczo.
+1580,Kolonoskopia,Wymaga przygotowania na czczo.
+1581,Echo serca,Badanie obrazowe wysokiej rozdzielczości.
+1582,RTG klatki piersiowej,Zalecane przy podejrzeniu infekcji.
+1583,Spirometria,Stosowane w diagnostyce przewlekłych chorób.
+1584,EKG,Pomiar funkcji narządów wewnętrznych.
+1585,Lipidogram,Wskazanie do wykonania w ramach profilaktyki.
+1586,Badanie moczu,Wyniki dostępne w ciągu 24 godzin.
+1587,Test alergiczny,Ocena stanu układu krążenia.
+1588,Echo serca,Zalecane przy podejrzeniu infekcji.
+1589,Audiometria,Wskazanie do wykonania w ramach profilaktyki.
+1590,Badanie tarczycy,Ocena stanu układu krążenia.
+1591,Tomografia komputerowa,Stosowane w diagnostyce przewlekłych chorób.
+1592,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+1593,USG jamy brzusznej,Wyniki dostępne w ciągu 24 godzin.
+1594,Badanie kału,Wymaga przygotowania na czczo.
+1595,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+1596,Test obciążenia glukozą,Stosowane w diagnostyce przewlekłych chorób.
+1597,Test obciążenia glukozą,Wyniki dostępne w ciągu 24 godzin.
+1598,Badanie poziomu cukru,Ocena stanu układu krążenia.
+1599,Test alergiczny,Pomiar funkcji narządów wewnętrznych.
+1600,RTG klatki piersiowej,Stosowane w diagnostyce przewlekłych chorób.
+1601,Test obciążenia glukozą,Stosowane w diagnostyce przewlekłych chorób.
+1602,Test obciążenia glukozą,Standardowe badanie diagnostyczne.
+1603,Badanie okulistyczne,Standardowe badanie diagnostyczne.
+1604,EKG,Standardowe badanie diagnostyczne.
+1605,Holter EKG,Stosowane w diagnostyce przewlekłych chorób.
+1606,Holter EKG,Pomiar funkcji narządów wewnętrznych.
+1607,Echo serca,Wymaga przygotowania na czczo.
+1608,Test obciążenia glukozą,Standardowe badanie diagnostyczne.
+1609,Holter EKG,Wymaga przygotowania na czczo.
+1610,Badanie hormonalne,Pomiar funkcji narządów wewnętrznych.
+1611,Tomografia komputerowa,Zalecane przy podejrzeniu infekcji.
+1612,Badanie okulistyczne,Zalecane przy podejrzeniu infekcji.
+1613,Holter EKG,Stosowane w diagnostyce przewlekłych chorób.
+1614,Lipidogram,Badanie obrazowe wysokiej rozdzielczości.
+1615,Gastroskopia,Wyniki dostępne w ciągu 24 godzin.
+1616,Tomografia komputerowa,Wyniki dostępne w ciągu 24 godzin.
+1617,Badanie poziomu cukru,Wyniki dostępne w ciągu 24 godzin.
+1618,Audiometria,Badanie obrazowe wysokiej rozdzielczości.
+1619,Test PCR,Badanie obrazowe wysokiej rozdzielczości.
+1620,Gastroskopia,Stosowane w diagnostyce przewlekłych chorób.
+1621,Test PCR,Stosowane w diagnostyce przewlekłych chorób.
+1622,Audiometria,Wskazanie do wykonania w ramach profilaktyki.
+1623,Test obciążenia glukozą,Pomiar funkcji narządów wewnętrznych.
+1624,Badanie tarczycy,Nieinwazyjne i bezbolesne.
+1625,Holter EKG,Pomiar funkcji narządów wewnętrznych.
+1626,Test PCR,Wskazanie do wykonania w ramach profilaktyki.
+1627,Kolonoskopia,Stosowane w diagnostyce przewlekłych chorób.
+1628,Cytologia,Badanie obrazowe wysokiej rozdzielczości.
+1629,Rezonans magnetyczny,Badanie obrazowe wysokiej rozdzielczości.
+1630,Audiometria,Zalecane przy podejrzeniu infekcji.
+1631,Test obciążenia glukozą,Standardowe badanie diagnostyczne.
+1632,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+1633,USG jamy brzusznej,Wskazanie do wykonania w ramach profilaktyki.
+1634,Audiometria,Stosowane w diagnostyce przewlekłych chorób.
+1635,Badanie tarczycy,Badanie obrazowe wysokiej rozdzielczości.
+1636,Badanie poziomu witaminy D,Zalecane przy podejrzeniu infekcji.
+1637,Rezonans magnetyczny,Wyniki dostępne w ciągu 24 godzin.
+1638,Spirometria,Badanie obrazowe wysokiej rozdzielczości.
+1639,Badanie moczu,Stosowane w diagnostyce przewlekłych chorób.
+1640,Badanie tarczycy,Zalecane przy podejrzeniu infekcji.
+1641,Badanie tarczycy,Standardowe badanie diagnostyczne.
+1642,Kolonoskopia,Stosowane w diagnostyce przewlekłych chorób.
+1643,Spirometria,Wyniki dostępne w ciągu 24 godzin.
+1644,Test alergiczny,Pomiar funkcji narządów wewnętrznych.
+1645,EKG,Wyniki dostępne w ciągu 24 godzin.
+1646,Badanie moczu,Ocena stanu układu krążenia.
+1647,Echo serca,Nieinwazyjne i bezbolesne.
+1648,Spirometria,Ocena stanu układu krążenia.
+1649,Spirometria,Zalecane przy podejrzeniu infekcji.
+1650,USG jamy brzusznej,Nieinwazyjne i bezbolesne.
+1651,Audiometria,Wymaga przygotowania na czczo.
+1652,Badanie przeciwciał,Standardowe badanie diagnostyczne.
+1653,Badanie moczu,Badanie obrazowe wysokiej rozdzielczości.
+1654,Spirometria,Pomiar funkcji narządów wewnętrznych.
+1655,Test PCR,Ocena stanu układu krążenia.
+1656,Holter EKG,Zalecane przy podejrzeniu infekcji.
+1657,Test PCR,Zalecane przy podejrzeniu infekcji.
+1658,Test obciążenia glukozą,Wymaga przygotowania na czczo.
+1659,Badanie poziomu witaminy D,Wskazanie do wykonania w ramach profilaktyki.
+1660,Holter EKG,Zalecane przy podejrzeniu infekcji.
+1661,Test alergiczny,Pomiar funkcji narządów wewnętrznych.
+1662,Test obciążenia glukozą,Standardowe badanie diagnostyczne.
+1663,Morfologia krwi,Stosowane w diagnostyce przewlekłych chorób.
+1664,Badanie hormonalne,Stosowane w diagnostyce przewlekłych chorób.
+1665,Badanie przeciwciał,Nieinwazyjne i bezbolesne.
+1666,EKG,Wskazanie do wykonania w ramach profilaktyki.
+1667,Badanie tarczycy,Stosowane w diagnostyce przewlekłych chorób.
+1668,RTG klatki piersiowej,Pomiar funkcji narządów wewnętrznych.
+1669,Kolonoskopia,Nieinwazyjne i bezbolesne.
+1670,Holter EKG,Ocena stanu układu krążenia.
+1671,Lipidogram,Stosowane w diagnostyce przewlekłych chorób.
+1672,Badanie moczu,Wymaga przygotowania na czczo.
+1673,Cytologia,Zalecane przy podejrzeniu infekcji.
+1674,Badanie przeciwciał,Pomiar funkcji narządów wewnętrznych.
+1675,Audiometria,Badanie obrazowe wysokiej rozdzielczości.
+1676,Holter EKG,Standardowe badanie diagnostyczne.
+1677,Test PCR,Wskazanie do wykonania w ramach profilaktyki.
+1678,Audiometria,Standardowe badanie diagnostyczne.
+1679,Test PCR,Pomiar funkcji narządów wewnętrznych.
+1680,Badanie moczu,Nieinwazyjne i bezbolesne.
+1681,Badanie hormonalne,Ocena stanu układu krążenia.
+1682,Morfologia krwi,Zalecane przy podejrzeniu infekcji.
+1683,EKG,Stosowane w diagnostyce przewlekłych chorób.
+1684,Badanie kału,Stosowane w diagnostyce przewlekłych chorób.
+1685,USG jamy brzusznej,Standardowe badanie diagnostyczne.
+1686,Badanie kału,Badanie obrazowe wysokiej rozdzielczości.
+1687,Rezonans magnetyczny,Stosowane w diagnostyce przewlekłych chorób.
+1688,Echo serca,Wyniki dostępne w ciągu 24 godzin.
+1689,Rezonans magnetyczny,Pomiar funkcji narządów wewnętrznych.
+1690,Cytologia,Zalecane przy podejrzeniu infekcji.
+1691,Badanie kału,Ocena stanu układu krążenia.
+1692,RTG klatki piersiowej,Stosowane w diagnostyce przewlekłych chorób.
+1693,RTG klatki piersiowej,Badanie obrazowe wysokiej rozdzielczości.
+1694,Kolonoskopia,Badanie obrazowe wysokiej rozdzielczości.
+1695,EKG,Badanie obrazowe wysokiej rozdzielczości.
+1696,Badanie okulistyczne,Zalecane przy podejrzeniu infekcji.
+1697,RTG klatki piersiowej,Wyniki dostępne w ciągu 24 godzin.
+1698,Kolonoskopia,Standardowe badanie diagnostyczne.
+1699,Rezonans magnetyczny,Wyniki dostępne w ciągu 24 godzin.
+1700,Badanie moczu,Wskazanie do wykonania w ramach profilaktyki.
+1701,Badanie moczu,Ocena stanu układu krążenia.
+1702,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+1703,Badanie okulistyczne,Badanie obrazowe wysokiej rozdzielczości.
+1704,Echo serca,Wymaga przygotowania na czczo.
+1705,Badanie poziomu cukru,Ocena stanu układu krążenia.
+1706,Rezonans magnetyczny,Wskazanie do wykonania w ramach profilaktyki.
+1707,USG jamy brzusznej,Wymaga przygotowania na czczo.
+1708,Badanie okulistyczne,Pomiar funkcji narządów wewnętrznych.
+1709,Spirometria,Stosowane w diagnostyce przewlekłych chorób.
+1710,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+1711,Badanie kału,Wymaga przygotowania na czczo.
+1712,Cytologia,Wymaga przygotowania na czczo.
+1713,Badanie poziomu witaminy D,Standardowe badanie diagnostyczne.
+1714,Badanie okulistyczne,Standardowe badanie diagnostyczne.
+1715,Badanie przeciwciał,Pomiar funkcji narządów wewnętrznych.
+1716,Holter EKG,Pomiar funkcji narządów wewnętrznych.
+1717,Test PCR,Ocena stanu układu krążenia.
+1718,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+1719,Badanie przeciwciał,Wyniki dostępne w ciągu 24 godzin.
+1720,Badanie tarczycy,Wymaga przygotowania na czczo.
+1721,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+1722,Badanie poziomu cukru,Ocena stanu układu krążenia.
+1723,Badanie kału,Stosowane w diagnostyce przewlekłych chorób.
+1724,Echo serca,Stosowane w diagnostyce przewlekłych chorób.
+1725,Tomografia komputerowa,Pomiar funkcji narządów wewnętrznych.
+1726,Cytologia,Zalecane przy podejrzeniu infekcji.
+1727,EKG,Ocena stanu układu krążenia.
+1728,Gastroskopia,Wymaga przygotowania na czczo.
+1729,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+1730,RTG klatki piersiowej,Nieinwazyjne i bezbolesne.
+1731,Spirometria,Wymaga przygotowania na czczo.
+1732,Echo serca,Wskazanie do wykonania w ramach profilaktyki.
+1733,Tomografia komputerowa,Wskazanie do wykonania w ramach profilaktyki.
+1734,Morfologia krwi,Nieinwazyjne i bezbolesne.
+1735,Holter EKG,Stosowane w diagnostyce przewlekłych chorób.
+1736,Lipidogram,Ocena stanu układu krążenia.
+1737,Lipidogram,Standardowe badanie diagnostyczne.
+1738,Kolonoskopia,Wymaga przygotowania na czczo.
+1739,Gastroskopia,Nieinwazyjne i bezbolesne.
+1740,Spirometria,Zalecane przy podejrzeniu infekcji.
+1741,Badanie poziomu cukru,Wyniki dostępne w ciągu 24 godzin.
+1742,Test alergiczny,Zalecane przy podejrzeniu infekcji.
+1743,Badanie okulistyczne,Ocena stanu układu krążenia.
+1744,USG jamy brzusznej,Standardowe badanie diagnostyczne.
+1745,EKG,Stosowane w diagnostyce przewlekłych chorób.
+1746,Badanie okulistyczne,Wskazanie do wykonania w ramach profilaktyki.
+1747,Kolonoskopia,Wymaga przygotowania na czczo.
+1748,Kolonoskopia,Badanie obrazowe wysokiej rozdzielczości.
+1749,Badanie przeciwciał,Wyniki dostępne w ciągu 24 godzin.
+1750,Lipidogram,Wyniki dostępne w ciągu 24 godzin.
+1751,RTG klatki piersiowej,Pomiar funkcji narządów wewnętrznych.
+1752,EKG,Standardowe badanie diagnostyczne.
+1753,Badanie moczu,Badanie obrazowe wysokiej rozdzielczości.
+1754,Holter EKG,Standardowe badanie diagnostyczne.
+1755,Rezonans magnetyczny,Wskazanie do wykonania w ramach profilaktyki.
+1756,Badanie moczu,Standardowe badanie diagnostyczne.
+1757,Test alergiczny,Nieinwazyjne i bezbolesne.
+1758,Echo serca,Ocena stanu układu krążenia.
+1759,Badanie moczu,Ocena stanu układu krążenia.
+1760,Rezonans magnetyczny,Badanie obrazowe wysokiej rozdzielczości.
+1761,EKG,Wyniki dostępne w ciągu 24 godzin.
+1762,Badanie przeciwciał,Wyniki dostępne w ciągu 24 godzin.
+1763,Badanie hormonalne,Wyniki dostępne w ciągu 24 godzin.
+1764,Badanie tarczycy,Zalecane przy podejrzeniu infekcji.
+1765,Spirometria,Stosowane w diagnostyce przewlekłych chorób.
+1766,Badanie kału,Stosowane w diagnostyce przewlekłych chorób.
+1767,Kolonoskopia,Wymaga przygotowania na czczo.
+1768,Morfologia krwi,Stosowane w diagnostyce przewlekłych chorób.
+1769,Lipidogram,Stosowane w diagnostyce przewlekłych chorób.
+1770,RTG klatki piersiowej,Ocena stanu układu krążenia.
+1771,Echo serca,Ocena stanu układu krążenia.
+1772,Test alergiczny,Stosowane w diagnostyce przewlekłych chorób.
+1773,Badanie przeciwciał,Standardowe badanie diagnostyczne.
+1774,Test obciążenia glukozą,Nieinwazyjne i bezbolesne.
+1775,Tomografia komputerowa,Badanie obrazowe wysokiej rozdzielczości.
+1776,Holter EKG,Wyniki dostępne w ciągu 24 godzin.
+1777,Badanie poziomu witaminy D,Badanie obrazowe wysokiej rozdzielczości.
+1778,Badanie tarczycy,Wyniki dostępne w ciągu 24 godzin.
+1779,Kolonoskopia,Pomiar funkcji narządów wewnętrznych.
+1780,EKG,Wymaga przygotowania na czczo.
+1781,Test PCR,Pomiar funkcji narządów wewnętrznych.
+1782,Holter EKG,Wskazanie do wykonania w ramach profilaktyki.
+1783,Rezonans magnetyczny,Wskazanie do wykonania w ramach profilaktyki.
+1784,EKG,Wskazanie do wykonania w ramach profilaktyki.
+1785,Test alergiczny,Wymaga przygotowania na czczo.
+1786,Morfologia krwi,Ocena stanu układu krążenia.
+1787,Holter EKG,Badanie obrazowe wysokiej rozdzielczości.
+1788,EKG,Zalecane przy podejrzeniu infekcji.
+1789,Test PCR,Ocena stanu układu krążenia.
+1790,Test alergiczny,Standardowe badanie diagnostyczne.
+1791,Badanie moczu,Wyniki dostępne w ciągu 24 godzin.
+1792,Badanie moczu,Stosowane w diagnostyce przewlekłych chorób.
+1793,Spirometria,Badanie obrazowe wysokiej rozdzielczości.
+1794,USG jamy brzusznej,Badanie obrazowe wysokiej rozdzielczości.
+1795,Echo serca,Wymaga przygotowania na czczo.
+1796,Holter EKG,Wskazanie do wykonania w ramach profilaktyki.
+1797,Badanie tarczycy,Pomiar funkcji narządów wewnętrznych.
+1798,Spirometria,Wymaga przygotowania na czczo.
+1799,Audiometria,Wymaga przygotowania na czczo.
+1800,Badanie moczu,Ocena stanu układu krążenia.
+1801,Gastroskopia,Wskazanie do wykonania w ramach profilaktyki.
+1802,Badanie tarczycy,Standardowe badanie diagnostyczne.
+1803,Test alergiczny,Zalecane przy podejrzeniu infekcji.
+1804,Badanie kału,Standardowe badanie diagnostyczne.
+1805,Badanie poziomu witaminy D,Standardowe badanie diagnostyczne.
+1806,Badanie poziomu witaminy D,Zalecane przy podejrzeniu infekcji.
+1807,Cytologia,Wymaga przygotowania na czczo.
+1808,Spirometria,Ocena stanu układu krążenia.
+1809,Morfologia krwi,Nieinwazyjne i bezbolesne.
+1810,Holter EKG,Nieinwazyjne i bezbolesne.
+1811,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+1812,Cytologia,Wyniki dostępne w ciągu 24 godzin.
+1813,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+1814,Test alergiczny,Zalecane przy podejrzeniu infekcji.
+1815,Badanie przeciwciał,Nieinwazyjne i bezbolesne.
+1816,Badanie kału,Zalecane przy podejrzeniu infekcji.
+1817,Badanie poziomu witaminy D,Standardowe badanie diagnostyczne.
+1818,Audiometria,Pomiar funkcji narządów wewnętrznych.
+1819,Badanie tarczycy,Wskazanie do wykonania w ramach profilaktyki.
+1820,Rezonans magnetyczny,Standardowe badanie diagnostyczne.
+1821,Test alergiczny,Wyniki dostępne w ciągu 24 godzin.
+1822,USG jamy brzusznej,Standardowe badanie diagnostyczne.
+1823,RTG klatki piersiowej,Wskazanie do wykonania w ramach profilaktyki.
+1824,Badanie okulistyczne,Stosowane w diagnostyce przewlekłych chorób.
+1825,Badanie okulistyczne,Wyniki dostępne w ciągu 24 godzin.
+1826,EKG,Stosowane w diagnostyce przewlekłych chorób.
+1827,Badanie moczu,Nieinwazyjne i bezbolesne.
+1828,Test alergiczny,Pomiar funkcji narządów wewnętrznych.
+1829,Test PCR,Wymaga przygotowania na czczo.
+1830,Holter EKG,Zalecane przy podejrzeniu infekcji.
+1831,RTG klatki piersiowej,Stosowane w diagnostyce przewlekłych chorób.
+1832,Echo serca,Stosowane w diagnostyce przewlekłych chorób.
+1833,Gastroskopia,Zalecane przy podejrzeniu infekcji.
+1834,Badanie przeciwciał,Nieinwazyjne i bezbolesne.
+1835,Rezonans magnetyczny,Wyniki dostępne w ciągu 24 godzin.
+1836,Holter EKG,Wskazanie do wykonania w ramach profilaktyki.
+1837,Morfologia krwi,Stosowane w diagnostyce przewlekłych chorób.
+1838,Audiometria,Badanie obrazowe wysokiej rozdzielczości.
+1839,Echo serca,Nieinwazyjne i bezbolesne.
+1840,Audiometria,Ocena stanu układu krążenia.
+1841,Test alergiczny,Stosowane w diagnostyce przewlekłych chorób.
+1842,Lipidogram,Wymaga przygotowania na czczo.
+1843,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+1844,Cytologia,Zalecane przy podejrzeniu infekcji.
+1845,Echo serca,Wyniki dostępne w ciągu 24 godzin.
+1846,Rezonans magnetyczny,Nieinwazyjne i bezbolesne.
+1847,Gastroskopia,Standardowe badanie diagnostyczne.
+1848,Test alergiczny,Wymaga przygotowania na czczo.
+1849,Tomografia komputerowa,Ocena stanu układu krążenia.
+1850,EKG,Zalecane przy podejrzeniu infekcji.
+1851,Holter EKG,Stosowane w diagnostyce przewlekłych chorób.
+1852,RTG klatki piersiowej,Standardowe badanie diagnostyczne.
+1853,Badanie moczu,Wyniki dostępne w ciągu 24 godzin.
+1854,Badanie poziomu cukru,Badanie obrazowe wysokiej rozdzielczości.
+1855,Lipidogram,Zalecane przy podejrzeniu infekcji.
+1856,Badanie okulistyczne,Ocena stanu układu krążenia.
+1857,Badanie moczu,Standardowe badanie diagnostyczne.
+1858,Echo serca,Standardowe badanie diagnostyczne.
+1859,Rezonans magnetyczny,Badanie obrazowe wysokiej rozdzielczości.
+1860,Badanie poziomu cukru,Wskazanie do wykonania w ramach profilaktyki.
+1861,Badanie okulistyczne,Nieinwazyjne i bezbolesne.
+1862,RTG klatki piersiowej,Nieinwazyjne i bezbolesne.
+1863,Test PCR,Standardowe badanie diagnostyczne.
+1864,RTG klatki piersiowej,Stosowane w diagnostyce przewlekłych chorób.
+1865,Kolonoskopia,Wymaga przygotowania na czczo.
+1866,Badanie poziomu cukru,Ocena stanu układu krążenia.
+1867,Audiometria,Nieinwazyjne i bezbolesne.
+1868,USG jamy brzusznej,Stosowane w diagnostyce przewlekłych chorób.
+1869,Cytologia,Wymaga przygotowania na czczo.
+1870,Lipidogram,Badanie obrazowe wysokiej rozdzielczości.
+1871,Test obciążenia glukozą,Standardowe badanie diagnostyczne.
+1872,Morfologia krwi,Pomiar funkcji narządów wewnętrznych.
+1873,Badanie tarczycy,Wskazanie do wykonania w ramach profilaktyki.
+1874,Badanie poziomu witaminy D,Pomiar funkcji narządów wewnętrznych.
+1875,Morfologia krwi,Standardowe badanie diagnostyczne.
+1876,EKG,Wskazanie do wykonania w ramach profilaktyki.
+1877,Badanie kału,Nieinwazyjne i bezbolesne.
+1878,Kolonoskopia,Stosowane w diagnostyce przewlekłych chorób.
+1879,Morfologia krwi,Standardowe badanie diagnostyczne.
+1880,Badanie tarczycy,Wymaga przygotowania na czczo.
+1881,Badanie poziomu witaminy D,Wskazanie do wykonania w ramach profilaktyki.
+1882,USG jamy brzusznej,Wymaga przygotowania na czczo.
+1883,Test PCR,Standardowe badanie diagnostyczne.
+1884,Badanie przeciwciał,Wskazanie do wykonania w ramach profilaktyki.
+1885,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+1886,USG jamy brzusznej,Zalecane przy podejrzeniu infekcji.
+1887,Badanie moczu,Badanie obrazowe wysokiej rozdzielczości.
+1888,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+1889,RTG klatki piersiowej,Badanie obrazowe wysokiej rozdzielczości.
+1890,Echo serca,Zalecane przy podejrzeniu infekcji.
+1891,Badanie przeciwciał,Ocena stanu układu krążenia.
+1892,Echo serca,Nieinwazyjne i bezbolesne.
+1893,Tomografia komputerowa,Zalecane przy podejrzeniu infekcji.
+1894,Morfologia krwi,Wyniki dostępne w ciągu 24 godzin.
+1895,Kolonoskopia,Wyniki dostępne w ciągu 24 godzin.
+1896,Audiometria,Ocena stanu układu krążenia.
+1897,EKG,Wskazanie do wykonania w ramach profilaktyki.
+1898,EKG,Stosowane w diagnostyce przewlekłych chorób.
+1899,Tomografia komputerowa,Badanie obrazowe wysokiej rozdzielczości.
+1900,USG jamy brzusznej,Wskazanie do wykonania w ramach profilaktyki.
+1901,Morfologia krwi,Wskazanie do wykonania w ramach profilaktyki.
+1902,Test alergiczny,Wyniki dostępne w ciągu 24 godzin.
+1903,Badanie kału,Ocena stanu układu krążenia.
+1904,RTG klatki piersiowej,Nieinwazyjne i bezbolesne.
+1905,Badanie kału,Wyniki dostępne w ciągu 24 godzin.
+1906,Gastroskopia,Nieinwazyjne i bezbolesne.
+1907,Tomografia komputerowa,Pomiar funkcji narządów wewnętrznych.
+1908,Rezonans magnetyczny,Zalecane przy podejrzeniu infekcji.
+1909,Badanie przeciwciał,Ocena stanu układu krążenia.
+1910,Morfologia krwi,Nieinwazyjne i bezbolesne.
+1911,Kolonoskopia,Nieinwazyjne i bezbolesne.
+1912,Badanie moczu,Stosowane w diagnostyce przewlekłych chorób.
+1913,Test alergiczny,Zalecane przy podejrzeniu infekcji.
+1914,Rezonans magnetyczny,Standardowe badanie diagnostyczne.
+1915,Test obciążenia glukozą,Wyniki dostępne w ciągu 24 godzin.
+1916,Gastroskopia,Wskazanie do wykonania w ramach profilaktyki.
+1917,Echo serca,Nieinwazyjne i bezbolesne.
+1918,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+1919,Morfologia krwi,Wymaga przygotowania na czczo.
+1920,Badanie hormonalne,Nieinwazyjne i bezbolesne.
+1921,Lipidogram,Pomiar funkcji narządów wewnętrznych.
+1922,Kolonoskopia,Zalecane przy podejrzeniu infekcji.
+1923,Badanie kału,Nieinwazyjne i bezbolesne.
+1924,Echo serca,Ocena stanu układu krążenia.
+1925,USG jamy brzusznej,Wskazanie do wykonania w ramach profilaktyki.
+1926,Badanie poziomu witaminy D,Wyniki dostępne w ciągu 24 godzin.
+1927,Audiometria,Badanie obrazowe wysokiej rozdzielczości.
+1928,Morfologia krwi,Nieinwazyjne i bezbolesne.
+1929,Test alergiczny,Pomiar funkcji narządów wewnętrznych.
+1930,Badanie okulistyczne,Pomiar funkcji narządów wewnętrznych.
+1931,Test obciążenia glukozą,Badanie obrazowe wysokiej rozdzielczości.
+1932,Cytologia,Zalecane przy podejrzeniu infekcji.
+1933,Badanie poziomu cukru,Standardowe badanie diagnostyczne.
+1934,Rezonans magnetyczny,Zalecane przy podejrzeniu infekcji.
+1935,EKG,Stosowane w diagnostyce przewlekłych chorób.
+1936,Badanie hormonalne,Zalecane przy podejrzeniu infekcji.
+1937,Kolonoskopia,Badanie obrazowe wysokiej rozdzielczości.
+1938,Test obciążenia glukozą,Zalecane przy podejrzeniu infekcji.
+1939,Tomografia komputerowa,Ocena stanu układu krążenia.
+1940,Holter EKG,Ocena stanu układu krążenia.
+1941,Test PCR,Wyniki dostępne w ciągu 24 godzin.
+1942,Audiometria,Stosowane w diagnostyce przewlekłych chorób.
+1943,Holter EKG,Ocena stanu układu krążenia.
+1944,Test alergiczny,Wskazanie do wykonania w ramach profilaktyki.
+1945,Holter EKG,Ocena stanu układu krążenia.
+1946,Spirometria,Ocena stanu układu krążenia.
+1947,Rezonans magnetyczny,Wymaga przygotowania na czczo.
+1948,Badanie tarczycy,Ocena stanu układu krążenia.
+1949,RTG klatki piersiowej,Standardowe badanie diagnostyczne.
+1950,Spirometria,Badanie obrazowe wysokiej rozdzielczości.
+1951,Test alergiczny,Wyniki dostępne w ciągu 24 godzin.
+1952,Badanie tarczycy,Wyniki dostępne w ciągu 24 godzin.
+1953,Morfologia krwi,Badanie obrazowe wysokiej rozdzielczości.
+1954,Audiometria,Wymaga przygotowania na czczo.
+1955,Badanie tarczycy,Badanie obrazowe wysokiej rozdzielczości.
+1956,USG jamy brzusznej,Stosowane w diagnostyce przewlekłych chorób.
+1957,EKG,Stosowane w diagnostyce przewlekłych chorób.
+1958,RTG klatki piersiowej,Wskazanie do wykonania w ramach profilaktyki.
+1959,Gastroskopia,Stosowane w diagnostyce przewlekłych chorób.
+1960,Test obciążenia glukozą,Nieinwazyjne i bezbolesne.
+1961,USG jamy brzusznej,Ocena stanu układu krążenia.
+1962,Gastroskopia,Standardowe badanie diagnostyczne.
+1963,RTG klatki piersiowej,Ocena stanu układu krążenia.
+1964,Test obciążenia glukozą,Badanie obrazowe wysokiej rozdzielczości.
+1965,Test PCR,Wymaga przygotowania na czczo.
+1966,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+1967,Audiometria,Nieinwazyjne i bezbolesne.
+1968,Badanie moczu,Pomiar funkcji narządów wewnętrznych.
+1969,Badanie kału,Wyniki dostępne w ciągu 24 godzin.
+1970,Holter EKG,Wyniki dostępne w ciągu 24 godzin.
+1971,Spirometria,Ocena stanu układu krążenia.
+1972,Test alergiczny,Wskazanie do wykonania w ramach profilaktyki.
+1973,RTG klatki piersiowej,Badanie obrazowe wysokiej rozdzielczości.
+1974,Tomografia komputerowa,Zalecane przy podejrzeniu infekcji.
+1975,Badanie kału,Stosowane w diagnostyce przewlekłych chorób.
+1976,Spirometria,Ocena stanu układu krążenia.
+1977,Kolonoskopia,Wyniki dostępne w ciągu 24 godzin.
+1978,Lipidogram,Nieinwazyjne i bezbolesne.
+1979,Rezonans magnetyczny,Standardowe badanie diagnostyczne.
+1980,Tomografia komputerowa,Zalecane przy podejrzeniu infekcji.
+1981,Tomografia komputerowa,Wymaga przygotowania na czczo.
+1982,Audiometria,Wskazanie do wykonania w ramach profilaktyki.
+1983,Badanie hormonalne,Nieinwazyjne i bezbolesne.
+1984,Morfologia krwi,Pomiar funkcji narządów wewnętrznych.
+1985,Kolonoskopia,Standardowe badanie diagnostyczne.
+1986,Badanie moczu,Wymaga przygotowania na czczo.
+1987,Morfologia krwi,Standardowe badanie diagnostyczne.
+1988,Morfologia krwi,Standardowe badanie diagnostyczne.
+1989,Holter EKG,Badanie obrazowe wysokiej rozdzielczości.
+1990,Badanie poziomu cukru,Wymaga przygotowania na czczo.
+1991,Gastroskopia,Ocena stanu układu krążenia.
+1992,Badanie tarczycy,Wymaga przygotowania na czczo.
+1993,Test obciążenia glukozą,Zalecane przy podejrzeniu infekcji.
+1994,Badanie poziomu witaminy D,Standardowe badanie diagnostyczne.
+1995,Morfologia krwi,Badanie obrazowe wysokiej rozdzielczości.
+1996,Spirometria,Stosowane w diagnostyce przewlekłych chorób.
+1997,Test PCR,Stosowane w diagnostyce przewlekłych chorób.
+1998,USG jamy brzusznej,Zalecane przy podejrzeniu infekcji.
+1999,Test alergiczny,Zalecane przy podejrzeniu infekcji.
+2000,Badanie poziomu cukru,Standardowe badanie diagnostyczne.
+2001,Morfologia krwi,Stosowane w diagnostyce przewlekłych chorób.
+2002,USG jamy brzusznej,Ocena stanu układu krążenia.
+2003,Test obciążenia glukozą,Nieinwazyjne i bezbolesne.
+2004,Badanie kału,Nieinwazyjne i bezbolesne.
+2005,Badanie hormonalne,Wskazanie do wykonania w ramach profilaktyki.
+2006,Badanie moczu,Wskazanie do wykonania w ramach profilaktyki.
+2007,Audiometria,Stosowane w diagnostyce przewlekłych chorób.
+2008,Badanie hormonalne,Badanie obrazowe wysokiej rozdzielczości.
+2009,Test PCR,Stosowane w diagnostyce przewlekłych chorób.
+2010,Audiometria,Wskazanie do wykonania w ramach profilaktyki.
+2011,Audiometria,Stosowane w diagnostyce przewlekłych chorób.
+2012,RTG klatki piersiowej,Ocena stanu układu krążenia.
+2013,Morfologia krwi,Badanie obrazowe wysokiej rozdzielczości.
+2014,Audiometria,Pomiar funkcji narządów wewnętrznych.
+2015,Gastroskopia,Badanie obrazowe wysokiej rozdzielczości.
+2016,USG jamy brzusznej,Badanie obrazowe wysokiej rozdzielczości.
+2017,Lipidogram,Wskazanie do wykonania w ramach profilaktyki.
+2018,Test alergiczny,Ocena stanu układu krążenia.
+2019,Badanie kału,Standardowe badanie diagnostyczne.
+2020,RTG klatki piersiowej,Standardowe badanie diagnostyczne.
+2021,Badanie poziomu witaminy D,Stosowane w diagnostyce przewlekłych chorób.
+2022,Spirometria,Wyniki dostępne w ciągu 24 godzin.
+2023,Badanie hormonalne,Wymaga przygotowania na czczo.
+2024,Badanie kału,Ocena stanu układu krążenia.
+2025,EKG,Zalecane przy podejrzeniu infekcji.
+2026,Audiometria,Wymaga przygotowania na czczo.
+2027,Badanie tarczycy,Zalecane przy podejrzeniu infekcji.
+2028,EKG,Badanie obrazowe wysokiej rozdzielczości.
+2029,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+2030,USG jamy brzusznej,Stosowane w diagnostyce przewlekłych chorób.
+2031,Holter EKG,Pomiar funkcji narządów wewnętrznych.
+2032,Badanie okulistyczne,Wyniki dostępne w ciągu 24 godzin.
+2033,Kolonoskopia,Badanie obrazowe wysokiej rozdzielczości.
+2034,Rezonans magnetyczny,Stosowane w diagnostyce przewlekłych chorób.
+2035,Gastroskopia,Nieinwazyjne i bezbolesne.
+2036,Morfologia krwi,Wymaga przygotowania na czczo.
+2037,Badanie przeciwciał,Wyniki dostępne w ciągu 24 godzin.
+2038,Badanie hormonalne,Standardowe badanie diagnostyczne.
+2039,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+2040,Badanie moczu,Pomiar funkcji narządów wewnętrznych.
+2041,Test PCR,Wymaga przygotowania na czczo.
+2042,Test alergiczny,Ocena stanu układu krążenia.
+2043,Lipidogram,Standardowe badanie diagnostyczne.
+2044,Badanie tarczycy,Pomiar funkcji narządów wewnętrznych.
+2045,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+2046,Badanie poziomu witaminy D,Stosowane w diagnostyce przewlekłych chorób.
+2047,Test alergiczny,Wyniki dostępne w ciągu 24 godzin.
+2048,Test obciążenia glukozą,Wyniki dostępne w ciągu 24 godzin.
+2049,Badanie poziomu cukru,Ocena stanu układu krążenia.
+2050,Badanie tarczycy,Nieinwazyjne i bezbolesne.
+2051,Badanie okulistyczne,Standardowe badanie diagnostyczne.
+2052,EKG,Standardowe badanie diagnostyczne.
+2053,Holter EKG,Nieinwazyjne i bezbolesne.
+2054,Test alergiczny,Standardowe badanie diagnostyczne.
+2055,Rezonans magnetyczny,Badanie obrazowe wysokiej rozdzielczości.
+2056,USG jamy brzusznej,Badanie obrazowe wysokiej rozdzielczości.
+2057,Rezonans magnetyczny,Nieinwazyjne i bezbolesne.
+2058,Badanie przeciwciał,Wymaga przygotowania na czczo.
+2059,Spirometria,Wskazanie do wykonania w ramach profilaktyki.
+2060,Badanie poziomu witaminy D,Wyniki dostępne w ciągu 24 godzin.
+2061,Morfologia krwi,Nieinwazyjne i bezbolesne.
+2062,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+2063,RTG klatki piersiowej,Badanie obrazowe wysokiej rozdzielczości.
+2064,Cytologia,Badanie obrazowe wysokiej rozdzielczości.
+2065,USG jamy brzusznej,Wskazanie do wykonania w ramach profilaktyki.
+2066,Test alergiczny,Pomiar funkcji narządów wewnętrznych.
+2067,Rezonans magnetyczny,Wskazanie do wykonania w ramach profilaktyki.
+2068,Badanie kału,Pomiar funkcji narządów wewnętrznych.
+2069,Badanie przeciwciał,Wymaga przygotowania na czczo.
+2070,Lipidogram,Wyniki dostępne w ciągu 24 godzin.
+2071,Tomografia komputerowa,Wymaga przygotowania na czczo.
+2072,Cytologia,Wskazanie do wykonania w ramach profilaktyki.
+2073,Morfologia krwi,Standardowe badanie diagnostyczne.
+2074,Gastroskopia,Zalecane przy podejrzeniu infekcji.
+2075,Tomografia komputerowa,Stosowane w diagnostyce przewlekłych chorób.
+2076,EKG,Badanie obrazowe wysokiej rozdzielczości.
+2077,Rezonans magnetyczny,Badanie obrazowe wysokiej rozdzielczości.
+2078,Badanie okulistyczne,Pomiar funkcji narządów wewnętrznych.
+2079,EKG,Badanie obrazowe wysokiej rozdzielczości.
+2080,EKG,Ocena stanu układu krążenia.
+2081,USG jamy brzusznej,Nieinwazyjne i bezbolesne.
+2082,Badanie przeciwciał,Pomiar funkcji narządów wewnętrznych.
+2083,Cytologia,Stosowane w diagnostyce przewlekłych chorób.
+2084,Morfologia krwi,Wyniki dostępne w ciągu 24 godzin.
+2085,Badanie hormonalne,Ocena stanu układu krążenia.
+2086,EKG,Standardowe badanie diagnostyczne.
+2087,RTG klatki piersiowej,Wskazanie do wykonania w ramach profilaktyki.
+2088,Badanie poziomu witaminy D,Nieinwazyjne i bezbolesne.
+2089,Badanie kału,Standardowe badanie diagnostyczne.
+2090,Test alergiczny,Ocena stanu układu krążenia.
+2091,Lipidogram,Standardowe badanie diagnostyczne.
+2092,RTG klatki piersiowej,Zalecane przy podejrzeniu infekcji.
+2093,Rezonans magnetyczny,Badanie obrazowe wysokiej rozdzielczości.
+2094,Badanie kału,Badanie obrazowe wysokiej rozdzielczości.
+2095,Rezonans magnetyczny,Wskazanie do wykonania w ramach profilaktyki.
+2096,USG jamy brzusznej,Standardowe badanie diagnostyczne.
+2097,USG jamy brzusznej,Nieinwazyjne i bezbolesne.
+2098,Badanie moczu,Nieinwazyjne i bezbolesne.
+2099,Test obciążenia glukozą,Ocena stanu układu krążenia.
+2100,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+2101,USG jamy brzusznej,Nieinwazyjne i bezbolesne.
+2102,Morfologia krwi,Wyniki dostępne w ciągu 24 godzin.
+2103,Holter EKG,Pomiar funkcji narządów wewnętrznych.
+2104,Morfologia krwi,Wskazanie do wykonania w ramach profilaktyki.
+2105,Audiometria,Ocena stanu układu krążenia.
+2106,Lipidogram,Pomiar funkcji narządów wewnętrznych.
+2107,Badanie kału,Wyniki dostępne w ciągu 24 godzin.
+2108,Gastroskopia,Ocena stanu układu krążenia.
+2109,Audiometria,Standardowe badanie diagnostyczne.
+2110,Gastroskopia,Nieinwazyjne i bezbolesne.
+2111,Rezonans magnetyczny,Wskazanie do wykonania w ramach profilaktyki.
+2112,Lipidogram,Wymaga przygotowania na czczo.
+2113,Badanie przeciwciał,Wyniki dostępne w ciągu 24 godzin.
+2114,Badanie poziomu cukru,Standardowe badanie diagnostyczne.
+2115,EKG,Stosowane w diagnostyce przewlekłych chorób.
+2116,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+2117,Badanie kału,Standardowe badanie diagnostyczne.
+2118,Cytologia,Wskazanie do wykonania w ramach profilaktyki.
+2119,Audiometria,Wymaga przygotowania na czczo.
+2120,Audiometria,Wyniki dostępne w ciągu 24 godzin.
+2121,Echo serca,Nieinwazyjne i bezbolesne.
+2122,Test alergiczny,Wymaga przygotowania na czczo.
+2123,Cytologia,Badanie obrazowe wysokiej rozdzielczości.
+2124,Lipidogram,Zalecane przy podejrzeniu infekcji.
+2125,Echo serca,Ocena stanu układu krążenia.
+2126,Holter EKG,Nieinwazyjne i bezbolesne.
+2127,Tomografia komputerowa,Pomiar funkcji narządów wewnętrznych.
+2128,Test PCR,Zalecane przy podejrzeniu infekcji.
+2129,Audiometria,Nieinwazyjne i bezbolesne.
+2130,Badanie tarczycy,Nieinwazyjne i bezbolesne.
+2131,Badanie poziomu cukru,Wskazanie do wykonania w ramach profilaktyki.
+2132,Morfologia krwi,Badanie obrazowe wysokiej rozdzielczości.
+2133,Badanie poziomu cukru,Ocena stanu układu krążenia.
+2134,Badanie okulistyczne,Ocena stanu układu krążenia.
+2135,Cytologia,Ocena stanu układu krążenia.
+2136,Rezonans magnetyczny,Nieinwazyjne i bezbolesne.
+2137,Test alergiczny,Zalecane przy podejrzeniu infekcji.
+2138,Badanie poziomu witaminy D,Wskazanie do wykonania w ramach profilaktyki.
+2139,Lipidogram,Badanie obrazowe wysokiej rozdzielczości.
+2140,Badanie tarczycy,Badanie obrazowe wysokiej rozdzielczości.
+2141,Test alergiczny,Stosowane w diagnostyce przewlekłych chorób.
+2142,Gastroskopia,Wskazanie do wykonania w ramach profilaktyki.
+2143,Badanie tarczycy,Zalecane przy podejrzeniu infekcji.
+2144,Badanie hormonalne,Nieinwazyjne i bezbolesne.
+2145,Test obciążenia glukozą,Standardowe badanie diagnostyczne.
+2146,Badanie przeciwciał,Wymaga przygotowania na czczo.
+2147,Cytologia,Standardowe badanie diagnostyczne.
+2148,RTG klatki piersiowej,Ocena stanu układu krążenia.
+2149,EKG,Badanie obrazowe wysokiej rozdzielczości.
+2150,Gastroskopia,Badanie obrazowe wysokiej rozdzielczości.
+2151,Test obciążenia glukozą,Wskazanie do wykonania w ramach profilaktyki.
+2152,Gastroskopia,Nieinwazyjne i bezbolesne.
+2153,Rezonans magnetyczny,Wymaga przygotowania na czczo.
+2154,Kolonoskopia,Wyniki dostępne w ciągu 24 godzin.
+2155,Badanie moczu,Wyniki dostępne w ciągu 24 godzin.
+2156,RTG klatki piersiowej,Wyniki dostępne w ciągu 24 godzin.
+2157,Audiometria,Ocena stanu układu krążenia.
+2158,Audiometria,Ocena stanu układu krążenia.
+2159,Holter EKG,Nieinwazyjne i bezbolesne.
+2160,EKG,Nieinwazyjne i bezbolesne.
+2161,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+2162,Badanie przeciwciał,Ocena stanu układu krążenia.
+2163,Test alergiczny,Stosowane w diagnostyce przewlekłych chorób.
+2164,Audiometria,Pomiar funkcji narządów wewnętrznych.
+2165,Tomografia komputerowa,Pomiar funkcji narządów wewnętrznych.
+2166,Test alergiczny,Stosowane w diagnostyce przewlekłych chorób.
+2167,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+2168,Badanie poziomu cukru,Wyniki dostępne w ciągu 24 godzin.
+2169,Gastroskopia,Zalecane przy podejrzeniu infekcji.
+2170,Test PCR,Zalecane przy podejrzeniu infekcji.
+2171,EKG,Stosowane w diagnostyce przewlekłych chorób.
+2172,Echo serca,Wymaga przygotowania na czczo.
+2173,Holter EKG,Badanie obrazowe wysokiej rozdzielczości.
+2174,USG jamy brzusznej,Badanie obrazowe wysokiej rozdzielczości.
+2175,Rezonans magnetyczny,Wskazanie do wykonania w ramach profilaktyki.
+2176,Badanie kału,Standardowe badanie diagnostyczne.
+2177,Badanie hormonalne,Ocena stanu układu krążenia.
+2178,Badanie kału,Wyniki dostępne w ciągu 24 godzin.
+2179,Badanie kału,Pomiar funkcji narządów wewnętrznych.
+2180,Badanie hormonalne,Stosowane w diagnostyce przewlekłych chorób.
+2181,Gastroskopia,Badanie obrazowe wysokiej rozdzielczości.
+2182,Spirometria,Nieinwazyjne i bezbolesne.
+2183,Audiometria,Zalecane przy podejrzeniu infekcji.
+2184,Spirometria,Badanie obrazowe wysokiej rozdzielczości.
+2185,Test alergiczny,Stosowane w diagnostyce przewlekłych chorób.
+2186,Lipidogram,Badanie obrazowe wysokiej rozdzielczości.
+2187,Morfologia krwi,Ocena stanu układu krążenia.
+2188,Badanie poziomu cukru,Wyniki dostępne w ciągu 24 godzin.
+2189,Test PCR,Standardowe badanie diagnostyczne.
+2190,Cytologia,Zalecane przy podejrzeniu infekcji.
+2191,EKG,Standardowe badanie diagnostyczne.
+2192,Tomografia komputerowa,Zalecane przy podejrzeniu infekcji.
+2193,Tomografia komputerowa,Pomiar funkcji narządów wewnętrznych.
+2194,Gastroskopia,Wymaga przygotowania na czczo.
+2195,Badanie hormonalne,Wyniki dostępne w ciągu 24 godzin.
+2196,USG jamy brzusznej,Nieinwazyjne i bezbolesne.
+2197,Badanie kału,Standardowe badanie diagnostyczne.
+2198,EKG,Ocena stanu układu krążenia.
+2199,RTG klatki piersiowej,Wyniki dostępne w ciągu 24 godzin.
+2200,Badanie poziomu witaminy D,Badanie obrazowe wysokiej rozdzielczości.
+2201,Lipidogram,Standardowe badanie diagnostyczne.
+2202,Badanie kału,Wskazanie do wykonania w ramach profilaktyki.
+2203,Rezonans magnetyczny,Zalecane przy podejrzeniu infekcji.
+2204,Badanie okulistyczne,Badanie obrazowe wysokiej rozdzielczości.
+2205,Badanie poziomu cukru,Standardowe badanie diagnostyczne.
+2206,RTG klatki piersiowej,Wymaga przygotowania na czczo.
+2207,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+2208,Badanie okulistyczne,Wymaga przygotowania na czczo.
+2209,EKG,Stosowane w diagnostyce przewlekłych chorób.
+2210,Badanie tarczycy,Badanie obrazowe wysokiej rozdzielczości.
+2211,Test obciążenia glukozą,Stosowane w diagnostyce przewlekłych chorób.
+2212,Badanie poziomu witaminy D,Standardowe badanie diagnostyczne.
+2213,USG jamy brzusznej,Zalecane przy podejrzeniu infekcji.
+2214,Test alergiczny,Standardowe badanie diagnostyczne.
+2215,Morfologia krwi,Wymaga przygotowania na czczo.
+2216,Gastroskopia,Wskazanie do wykonania w ramach profilaktyki.
+2217,EKG,Wymaga przygotowania na czczo.
+2218,EKG,Wskazanie do wykonania w ramach profilaktyki.
+2219,Audiometria,Zalecane przy podejrzeniu infekcji.
+2220,Test obciążenia glukozą,Wskazanie do wykonania w ramach profilaktyki.
+2221,Test PCR,Badanie obrazowe wysokiej rozdzielczości.
+2222,Lipidogram,Standardowe badanie diagnostyczne.
+2223,Test PCR,Zalecane przy podejrzeniu infekcji.
+2224,Badanie przeciwciał,Ocena stanu układu krążenia.
+2225,Rezonans magnetyczny,Pomiar funkcji narządów wewnętrznych.
+2226,Badanie hormonalne,Stosowane w diagnostyce przewlekłych chorób.
+2227,Test PCR,Standardowe badanie diagnostyczne.
+2228,Audiometria,Badanie obrazowe wysokiej rozdzielczości.
+2229,Test alergiczny,Zalecane przy podejrzeniu infekcji.
+2230,Test obciążenia glukozą,Wyniki dostępne w ciągu 24 godzin.
+2231,Badanie przeciwciał,Wskazanie do wykonania w ramach profilaktyki.
+2232,Spirometria,Pomiar funkcji narządów wewnętrznych.
+2233,Cytologia,Standardowe badanie diagnostyczne.
+2234,Badanie przeciwciał,Zalecane przy podejrzeniu infekcji.
+2235,USG jamy brzusznej,Wymaga przygotowania na czczo.
+2236,Badanie tarczycy,Pomiar funkcji narządów wewnętrznych.
+2237,Badanie kału,Pomiar funkcji narządów wewnętrznych.
+2238,Spirometria,Nieinwazyjne i bezbolesne.
+2239,Badanie okulistyczne,Zalecane przy podejrzeniu infekcji.
+2240,Morfologia krwi,Wskazanie do wykonania w ramach profilaktyki.
+2241,Tomografia komputerowa,Badanie obrazowe wysokiej rozdzielczości.
+2242,Spirometria,Wskazanie do wykonania w ramach profilaktyki.
+2243,Spirometria,Standardowe badanie diagnostyczne.
+2244,Echo serca,Nieinwazyjne i bezbolesne.
+2245,Test PCR,Wskazanie do wykonania w ramach profilaktyki.
+2246,Badanie poziomu witaminy D,Standardowe badanie diagnostyczne.
+2247,Badanie okulistyczne,Wymaga przygotowania na czczo.
+2248,Badanie tarczycy,Zalecane przy podejrzeniu infekcji.
+2249,Lipidogram,Zalecane przy podejrzeniu infekcji.
+2250,Lipidogram,Standardowe badanie diagnostyczne.
+2251,Holter EKG,Badanie obrazowe wysokiej rozdzielczości.
+2252,EKG,Stosowane w diagnostyce przewlekłych chorób.
+2253,Echo serca,Nieinwazyjne i bezbolesne.
+2254,Rezonans magnetyczny,Wymaga przygotowania na czczo.
+2255,Badanie hormonalne,Stosowane w diagnostyce przewlekłych chorób.
+2256,Test PCR,Stosowane w diagnostyce przewlekłych chorób.
+2257,Badanie przeciwciał,Ocena stanu układu krążenia.
+2258,Test alergiczny,Wskazanie do wykonania w ramach profilaktyki.
+2259,Echo serca,Zalecane przy podejrzeniu infekcji.
+2260,Holter EKG,Wymaga przygotowania na czczo.
+2261,Echo serca,Pomiar funkcji narządów wewnętrznych.
+2262,Badanie kału,Standardowe badanie diagnostyczne.
+2263,Badanie tarczycy,Ocena stanu układu krążenia.
+2264,Holter EKG,Zalecane przy podejrzeniu infekcji.
+2265,Morfologia krwi,Nieinwazyjne i bezbolesne.
+2266,Gastroskopia,Badanie obrazowe wysokiej rozdzielczości.
+2267,Morfologia krwi,Badanie obrazowe wysokiej rozdzielczości.
+2268,Cytologia,Pomiar funkcji narządów wewnętrznych.
+2269,Badanie tarczycy,Badanie obrazowe wysokiej rozdzielczości.
+2270,RTG klatki piersiowej,Standardowe badanie diagnostyczne.
+2271,Tomografia komputerowa,Wyniki dostępne w ciągu 24 godzin.
+2272,Badanie hormonalne,Wyniki dostępne w ciągu 24 godzin.
+2273,Badanie moczu,Nieinwazyjne i bezbolesne.
+2274,Badanie moczu,Ocena stanu układu krążenia.
+2275,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+2276,EKG,Ocena stanu układu krążenia.
+2277,Test obciążenia glukozą,Standardowe badanie diagnostyczne.
+2278,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+2279,Badanie hormonalne,Ocena stanu układu krążenia.
+2280,Holter EKG,Pomiar funkcji narządów wewnętrznych.
+2281,Badanie tarczycy,Wyniki dostępne w ciągu 24 godzin.
+2282,Badanie poziomu cukru,Wskazanie do wykonania w ramach profilaktyki.
+2283,Morfologia krwi,Ocena stanu układu krążenia.
+2284,Badanie tarczycy,Pomiar funkcji narządów wewnętrznych.
+2285,USG jamy brzusznej,Ocena stanu układu krążenia.
+2286,Badanie poziomu witaminy D,Zalecane przy podejrzeniu infekcji.
+2287,Badanie kału,Stosowane w diagnostyce przewlekłych chorób.
+2288,Cytologia,Nieinwazyjne i bezbolesne.
+2289,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+2290,RTG klatki piersiowej,Zalecane przy podejrzeniu infekcji.
+2291,Lipidogram,Wyniki dostępne w ciągu 24 godzin.
+2292,Rezonans magnetyczny,Ocena stanu układu krążenia.
+2293,USG jamy brzusznej,Standardowe badanie diagnostyczne.
+2294,Echo serca,Standardowe badanie diagnostyczne.
+2295,Badanie moczu,Wymaga przygotowania na czczo.
+2296,Cytologia,Standardowe badanie diagnostyczne.
+2297,Badanie przeciwciał,Badanie obrazowe wysokiej rozdzielczości.
+2298,Test PCR,Wyniki dostępne w ciągu 24 godzin.
+2299,Tomografia komputerowa,Wyniki dostępne w ciągu 24 godzin.
+2300,Badanie moczu,Zalecane przy podejrzeniu infekcji.
+2301,Badanie poziomu witaminy D,Badanie obrazowe wysokiej rozdzielczości.
+2302,Badanie kału,Stosowane w diagnostyce przewlekłych chorób.
+2303,Rezonans magnetyczny,Wyniki dostępne w ciągu 24 godzin.
+2304,Holter EKG,Wyniki dostępne w ciągu 24 godzin.
+2305,Spirometria,Zalecane przy podejrzeniu infekcji.
+2306,Badanie kału,Standardowe badanie diagnostyczne.
+2307,Morfologia krwi,Wyniki dostępne w ciągu 24 godzin.
+2308,EKG,Ocena stanu układu krążenia.
+2309,Badanie poziomu witaminy D,Zalecane przy podejrzeniu infekcji.
+2310,Morfologia krwi,Pomiar funkcji narządów wewnętrznych.
+2311,Badanie kału,Standardowe badanie diagnostyczne.
+2312,Rezonans magnetyczny,Zalecane przy podejrzeniu infekcji.
+2313,Cytologia,Zalecane przy podejrzeniu infekcji.
+2314,Badanie poziomu cukru,Wskazanie do wykonania w ramach profilaktyki.
+2315,Audiometria,Pomiar funkcji narządów wewnętrznych.
+2316,Test PCR,Badanie obrazowe wysokiej rozdzielczości.
+2317,Badanie poziomu cukru,Wyniki dostępne w ciągu 24 godzin.
+2318,Badanie poziomu cukru,Wymaga przygotowania na czczo.
+2319,Badanie kału,Stosowane w diagnostyce przewlekłych chorób.
+2320,Kolonoskopia,Wymaga przygotowania na czczo.
+2321,Gastroskopia,Badanie obrazowe wysokiej rozdzielczości.
+2322,USG jamy brzusznej,Zalecane przy podejrzeniu infekcji.
+2323,Morfologia krwi,Pomiar funkcji narządów wewnętrznych.
+2324,Morfologia krwi,Zalecane przy podejrzeniu infekcji.
+2325,Test PCR,Wyniki dostępne w ciągu 24 godzin.
+2326,Echo serca,Ocena stanu układu krążenia.
+2327,Test alergiczny,Nieinwazyjne i bezbolesne.
+2328,Echo serca,Badanie obrazowe wysokiej rozdzielczości.
+2329,Test obciążenia glukozą,Ocena stanu układu krążenia.
+2330,EKG,Pomiar funkcji narządów wewnętrznych.
+2331,Echo serca,Wymaga przygotowania na czczo.
+2332,Holter EKG,Pomiar funkcji narządów wewnętrznych.
+2333,Kolonoskopia,Zalecane przy podejrzeniu infekcji.
+2334,Rezonans magnetyczny,Badanie obrazowe wysokiej rozdzielczości.
+2335,Test PCR,Zalecane przy podejrzeniu infekcji.
+2336,Badanie tarczycy,Wskazanie do wykonania w ramach profilaktyki.
+2337,Kolonoskopia,Zalecane przy podejrzeniu infekcji.
+2338,Rezonans magnetyczny,Wymaga przygotowania na czczo.
+2339,Test obciążenia glukozą,Pomiar funkcji narządów wewnętrznych.
+2340,Test PCR,Stosowane w diagnostyce przewlekłych chorób.
+2341,Echo serca,Badanie obrazowe wysokiej rozdzielczości.
+2342,EKG,Pomiar funkcji narządów wewnętrznych.
+2343,Cytologia,Wyniki dostępne w ciągu 24 godzin.
+2344,Rezonans magnetyczny,Ocena stanu układu krążenia.
+2345,Badanie przeciwciał,Standardowe badanie diagnostyczne.
+2346,Test PCR,Stosowane w diagnostyce przewlekłych chorób.
+2347,Badanie tarczycy,Nieinwazyjne i bezbolesne.
+2348,Badanie kału,Ocena stanu układu krążenia.
+2349,Morfologia krwi,Nieinwazyjne i bezbolesne.
+2350,Gastroskopia,Wyniki dostępne w ciągu 24 godzin.
+2351,Lipidogram,Pomiar funkcji narządów wewnętrznych.
+2352,Test PCR,Wyniki dostępne w ciągu 24 godzin.
+2353,Lipidogram,Wskazanie do wykonania w ramach profilaktyki.
+2354,Badanie tarczycy,Nieinwazyjne i bezbolesne.
+2355,RTG klatki piersiowej,Pomiar funkcji narządów wewnętrznych.
+2356,USG jamy brzusznej,Wskazanie do wykonania w ramach profilaktyki.
+2357,EKG,Standardowe badanie diagnostyczne.
+2358,Badanie tarczycy,Wymaga przygotowania na czczo.
+2359,RTG klatki piersiowej,Badanie obrazowe wysokiej rozdzielczości.
+2360,Badanie tarczycy,Zalecane przy podejrzeniu infekcji.
+2361,Cytologia,Ocena stanu układu krążenia.
+2362,Test alergiczny,Wskazanie do wykonania w ramach profilaktyki.
+2363,Holter EKG,Wymaga przygotowania na czczo.
+2364,Echo serca,Standardowe badanie diagnostyczne.
+2365,Badanie moczu,Zalecane przy podejrzeniu infekcji.
+2366,Echo serca,Pomiar funkcji narządów wewnętrznych.
+2367,Gastroskopia,Wymaga przygotowania na czczo.
+2368,Spirometria,Standardowe badanie diagnostyczne.
+2369,Test PCR,Nieinwazyjne i bezbolesne.
+2370,Badanie tarczycy,Wyniki dostępne w ciągu 24 godzin.
+2371,USG jamy brzusznej,Wyniki dostępne w ciągu 24 godzin.
+2372,Spirometria,Pomiar funkcji narządów wewnętrznych.
+2373,Badanie okulistyczne,Wskazanie do wykonania w ramach profilaktyki.
+2374,Badanie hormonalne,Nieinwazyjne i bezbolesne.
+2375,Badanie poziomu cukru,Standardowe badanie diagnostyczne.
+2376,Tomografia komputerowa,Stosowane w diagnostyce przewlekłych chorób.
+2377,Tomografia komputerowa,Pomiar funkcji narządów wewnętrznych.
+2378,Test alergiczny,Ocena stanu układu krążenia.
+2379,Badanie hormonalne,Badanie obrazowe wysokiej rozdzielczości.
+2380,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+2381,Badanie tarczycy,Nieinwazyjne i bezbolesne.
+2382,Holter EKG,Badanie obrazowe wysokiej rozdzielczości.
+2383,Gastroskopia,Standardowe badanie diagnostyczne.
+2384,Badanie tarczycy,Ocena stanu układu krążenia.
+2385,Lipidogram,Wyniki dostępne w ciągu 24 godzin.
+2386,Rezonans magnetyczny,Standardowe badanie diagnostyczne.
+2387,Badanie tarczycy,Ocena stanu układu krążenia.
+2388,Badanie hormonalne,Wymaga przygotowania na czczo.
+2389,Rezonans magnetyczny,Wskazanie do wykonania w ramach profilaktyki.
+2390,USG jamy brzusznej,Wymaga przygotowania na czczo.
+2391,Kolonoskopia,Wymaga przygotowania na czczo.
+2392,Audiometria,Badanie obrazowe wysokiej rozdzielczości.
+2393,Badanie poziomu cukru,Wskazanie do wykonania w ramach profilaktyki.
+2394,Lipidogram,Nieinwazyjne i bezbolesne.
+2395,Cytologia,Stosowane w diagnostyce przewlekłych chorób.
+2396,Rezonans magnetyczny,Wymaga przygotowania na czczo.
+2397,Spirometria,Ocena stanu układu krążenia.
+2398,Audiometria,Badanie obrazowe wysokiej rozdzielczości.
+2399,Echo serca,Stosowane w diagnostyce przewlekłych chorób.
+2400,RTG klatki piersiowej,Ocena stanu układu krążenia.
+2401,Badanie hormonalne,Standardowe badanie diagnostyczne.
+2402,Test alergiczny,Badanie obrazowe wysokiej rozdzielczości.
+2403,Spirometria,Ocena stanu układu krążenia.
+2404,Test obciążenia glukozą,Wymaga przygotowania na czczo.
+2405,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+2406,Badanie okulistyczne,Pomiar funkcji narządów wewnętrznych.
+2407,Test PCR,Pomiar funkcji narządów wewnętrznych.
+2408,Test PCR,Wymaga przygotowania na czczo.
+2409,Test alergiczny,Standardowe badanie diagnostyczne.
+2410,Cytologia,Standardowe badanie diagnostyczne.
+2411,Badanie hormonalne,Badanie obrazowe wysokiej rozdzielczości.
+2412,Badanie poziomu witaminy D,Nieinwazyjne i bezbolesne.
+2413,Echo serca,Wymaga przygotowania na czczo.
+2414,Test obciążenia glukozą,Ocena stanu układu krążenia.
+2415,Audiometria,Zalecane przy podejrzeniu infekcji.
+2416,Kolonoskopia,Stosowane w diagnostyce przewlekłych chorób.
+2417,Badanie tarczycy,Ocena stanu układu krążenia.
+2418,Test alergiczny,Standardowe badanie diagnostyczne.
+2419,Kolonoskopia,Wymaga przygotowania na czczo.
+2420,Badanie hormonalne,Pomiar funkcji narządów wewnętrznych.
+2421,Lipidogram,Wskazanie do wykonania w ramach profilaktyki.
+2422,RTG klatki piersiowej,Wskazanie do wykonania w ramach profilaktyki.
+2423,Spirometria,Stosowane w diagnostyce przewlekłych chorób.
+2424,Badanie tarczycy,Wskazanie do wykonania w ramach profilaktyki.
+2425,Badanie okulistyczne,Pomiar funkcji narządów wewnętrznych.
+2426,Cytologia,Wyniki dostępne w ciągu 24 godzin.
+2427,Tomografia komputerowa,Ocena stanu układu krążenia.
+2428,USG jamy brzusznej,Stosowane w diagnostyce przewlekłych chorób.
+2429,Badanie okulistyczne,Standardowe badanie diagnostyczne.
+2430,Badanie kału,Badanie obrazowe wysokiej rozdzielczości.
+2431,Test alergiczny,Nieinwazyjne i bezbolesne.
+2432,Tomografia komputerowa,Wskazanie do wykonania w ramach profilaktyki.
+2433,Badanie moczu,Ocena stanu układu krążenia.
+2434,Audiometria,Nieinwazyjne i bezbolesne.
+2435,Badanie tarczycy,Wymaga przygotowania na czczo.
+2436,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+2437,Badanie okulistyczne,Nieinwazyjne i bezbolesne.
+2438,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+2439,Echo serca,Zalecane przy podejrzeniu infekcji.
+2440,EKG,Zalecane przy podejrzeniu infekcji.
+2441,Badanie tarczycy,Pomiar funkcji narządów wewnętrznych.
+2442,Badanie przeciwciał,Wskazanie do wykonania w ramach profilaktyki.
+2443,Lipidogram,Stosowane w diagnostyce przewlekłych chorób.
+2444,EKG,Wskazanie do wykonania w ramach profilaktyki.
+2445,EKG,Ocena stanu układu krążenia.
+2446,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+2447,Test PCR,Wyniki dostępne w ciągu 24 godzin.
+2448,Tomografia komputerowa,Stosowane w diagnostyce przewlekłych chorób.
+2449,Holter EKG,Pomiar funkcji narządów wewnętrznych.
+2450,EKG,Wyniki dostępne w ciągu 24 godzin.
+2451,Test alergiczny,Badanie obrazowe wysokiej rozdzielczości.
+2452,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+2453,Holter EKG,Wymaga przygotowania na czczo.
+2454,RTG klatki piersiowej,Pomiar funkcji narządów wewnętrznych.
+2455,Tomografia komputerowa,Zalecane przy podejrzeniu infekcji.
+2456,Lipidogram,Stosowane w diagnostyce przewlekłych chorób.
+2457,Morfologia krwi,Wymaga przygotowania na czczo.
+2458,Test obciążenia glukozą,Nieinwazyjne i bezbolesne.
+2459,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+2460,Tomografia komputerowa,Ocena stanu układu krążenia.
+2461,Test obciążenia glukozą,Badanie obrazowe wysokiej rozdzielczości.
+2462,Morfologia krwi,Zalecane przy podejrzeniu infekcji.
+2463,Test alergiczny,Nieinwazyjne i bezbolesne.
+2464,Badanie hormonalne,Ocena stanu układu krążenia.
+2465,Test alergiczny,Wskazanie do wykonania w ramach profilaktyki.
+2466,USG jamy brzusznej,Standardowe badanie diagnostyczne.
+2467,Lipidogram,Badanie obrazowe wysokiej rozdzielczości.
+2468,Morfologia krwi,Zalecane przy podejrzeniu infekcji.
+2469,Badanie tarczycy,Wskazanie do wykonania w ramach profilaktyki.
+2470,Test PCR,Standardowe badanie diagnostyczne.
+2471,Badanie moczu,Zalecane przy podejrzeniu infekcji.
+2472,Badanie poziomu cukru,Wymaga przygotowania na czczo.
+2473,Badanie tarczycy,Standardowe badanie diagnostyczne.
+2474,Kolonoskopia,Standardowe badanie diagnostyczne.
+2475,RTG klatki piersiowej,Wyniki dostępne w ciągu 24 godzin.
+2476,Test obciążenia glukozą,Wymaga przygotowania na czczo.
+2477,Badanie moczu,Nieinwazyjne i bezbolesne.
+2478,Lipidogram,Wskazanie do wykonania w ramach profilaktyki.
+2479,Tomografia komputerowa,Wyniki dostępne w ciągu 24 godzin.
+2480,Test alergiczny,Ocena stanu układu krążenia.
+2481,Test obciążenia glukozą,Wymaga przygotowania na czczo.
+2482,EKG,Wskazanie do wykonania w ramach profilaktyki.
+2483,Tomografia komputerowa,Stosowane w diagnostyce przewlekłych chorób.
+2484,Test alergiczny,Wskazanie do wykonania w ramach profilaktyki.
+2485,Lipidogram,Wymaga przygotowania na czczo.
+2486,Holter EKG,Standardowe badanie diagnostyczne.
+2487,Holter EKG,Wymaga przygotowania na czczo.
+2488,Test obciążenia glukozą,Standardowe badanie diagnostyczne.
+2489,Audiometria,Ocena stanu układu krążenia.
+2490,Test PCR,Pomiar funkcji narządów wewnętrznych.
+2491,Test alergiczny,Standardowe badanie diagnostyczne.
+2492,Tomografia komputerowa,Pomiar funkcji narządów wewnętrznych.
+2493,Badanie poziomu witaminy D,Stosowane w diagnostyce przewlekłych chorób.
+2494,Holter EKG,Pomiar funkcji narządów wewnętrznych.
+2495,EKG,Stosowane w diagnostyce przewlekłych chorób.
+2496,Badanie kału,Stosowane w diagnostyce przewlekłych chorób.
+2497,Badanie kału,Nieinwazyjne i bezbolesne.
+2498,Badanie tarczycy,Nieinwazyjne i bezbolesne.
+2499,Test PCR,Wskazanie do wykonania w ramach profilaktyki.
+2500,Tomografia komputerowa,Badanie obrazowe wysokiej rozdzielczości.
+2501,USG jamy brzusznej,Nieinwazyjne i bezbolesne.
+2502,Test obciążenia glukozą,Zalecane przy podejrzeniu infekcji.
+2503,Badanie poziomu cukru,Wymaga przygotowania na czczo.
+2504,Cytologia,Standardowe badanie diagnostyczne.
+2505,Gastroskopia,Stosowane w diagnostyce przewlekłych chorób.
+2506,Lipidogram,Standardowe badanie diagnostyczne.
+2507,Rezonans magnetyczny,Ocena stanu układu krążenia.
+2508,Badanie okulistyczne,Ocena stanu układu krążenia.
+2509,Badanie tarczycy,Ocena stanu układu krążenia.
+2510,Badanie przeciwciał,Pomiar funkcji narządów wewnętrznych.
+2511,Tomografia komputerowa,Wskazanie do wykonania w ramach profilaktyki.
+2512,Tomografia komputerowa,Badanie obrazowe wysokiej rozdzielczości.
+2513,Badanie przeciwciał,Wyniki dostępne w ciągu 24 godzin.
+2514,Cytologia,Wymaga przygotowania na czczo.
+2515,Test obciążenia glukozą,Wskazanie do wykonania w ramach profilaktyki.
+2516,Test alergiczny,Stosowane w diagnostyce przewlekłych chorób.
+2517,Audiometria,Stosowane w diagnostyce przewlekłych chorób.
+2518,Cytologia,Standardowe badanie diagnostyczne.
+2519,Badanie tarczycy,Standardowe badanie diagnostyczne.
+2520,Spirometria,Badanie obrazowe wysokiej rozdzielczości.
+2521,Lipidogram,Wyniki dostępne w ciągu 24 godzin.
+2522,Morfologia krwi,Ocena stanu układu krążenia.
+2523,Audiometria,Wskazanie do wykonania w ramach profilaktyki.
+2524,Cytologia,Ocena stanu układu krążenia.
+2525,Morfologia krwi,Nieinwazyjne i bezbolesne.
+2526,RTG klatki piersiowej,Badanie obrazowe wysokiej rozdzielczości.
+2527,Morfologia krwi,Zalecane przy podejrzeniu infekcji.
+2528,Test obciążenia glukozą,Nieinwazyjne i bezbolesne.
+2529,Badanie poziomu witaminy D,Standardowe badanie diagnostyczne.
+2530,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+2531,Test PCR,Zalecane przy podejrzeniu infekcji.
+2532,Cytologia,Wyniki dostępne w ciągu 24 godzin.
+2533,Badanie kału,Stosowane w diagnostyce przewlekłych chorób.
+2534,RTG klatki piersiowej,Wyniki dostępne w ciągu 24 godzin.
+2535,Test alergiczny,Badanie obrazowe wysokiej rozdzielczości.
+2536,Test obciążenia glukozą,Standardowe badanie diagnostyczne.
+2537,Test obciążenia glukozą,Wymaga przygotowania na czczo.
+2538,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+2539,Cytologia,Wymaga przygotowania na czczo.
+2540,Badanie kału,Wymaga przygotowania na czczo.
+2541,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+2542,Tomografia komputerowa,Wymaga przygotowania na czczo.
+2543,Cytologia,Zalecane przy podejrzeniu infekcji.
+2544,RTG klatki piersiowej,Nieinwazyjne i bezbolesne.
+2545,Cytologia,Pomiar funkcji narządów wewnętrznych.
+2546,Cytologia,Standardowe badanie diagnostyczne.
+2547,EKG,Stosowane w diagnostyce przewlekłych chorób.
+2548,Audiometria,Wymaga przygotowania na czczo.
+2549,Kolonoskopia,Wyniki dostępne w ciągu 24 godzin.
+2550,Kolonoskopia,Standardowe badanie diagnostyczne.
+2551,Badanie kału,Ocena stanu układu krążenia.
+2552,Test obciążenia glukozą,Badanie obrazowe wysokiej rozdzielczości.
+2553,Holter EKG,Badanie obrazowe wysokiej rozdzielczości.
+2554,Gastroskopia,Wymaga przygotowania na czczo.
+2555,Badanie poziomu witaminy D,Wymaga przygotowania na czczo.
+2556,Test PCR,Wymaga przygotowania na czczo.
+2557,Badanie moczu,Nieinwazyjne i bezbolesne.
+2558,Gastroskopia,Wymaga przygotowania na czczo.
+2559,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+2560,Test obciążenia glukozą,Ocena stanu układu krążenia.
+2561,Rezonans magnetyczny,Standardowe badanie diagnostyczne.
+2562,Holter EKG,Standardowe badanie diagnostyczne.
+2563,Cytologia,Stosowane w diagnostyce przewlekłych chorób.
+2564,Audiometria,Badanie obrazowe wysokiej rozdzielczości.
+2565,Badanie przeciwciał,Wymaga przygotowania na czczo.
+2566,EKG,Nieinwazyjne i bezbolesne.
+2567,Test alergiczny,Wyniki dostępne w ciągu 24 godzin.
+2568,USG jamy brzusznej,Nieinwazyjne i bezbolesne.
+2569,Test obciążenia glukozą,Standardowe badanie diagnostyczne.
+2570,Badanie tarczycy,Pomiar funkcji narządów wewnętrznych.
+2571,Test PCR,Stosowane w diagnostyce przewlekłych chorób.
+2572,Badanie poziomu cukru,Pomiar funkcji narządów wewnętrznych.
+2573,Badanie poziomu witaminy D,Stosowane w diagnostyce przewlekłych chorób.
+2574,Badanie poziomu witaminy D,Nieinwazyjne i bezbolesne.
+2575,RTG klatki piersiowej,Zalecane przy podejrzeniu infekcji.
+2576,Rezonans magnetyczny,Wymaga przygotowania na czczo.
+2577,Echo serca,Ocena stanu układu krążenia.
+2578,Badanie moczu,Zalecane przy podejrzeniu infekcji.
+2579,Echo serca,Wskazanie do wykonania w ramach profilaktyki.
+2580,Gastroskopia,Stosowane w diagnostyce przewlekłych chorób.
+2581,Cytologia,Wyniki dostępne w ciągu 24 godzin.
+2582,Tomografia komputerowa,Zalecane przy podejrzeniu infekcji.
+2583,Morfologia krwi,Ocena stanu układu krążenia.
+2584,Tomografia komputerowa,Stosowane w diagnostyce przewlekłych chorób.
+2585,Test PCR,Wyniki dostępne w ciągu 24 godzin.
+2586,Badanie przeciwciał,Zalecane przy podejrzeniu infekcji.
+2587,Test obciążenia glukozą,Wymaga przygotowania na czczo.
+2588,Badanie tarczycy,Pomiar funkcji narządów wewnętrznych.
+2589,Badanie poziomu witaminy D,Zalecane przy podejrzeniu infekcji.
+2590,Test obciążenia glukozą,Nieinwazyjne i bezbolesne.
+2591,Tomografia komputerowa,Ocena stanu układu krążenia.
+2592,Badanie tarczycy,Zalecane przy podejrzeniu infekcji.
+2593,Badanie okulistyczne,Wymaga przygotowania na czczo.
+2594,EKG,Wskazanie do wykonania w ramach profilaktyki.
+2595,Cytologia,Wymaga przygotowania na czczo.
+2596,Audiometria,Ocena stanu układu krążenia.
+2597,Rezonans magnetyczny,Ocena stanu układu krążenia.
+2598,Test alergiczny,Wskazanie do wykonania w ramach profilaktyki.
+2599,Kolonoskopia,Nieinwazyjne i bezbolesne.
+2600,Badanie hormonalne,Badanie obrazowe wysokiej rozdzielczości.
+2601,Badanie przeciwciał,Ocena stanu układu krążenia.
+2602,Test alergiczny,Ocena stanu układu krążenia.
+2603,EKG,Nieinwazyjne i bezbolesne.
+2604,Badanie okulistyczne,Standardowe badanie diagnostyczne.
+2605,Badanie poziomu witaminy D,Ocena stanu układu krążenia.
+2606,EKG,Wskazanie do wykonania w ramach profilaktyki.
+2607,Test PCR,Wymaga przygotowania na czczo.
+2608,Morfologia krwi,Standardowe badanie diagnostyczne.
+2609,Test obciążenia glukozą,Stosowane w diagnostyce przewlekłych chorób.
+2610,Tomografia komputerowa,Badanie obrazowe wysokiej rozdzielczości.
+2611,Test alergiczny,Pomiar funkcji narządów wewnętrznych.
+2612,Rezonans magnetyczny,Wyniki dostępne w ciągu 24 godzin.
+2613,RTG klatki piersiowej,Wymaga przygotowania na czczo.
+2614,Tomografia komputerowa,Zalecane przy podejrzeniu infekcji.
+2615,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+2616,Badanie okulistyczne,Wymaga przygotowania na czczo.
+2617,Kolonoskopia,Pomiar funkcji narządów wewnętrznych.
+2618,Morfologia krwi,Pomiar funkcji narządów wewnętrznych.
+2619,EKG,Wyniki dostępne w ciągu 24 godzin.
+2620,Badanie moczu,Nieinwazyjne i bezbolesne.
+2621,EKG,Stosowane w diagnostyce przewlekłych chorób.
+2622,Badanie przeciwciał,Zalecane przy podejrzeniu infekcji.
+2623,Gastroskopia,Wymaga przygotowania na czczo.
+2624,Badanie hormonalne,Standardowe badanie diagnostyczne.
+2625,Spirometria,Wskazanie do wykonania w ramach profilaktyki.
+2626,Echo serca,Stosowane w diagnostyce przewlekłych chorób.
+2627,Badanie tarczycy,Nieinwazyjne i bezbolesne.
+2628,Test alergiczny,Wskazanie do wykonania w ramach profilaktyki.
+2629,Badanie poziomu witaminy D,Nieinwazyjne i bezbolesne.
+2630,Cytologia,Wyniki dostępne w ciągu 24 godzin.
+2631,Rezonans magnetyczny,Nieinwazyjne i bezbolesne.
+2632,USG jamy brzusznej,Badanie obrazowe wysokiej rozdzielczości.
+2633,Holter EKG,Wymaga przygotowania na czczo.
+2634,Badanie okulistyczne,Wyniki dostępne w ciągu 24 godzin.
+2635,Badanie przeciwciał,Pomiar funkcji narządów wewnętrznych.
+2636,Badanie okulistyczne,Badanie obrazowe wysokiej rozdzielczości.
+2637,EKG,Stosowane w diagnostyce przewlekłych chorób.
+2638,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+2639,Gastroskopia,Badanie obrazowe wysokiej rozdzielczości.
+2640,Echo serca,Wskazanie do wykonania w ramach profilaktyki.
+2641,RTG klatki piersiowej,Ocena stanu układu krążenia.
+2642,Echo serca,Ocena stanu układu krążenia.
+2643,Test obciążenia glukozą,Wymaga przygotowania na czczo.
+2644,Badanie moczu,Wymaga przygotowania na czczo.
+2645,Test PCR,Nieinwazyjne i bezbolesne.
+2646,Test obciążenia glukozą,Stosowane w diagnostyce przewlekłych chorób.
+2647,Holter EKG,Ocena stanu układu krążenia.
+2648,Cytologia,Zalecane przy podejrzeniu infekcji.
+2649,Cytologia,Stosowane w diagnostyce przewlekłych chorób.
+2650,RTG klatki piersiowej,Nieinwazyjne i bezbolesne.
+2651,Kolonoskopia,Wskazanie do wykonania w ramach profilaktyki.
+2652,Badanie okulistyczne,Badanie obrazowe wysokiej rozdzielczości.
+2653,Badanie hormonalne,Wyniki dostępne w ciągu 24 godzin.
+2654,Lipidogram,Wyniki dostępne w ciągu 24 godzin.
+2655,RTG klatki piersiowej,Badanie obrazowe wysokiej rozdzielczości.
+2656,Kolonoskopia,Badanie obrazowe wysokiej rozdzielczości.
+2657,Cytologia,Badanie obrazowe wysokiej rozdzielczości.
+2658,Spirometria,Wymaga przygotowania na czczo.
+2659,Audiometria,Badanie obrazowe wysokiej rozdzielczości.
+2660,Tomografia komputerowa,Pomiar funkcji narządów wewnętrznych.
+2661,Badanie okulistyczne,Ocena stanu układu krążenia.
+2662,Badanie okulistyczne,Wskazanie do wykonania w ramach profilaktyki.
+2663,Rezonans magnetyczny,Ocena stanu układu krążenia.
+2664,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+2665,Audiometria,Badanie obrazowe wysokiej rozdzielczości.
+2666,Test alergiczny,Ocena stanu układu krążenia.
+2667,Echo serca,Nieinwazyjne i bezbolesne.
+2668,Badanie hormonalne,Stosowane w diagnostyce przewlekłych chorób.
+2669,Test PCR,Nieinwazyjne i bezbolesne.
+2670,Cytologia,Wyniki dostępne w ciągu 24 godzin.
+2671,Badanie moczu,Pomiar funkcji narządów wewnętrznych.
+2672,Audiometria,Pomiar funkcji narządów wewnętrznych.
+2673,USG jamy brzusznej,Stosowane w diagnostyce przewlekłych chorób.
+2674,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+2675,Holter EKG,Nieinwazyjne i bezbolesne.
+2676,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+2677,Cytologia,Standardowe badanie diagnostyczne.
+2678,Test PCR,Zalecane przy podejrzeniu infekcji.
+2679,Holter EKG,Nieinwazyjne i bezbolesne.
+2680,Cytologia,Ocena stanu układu krążenia.
+2681,Tomografia komputerowa,Wyniki dostępne w ciągu 24 godzin.
+2682,Badanie tarczycy,Nieinwazyjne i bezbolesne.
+2683,Holter EKG,Ocena stanu układu krążenia.
+2684,Badanie moczu,Stosowane w diagnostyce przewlekłych chorób.
+2685,Test PCR,Wyniki dostępne w ciągu 24 godzin.
+2686,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+2687,USG jamy brzusznej,Nieinwazyjne i bezbolesne.
+2688,Tomografia komputerowa,Wymaga przygotowania na czczo.
+2689,Test alergiczny,Zalecane przy podejrzeniu infekcji.
+2690,Gastroskopia,Stosowane w diagnostyce przewlekłych chorób.
+2691,Test obciążenia glukozą,Nieinwazyjne i bezbolesne.
+2692,Badanie poziomu witaminy D,Standardowe badanie diagnostyczne.
+2693,Morfologia krwi,Stosowane w diagnostyce przewlekłych chorób.
+2694,Badanie okulistyczne,Ocena stanu układu krążenia.
+2695,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+2696,Badanie okulistyczne,Wskazanie do wykonania w ramach profilaktyki.
+2697,RTG klatki piersiowej,Nieinwazyjne i bezbolesne.
+2698,Lipidogram,Ocena stanu układu krążenia.
+2699,Morfologia krwi,Wyniki dostępne w ciągu 24 godzin.
+2700,Kolonoskopia,Standardowe badanie diagnostyczne.
+2701,Test obciążenia glukozą,Pomiar funkcji narządów wewnętrznych.
+2702,Lipidogram,Wymaga przygotowania na czczo.
+2703,Tomografia komputerowa,Zalecane przy podejrzeniu infekcji.
+2704,Echo serca,Wyniki dostępne w ciągu 24 godzin.
+2705,Badanie przeciwciał,Standardowe badanie diagnostyczne.
+2706,Morfologia krwi,Wymaga przygotowania na czczo.
+2707,Badanie poziomu witaminy D,Zalecane przy podejrzeniu infekcji.
+2708,RTG klatki piersiowej,Zalecane przy podejrzeniu infekcji.
+2709,Test obciążenia glukozą,Wymaga przygotowania na czczo.
+2710,Badanie kału,Pomiar funkcji narządów wewnętrznych.
+2711,Test PCR,Wymaga przygotowania na czczo.
+2712,Holter EKG,Stosowane w diagnostyce przewlekłych chorób.
+2713,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+2714,Tomografia komputerowa,Wyniki dostępne w ciągu 24 godzin.
+2715,Badanie tarczycy,Zalecane przy podejrzeniu infekcji.
+2716,USG jamy brzusznej,Stosowane w diagnostyce przewlekłych chorób.
+2717,Badanie kału,Ocena stanu układu krążenia.
+2718,Morfologia krwi,Standardowe badanie diagnostyczne.
+2719,Lipidogram,Standardowe badanie diagnostyczne.
+2720,Spirometria,Nieinwazyjne i bezbolesne.
+2721,Badanie tarczycy,Wskazanie do wykonania w ramach profilaktyki.
+2722,Badanie hormonalne,Standardowe badanie diagnostyczne.
+2723,Kolonoskopia,Ocena stanu układu krążenia.
+2724,Test alergiczny,Ocena stanu układu krążenia.
+2725,EKG,Ocena stanu układu krążenia.
+2726,RTG klatki piersiowej,Wskazanie do wykonania w ramach profilaktyki.
+2727,Lipidogram,Nieinwazyjne i bezbolesne.
+2728,Badanie poziomu cukru,Wyniki dostępne w ciągu 24 godzin.
+2729,Badanie moczu,Badanie obrazowe wysokiej rozdzielczości.
+2730,Badanie okulistyczne,Pomiar funkcji narządów wewnętrznych.
+2731,Morfologia krwi,Standardowe badanie diagnostyczne.
+2732,Test obciążenia glukozą,Pomiar funkcji narządów wewnętrznych.
+2733,Badanie kału,Wskazanie do wykonania w ramach profilaktyki.
+2734,Tomografia komputerowa,Wymaga przygotowania na czczo.
+2735,Test alergiczny,Ocena stanu układu krążenia.
+2736,USG jamy brzusznej,Wskazanie do wykonania w ramach profilaktyki.
+2737,Lipidogram,Nieinwazyjne i bezbolesne.
+2738,Badanie kału,Zalecane przy podejrzeniu infekcji.
+2739,Badanie moczu,Wymaga przygotowania na czczo.
+2740,Lipidogram,Zalecane przy podejrzeniu infekcji.
+2741,Morfologia krwi,Stosowane w diagnostyce przewlekłych chorób.
+2742,Test alergiczny,Wyniki dostępne w ciągu 24 godzin.
+2743,Badanie okulistyczne,Zalecane przy podejrzeniu infekcji.
+2744,Lipidogram,Wyniki dostępne w ciągu 24 godzin.
+2745,Rezonans magnetyczny,Wymaga przygotowania na czczo.
+2746,Badanie okulistyczne,Zalecane przy podejrzeniu infekcji.
+2747,Badanie poziomu cukru,Pomiar funkcji narządów wewnętrznych.
+2748,Test alergiczny,Wyniki dostępne w ciągu 24 godzin.
+2749,EKG,Wymaga przygotowania na czczo.
+2750,Badanie tarczycy,Nieinwazyjne i bezbolesne.
+2751,Badanie tarczycy,Wskazanie do wykonania w ramach profilaktyki.
+2752,Badanie hormonalne,Ocena stanu układu krążenia.
+2753,Spirometria,Pomiar funkcji narządów wewnętrznych.
+2754,Echo serca,Ocena stanu układu krążenia.
+2755,Test PCR,Standardowe badanie diagnostyczne.
+2756,Lipidogram,Wymaga przygotowania na czczo.
+2757,Test alergiczny,Stosowane w diagnostyce przewlekłych chorób.
+2758,Gastroskopia,Nieinwazyjne i bezbolesne.
+2759,Badanie poziomu witaminy D,Standardowe badanie diagnostyczne.
+2760,Test alergiczny,Ocena stanu układu krążenia.
+2761,USG jamy brzusznej,Wskazanie do wykonania w ramach profilaktyki.
+2762,Kolonoskopia,Pomiar funkcji narządów wewnętrznych.
+2763,EKG,Badanie obrazowe wysokiej rozdzielczości.
+2764,Holter EKG,Wskazanie do wykonania w ramach profilaktyki.
+2765,Morfologia krwi,Zalecane przy podejrzeniu infekcji.
+2766,Echo serca,Stosowane w diagnostyce przewlekłych chorób.
+2767,Badanie poziomu witaminy D,Stosowane w diagnostyce przewlekłych chorób.
+2768,Badanie moczu,Nieinwazyjne i bezbolesne.
+2769,Gastroskopia,Nieinwazyjne i bezbolesne.
+2770,RTG klatki piersiowej,Nieinwazyjne i bezbolesne.
+2771,Gastroskopia,Badanie obrazowe wysokiej rozdzielczości.
+2772,Badanie kału,Wskazanie do wykonania w ramach profilaktyki.
+2773,Gastroskopia,Wyniki dostępne w ciągu 24 godzin.
+2774,Test PCR,Wyniki dostępne w ciągu 24 godzin.
+2775,USG jamy brzusznej,Wskazanie do wykonania w ramach profilaktyki.
+2776,Tomografia komputerowa,Wymaga przygotowania na czczo.
+2777,Test alergiczny,Pomiar funkcji narządów wewnętrznych.
+2778,Lipidogram,Pomiar funkcji narządów wewnętrznych.
+2779,Badanie moczu,Badanie obrazowe wysokiej rozdzielczości.
+2780,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+2781,Test alergiczny,Wskazanie do wykonania w ramach profilaktyki.
+2782,Test obciążenia glukozą,Standardowe badanie diagnostyczne.
+2783,Tomografia komputerowa,Pomiar funkcji narządów wewnętrznych.
+2784,Gastroskopia,Badanie obrazowe wysokiej rozdzielczości.
+2785,Cytologia,Wymaga przygotowania na czczo.
+2786,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+2787,Lipidogram,Badanie obrazowe wysokiej rozdzielczości.
+2788,Test obciążenia glukozą,Standardowe badanie diagnostyczne.
+2789,Test alergiczny,Wskazanie do wykonania w ramach profilaktyki.
+2790,Tomografia komputerowa,Wymaga przygotowania na czczo.
+2791,Spirometria,Ocena stanu układu krążenia.
+2792,Audiometria,Wyniki dostępne w ciągu 24 godzin.
+2793,USG jamy brzusznej,Standardowe badanie diagnostyczne.
+2794,Morfologia krwi,Stosowane w diagnostyce przewlekłych chorób.
+2795,Kolonoskopia,Wymaga przygotowania na czczo.
+2796,Spirometria,Pomiar funkcji narządów wewnętrznych.
+2797,Badanie przeciwciał,Pomiar funkcji narządów wewnętrznych.
+2798,Echo serca,Wyniki dostępne w ciągu 24 godzin.
+2799,Tomografia komputerowa,Zalecane przy podejrzeniu infekcji.
+2800,Badanie poziomu cukru,Wyniki dostępne w ciągu 24 godzin.
+2801,Badanie kału,Pomiar funkcji narządów wewnętrznych.
+2802,Test PCR,Stosowane w diagnostyce przewlekłych chorób.
+2803,Badanie poziomu witaminy D,Standardowe badanie diagnostyczne.
+2804,RTG klatki piersiowej,Stosowane w diagnostyce przewlekłych chorób.
+2805,Test PCR,Wymaga przygotowania na czczo.
+2806,Echo serca,Badanie obrazowe wysokiej rozdzielczości.
+2807,USG jamy brzusznej,Wyniki dostępne w ciągu 24 godzin.
+2808,Badanie hormonalne,Ocena stanu układu krążenia.
+2809,RTG klatki piersiowej,Wyniki dostępne w ciągu 24 godzin.
+2810,Echo serca,Ocena stanu układu krążenia.
+2811,Audiometria,Zalecane przy podejrzeniu infekcji.
+2812,Gastroskopia,Wymaga przygotowania na czczo.
+2813,Badanie tarczycy,Badanie obrazowe wysokiej rozdzielczości.
+2814,Spirometria,Wyniki dostępne w ciągu 24 godzin.
+2815,Test alergiczny,Wymaga przygotowania na czczo.
+2816,Badanie tarczycy,Standardowe badanie diagnostyczne.
+2817,Badanie poziomu cukru,Ocena stanu układu krążenia.
+2818,USG jamy brzusznej,Badanie obrazowe wysokiej rozdzielczości.
+2819,Test PCR,Wskazanie do wykonania w ramach profilaktyki.
+2820,Badanie przeciwciał,Pomiar funkcji narządów wewnętrznych.
+2821,Lipidogram,Wyniki dostępne w ciągu 24 godzin.
+2822,Lipidogram,Wskazanie do wykonania w ramach profilaktyki.
+2823,Rezonans magnetyczny,Ocena stanu układu krążenia.
+2824,Test PCR,Wymaga przygotowania na czczo.
+2825,Badanie poziomu cukru,Badanie obrazowe wysokiej rozdzielczości.
+2826,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+2827,Badanie hormonalne,Wyniki dostępne w ciągu 24 godzin.
+2828,Badanie okulistyczne,Zalecane przy podejrzeniu infekcji.
+2829,Spirometria,Pomiar funkcji narządów wewnętrznych.
+2830,Spirometria,Stosowane w diagnostyce przewlekłych chorób.
+2831,Test obciążenia glukozą,Standardowe badanie diagnostyczne.
+2832,RTG klatki piersiowej,Nieinwazyjne i bezbolesne.
+2833,Badanie tarczycy,Wskazanie do wykonania w ramach profilaktyki.
+2834,Badanie okulistyczne,Nieinwazyjne i bezbolesne.
+2835,Test obciążenia glukozą,Zalecane przy podejrzeniu infekcji.
+2836,Morfologia krwi,Badanie obrazowe wysokiej rozdzielczości.
+2837,Gastroskopia,Pomiar funkcji narządów wewnętrznych.
+2838,RTG klatki piersiowej,Wskazanie do wykonania w ramach profilaktyki.
+2839,Badanie przeciwciał,Badanie obrazowe wysokiej rozdzielczości.
+2840,Badanie poziomu cukru,Standardowe badanie diagnostyczne.
+2841,Gastroskopia,Wymaga przygotowania na czczo.
+2842,Cytologia,Ocena stanu układu krążenia.
+2843,Test PCR,Ocena stanu układu krążenia.
+2844,RTG klatki piersiowej,Pomiar funkcji narządów wewnętrznych.
+2845,RTG klatki piersiowej,Wymaga przygotowania na czczo.
+2846,Badanie okulistyczne,Wymaga przygotowania na czczo.
+2847,Badanie tarczycy,Wyniki dostępne w ciągu 24 godzin.
+2848,Lipidogram,Stosowane w diagnostyce przewlekłych chorób.
+2849,Spirometria,Wymaga przygotowania na czczo.
+2850,Badanie moczu,Standardowe badanie diagnostyczne.
+2851,Badanie poziomu cukru,Wskazanie do wykonania w ramach profilaktyki.
+2852,Badanie przeciwciał,Wskazanie do wykonania w ramach profilaktyki.
+2853,Badanie hormonalne,Wymaga przygotowania na czczo.
+2854,Morfologia krwi,Ocena stanu układu krążenia.
+2855,Echo serca,Zalecane przy podejrzeniu infekcji.
+2856,Holter EKG,Nieinwazyjne i bezbolesne.
+2857,Tomografia komputerowa,Nieinwazyjne i bezbolesne.
+2858,Lipidogram,Ocena stanu układu krążenia.
+2859,Echo serca,Stosowane w diagnostyce przewlekłych chorób.
+2860,Badanie przeciwciał,Wyniki dostępne w ciągu 24 godzin.
+2861,Test PCR,Zalecane przy podejrzeniu infekcji.
+2862,Badanie poziomu witaminy D,Standardowe badanie diagnostyczne.
+2863,Test PCR,Badanie obrazowe wysokiej rozdzielczości.
+2864,Badanie tarczycy,Badanie obrazowe wysokiej rozdzielczości.
+2865,Badanie przeciwciał,Badanie obrazowe wysokiej rozdzielczości.
+2866,Lipidogram,Pomiar funkcji narządów wewnętrznych.
+2867,Badanie moczu,Badanie obrazowe wysokiej rozdzielczości.
+2868,Test PCR,Pomiar funkcji narządów wewnętrznych.
+2869,Badanie hormonalne,Stosowane w diagnostyce przewlekłych chorób.
+2870,RTG klatki piersiowej,Ocena stanu układu krążenia.
+2871,Echo serca,Wymaga przygotowania na czczo.
+2872,Test obciążenia glukozą,Ocena stanu układu krążenia.
+2873,Badanie moczu,Wyniki dostępne w ciągu 24 godzin.
+2874,Badanie hormonalne,Nieinwazyjne i bezbolesne.
+2875,Badanie okulistyczne,Badanie obrazowe wysokiej rozdzielczości.
+2876,Badanie okulistyczne,Stosowane w diagnostyce przewlekłych chorób.
+2877,Spirometria,Wskazanie do wykonania w ramach profilaktyki.
+2878,Badanie poziomu cukru,Standardowe badanie diagnostyczne.
+2879,Audiometria,Pomiar funkcji narządów wewnętrznych.
+2880,Badanie przeciwciał,Pomiar funkcji narządów wewnętrznych.
+2881,Morfologia krwi,Wyniki dostępne w ciągu 24 godzin.
+2882,Test obciążenia glukozą,Nieinwazyjne i bezbolesne.
+2883,Rezonans magnetyczny,Zalecane przy podejrzeniu infekcji.
+2884,Badanie okulistyczne,Wskazanie do wykonania w ramach profilaktyki.
+2885,RTG klatki piersiowej,Wyniki dostępne w ciągu 24 godzin.
+2886,Badanie przeciwciał,Badanie obrazowe wysokiej rozdzielczości.
+2887,Lipidogram,Zalecane przy podejrzeniu infekcji.
+2888,Holter EKG,Ocena stanu układu krążenia.
+2889,Badanie hormonalne,Wskazanie do wykonania w ramach profilaktyki.
+2890,Morfologia krwi,Ocena stanu układu krążenia.
+2891,Badanie poziomu cukru,Wymaga przygotowania na czczo.
+2892,Tomografia komputerowa,Standardowe badanie diagnostyczne.
+2893,Test PCR,Zalecane przy podejrzeniu infekcji.
+2894,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+2895,Test obciążenia glukozą,Standardowe badanie diagnostyczne.
+2896,Echo serca,Wymaga przygotowania na czczo.
+2897,Test obciążenia glukozą,Stosowane w diagnostyce przewlekłych chorób.
+2898,Tomografia komputerowa,Badanie obrazowe wysokiej rozdzielczości.
+2899,Badanie poziomu witaminy D,Zalecane przy podejrzeniu infekcji.
+2900,Badanie hormonalne,Stosowane w diagnostyce przewlekłych chorób.
+2901,Holter EKG,Nieinwazyjne i bezbolesne.
+2902,Echo serca,Zalecane przy podejrzeniu infekcji.
+2903,Holter EKG,Nieinwazyjne i bezbolesne.
+2904,Lipidogram,Pomiar funkcji narządów wewnętrznych.
+2905,Test PCR,Wymaga przygotowania na czczo.
+2906,Test PCR,Wymaga przygotowania na czczo.
+2907,Badanie tarczycy,Zalecane przy podejrzeniu infekcji.
+2908,Badanie tarczycy,Standardowe badanie diagnostyczne.
+2909,Holter EKG,Ocena stanu układu krążenia.
+2910,Gastroskopia,Stosowane w diagnostyce przewlekłych chorób.
+2911,Test alergiczny,Nieinwazyjne i bezbolesne.
+2912,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+2913,Gastroskopia,Nieinwazyjne i bezbolesne.
+2914,Morfologia krwi,Wymaga przygotowania na czczo.
+2915,Badanie okulistyczne,Stosowane w diagnostyce przewlekłych chorób.
+2916,Holter EKG,Wymaga przygotowania na czczo.
+2917,USG jamy brzusznej,Wymaga przygotowania na czczo.
+2918,Kolonoskopia,Wyniki dostępne w ciągu 24 godzin.
+2919,Badanie hormonalne,Stosowane w diagnostyce przewlekłych chorób.
+2920,Badanie okulistyczne,Standardowe badanie diagnostyczne.
+2921,EKG,Wyniki dostępne w ciągu 24 godzin.
+2922,Cytologia,Stosowane w diagnostyce przewlekłych chorób.
+2923,Badanie poziomu witaminy D,Ocena stanu układu krążenia.
+2924,Badanie tarczycy,Standardowe badanie diagnostyczne.
+2925,Badanie poziomu cukru,Stosowane w diagnostyce przewlekłych chorób.
+2926,Tomografia komputerowa,Zalecane przy podejrzeniu infekcji.
+2927,Badanie poziomu witaminy D,Pomiar funkcji narządów wewnętrznych.
+2928,Holter EKG,Wskazanie do wykonania w ramach profilaktyki.
+2929,Badanie moczu,Standardowe badanie diagnostyczne.
+2930,Cytologia,Wyniki dostępne w ciągu 24 godzin.
+2931,Badanie poziomu witaminy D,Badanie obrazowe wysokiej rozdzielczości.
+2932,Tomografia komputerowa,Wyniki dostępne w ciągu 24 godzin.
+2933,Badanie kału,Badanie obrazowe wysokiej rozdzielczości.
+2934,Spirometria,Wyniki dostępne w ciągu 24 godzin.
+2935,Badanie hormonalne,Wymaga przygotowania na czczo.
+2936,RTG klatki piersiowej,Nieinwazyjne i bezbolesne.
+2937,Badanie okulistyczne,Zalecane przy podejrzeniu infekcji.
+2938,Badanie tarczycy,Badanie obrazowe wysokiej rozdzielczości.
+2939,EKG,Ocena stanu układu krążenia.
+2940,Echo serca,Badanie obrazowe wysokiej rozdzielczości.
+2941,Morfologia krwi,Ocena stanu układu krążenia.
+2942,Badanie przeciwciał,Ocena stanu układu krążenia.
+2943,Badanie przeciwciał,Wyniki dostępne w ciągu 24 godzin.
+2944,Badanie hormonalne,Wymaga przygotowania na czczo.
+2945,Badanie hormonalne,Zalecane przy podejrzeniu infekcji.
+2946,Kolonoskopia,Badanie obrazowe wysokiej rozdzielczości.
+2947,Test obciążenia glukozą,Standardowe badanie diagnostyczne.
+2948,EKG,Ocena stanu układu krążenia.
+2949,Badanie przeciwciał,Wyniki dostępne w ciągu 24 godzin.
+2950,Test PCR,Stosowane w diagnostyce przewlekłych chorób.
+2951,Audiometria,Nieinwazyjne i bezbolesne.
+2952,Badanie przeciwciał,Badanie obrazowe wysokiej rozdzielczości.
+2953,USG jamy brzusznej,Pomiar funkcji narządów wewnętrznych.
+2954,Morfologia krwi,Wymaga przygotowania na czczo.
+2955,Badanie tarczycy,Standardowe badanie diagnostyczne.
+2956,EKG,Wskazanie do wykonania w ramach profilaktyki.
+2957,RTG klatki piersiowej,Stosowane w diagnostyce przewlekłych chorób.
+2958,Rezonans magnetyczny,Ocena stanu układu krążenia.
+2959,Badanie przeciwciał,Wyniki dostępne w ciągu 24 godzin.
+2960,RTG klatki piersiowej,Wskazanie do wykonania w ramach profilaktyki.
+2961,RTG klatki piersiowej,Wymaga przygotowania na czczo.
+2962,Morfologia krwi,Badanie obrazowe wysokiej rozdzielczości.
+2963,Badanie przeciwciał,Badanie obrazowe wysokiej rozdzielczości.
+2964,RTG klatki piersiowej,Badanie obrazowe wysokiej rozdzielczości.
+2965,Badanie przeciwciał,Zalecane przy podejrzeniu infekcji.
+2966,Badanie tarczycy,Nieinwazyjne i bezbolesne.
+2967,Badanie poziomu cukru,Nieinwazyjne i bezbolesne.
+2968,Spirometria,Nieinwazyjne i bezbolesne.
+2969,Badanie poziomu witaminy D,Ocena stanu układu krążenia.
+2970,Holter EKG,Nieinwazyjne i bezbolesne.
+2971,Badanie przeciwciał,Wyniki dostępne w ciągu 24 godzin.
+2972,Gastroskopia,Badanie obrazowe wysokiej rozdzielczości.
+2973,Kolonoskopia,Standardowe badanie diagnostyczne.
+2974,Badanie hormonalne,Standardowe badanie diagnostyczne.
+2975,Badanie tarczycy,Nieinwazyjne i bezbolesne.
+2976,Spirometria,Badanie obrazowe wysokiej rozdzielczości.
+2977,Badanie hormonalne,Stosowane w diagnostyce przewlekłych chorób.
+2978,Kolonoskopia,Stosowane w diagnostyce przewlekłych chorób.
+2979,Tomografia komputerowa,Wskazanie do wykonania w ramach profilaktyki.
+2980,Badanie przeciwciał,Wyniki dostępne w ciągu 24 godzin.
+2981,USG jamy brzusznej,Zalecane przy podejrzeniu infekcji.
+2982,Lipidogram,Badanie obrazowe wysokiej rozdzielczości.
+2983,Morfologia krwi,Ocena stanu układu krążenia.
+2984,Test obciążenia glukozą,Zalecane przy podejrzeniu infekcji.
+2985,Audiometria,Stosowane w diagnostyce przewlekłych chorób.
+2986,Badanie poziomu cukru,Zalecane przy podejrzeniu infekcji.
+2987,Tomografia komputerowa,Wskazanie do wykonania w ramach profilaktyki.
+2988,Badanie poziomu cukru,Ocena stanu układu krążenia.
+2989,Rezonans magnetyczny,Standardowe badanie diagnostyczne.
+2990,Holter EKG,Standardowe badanie diagnostyczne.
+2991,Spirometria,Nieinwazyjne i bezbolesne.
+2992,Morfologia krwi,Wymaga przygotowania na czczo.
+2993,Badanie poziomu witaminy D,Zalecane przy podejrzeniu infekcji.
+2994,Badanie tarczycy,Standardowe badanie diagnostyczne.
+2995,Badanie przeciwciał,Nieinwazyjne i bezbolesne.
+2996,Lipidogram,Wymaga przygotowania na czczo.
+2997,Badanie hormonalne,Wyniki dostępne w ciągu 24 godzin.
+2998,Test alergiczny,Wyniki dostępne w ciągu 24 godzin.
+2999,Badanie moczu,Pomiar funkcji narządów wewnętrznych.
+3000,Badanie poziomu witaminy D,Ocena stanu układu krążenia.

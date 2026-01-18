@@ -1,0 +1,15 @@
+LOAD DATA
+CHARACTERSET AL32UTF8
+INFILE 'CSV/leki.csv'
+BADFILE 'CTL/BAD/leki.bad'
+DISCARDFILE 'CTL/BAD/leki.dsc'
+INTO TABLE leki
+APPEND
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+TRAILING NULLCOLS
+(
+  id_leku,
+  nazwa,
+  dawkowanie,
+  opis
+)

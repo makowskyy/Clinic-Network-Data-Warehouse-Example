@@ -1,0 +1,3001 @@
+id_badania,nazwa
+1,USG jamy brzusznej
+2,Cytologia
+3,Badanie przeciwciał
+4,RTG klatki piersiowej
+5,Badanie poziomu witaminy D
+6,Badanie kału
+7,Test alergiczny
+8,Badanie okulistyczne
+9,RTG klatki piersiowej
+10,Badanie poziomu witaminy D
+11,Kolonoskopia
+12,Spirometria
+13,Test alergiczny
+14,Badanie kału
+15,Badanie kału
+16,Morfologia krwi
+17,Badanie okulistyczne
+18,Spirometria
+19,Badanie okulistyczne
+20,Badanie tarczycy
+21,Spirometria
+22,Spirometria
+23,Lipidogram
+24,Tomografia komputerowa
+25,Test alergiczny
+26,Badanie hormonalne
+27,Test alergiczny
+28,Lipidogram
+29,Holter EKG
+30,Holter EKG
+31,Badanie okulistyczne
+32,Echo serca
+33,Badanie poziomu witaminy D
+34,Badanie tarczycy
+35,EKG
+36,Badanie przeciwciał
+37,Badanie kału
+38,EKG
+39,Holter EKG
+40,Spirometria
+41,Badanie hormonalne
+42,Holter EKG
+43,Badanie poziomu witaminy D
+44,Test obciążenia glukozą
+45,Test obciążenia glukozą
+46,Spirometria
+47,Test PCR
+48,RTG klatki piersiowej
+49,Kolonoskopia
+50,Test obciążenia glukozą
+51,Echo serca
+52,Test alergiczny
+53,Badanie hormonalne
+54,Test alergiczny
+55,Badanie kału
+56,USG jamy brzusznej
+57,Holter EKG
+58,Badanie okulistyczne
+59,Tomografia komputerowa
+60,Rezonans magnetyczny
+61,Holter EKG
+62,Test obciążenia glukozą
+63,Tomografia komputerowa
+64,Badanie kału
+65,Test obciążenia glukozą
+66,Rezonans magnetyczny
+67,Badanie przeciwciał
+68,Echo serca
+69,Badanie poziomu cukru
+70,Test obciążenia glukozą
+71,Tomografia komputerowa
+72,Spirometria
+73,Badanie okulistyczne
+74,Holter EKG
+75,Tomografia komputerowa
+76,EKG
+77,EKG
+78,Tomografia komputerowa
+79,Tomografia komputerowa
+80,Morfologia krwi
+81,Badanie okulistyczne
+82,Badanie poziomu cukru
+83,Lipidogram
+84,EKG
+85,Morfologia krwi
+86,Badanie przeciwciał
+87,Badanie hormonalne
+88,Badanie hormonalne
+89,Badanie okulistyczne
+90,EKG
+91,Holter EKG
+92,Gastroskopia
+93,Cytologia
+94,USG jamy brzusznej
+95,RTG klatki piersiowej
+96,Holter EKG
+97,Kolonoskopia
+98,Badanie przeciwciał
+99,Test obciążenia glukozą
+100,Test PCR
+101,Echo serca
+102,Lipidogram
+103,Badanie przeciwciał
+104,Badanie moczu
+105,Gastroskopia
+106,Test obciążenia glukozą
+107,Badanie hormonalne
+108,RTG klatki piersiowej
+109,Badanie moczu
+110,Badanie tarczycy
+111,Tomografia komputerowa
+112,Cytologia
+113,Kolonoskopia
+114,Badanie poziomu cukru
+115,USG jamy brzusznej
+116,Morfologia krwi
+117,Lipidogram
+118,Badanie hormonalne
+119,Lipidogram
+120,USG jamy brzusznej
+121,Morfologia krwi
+122,Cytologia
+123,USG jamy brzusznej
+124,Badanie okulistyczne
+125,Gastroskopia
+126,Badanie tarczycy
+127,Kolonoskopia
+128,Badanie poziomu cukru
+129,Test obciążenia glukozą
+130,Test PCR
+131,Echo serca
+132,Spirometria
+133,Morfologia krwi
+134,Test PCR
+135,Test PCR
+136,Lipidogram
+137,Holter EKG
+138,Gastroskopia
+139,Rezonans magnetyczny
+140,Holter EKG
+141,Test obciążenia glukozą
+142,Badanie poziomu cukru
+143,Badanie poziomu cukru
+144,Badanie tarczycy
+145,Spirometria
+146,Holter EKG
+147,Holter EKG
+148,Spirometria
+149,EKG
+150,Spirometria
+151,Badanie poziomu witaminy D
+152,Cytologia
+153,Cytologia
+154,Lipidogram
+155,Cytologia
+156,USG jamy brzusznej
+157,Badanie tarczycy
+158,Morfologia krwi
+159,Badanie kału
+160,Morfologia krwi
+161,Rezonans magnetyczny
+162,Badanie okulistyczne
+163,Badanie tarczycy
+164,Test obciążenia glukozą
+165,Tomografia komputerowa
+166,Morfologia krwi
+167,USG jamy brzusznej
+168,Morfologia krwi
+169,Cytologia
+170,USG jamy brzusznej
+171,Cytologia
+172,Spirometria
+173,EKG
+174,Echo serca
+175,Gastroskopia
+176,Badanie hormonalne
+177,Echo serca
+178,Badanie poziomu cukru
+179,Tomografia komputerowa
+180,EKG
+181,Badanie hormonalne
+182,Rezonans magnetyczny
+183,USG jamy brzusznej
+184,Badanie okulistyczne
+185,Badanie poziomu cukru
+186,Lipidogram
+187,Tomografia komputerowa
+188,Rezonans magnetyczny
+189,Echo serca
+190,Spirometria
+191,USG jamy brzusznej
+192,RTG klatki piersiowej
+193,Audiometria
+194,Test alergiczny
+195,EKG
+196,Cytologia
+197,Cytologia
+198,RTG klatki piersiowej
+199,Lipidogram
+200,Rezonans magnetyczny
+201,Test obciążenia glukozą
+202,Rezonans magnetyczny
+203,Echo serca
+204,Badanie okulistyczne
+205,Morfologia krwi
+206,USG jamy brzusznej
+207,Badanie kału
+208,Lipidogram
+209,RTG klatki piersiowej
+210,Tomografia komputerowa
+211,Rezonans magnetyczny
+212,Echo serca
+213,Spirometria
+214,Holter EKG
+215,Kolonoskopia
+216,Morfologia krwi
+217,USG jamy brzusznej
+218,Spirometria
+219,Tomografia komputerowa
+220,Badanie okulistyczne
+221,Badanie okulistyczne
+222,Badanie kału
+223,Rezonans magnetyczny
+224,USG jamy brzusznej
+225,Holter EKG
+226,Morfologia krwi
+227,USG jamy brzusznej
+228,Cytologia
+229,Badanie przeciwciał
+230,USG jamy brzusznej
+231,Test obciążenia glukozą
+232,Morfologia krwi
+233,Tomografia komputerowa
+234,EKG
+235,Kolonoskopia
+236,Lipidogram
+237,Audiometria
+238,Audiometria
+239,Badanie kału
+240,RTG klatki piersiowej
+241,Rezonans magnetyczny
+242,RTG klatki piersiowej
+243,Badanie tarczycy
+244,Lipidogram
+245,Kolonoskopia
+246,Morfologia krwi
+247,Test alergiczny
+248,Spirometria
+249,Gastroskopia
+250,Badanie okulistyczne
+251,Badanie okulistyczne
+252,Badanie kału
+253,Test obciążenia glukozą
+254,Badanie tarczycy
+255,Test obciążenia glukozą
+256,Test obciążenia glukozą
+257,Lipidogram
+258,Rezonans magnetyczny
+259,Test alergiczny
+260,Echo serca
+261,Lipidogram
+262,Badanie poziomu witaminy D
+263,Rezonans magnetyczny
+264,Badanie moczu
+265,Holter EKG
+266,Badanie moczu
+267,RTG klatki piersiowej
+268,Kolonoskopia
+269,Rezonans magnetyczny
+270,Test PCR
+271,Badanie hormonalne
+272,Badanie poziomu cukru
+273,Badanie hormonalne
+274,USG jamy brzusznej
+275,Gastroskopia
+276,Audiometria
+277,Badanie tarczycy
+278,Spirometria
+279,Kolonoskopia
+280,Lipidogram
+281,RTG klatki piersiowej
+282,Test alergiczny
+283,Lipidogram
+284,Audiometria
+285,Badanie tarczycy
+286,Test obciążenia glukozą
+287,Badanie kału
+288,Gastroskopia
+289,Spirometria
+290,Holter EKG
+291,Tomografia komputerowa
+292,Badanie kału
+293,Badanie przeciwciał
+294,Badanie poziomu cukru
+295,Holter EKG
+296,Kolonoskopia
+297,RTG klatki piersiowej
+298,Badanie tarczycy
+299,Badanie okulistyczne
+300,Badanie poziomu cukru
+301,Badanie tarczycy
+302,Kolonoskopia
+303,USG jamy brzusznej
+304,Badanie poziomu cukru
+305,Badanie moczu
+306,Tomografia komputerowa
+307,Badanie poziomu witaminy D
+308,Holter EKG
+309,Test PCR
+310,EKG
+311,Echo serca
+312,Audiometria
+313,Badanie hormonalne
+314,EKG
+315,EKG
+316,EKG
+317,Test PCR
+318,Badanie poziomu cukru
+319,Badanie poziomu witaminy D
+320,Rezonans magnetyczny
+321,Gastroskopia
+322,Badanie hormonalne
+323,RTG klatki piersiowej
+324,Tomografia komputerowa
+325,Badanie poziomu cukru
+326,Cytologia
+327,Kolonoskopia
+328,Badanie okulistyczne
+329,Badanie hormonalne
+330,Morfologia krwi
+331,Badanie hormonalne
+332,Tomografia komputerowa
+333,Kolonoskopia
+334,Cytologia
+335,Morfologia krwi
+336,Lipidogram
+337,USG jamy brzusznej
+338,EKG
+339,Badanie moczu
+340,Cytologia
+341,Test alergiczny
+342,Badanie przeciwciał
+343,Kolonoskopia
+344,Badanie tarczycy
+345,RTG klatki piersiowej
+346,EKG
+347,Badanie okulistyczne
+348,Rezonans magnetyczny
+349,Badanie poziomu witaminy D
+350,RTG klatki piersiowej
+351,Badanie okulistyczne
+352,Badanie hormonalne
+353,Badanie przeciwciał
+354,Badanie kału
+355,RTG klatki piersiowej
+356,Badanie poziomu cukru
+357,Badanie hormonalne
+358,Badanie moczu
+359,Test PCR
+360,Badanie moczu
+361,EKG
+362,Test alergiczny
+363,Rezonans magnetyczny
+364,Badanie moczu
+365,RTG klatki piersiowej
+366,Badanie poziomu witaminy D
+367,USG jamy brzusznej
+368,Holter EKG
+369,Badanie przeciwciał
+370,EKG
+371,Badanie przeciwciał
+372,Badanie poziomu witaminy D
+373,Tomografia komputerowa
+374,Cytologia
+375,Test PCR
+376,Cytologia
+377,Kolonoskopia
+378,RTG klatki piersiowej
+379,Badanie poziomu cukru
+380,RTG klatki piersiowej
+381,Lipidogram
+382,Test obciążenia glukozą
+383,Morfologia krwi
+384,Badanie poziomu cukru
+385,Lipidogram
+386,RTG klatki piersiowej
+387,Holter EKG
+388,Badanie okulistyczne
+389,Echo serca
+390,RTG klatki piersiowej
+391,Echo serca
+392,Test alergiczny
+393,Badanie okulistyczne
+394,Badanie hormonalne
+395,Test obciążenia glukozą
+396,Gastroskopia
+397,Badanie okulistyczne
+398,Badanie kału
+399,Morfologia krwi
+400,Echo serca
+401,Badanie poziomu cukru
+402,Kolonoskopia
+403,Morfologia krwi
+404,Tomografia komputerowa
+405,Morfologia krwi
+406,Echo serca
+407,Badanie poziomu cukru
+408,Test alergiczny
+409,Badanie poziomu cukru
+410,Gastroskopia
+411,Badanie tarczycy
+412,Test alergiczny
+413,Test obciążenia glukozą
+414,Badanie przeciwciał
+415,Badanie hormonalne
+416,Badanie okulistyczne
+417,Badanie kału
+418,Gastroskopia
+419,EKG
+420,Morfologia krwi
+421,Test obciążenia glukozą
+422,Badanie przeciwciał
+423,Badanie hormonalne
+424,Cytologia
+425,Morfologia krwi
+426,Holter EKG
+427,Spirometria
+428,Badanie kału
+429,Rezonans magnetyczny
+430,USG jamy brzusznej
+431,Badanie poziomu cukru
+432,Badanie kału
+433,Badanie poziomu witaminy D
+434,Gastroskopia
+435,Badanie tarczycy
+436,Test PCR
+437,Holter EKG
+438,Badanie tarczycy
+439,Test obciążenia glukozą
+440,USG jamy brzusznej
+441,Test obciążenia glukozą
+442,Test PCR
+443,Gastroskopia
+444,Badanie poziomu cukru
+445,Badanie kału
+446,Lipidogram
+447,Morfologia krwi
+448,Badanie tarczycy
+449,Cytologia
+450,Tomografia komputerowa
+451,Test alergiczny
+452,Badanie tarczycy
+453,Badanie okulistyczne
+454,Rezonans magnetyczny
+455,Badanie tarczycy
+456,USG jamy brzusznej
+457,Tomografia komputerowa
+458,Badanie okulistyczne
+459,Morfologia krwi
+460,Badanie moczu
+461,Badanie okulistyczne
+462,EKG
+463,Audiometria
+464,USG jamy brzusznej
+465,Spirometria
+466,Spirometria
+467,Echo serca
+468,Badanie hormonalne
+469,Test obciążenia glukozą
+470,Lipidogram
+471,Test PCR
+472,Spirometria
+473,Badanie moczu
+474,Cytologia
+475,Holter EKG
+476,USG jamy brzusznej
+477,Kolonoskopia
+478,Audiometria
+479,Badanie okulistyczne
+480,Tomografia komputerowa
+481,Badanie poziomu cukru
+482,Spirometria
+483,Badanie okulistyczne
+484,Test PCR
+485,Badanie kału
+486,Holter EKG
+487,Badanie moczu
+488,Holter EKG
+489,Badanie poziomu witaminy D
+490,Spirometria
+491,Echo serca
+492,Spirometria
+493,Kolonoskopia
+494,RTG klatki piersiowej
+495,Spirometria
+496,Tomografia komputerowa
+497,Tomografia komputerowa
+498,RTG klatki piersiowej
+499,Holter EKG
+500,Badanie poziomu witaminy D
+501,Holter EKG
+502,Badanie przeciwciał
+503,Rezonans magnetyczny
+504,RTG klatki piersiowej
+505,USG jamy brzusznej
+506,Test alergiczny
+507,Test alergiczny
+508,Audiometria
+509,Audiometria
+510,Audiometria
+511,USG jamy brzusznej
+512,Cytologia
+513,Badanie poziomu witaminy D
+514,Badanie okulistyczne
+515,Badanie hormonalne
+516,Audiometria
+517,Rezonans magnetyczny
+518,Badanie przeciwciał
+519,RTG klatki piersiowej
+520,Badanie okulistyczne
+521,Badanie kału
+522,Rezonans magnetyczny
+523,Echo serca
+524,Rezonans magnetyczny
+525,Badanie kału
+526,Badanie okulistyczne
+527,RTG klatki piersiowej
+528,Spirometria
+529,Lipidogram
+530,RTG klatki piersiowej
+531,Test alergiczny
+532,Badanie moczu
+533,Badanie hormonalne
+534,Cytologia
+535,Badanie kału
+536,Badanie tarczycy
+537,Cytologia
+538,Test obciążenia glukozą
+539,Badanie poziomu witaminy D
+540,Badanie kału
+541,Test PCR
+542,Badanie hormonalne
+543,Badanie przeciwciał
+544,Badanie poziomu witaminy D
+545,Lipidogram
+546,Echo serca
+547,Badanie poziomu cukru
+548,RTG klatki piersiowej
+549,Test obciążenia glukozą
+550,Badanie moczu
+551,Morfologia krwi
+552,Badanie kału
+553,Test alergiczny
+554,Badanie poziomu witaminy D
+555,Badanie poziomu cukru
+556,Rezonans magnetyczny
+557,USG jamy brzusznej
+558,EKG
+559,Echo serca
+560,Spirometria
+561,Cytologia
+562,Holter EKG
+563,Lipidogram
+564,Badanie tarczycy
+565,Badanie poziomu cukru
+566,Badanie okulistyczne
+567,Rezonans magnetyczny
+568,Test obciążenia glukozą
+569,Badanie poziomu cukru
+570,Cytologia
+571,Gastroskopia
+572,Gastroskopia
+573,Gastroskopia
+574,Badanie tarczycy
+575,Badanie poziomu cukru
+576,Badanie hormonalne
+577,Badanie poziomu witaminy D
+578,Badanie okulistyczne
+579,Test obciążenia glukozą
+580,Cytologia
+581,Gastroskopia
+582,Badanie poziomu cukru
+583,Badanie tarczycy
+584,Rezonans magnetyczny
+585,Badanie poziomu cukru
+586,Lipidogram
+587,USG jamy brzusznej
+588,Rezonans magnetyczny
+589,Badanie moczu
+590,Badanie hormonalne
+591,Audiometria
+592,Badanie przeciwciał
+593,Badanie okulistyczne
+594,Test alergiczny
+595,EKG
+596,Spirometria
+597,Holter EKG
+598,Badanie poziomu witaminy D
+599,EKG
+600,Lipidogram
+601,Badanie przeciwciał
+602,Audiometria
+603,Badanie okulistyczne
+604,Badanie hormonalne
+605,Test obciążenia glukozą
+606,Test alergiczny
+607,Badanie moczu
+608,Kolonoskopia
+609,Rezonans magnetyczny
+610,Badanie tarczycy
+611,Cytologia
+612,Cytologia
+613,Badanie kału
+614,Badanie kału
+615,Badanie moczu
+616,Badanie okulistyczne
+617,USG jamy brzusznej
+618,Badanie okulistyczne
+619,Badanie hormonalne
+620,Echo serca
+621,Morfologia krwi
+622,Audiometria
+623,Cytologia
+624,Test PCR
+625,Badanie okulistyczne
+626,Badanie hormonalne
+627,Echo serca
+628,Badanie tarczycy
+629,Test obciążenia glukozą
+630,Audiometria
+631,Badanie moczu
+632,Badanie kału
+633,Cytologia
+634,Echo serca
+635,Badanie poziomu cukru
+636,Audiometria
+637,Test PCR
+638,Badanie poziomu cukru
+639,Lipidogram
+640,Test alergiczny
+641,USG jamy brzusznej
+642,Kolonoskopia
+643,Cytologia
+644,Holter EKG
+645,Test obciążenia glukozą
+646,Badanie poziomu witaminy D
+647,Spirometria
+648,Kolonoskopia
+649,Test PCR
+650,Badanie poziomu witaminy D
+651,Kolonoskopia
+652,Test obciążenia glukozą
+653,Badanie poziomu cukru
+654,Badanie tarczycy
+655,EKG
+656,Morfologia krwi
+657,Test alergiczny
+658,Badanie kału
+659,Test PCR
+660,EKG
+661,Tomografia komputerowa
+662,EKG
+663,RTG klatki piersiowej
+664,Badanie przeciwciał
+665,Test obciążenia glukozą
+666,Badanie kału
+667,Lipidogram
+668,Gastroskopia
+669,Gastroskopia
+670,Badanie okulistyczne
+671,Badanie tarczycy
+672,Lipidogram
+673,Badanie hormonalne
+674,Badanie kału
+675,Badanie hormonalne
+676,Morfologia krwi
+677,Badanie przeciwciał
+678,Echo serca
+679,Cytologia
+680,Rezonans magnetyczny
+681,USG jamy brzusznej
+682,Audiometria
+683,Badanie tarczycy
+684,Holter EKG
+685,Kolonoskopia
+686,Badanie moczu
+687,Badanie hormonalne
+688,Audiometria
+689,Lipidogram
+690,Badanie tarczycy
+691,Test alergiczny
+692,RTG klatki piersiowej
+693,Echo serca
+694,Badanie przeciwciał
+695,Badanie przeciwciał
+696,Badanie okulistyczne
+697,Lipidogram
+698,Audiometria
+699,Badanie kału
+700,Badanie tarczycy
+701,Rezonans magnetyczny
+702,Lipidogram
+703,Badanie hormonalne
+704,Lipidogram
+705,Badanie moczu
+706,Morfologia krwi
+707,Test alergiczny
+708,Badanie przeciwciał
+709,Test PCR
+710,Rezonans magnetyczny
+711,Holter EKG
+712,Morfologia krwi
+713,Kolonoskopia
+714,Badanie hormonalne
+715,RTG klatki piersiowej
+716,Rezonans magnetyczny
+717,Badanie hormonalne
+718,Audiometria
+719,USG jamy brzusznej
+720,Tomografia komputerowa
+721,Badanie tarczycy
+722,EKG
+723,Morfologia krwi
+724,Gastroskopia
+725,Test obciążenia glukozą
+726,Test PCR
+727,Test PCR
+728,Spirometria
+729,Echo serca
+730,RTG klatki piersiowej
+731,EKG
+732,Badanie poziomu cukru
+733,Cytologia
+734,Badanie okulistyczne
+735,Spirometria
+736,Tomografia komputerowa
+737,Badanie poziomu witaminy D
+738,Test obciążenia glukozą
+739,Badanie kału
+740,Rezonans magnetyczny
+741,Badanie poziomu witaminy D
+742,Badanie hormonalne
+743,Badanie kału
+744,Tomografia komputerowa
+745,Badanie przeciwciał
+746,Badanie kału
+747,Badanie moczu
+748,Badanie poziomu witaminy D
+749,Tomografia komputerowa
+750,Gastroskopia
+751,Echo serca
+752,Cytologia
+753,Rezonans magnetyczny
+754,Lipidogram
+755,USG jamy brzusznej
+756,Cytologia
+757,Echo serca
+758,USG jamy brzusznej
+759,Holter EKG
+760,RTG klatki piersiowej
+761,Tomografia komputerowa
+762,Badanie poziomu witaminy D
+763,EKG
+764,Tomografia komputerowa
+765,Badanie poziomu cukru
+766,EKG
+767,Echo serca
+768,Rezonans magnetyczny
+769,EKG
+770,Badanie przeciwciał
+771,Badanie kału
+772,Badanie hormonalne
+773,Badanie przeciwciał
+774,Badanie okulistyczne
+775,Echo serca
+776,Badanie okulistyczne
+777,Holter EKG
+778,Test PCR
+779,Echo serca
+780,Kolonoskopia
+781,Test PCR
+782,Rezonans magnetyczny
+783,Badanie moczu
+784,Badanie okulistyczne
+785,Rezonans magnetyczny
+786,Badanie okulistyczne
+787,Morfologia krwi
+788,Test PCR
+789,Gastroskopia
+790,Rezonans magnetyczny
+791,Holter EKG
+792,Rezonans magnetyczny
+793,Tomografia komputerowa
+794,Badanie poziomu cukru
+795,Badanie poziomu cukru
+796,Badanie poziomu witaminy D
+797,Badanie moczu
+798,Badanie przeciwciał
+799,Badanie poziomu cukru
+800,Badanie przeciwciał
+801,Badanie kału
+802,Badanie przeciwciał
+803,Holter EKG
+804,Test alergiczny
+805,Badanie hormonalne
+806,Test alergiczny
+807,Badanie kału
+808,Echo serca
+809,Badanie kału
+810,Gastroskopia
+811,Badanie przeciwciał
+812,Kolonoskopia
+813,Morfologia krwi
+814,Badanie kału
+815,Tomografia komputerowa
+816,Badanie hormonalne
+817,Spirometria
+818,Badanie hormonalne
+819,Badanie kału
+820,Audiometria
+821,Badanie hormonalne
+822,Badanie poziomu cukru
+823,Kolonoskopia
+824,Echo serca
+825,Cytologia
+826,Test alergiczny
+827,USG jamy brzusznej
+828,Badanie przeciwciał
+829,Cytologia
+830,Lipidogram
+831,USG jamy brzusznej
+832,Test obciążenia glukozą
+833,Kolonoskopia
+834,Test alergiczny
+835,Test obciążenia glukozą
+836,Test obciążenia glukozą
+837,Test obciążenia glukozą
+838,Test obciążenia glukozą
+839,Badanie tarczycy
+840,Echo serca
+841,Tomografia komputerowa
+842,Echo serca
+843,Rezonans magnetyczny
+844,Test alergiczny
+845,Lipidogram
+846,Badanie hormonalne
+847,USG jamy brzusznej
+848,Badanie przeciwciał
+849,EKG
+850,Audiometria
+851,Rezonans magnetyczny
+852,USG jamy brzusznej
+853,Test obciążenia glukozą
+854,Test PCR
+855,Badanie poziomu witaminy D
+856,Badanie tarczycy
+857,Test obciążenia glukozą
+858,Badanie poziomu cukru
+859,Test obciążenia glukozą
+860,Echo serca
+861,USG jamy brzusznej
+862,Lipidogram
+863,Echo serca
+864,USG jamy brzusznej
+865,Test PCR
+866,Rezonans magnetyczny
+867,Badanie przeciwciał
+868,Badanie hormonalne
+869,Badanie tarczycy
+870,Badanie okulistyczne
+871,Spirometria
+872,Badanie poziomu witaminy D
+873,Badanie przeciwciał
+874,Lipidogram
+875,Badanie kału
+876,Badanie przeciwciał
+877,Badanie okulistyczne
+878,Badanie moczu
+879,Badanie poziomu witaminy D
+880,Badanie przeciwciał
+881,Kolonoskopia
+882,Badanie moczu
+883,Spirometria
+884,Badanie przeciwciał
+885,Tomografia komputerowa
+886,EKG
+887,RTG klatki piersiowej
+888,EKG
+889,USG jamy brzusznej
+890,Morfologia krwi
+891,Echo serca
+892,Test alergiczny
+893,Test obciążenia glukozą
+894,Gastroskopia
+895,Morfologia krwi
+896,Morfologia krwi
+897,Lipidogram
+898,Badanie tarczycy
+899,Gastroskopia
+900,Holter EKG
+901,Echo serca
+902,Gastroskopia
+903,Badanie tarczycy
+904,Badanie tarczycy
+905,USG jamy brzusznej
+906,Badanie moczu
+907,Cytologia
+908,Badanie okulistyczne
+909,Test alergiczny
+910,RTG klatki piersiowej
+911,Lipidogram
+912,Cytologia
+913,Badanie okulistyczne
+914,Echo serca
+915,RTG klatki piersiowej
+916,Audiometria
+917,Test alergiczny
+918,Lipidogram
+919,Tomografia komputerowa
+920,Badanie tarczycy
+921,EKG
+922,Badanie przeciwciał
+923,Rezonans magnetyczny
+924,Badanie okulistyczne
+925,Badanie kału
+926,Badanie moczu
+927,Badanie okulistyczne
+928,Test obciążenia glukozą
+929,Audiometria
+930,Tomografia komputerowa
+931,Cytologia
+932,Tomografia komputerowa
+933,Tomografia komputerowa
+934,Lipidogram
+935,Lipidogram
+936,Badanie kału
+937,Kolonoskopia
+938,Gastroskopia
+939,Badanie poziomu witaminy D
+940,Test obciążenia glukozą
+941,Badanie poziomu witaminy D
+942,Cytologia
+943,Lipidogram
+944,Badanie kału
+945,Kolonoskopia
+946,Gastroskopia
+947,Gastroskopia
+948,USG jamy brzusznej
+949,Badanie poziomu witaminy D
+950,Badanie poziomu cukru
+951,Badanie poziomu witaminy D
+952,Badanie kału
+953,Badanie kału
+954,Test alergiczny
+955,Badanie tarczycy
+956,Badanie kału
+957,Test alergiczny
+958,Test alergiczny
+959,Spirometria
+960,Tomografia komputerowa
+961,Badanie kału
+962,Test obciążenia glukozą
+963,Spirometria
+964,Rezonans magnetyczny
+965,Audiometria
+966,Audiometria
+967,Test obciążenia glukozą
+968,Badanie przeciwciał
+969,Test obciążenia glukozą
+970,EKG
+971,Tomografia komputerowa
+972,Morfologia krwi
+973,Badanie tarczycy
+974,RTG klatki piersiowej
+975,EKG
+976,Test PCR
+977,Echo serca
+978,Gastroskopia
+979,Cytologia
+980,Gastroskopia
+981,Cytologia
+982,Echo serca
+983,Rezonans magnetyczny
+984,RTG klatki piersiowej
+985,Morfologia krwi
+986,Gastroskopia
+987,Test obciążenia glukozą
+988,Gastroskopia
+989,USG jamy brzusznej
+990,Audiometria
+991,Badanie kału
+992,RTG klatki piersiowej
+993,Rezonans magnetyczny
+994,EKG
+995,Test PCR
+996,Badanie moczu
+997,Kolonoskopia
+998,Cytologia
+999,Badanie okulistyczne
+1000,Badanie poziomu cukru
+1001,Kolonoskopia
+1002,Kolonoskopia
+1003,Morfologia krwi
+1004,Lipidogram
+1005,Test obciążenia glukozą
+1006,Badanie moczu
+1007,Test alergiczny
+1008,Holter EKG
+1009,Badanie moczu
+1010,Badanie okulistyczne
+1011,Badanie poziomu cukru
+1012,Badanie kału
+1013,USG jamy brzusznej
+1014,Holter EKG
+1015,Cytologia
+1016,Badanie moczu
+1017,Tomografia komputerowa
+1018,Lipidogram
+1019,Badanie hormonalne
+1020,RTG klatki piersiowej
+1021,Badanie moczu
+1022,Badanie tarczycy
+1023,Tomografia komputerowa
+1024,Lipidogram
+1025,Badanie przeciwciał
+1026,Morfologia krwi
+1027,Badanie kału
+1028,Badanie okulistyczne
+1029,Lipidogram
+1030,Audiometria
+1031,Holter EKG
+1032,RTG klatki piersiowej
+1033,Badanie przeciwciał
+1034,Badanie okulistyczne
+1035,Test obciążenia glukozą
+1036,Badanie poziomu cukru
+1037,RTG klatki piersiowej
+1038,Badanie przeciwciał
+1039,Badanie przeciwciał
+1040,Badanie tarczycy
+1041,USG jamy brzusznej
+1042,Test alergiczny
+1043,RTG klatki piersiowej
+1044,Badanie moczu
+1045,RTG klatki piersiowej
+1046,Badanie kału
+1047,Cytologia
+1048,Tomografia komputerowa
+1049,Holter EKG
+1050,Test alergiczny
+1051,Badanie poziomu cukru
+1052,Tomografia komputerowa
+1053,Test PCR
+1054,Audiometria
+1055,Badanie moczu
+1056,Rezonans magnetyczny
+1057,Rezonans magnetyczny
+1058,Badanie kału
+1059,Rezonans magnetyczny
+1060,Rezonans magnetyczny
+1061,Badanie poziomu cukru
+1062,EKG
+1063,Badanie moczu
+1064,Badanie kału
+1065,Badanie kału
+1066,Test alergiczny
+1067,Badanie tarczycy
+1068,USG jamy brzusznej
+1069,Badanie hormonalne
+1070,Badanie tarczycy
+1071,Morfologia krwi
+1072,Lipidogram
+1073,Test PCR
+1074,Badanie poziomu witaminy D
+1075,Cytologia
+1076,Badanie kału
+1077,Tomografia komputerowa
+1078,Badanie przeciwciał
+1079,Badanie moczu
+1080,USG jamy brzusznej
+1081,Badanie kału
+1082,Holter EKG
+1083,Echo serca
+1084,Badanie kału
+1085,Badanie moczu
+1086,Badanie okulistyczne
+1087,RTG klatki piersiowej
+1088,Holter EKG
+1089,Badanie tarczycy
+1090,Test obciążenia glukozą
+1091,USG jamy brzusznej
+1092,Badanie okulistyczne
+1093,Tomografia komputerowa
+1094,Gastroskopia
+1095,Cytologia
+1096,Badanie tarczycy
+1097,Test alergiczny
+1098,Badanie tarczycy
+1099,Echo serca
+1100,Kolonoskopia
+1101,Lipidogram
+1102,Badanie poziomu witaminy D
+1103,Tomografia komputerowa
+1104,RTG klatki piersiowej
+1105,Cytologia
+1106,Badanie kału
+1107,Badanie tarczycy
+1108,Badanie hormonalne
+1109,Badanie przeciwciał
+1110,Kolonoskopia
+1111,USG jamy brzusznej
+1112,Rezonans magnetyczny
+1113,Badanie poziomu witaminy D
+1114,Test obciążenia glukozą
+1115,Badanie poziomu cukru
+1116,Test PCR
+1117,Gastroskopia
+1118,Spirometria
+1119,Badanie kału
+1120,Badanie kału
+1121,Badanie tarczycy
+1122,Test PCR
+1123,Tomografia komputerowa
+1124,Rezonans magnetyczny
+1125,USG jamy brzusznej
+1126,EKG
+1127,Badanie tarczycy
+1128,RTG klatki piersiowej
+1129,Badanie okulistyczne
+1130,Badanie okulistyczne
+1131,Lipidogram
+1132,RTG klatki piersiowej
+1133,Badanie tarczycy
+1134,Echo serca
+1135,Badanie okulistyczne
+1136,Badanie przeciwciał
+1137,Badanie poziomu witaminy D
+1138,Cytologia
+1139,Test obciążenia glukozą
+1140,Badanie poziomu witaminy D
+1141,Badanie okulistyczne
+1142,Tomografia komputerowa
+1143,Kolonoskopia
+1144,Echo serca
+1145,Tomografia komputerowa
+1146,Rezonans magnetyczny
+1147,Badanie poziomu cukru
+1148,Badanie kału
+1149,Holter EKG
+1150,Tomografia komputerowa
+1151,Morfologia krwi
+1152,Gastroskopia
+1153,Rezonans magnetyczny
+1154,Badanie poziomu cukru
+1155,Badanie poziomu cukru
+1156,Badanie hormonalne
+1157,Test obciążenia glukozą
+1158,Badanie moczu
+1159,Audiometria
+1160,Badanie okulistyczne
+1161,Badanie moczu
+1162,Gastroskopia
+1163,Gastroskopia
+1164,Morfologia krwi
+1165,Spirometria
+1166,Echo serca
+1167,Badanie poziomu witaminy D
+1168,Kolonoskopia
+1169,Test alergiczny
+1170,Morfologia krwi
+1171,Morfologia krwi
+1172,Badanie poziomu witaminy D
+1173,Test PCR
+1174,Badanie hormonalne
+1175,USG jamy brzusznej
+1176,Test PCR
+1177,Badanie moczu
+1178,Echo serca
+1179,Badanie poziomu witaminy D
+1180,Badanie poziomu cukru
+1181,Badanie przeciwciał
+1182,Tomografia komputerowa
+1183,Audiometria
+1184,Lipidogram
+1185,Test alergiczny
+1186,Badanie tarczycy
+1187,Echo serca
+1188,Tomografia komputerowa
+1189,Cytologia
+1190,Rezonans magnetyczny
+1191,Lipidogram
+1192,Badanie poziomu cukru
+1193,Holter EKG
+1194,Rezonans magnetyczny
+1195,Rezonans magnetyczny
+1196,Badanie przeciwciał
+1197,Test obciążenia glukozą
+1198,Rezonans magnetyczny
+1199,Gastroskopia
+1200,USG jamy brzusznej
+1201,Test PCR
+1202,Badanie moczu
+1203,Rezonans magnetyczny
+1204,Kolonoskopia
+1205,Test PCR
+1206,Badanie poziomu cukru
+1207,Lipidogram
+1208,Badanie tarczycy
+1209,Badanie przeciwciał
+1210,Tomografia komputerowa
+1211,Audiometria
+1212,Badanie hormonalne
+1213,RTG klatki piersiowej
+1214,Badanie poziomu cukru
+1215,Kolonoskopia
+1216,Badanie poziomu witaminy D
+1217,Morfologia krwi
+1218,Kolonoskopia
+1219,Badanie moczu
+1220,Audiometria
+1221,Badanie kału
+1222,Test PCR
+1223,RTG klatki piersiowej
+1224,Test obciążenia glukozą
+1225,Badanie kału
+1226,USG jamy brzusznej
+1227,Tomografia komputerowa
+1228,EKG
+1229,USG jamy brzusznej
+1230,Audiometria
+1231,Spirometria
+1232,Badanie okulistyczne
+1233,Holter EKG
+1234,Lipidogram
+1235,Lipidogram
+1236,Echo serca
+1237,Gastroskopia
+1238,EKG
+1239,EKG
+1240,Kolonoskopia
+1241,Holter EKG
+1242,RTG klatki piersiowej
+1243,Gastroskopia
+1244,Test PCR
+1245,Badanie hormonalne
+1246,RTG klatki piersiowej
+1247,Tomografia komputerowa
+1248,Spirometria
+1249,Badanie tarczycy
+1250,Echo serca
+1251,Kolonoskopia
+1252,Kolonoskopia
+1253,Badanie przeciwciał
+1254,Gastroskopia
+1255,Audiometria
+1256,Test PCR
+1257,Badanie poziomu witaminy D
+1258,Audiometria
+1259,Badanie moczu
+1260,Badanie hormonalne
+1261,EKG
+1262,Rezonans magnetyczny
+1263,Rezonans magnetyczny
+1264,USG jamy brzusznej
+1265,Tomografia komputerowa
+1266,Gastroskopia
+1267,RTG klatki piersiowej
+1268,Tomografia komputerowa
+1269,Test alergiczny
+1270,Badanie moczu
+1271,Gastroskopia
+1272,Spirometria
+1273,Test PCR
+1274,USG jamy brzusznej
+1275,Badanie poziomu witaminy D
+1276,Rezonans magnetyczny
+1277,Test obciążenia glukozą
+1278,Badanie poziomu witaminy D
+1279,Test alergiczny
+1280,Badanie okulistyczne
+1281,EKG
+1282,Spirometria
+1283,EKG
+1284,Morfologia krwi
+1285,Badanie kału
+1286,Lipidogram
+1287,Morfologia krwi
+1288,Badanie okulistyczne
+1289,RTG klatki piersiowej
+1290,Cytologia
+1291,Audiometria
+1292,Holter EKG
+1293,Badanie moczu
+1294,Badanie poziomu cukru
+1295,EKG
+1296,Kolonoskopia
+1297,Kolonoskopia
+1298,Test alergiczny
+1299,Spirometria
+1300,Holter EKG
+1301,Cytologia
+1302,Badanie okulistyczne
+1303,Lipidogram
+1304,Tomografia komputerowa
+1305,Test PCR
+1306,RTG klatki piersiowej
+1307,Badanie tarczycy
+1308,Holter EKG
+1309,Tomografia komputerowa
+1310,Test PCR
+1311,Badanie kału
+1312,Tomografia komputerowa
+1313,Badanie moczu
+1314,Badanie poziomu witaminy D
+1315,Badanie hormonalne
+1316,Badanie moczu
+1317,Lipidogram
+1318,Spirometria
+1319,Badanie przeciwciał
+1320,Badanie przeciwciał
+1321,Test PCR
+1322,Tomografia komputerowa
+1323,Badanie tarczycy
+1324,Badanie kału
+1325,Holter EKG
+1326,Test PCR
+1327,Morfologia krwi
+1328,Badanie moczu
+1329,Badanie hormonalne
+1330,Tomografia komputerowa
+1331,Badanie kału
+1332,Rezonans magnetyczny
+1333,Badanie hormonalne
+1334,Spirometria
+1335,Cytologia
+1336,Badanie tarczycy
+1337,Audiometria
+1338,Spirometria
+1339,Kolonoskopia
+1340,Badanie poziomu cukru
+1341,Echo serca
+1342,EKG
+1343,Lipidogram
+1344,Test obciążenia glukozą
+1345,Morfologia krwi
+1346,Spirometria
+1347,Badanie przeciwciał
+1348,Badanie kału
+1349,Badanie poziomu witaminy D
+1350,Badanie tarczycy
+1351,Badanie tarczycy
+1352,EKG
+1353,Spirometria
+1354,Cytologia
+1355,Lipidogram
+1356,Holter EKG
+1357,Holter EKG
+1358,Cytologia
+1359,Tomografia komputerowa
+1360,Badanie okulistyczne
+1361,Badanie okulistyczne
+1362,Badanie poziomu cukru
+1363,Badanie okulistyczne
+1364,Holter EKG
+1365,Test PCR
+1366,Badanie poziomu witaminy D
+1367,Test obciążenia glukozą
+1368,Rezonans magnetyczny
+1369,Badanie tarczycy
+1370,Gastroskopia
+1371,Spirometria
+1372,Test obciążenia glukozą
+1373,Kolonoskopia
+1374,Badanie kału
+1375,Test alergiczny
+1376,Badanie przeciwciał
+1377,Test PCR
+1378,Audiometria
+1379,Rezonans magnetyczny
+1380,Badanie poziomu witaminy D
+1381,Badanie tarczycy
+1382,Badanie przeciwciał
+1383,Rezonans magnetyczny
+1384,Lipidogram
+1385,Test obciążenia glukozą
+1386,USG jamy brzusznej
+1387,Test obciążenia glukozą
+1388,Badanie poziomu cukru
+1389,Morfologia krwi
+1390,Morfologia krwi
+1391,Badanie poziomu witaminy D
+1392,Gastroskopia
+1393,Test alergiczny
+1394,Cytologia
+1395,Test obciążenia glukozą
+1396,Badanie poziomu cukru
+1397,USG jamy brzusznej
+1398,Badanie moczu
+1399,Spirometria
+1400,EKG
+1401,Badanie tarczycy
+1402,Gastroskopia
+1403,Spirometria
+1404,Badanie moczu
+1405,Audiometria
+1406,Holter EKG
+1407,EKG
+1408,Gastroskopia
+1409,Holter EKG
+1410,Test alergiczny
+1411,Kolonoskopia
+1412,Badanie poziomu witaminy D
+1413,Badanie hormonalne
+1414,Badanie poziomu cukru
+1415,Kolonoskopia
+1416,EKG
+1417,Tomografia komputerowa
+1418,Rezonans magnetyczny
+1419,RTG klatki piersiowej
+1420,Badanie poziomu cukru
+1421,Holter EKG
+1422,RTG klatki piersiowej
+1423,Holter EKG
+1424,Test alergiczny
+1425,Test alergiczny
+1426,Spirometria
+1427,Test PCR
+1428,Morfologia krwi
+1429,Holter EKG
+1430,Holter EKG
+1431,Badanie hormonalne
+1432,Kolonoskopia
+1433,Gastroskopia
+1434,Holter EKG
+1435,Badanie poziomu witaminy D
+1436,Audiometria
+1437,Test alergiczny
+1438,Holter EKG
+1439,Lipidogram
+1440,Morfologia krwi
+1441,Badanie tarczycy
+1442,Morfologia krwi
+1443,Morfologia krwi
+1444,RTG klatki piersiowej
+1445,Audiometria
+1446,Test PCR
+1447,EKG
+1448,Test PCR
+1449,Cytologia
+1450,Morfologia krwi
+1451,Badanie poziomu cukru
+1452,EKG
+1453,Test alergiczny
+1454,Badanie moczu
+1455,Holter EKG
+1456,Lipidogram
+1457,Test obciążenia glukozą
+1458,Spirometria
+1459,Audiometria
+1460,Badanie przeciwciał
+1461,Spirometria
+1462,Tomografia komputerowa
+1463,Badanie przeciwciał
+1464,Morfologia krwi
+1465,Badanie przeciwciał
+1466,Lipidogram
+1467,Badanie okulistyczne
+1468,RTG klatki piersiowej
+1469,Test alergiczny
+1470,Gastroskopia
+1471,Rezonans magnetyczny
+1472,Badanie poziomu witaminy D
+1473,Badanie poziomu cukru
+1474,Test alergiczny
+1475,Lipidogram
+1476,Badanie poziomu cukru
+1477,Tomografia komputerowa
+1478,RTG klatki piersiowej
+1479,Rezonans magnetyczny
+1480,EKG
+1481,Cytologia
+1482,Badanie poziomu witaminy D
+1483,Echo serca
+1484,Kolonoskopia
+1485,Test PCR
+1486,Tomografia komputerowa
+1487,EKG
+1488,Morfologia krwi
+1489,Badanie kału
+1490,Badanie przeciwciał
+1491,Badanie tarczycy
+1492,Test alergiczny
+1493,Gastroskopia
+1494,Badanie poziomu cukru
+1495,Holter EKG
+1496,Badanie hormonalne
+1497,Cytologia
+1498,Badanie kału
+1499,Lipidogram
+1500,Tomografia komputerowa
+1501,Badanie kału
+1502,Badanie kału
+1503,Morfologia krwi
+1504,USG jamy brzusznej
+1505,Gastroskopia
+1506,Audiometria
+1507,Badanie moczu
+1508,Tomografia komputerowa
+1509,RTG klatki piersiowej
+1510,Audiometria
+1511,Badanie poziomu cukru
+1512,Badanie hormonalne
+1513,USG jamy brzusznej
+1514,Badanie okulistyczne
+1515,Badanie kału
+1516,Badanie przeciwciał
+1517,Echo serca
+1518,Lipidogram
+1519,Holter EKG
+1520,Audiometria
+1521,Badanie poziomu witaminy D
+1522,Holter EKG
+1523,Badanie okulistyczne
+1524,Holter EKG
+1525,Tomografia komputerowa
+1526,Test obciążenia glukozą
+1527,Tomografia komputerowa
+1528,Rezonans magnetyczny
+1529,EKG
+1530,EKG
+1531,Kolonoskopia
+1532,Cytologia
+1533,USG jamy brzusznej
+1534,USG jamy brzusznej
+1535,Kolonoskopia
+1536,Spirometria
+1537,Cytologia
+1538,Badanie poziomu witaminy D
+1539,Test alergiczny
+1540,Badanie tarczycy
+1541,Test alergiczny
+1542,Badanie kału
+1543,Badanie przeciwciał
+1544,Cytologia
+1545,Gastroskopia
+1546,Spirometria
+1547,EKG
+1548,EKG
+1549,Test obciążenia glukozą
+1550,Badanie okulistyczne
+1551,Badanie tarczycy
+1552,Test alergiczny
+1553,Badanie poziomu witaminy D
+1554,RTG klatki piersiowej
+1555,Badanie kału
+1556,Spirometria
+1557,Morfologia krwi
+1558,Badanie moczu
+1559,Spirometria
+1560,Lipidogram
+1561,USG jamy brzusznej
+1562,Badanie kału
+1563,Badanie poziomu witaminy D
+1564,Lipidogram
+1565,Spirometria
+1566,Spirometria
+1567,Tomografia komputerowa
+1568,USG jamy brzusznej
+1569,Tomografia komputerowa
+1570,Holter EKG
+1571,Badanie moczu
+1572,Gastroskopia
+1573,Lipidogram
+1574,Kolonoskopia
+1575,Kolonoskopia
+1576,EKG
+1577,Badanie okulistyczne
+1578,Lipidogram
+1579,Badanie hormonalne
+1580,Kolonoskopia
+1581,Echo serca
+1582,RTG klatki piersiowej
+1583,Spirometria
+1584,EKG
+1585,Lipidogram
+1586,Badanie moczu
+1587,Test alergiczny
+1588,Echo serca
+1589,Audiometria
+1590,Badanie tarczycy
+1591,Tomografia komputerowa
+1592,Badanie poziomu cukru
+1593,USG jamy brzusznej
+1594,Badanie kału
+1595,Badanie poziomu cukru
+1596,Test obciążenia glukozą
+1597,Test obciążenia glukozą
+1598,Badanie poziomu cukru
+1599,Test alergiczny
+1600,RTG klatki piersiowej
+1601,Test obciążenia glukozą
+1602,Test obciążenia glukozą
+1603,Badanie okulistyczne
+1604,EKG
+1605,Holter EKG
+1606,Holter EKG
+1607,Echo serca
+1608,Test obciążenia glukozą
+1609,Holter EKG
+1610,Badanie hormonalne
+1611,Tomografia komputerowa
+1612,Badanie okulistyczne
+1613,Holter EKG
+1614,Lipidogram
+1615,Gastroskopia
+1616,Tomografia komputerowa
+1617,Badanie poziomu cukru
+1618,Audiometria
+1619,Test PCR
+1620,Gastroskopia
+1621,Test PCR
+1622,Audiometria
+1623,Test obciążenia glukozą
+1624,Badanie tarczycy
+1625,Holter EKG
+1626,Test PCR
+1627,Kolonoskopia
+1628,Cytologia
+1629,Rezonans magnetyczny
+1630,Audiometria
+1631,Test obciążenia glukozą
+1632,Tomografia komputerowa
+1633,USG jamy brzusznej
+1634,Audiometria
+1635,Badanie tarczycy
+1636,Badanie poziomu witaminy D
+1637,Rezonans magnetyczny
+1638,Spirometria
+1639,Badanie moczu
+1640,Badanie tarczycy
+1641,Badanie tarczycy
+1642,Kolonoskopia
+1643,Spirometria
+1644,Test alergiczny
+1645,EKG
+1646,Badanie moczu
+1647,Echo serca
+1648,Spirometria
+1649,Spirometria
+1650,USG jamy brzusznej
+1651,Audiometria
+1652,Badanie przeciwciał
+1653,Badanie moczu
+1654,Spirometria
+1655,Test PCR
+1656,Holter EKG
+1657,Test PCR
+1658,Test obciążenia glukozą
+1659,Badanie poziomu witaminy D
+1660,Holter EKG
+1661,Test alergiczny
+1662,Test obciążenia glukozą
+1663,Morfologia krwi
+1664,Badanie hormonalne
+1665,Badanie przeciwciał
+1666,EKG
+1667,Badanie tarczycy
+1668,RTG klatki piersiowej
+1669,Kolonoskopia
+1670,Holter EKG
+1671,Lipidogram
+1672,Badanie moczu
+1673,Cytologia
+1674,Badanie przeciwciał
+1675,Audiometria
+1676,Holter EKG
+1677,Test PCR
+1678,Audiometria
+1679,Test PCR
+1680,Badanie moczu
+1681,Badanie hormonalne
+1682,Morfologia krwi
+1683,EKG
+1684,Badanie kału
+1685,USG jamy brzusznej
+1686,Badanie kału
+1687,Rezonans magnetyczny
+1688,Echo serca
+1689,Rezonans magnetyczny
+1690,Cytologia
+1691,Badanie kału
+1692,RTG klatki piersiowej
+1693,RTG klatki piersiowej
+1694,Kolonoskopia
+1695,EKG
+1696,Badanie okulistyczne
+1697,RTG klatki piersiowej
+1698,Kolonoskopia
+1699,Rezonans magnetyczny
+1700,Badanie moczu
+1701,Badanie moczu
+1702,USG jamy brzusznej
+1703,Badanie okulistyczne
+1704,Echo serca
+1705,Badanie poziomu cukru
+1706,Rezonans magnetyczny
+1707,USG jamy brzusznej
+1708,Badanie okulistyczne
+1709,Spirometria
+1710,Badanie poziomu cukru
+1711,Badanie kału
+1712,Cytologia
+1713,Badanie poziomu witaminy D
+1714,Badanie okulistyczne
+1715,Badanie przeciwciał
+1716,Holter EKG
+1717,Test PCR
+1718,USG jamy brzusznej
+1719,Badanie przeciwciał
+1720,Badanie tarczycy
+1721,USG jamy brzusznej
+1722,Badanie poziomu cukru
+1723,Badanie kału
+1724,Echo serca
+1725,Tomografia komputerowa
+1726,Cytologia
+1727,EKG
+1728,Gastroskopia
+1729,Badanie poziomu cukru
+1730,RTG klatki piersiowej
+1731,Spirometria
+1732,Echo serca
+1733,Tomografia komputerowa
+1734,Morfologia krwi
+1735,Holter EKG
+1736,Lipidogram
+1737,Lipidogram
+1738,Kolonoskopia
+1739,Gastroskopia
+1740,Spirometria
+1741,Badanie poziomu cukru
+1742,Test alergiczny
+1743,Badanie okulistyczne
+1744,USG jamy brzusznej
+1745,EKG
+1746,Badanie okulistyczne
+1747,Kolonoskopia
+1748,Kolonoskopia
+1749,Badanie przeciwciał
+1750,Lipidogram
+1751,RTG klatki piersiowej
+1752,EKG
+1753,Badanie moczu
+1754,Holter EKG
+1755,Rezonans magnetyczny
+1756,Badanie moczu
+1757,Test alergiczny
+1758,Echo serca
+1759,Badanie moczu
+1760,Rezonans magnetyczny
+1761,EKG
+1762,Badanie przeciwciał
+1763,Badanie hormonalne
+1764,Badanie tarczycy
+1765,Spirometria
+1766,Badanie kału
+1767,Kolonoskopia
+1768,Morfologia krwi
+1769,Lipidogram
+1770,RTG klatki piersiowej
+1771,Echo serca
+1772,Test alergiczny
+1773,Badanie przeciwciał
+1774,Test obciążenia glukozą
+1775,Tomografia komputerowa
+1776,Holter EKG
+1777,Badanie poziomu witaminy D
+1778,Badanie tarczycy
+1779,Kolonoskopia
+1780,EKG
+1781,Test PCR
+1782,Holter EKG
+1783,Rezonans magnetyczny
+1784,EKG
+1785,Test alergiczny
+1786,Morfologia krwi
+1787,Holter EKG
+1788,EKG
+1789,Test PCR
+1790,Test alergiczny
+1791,Badanie moczu
+1792,Badanie moczu
+1793,Spirometria
+1794,USG jamy brzusznej
+1795,Echo serca
+1796,Holter EKG
+1797,Badanie tarczycy
+1798,Spirometria
+1799,Audiometria
+1800,Badanie moczu
+1801,Gastroskopia
+1802,Badanie tarczycy
+1803,Test alergiczny
+1804,Badanie kału
+1805,Badanie poziomu witaminy D
+1806,Badanie poziomu witaminy D
+1807,Cytologia
+1808,Spirometria
+1809,Morfologia krwi
+1810,Holter EKG
+1811,Badanie poziomu cukru
+1812,Cytologia
+1813,Tomografia komputerowa
+1814,Test alergiczny
+1815,Badanie przeciwciał
+1816,Badanie kału
+1817,Badanie poziomu witaminy D
+1818,Audiometria
+1819,Badanie tarczycy
+1820,Rezonans magnetyczny
+1821,Test alergiczny
+1822,USG jamy brzusznej
+1823,RTG klatki piersiowej
+1824,Badanie okulistyczne
+1825,Badanie okulistyczne
+1826,EKG
+1827,Badanie moczu
+1828,Test alergiczny
+1829,Test PCR
+1830,Holter EKG
+1831,RTG klatki piersiowej
+1832,Echo serca
+1833,Gastroskopia
+1834,Badanie przeciwciał
+1835,Rezonans magnetyczny
+1836,Holter EKG
+1837,Morfologia krwi
+1838,Audiometria
+1839,Echo serca
+1840,Audiometria
+1841,Test alergiczny
+1842,Lipidogram
+1843,Tomografia komputerowa
+1844,Cytologia
+1845,Echo serca
+1846,Rezonans magnetyczny
+1847,Gastroskopia
+1848,Test alergiczny
+1849,Tomografia komputerowa
+1850,EKG
+1851,Holter EKG
+1852,RTG klatki piersiowej
+1853,Badanie moczu
+1854,Badanie poziomu cukru
+1855,Lipidogram
+1856,Badanie okulistyczne
+1857,Badanie moczu
+1858,Echo serca
+1859,Rezonans magnetyczny
+1860,Badanie poziomu cukru
+1861,Badanie okulistyczne
+1862,RTG klatki piersiowej
+1863,Test PCR
+1864,RTG klatki piersiowej
+1865,Kolonoskopia
+1866,Badanie poziomu cukru
+1867,Audiometria
+1868,USG jamy brzusznej
+1869,Cytologia
+1870,Lipidogram
+1871,Test obciążenia glukozą
+1872,Morfologia krwi
+1873,Badanie tarczycy
+1874,Badanie poziomu witaminy D
+1875,Morfologia krwi
+1876,EKG
+1877,Badanie kału
+1878,Kolonoskopia
+1879,Morfologia krwi
+1880,Badanie tarczycy
+1881,Badanie poziomu witaminy D
+1882,USG jamy brzusznej
+1883,Test PCR
+1884,Badanie przeciwciał
+1885,Tomografia komputerowa
+1886,USG jamy brzusznej
+1887,Badanie moczu
+1888,Badanie poziomu cukru
+1889,RTG klatki piersiowej
+1890,Echo serca
+1891,Badanie przeciwciał
+1892,Echo serca
+1893,Tomografia komputerowa
+1894,Morfologia krwi
+1895,Kolonoskopia
+1896,Audiometria
+1897,EKG
+1898,EKG
+1899,Tomografia komputerowa
+1900,USG jamy brzusznej
+1901,Morfologia krwi
+1902,Test alergiczny
+1903,Badanie kału
+1904,RTG klatki piersiowej
+1905,Badanie kału
+1906,Gastroskopia
+1907,Tomografia komputerowa
+1908,Rezonans magnetyczny
+1909,Badanie przeciwciał
+1910,Morfologia krwi
+1911,Kolonoskopia
+1912,Badanie moczu
+1913,Test alergiczny
+1914,Rezonans magnetyczny
+1915,Test obciążenia glukozą
+1916,Gastroskopia
+1917,Echo serca
+1918,Badanie poziomu cukru
+1919,Morfologia krwi
+1920,Badanie hormonalne
+1921,Lipidogram
+1922,Kolonoskopia
+1923,Badanie kału
+1924,Echo serca
+1925,USG jamy brzusznej
+1926,Badanie poziomu witaminy D
+1927,Audiometria
+1928,Morfologia krwi
+1929,Test alergiczny
+1930,Badanie okulistyczne
+1931,Test obciążenia glukozą
+1932,Cytologia
+1933,Badanie poziomu cukru
+1934,Rezonans magnetyczny
+1935,EKG
+1936,Badanie hormonalne
+1937,Kolonoskopia
+1938,Test obciążenia glukozą
+1939,Tomografia komputerowa
+1940,Holter EKG
+1941,Test PCR
+1942,Audiometria
+1943,Holter EKG
+1944,Test alergiczny
+1945,Holter EKG
+1946,Spirometria
+1947,Rezonans magnetyczny
+1948,Badanie tarczycy
+1949,RTG klatki piersiowej
+1950,Spirometria
+1951,Test alergiczny
+1952,Badanie tarczycy
+1953,Morfologia krwi
+1954,Audiometria
+1955,Badanie tarczycy
+1956,USG jamy brzusznej
+1957,EKG
+1958,RTG klatki piersiowej
+1959,Gastroskopia
+1960,Test obciążenia glukozą
+1961,USG jamy brzusznej
+1962,Gastroskopia
+1963,RTG klatki piersiowej
+1964,Test obciążenia glukozą
+1965,Test PCR
+1966,Badanie poziomu cukru
+1967,Audiometria
+1968,Badanie moczu
+1969,Badanie kału
+1970,Holter EKG
+1971,Spirometria
+1972,Test alergiczny
+1973,RTG klatki piersiowej
+1974,Tomografia komputerowa
+1975,Badanie kału
+1976,Spirometria
+1977,Kolonoskopia
+1978,Lipidogram
+1979,Rezonans magnetyczny
+1980,Tomografia komputerowa
+1981,Tomografia komputerowa
+1982,Audiometria
+1983,Badanie hormonalne
+1984,Morfologia krwi
+1985,Kolonoskopia
+1986,Badanie moczu
+1987,Morfologia krwi
+1988,Morfologia krwi
+1989,Holter EKG
+1990,Badanie poziomu cukru
+1991,Gastroskopia
+1992,Badanie tarczycy
+1993,Test obciążenia glukozą
+1994,Badanie poziomu witaminy D
+1995,Morfologia krwi
+1996,Spirometria
+1997,Test PCR
+1998,USG jamy brzusznej
+1999,Test alergiczny
+2000,Badanie poziomu cukru
+2001,Morfologia krwi
+2002,USG jamy brzusznej
+2003,Test obciążenia glukozą
+2004,Badanie kału
+2005,Badanie hormonalne
+2006,Badanie moczu
+2007,Audiometria
+2008,Badanie hormonalne
+2009,Test PCR
+2010,Audiometria
+2011,Audiometria
+2012,RTG klatki piersiowej
+2013,Morfologia krwi
+2014,Audiometria
+2015,Gastroskopia
+2016,USG jamy brzusznej
+2017,Lipidogram
+2018,Test alergiczny
+2019,Badanie kału
+2020,RTG klatki piersiowej
+2021,Badanie poziomu witaminy D
+2022,Spirometria
+2023,Badanie hormonalne
+2024,Badanie kału
+2025,EKG
+2026,Audiometria
+2027,Badanie tarczycy
+2028,EKG
+2029,USG jamy brzusznej
+2030,USG jamy brzusznej
+2031,Holter EKG
+2032,Badanie okulistyczne
+2033,Kolonoskopia
+2034,Rezonans magnetyczny
+2035,Gastroskopia
+2036,Morfologia krwi
+2037,Badanie przeciwciał
+2038,Badanie hormonalne
+2039,USG jamy brzusznej
+2040,Badanie moczu
+2041,Test PCR
+2042,Test alergiczny
+2043,Lipidogram
+2044,Badanie tarczycy
+2045,Badanie poziomu cukru
+2046,Badanie poziomu witaminy D
+2047,Test alergiczny
+2048,Test obciążenia glukozą
+2049,Badanie poziomu cukru
+2050,Badanie tarczycy
+2051,Badanie okulistyczne
+2052,EKG
+2053,Holter EKG
+2054,Test alergiczny
+2055,Rezonans magnetyczny
+2056,USG jamy brzusznej
+2057,Rezonans magnetyczny
+2058,Badanie przeciwciał
+2059,Spirometria
+2060,Badanie poziomu witaminy D
+2061,Morfologia krwi
+2062,Badanie poziomu cukru
+2063,RTG klatki piersiowej
+2064,Cytologia
+2065,USG jamy brzusznej
+2066,Test alergiczny
+2067,Rezonans magnetyczny
+2068,Badanie kału
+2069,Badanie przeciwciał
+2070,Lipidogram
+2071,Tomografia komputerowa
+2072,Cytologia
+2073,Morfologia krwi
+2074,Gastroskopia
+2075,Tomografia komputerowa
+2076,EKG
+2077,Rezonans magnetyczny
+2078,Badanie okulistyczne
+2079,EKG
+2080,EKG
+2081,USG jamy brzusznej
+2082,Badanie przeciwciał
+2083,Cytologia
+2084,Morfologia krwi
+2085,Badanie hormonalne
+2086,EKG
+2087,RTG klatki piersiowej
+2088,Badanie poziomu witaminy D
+2089,Badanie kału
+2090,Test alergiczny
+2091,Lipidogram
+2092,RTG klatki piersiowej
+2093,Rezonans magnetyczny
+2094,Badanie kału
+2095,Rezonans magnetyczny
+2096,USG jamy brzusznej
+2097,USG jamy brzusznej
+2098,Badanie moczu
+2099,Test obciążenia glukozą
+2100,USG jamy brzusznej
+2101,USG jamy brzusznej
+2102,Morfologia krwi
+2103,Holter EKG
+2104,Morfologia krwi
+2105,Audiometria
+2106,Lipidogram
+2107,Badanie kału
+2108,Gastroskopia
+2109,Audiometria
+2110,Gastroskopia
+2111,Rezonans magnetyczny
+2112,Lipidogram
+2113,Badanie przeciwciał
+2114,Badanie poziomu cukru
+2115,EKG
+2116,USG jamy brzusznej
+2117,Badanie kału
+2118,Cytologia
+2119,Audiometria
+2120,Audiometria
+2121,Echo serca
+2122,Test alergiczny
+2123,Cytologia
+2124,Lipidogram
+2125,Echo serca
+2126,Holter EKG
+2127,Tomografia komputerowa
+2128,Test PCR
+2129,Audiometria
+2130,Badanie tarczycy
+2131,Badanie poziomu cukru
+2132,Morfologia krwi
+2133,Badanie poziomu cukru
+2134,Badanie okulistyczne
+2135,Cytologia
+2136,Rezonans magnetyczny
+2137,Test alergiczny
+2138,Badanie poziomu witaminy D
+2139,Lipidogram
+2140,Badanie tarczycy
+2141,Test alergiczny
+2142,Gastroskopia
+2143,Badanie tarczycy
+2144,Badanie hormonalne
+2145,Test obciążenia glukozą
+2146,Badanie przeciwciał
+2147,Cytologia
+2148,RTG klatki piersiowej
+2149,EKG
+2150,Gastroskopia
+2151,Test obciążenia glukozą
+2152,Gastroskopia
+2153,Rezonans magnetyczny
+2154,Kolonoskopia
+2155,Badanie moczu
+2156,RTG klatki piersiowej
+2157,Audiometria
+2158,Audiometria
+2159,Holter EKG
+2160,EKG
+2161,USG jamy brzusznej
+2162,Badanie przeciwciał
+2163,Test alergiczny
+2164,Audiometria
+2165,Tomografia komputerowa
+2166,Test alergiczny
+2167,Tomografia komputerowa
+2168,Badanie poziomu cukru
+2169,Gastroskopia
+2170,Test PCR
+2171,EKG
+2172,Echo serca
+2173,Holter EKG
+2174,USG jamy brzusznej
+2175,Rezonans magnetyczny
+2176,Badanie kału
+2177,Badanie hormonalne
+2178,Badanie kału
+2179,Badanie kału
+2180,Badanie hormonalne
+2181,Gastroskopia
+2182,Spirometria
+2183,Audiometria
+2184,Spirometria
+2185,Test alergiczny
+2186,Lipidogram
+2187,Morfologia krwi
+2188,Badanie poziomu cukru
+2189,Test PCR
+2190,Cytologia
+2191,EKG
+2192,Tomografia komputerowa
+2193,Tomografia komputerowa
+2194,Gastroskopia
+2195,Badanie hormonalne
+2196,USG jamy brzusznej
+2197,Badanie kału
+2198,EKG
+2199,RTG klatki piersiowej
+2200,Badanie poziomu witaminy D
+2201,Lipidogram
+2202,Badanie kału
+2203,Rezonans magnetyczny
+2204,Badanie okulistyczne
+2205,Badanie poziomu cukru
+2206,RTG klatki piersiowej
+2207,Tomografia komputerowa
+2208,Badanie okulistyczne
+2209,EKG
+2210,Badanie tarczycy
+2211,Test obciążenia glukozą
+2212,Badanie poziomu witaminy D
+2213,USG jamy brzusznej
+2214,Test alergiczny
+2215,Morfologia krwi
+2216,Gastroskopia
+2217,EKG
+2218,EKG
+2219,Audiometria
+2220,Test obciążenia glukozą
+2221,Test PCR
+2222,Lipidogram
+2223,Test PCR
+2224,Badanie przeciwciał
+2225,Rezonans magnetyczny
+2226,Badanie hormonalne
+2227,Test PCR
+2228,Audiometria
+2229,Test alergiczny
+2230,Test obciążenia glukozą
+2231,Badanie przeciwciał
+2232,Spirometria
+2233,Cytologia
+2234,Badanie przeciwciał
+2235,USG jamy brzusznej
+2236,Badanie tarczycy
+2237,Badanie kału
+2238,Spirometria
+2239,Badanie okulistyczne
+2240,Morfologia krwi
+2241,Tomografia komputerowa
+2242,Spirometria
+2243,Spirometria
+2244,Echo serca
+2245,Test PCR
+2246,Badanie poziomu witaminy D
+2247,Badanie okulistyczne
+2248,Badanie tarczycy
+2249,Lipidogram
+2250,Lipidogram
+2251,Holter EKG
+2252,EKG
+2253,Echo serca
+2254,Rezonans magnetyczny
+2255,Badanie hormonalne
+2256,Test PCR
+2257,Badanie przeciwciał
+2258,Test alergiczny
+2259,Echo serca
+2260,Holter EKG
+2261,Echo serca
+2262,Badanie kału
+2263,Badanie tarczycy
+2264,Holter EKG
+2265,Morfologia krwi
+2266,Gastroskopia
+2267,Morfologia krwi
+2268,Cytologia
+2269,Badanie tarczycy
+2270,RTG klatki piersiowej
+2271,Tomografia komputerowa
+2272,Badanie hormonalne
+2273,Badanie moczu
+2274,Badanie moczu
+2275,Tomografia komputerowa
+2276,EKG
+2277,Test obciążenia glukozą
+2278,Badanie poziomu cukru
+2279,Badanie hormonalne
+2280,Holter EKG
+2281,Badanie tarczycy
+2282,Badanie poziomu cukru
+2283,Morfologia krwi
+2284,Badanie tarczycy
+2285,USG jamy brzusznej
+2286,Badanie poziomu witaminy D
+2287,Badanie kału
+2288,Cytologia
+2289,USG jamy brzusznej
+2290,RTG klatki piersiowej
+2291,Lipidogram
+2292,Rezonans magnetyczny
+2293,USG jamy brzusznej
+2294,Echo serca
+2295,Badanie moczu
+2296,Cytologia
+2297,Badanie przeciwciał
+2298,Test PCR
+2299,Tomografia komputerowa
+2300,Badanie moczu
+2301,Badanie poziomu witaminy D
+2302,Badanie kału
+2303,Rezonans magnetyczny
+2304,Holter EKG
+2305,Spirometria
+2306,Badanie kału
+2307,Morfologia krwi
+2308,EKG
+2309,Badanie poziomu witaminy D
+2310,Morfologia krwi
+2311,Badanie kału
+2312,Rezonans magnetyczny
+2313,Cytologia
+2314,Badanie poziomu cukru
+2315,Audiometria
+2316,Test PCR
+2317,Badanie poziomu cukru
+2318,Badanie poziomu cukru
+2319,Badanie kału
+2320,Kolonoskopia
+2321,Gastroskopia
+2322,USG jamy brzusznej
+2323,Morfologia krwi
+2324,Morfologia krwi
+2325,Test PCR
+2326,Echo serca
+2327,Test alergiczny
+2328,Echo serca
+2329,Test obciążenia glukozą
+2330,EKG
+2331,Echo serca
+2332,Holter EKG
+2333,Kolonoskopia
+2334,Rezonans magnetyczny
+2335,Test PCR
+2336,Badanie tarczycy
+2337,Kolonoskopia
+2338,Rezonans magnetyczny
+2339,Test obciążenia glukozą
+2340,Test PCR
+2341,Echo serca
+2342,EKG
+2343,Cytologia
+2344,Rezonans magnetyczny
+2345,Badanie przeciwciał
+2346,Test PCR
+2347,Badanie tarczycy
+2348,Badanie kału
+2349,Morfologia krwi
+2350,Gastroskopia
+2351,Lipidogram
+2352,Test PCR
+2353,Lipidogram
+2354,Badanie tarczycy
+2355,RTG klatki piersiowej
+2356,USG jamy brzusznej
+2357,EKG
+2358,Badanie tarczycy
+2359,RTG klatki piersiowej
+2360,Badanie tarczycy
+2361,Cytologia
+2362,Test alergiczny
+2363,Holter EKG
+2364,Echo serca
+2365,Badanie moczu
+2366,Echo serca
+2367,Gastroskopia
+2368,Spirometria
+2369,Test PCR
+2370,Badanie tarczycy
+2371,USG jamy brzusznej
+2372,Spirometria
+2373,Badanie okulistyczne
+2374,Badanie hormonalne
+2375,Badanie poziomu cukru
+2376,Tomografia komputerowa
+2377,Tomografia komputerowa
+2378,Test alergiczny
+2379,Badanie hormonalne
+2380,Badanie poziomu cukru
+2381,Badanie tarczycy
+2382,Holter EKG
+2383,Gastroskopia
+2384,Badanie tarczycy
+2385,Lipidogram
+2386,Rezonans magnetyczny
+2387,Badanie tarczycy
+2388,Badanie hormonalne
+2389,Rezonans magnetyczny
+2390,USG jamy brzusznej
+2391,Kolonoskopia
+2392,Audiometria
+2393,Badanie poziomu cukru
+2394,Lipidogram
+2395,Cytologia
+2396,Rezonans magnetyczny
+2397,Spirometria
+2398,Audiometria
+2399,Echo serca
+2400,RTG klatki piersiowej
+2401,Badanie hormonalne
+2402,Test alergiczny
+2403,Spirometria
+2404,Test obciążenia glukozą
+2405,Tomografia komputerowa
+2406,Badanie okulistyczne
+2407,Test PCR
+2408,Test PCR
+2409,Test alergiczny
+2410,Cytologia
+2411,Badanie hormonalne
+2412,Badanie poziomu witaminy D
+2413,Echo serca
+2414,Test obciążenia glukozą
+2415,Audiometria
+2416,Kolonoskopia
+2417,Badanie tarczycy
+2418,Test alergiczny
+2419,Kolonoskopia
+2420,Badanie hormonalne
+2421,Lipidogram
+2422,RTG klatki piersiowej
+2423,Spirometria
+2424,Badanie tarczycy
+2425,Badanie okulistyczne
+2426,Cytologia
+2427,Tomografia komputerowa
+2428,USG jamy brzusznej
+2429,Badanie okulistyczne
+2430,Badanie kału
+2431,Test alergiczny
+2432,Tomografia komputerowa
+2433,Badanie moczu
+2434,Audiometria
+2435,Badanie tarczycy
+2436,Tomografia komputerowa
+2437,Badanie okulistyczne
+2438,Tomografia komputerowa
+2439,Echo serca
+2440,EKG
+2441,Badanie tarczycy
+2442,Badanie przeciwciał
+2443,Lipidogram
+2444,EKG
+2445,EKG
+2446,Tomografia komputerowa
+2447,Test PCR
+2448,Tomografia komputerowa
+2449,Holter EKG
+2450,EKG
+2451,Test alergiczny
+2452,Badanie poziomu cukru
+2453,Holter EKG
+2454,RTG klatki piersiowej
+2455,Tomografia komputerowa
+2456,Lipidogram
+2457,Morfologia krwi
+2458,Test obciążenia glukozą
+2459,Tomografia komputerowa
+2460,Tomografia komputerowa
+2461,Test obciążenia glukozą
+2462,Morfologia krwi
+2463,Test alergiczny
+2464,Badanie hormonalne
+2465,Test alergiczny
+2466,USG jamy brzusznej
+2467,Lipidogram
+2468,Morfologia krwi
+2469,Badanie tarczycy
+2470,Test PCR
+2471,Badanie moczu
+2472,Badanie poziomu cukru
+2473,Badanie tarczycy
+2474,Kolonoskopia
+2475,RTG klatki piersiowej
+2476,Test obciążenia glukozą
+2477,Badanie moczu
+2478,Lipidogram
+2479,Tomografia komputerowa
+2480,Test alergiczny
+2481,Test obciążenia glukozą
+2482,EKG
+2483,Tomografia komputerowa
+2484,Test alergiczny
+2485,Lipidogram
+2486,Holter EKG
+2487,Holter EKG
+2488,Test obciążenia glukozą
+2489,Audiometria
+2490,Test PCR
+2491,Test alergiczny
+2492,Tomografia komputerowa
+2493,Badanie poziomu witaminy D
+2494,Holter EKG
+2495,EKG
+2496,Badanie kału
+2497,Badanie kału
+2498,Badanie tarczycy
+2499,Test PCR
+2500,Tomografia komputerowa
+2501,USG jamy brzusznej
+2502,Test obciążenia glukozą
+2503,Badanie poziomu cukru
+2504,Cytologia
+2505,Gastroskopia
+2506,Lipidogram
+2507,Rezonans magnetyczny
+2508,Badanie okulistyczne
+2509,Badanie tarczycy
+2510,Badanie przeciwciał
+2511,Tomografia komputerowa
+2512,Tomografia komputerowa
+2513,Badanie przeciwciał
+2514,Cytologia
+2515,Test obciążenia glukozą
+2516,Test alergiczny
+2517,Audiometria
+2518,Cytologia
+2519,Badanie tarczycy
+2520,Spirometria
+2521,Lipidogram
+2522,Morfologia krwi
+2523,Audiometria
+2524,Cytologia
+2525,Morfologia krwi
+2526,RTG klatki piersiowej
+2527,Morfologia krwi
+2528,Test obciążenia glukozą
+2529,Badanie poziomu witaminy D
+2530,Tomografia komputerowa
+2531,Test PCR
+2532,Cytologia
+2533,Badanie kału
+2534,RTG klatki piersiowej
+2535,Test alergiczny
+2536,Test obciążenia glukozą
+2537,Test obciążenia glukozą
+2538,Tomografia komputerowa
+2539,Cytologia
+2540,Badanie kału
+2541,Tomografia komputerowa
+2542,Tomografia komputerowa
+2543,Cytologia
+2544,RTG klatki piersiowej
+2545,Cytologia
+2546,Cytologia
+2547,EKG
+2548,Audiometria
+2549,Kolonoskopia
+2550,Kolonoskopia
+2551,Badanie kału
+2552,Test obciążenia glukozą
+2553,Holter EKG
+2554,Gastroskopia
+2555,Badanie poziomu witaminy D
+2556,Test PCR
+2557,Badanie moczu
+2558,Gastroskopia
+2559,Badanie poziomu cukru
+2560,Test obciążenia glukozą
+2561,Rezonans magnetyczny
+2562,Holter EKG
+2563,Cytologia
+2564,Audiometria
+2565,Badanie przeciwciał
+2566,EKG
+2567,Test alergiczny
+2568,USG jamy brzusznej
+2569,Test obciążenia glukozą
+2570,Badanie tarczycy
+2571,Test PCR
+2572,Badanie poziomu cukru
+2573,Badanie poziomu witaminy D
+2574,Badanie poziomu witaminy D
+2575,RTG klatki piersiowej
+2576,Rezonans magnetyczny
+2577,Echo serca
+2578,Badanie moczu
+2579,Echo serca
+2580,Gastroskopia
+2581,Cytologia
+2582,Tomografia komputerowa
+2583,Morfologia krwi
+2584,Tomografia komputerowa
+2585,Test PCR
+2586,Badanie przeciwciał
+2587,Test obciążenia glukozą
+2588,Badanie tarczycy
+2589,Badanie poziomu witaminy D
+2590,Test obciążenia glukozą
+2591,Tomografia komputerowa
+2592,Badanie tarczycy
+2593,Badanie okulistyczne
+2594,EKG
+2595,Cytologia
+2596,Audiometria
+2597,Rezonans magnetyczny
+2598,Test alergiczny
+2599,Kolonoskopia
+2600,Badanie hormonalne
+2601,Badanie przeciwciał
+2602,Test alergiczny
+2603,EKG
+2604,Badanie okulistyczne
+2605,Badanie poziomu witaminy D
+2606,EKG
+2607,Test PCR
+2608,Morfologia krwi
+2609,Test obciążenia glukozą
+2610,Tomografia komputerowa
+2611,Test alergiczny
+2612,Rezonans magnetyczny
+2613,RTG klatki piersiowej
+2614,Tomografia komputerowa
+2615,USG jamy brzusznej
+2616,Badanie okulistyczne
+2617,Kolonoskopia
+2618,Morfologia krwi
+2619,EKG
+2620,Badanie moczu
+2621,EKG
+2622,Badanie przeciwciał
+2623,Gastroskopia
+2624,Badanie hormonalne
+2625,Spirometria
+2626,Echo serca
+2627,Badanie tarczycy
+2628,Test alergiczny
+2629,Badanie poziomu witaminy D
+2630,Cytologia
+2631,Rezonans magnetyczny
+2632,USG jamy brzusznej
+2633,Holter EKG
+2634,Badanie okulistyczne
+2635,Badanie przeciwciał
+2636,Badanie okulistyczne
+2637,EKG
+2638,Tomografia komputerowa
+2639,Gastroskopia
+2640,Echo serca
+2641,RTG klatki piersiowej
+2642,Echo serca
+2643,Test obciążenia glukozą
+2644,Badanie moczu
+2645,Test PCR
+2646,Test obciążenia glukozą
+2647,Holter EKG
+2648,Cytologia
+2649,Cytologia
+2650,RTG klatki piersiowej
+2651,Kolonoskopia
+2652,Badanie okulistyczne
+2653,Badanie hormonalne
+2654,Lipidogram
+2655,RTG klatki piersiowej
+2656,Kolonoskopia
+2657,Cytologia
+2658,Spirometria
+2659,Audiometria
+2660,Tomografia komputerowa
+2661,Badanie okulistyczne
+2662,Badanie okulistyczne
+2663,Rezonans magnetyczny
+2664,Tomografia komputerowa
+2665,Audiometria
+2666,Test alergiczny
+2667,Echo serca
+2668,Badanie hormonalne
+2669,Test PCR
+2670,Cytologia
+2671,Badanie moczu
+2672,Audiometria
+2673,USG jamy brzusznej
+2674,Badanie poziomu cukru
+2675,Holter EKG
+2676,Tomografia komputerowa
+2677,Cytologia
+2678,Test PCR
+2679,Holter EKG
+2680,Cytologia
+2681,Tomografia komputerowa
+2682,Badanie tarczycy
+2683,Holter EKG
+2684,Badanie moczu
+2685,Test PCR
+2686,Tomografia komputerowa
+2687,USG jamy brzusznej
+2688,Tomografia komputerowa
+2689,Test alergiczny
+2690,Gastroskopia
+2691,Test obciążenia glukozą
+2692,Badanie poziomu witaminy D
+2693,Morfologia krwi
+2694,Badanie okulistyczne
+2695,Badanie poziomu cukru
+2696,Badanie okulistyczne
+2697,RTG klatki piersiowej
+2698,Lipidogram
+2699,Morfologia krwi
+2700,Kolonoskopia
+2701,Test obciążenia glukozą
+2702,Lipidogram
+2703,Tomografia komputerowa
+2704,Echo serca
+2705,Badanie przeciwciał
+2706,Morfologia krwi
+2707,Badanie poziomu witaminy D
+2708,RTG klatki piersiowej
+2709,Test obciążenia glukozą
+2710,Badanie kału
+2711,Test PCR
+2712,Holter EKG
+2713,Tomografia komputerowa
+2714,Tomografia komputerowa
+2715,Badanie tarczycy
+2716,USG jamy brzusznej
+2717,Badanie kału
+2718,Morfologia krwi
+2719,Lipidogram
+2720,Spirometria
+2721,Badanie tarczycy
+2722,Badanie hormonalne
+2723,Kolonoskopia
+2724,Test alergiczny
+2725,EKG
+2726,RTG klatki piersiowej
+2727,Lipidogram
+2728,Badanie poziomu cukru
+2729,Badanie moczu
+2730,Badanie okulistyczne
+2731,Morfologia krwi
+2732,Test obciążenia glukozą
+2733,Badanie kału
+2734,Tomografia komputerowa
+2735,Test alergiczny
+2736,USG jamy brzusznej
+2737,Lipidogram
+2738,Badanie kału
+2739,Badanie moczu
+2740,Lipidogram
+2741,Morfologia krwi
+2742,Test alergiczny
+2743,Badanie okulistyczne
+2744,Lipidogram
+2745,Rezonans magnetyczny
+2746,Badanie okulistyczne
+2747,Badanie poziomu cukru
+2748,Test alergiczny
+2749,EKG
+2750,Badanie tarczycy
+2751,Badanie tarczycy
+2752,Badanie hormonalne
+2753,Spirometria
+2754,Echo serca
+2755,Test PCR
+2756,Lipidogram
+2757,Test alergiczny
+2758,Gastroskopia
+2759,Badanie poziomu witaminy D
+2760,Test alergiczny
+2761,USG jamy brzusznej
+2762,Kolonoskopia
+2763,EKG
+2764,Holter EKG
+2765,Morfologia krwi
+2766,Echo serca
+2767,Badanie poziomu witaminy D
+2768,Badanie moczu
+2769,Gastroskopia
+2770,RTG klatki piersiowej
+2771,Gastroskopia
+2772,Badanie kału
+2773,Gastroskopia
+2774,Test PCR
+2775,USG jamy brzusznej
+2776,Tomografia komputerowa
+2777,Test alergiczny
+2778,Lipidogram
+2779,Badanie moczu
+2780,Badanie poziomu cukru
+2781,Test alergiczny
+2782,Test obciążenia glukozą
+2783,Tomografia komputerowa
+2784,Gastroskopia
+2785,Cytologia
+2786,Badanie poziomu cukru
+2787,Lipidogram
+2788,Test obciążenia glukozą
+2789,Test alergiczny
+2790,Tomografia komputerowa
+2791,Spirometria
+2792,Audiometria
+2793,USG jamy brzusznej
+2794,Morfologia krwi
+2795,Kolonoskopia
+2796,Spirometria
+2797,Badanie przeciwciał
+2798,Echo serca
+2799,Tomografia komputerowa
+2800,Badanie poziomu cukru
+2801,Badanie kału
+2802,Test PCR
+2803,Badanie poziomu witaminy D
+2804,RTG klatki piersiowej
+2805,Test PCR
+2806,Echo serca
+2807,USG jamy brzusznej
+2808,Badanie hormonalne
+2809,RTG klatki piersiowej
+2810,Echo serca
+2811,Audiometria
+2812,Gastroskopia
+2813,Badanie tarczycy
+2814,Spirometria
+2815,Test alergiczny
+2816,Badanie tarczycy
+2817,Badanie poziomu cukru
+2818,USG jamy brzusznej
+2819,Test PCR
+2820,Badanie przeciwciał
+2821,Lipidogram
+2822,Lipidogram
+2823,Rezonans magnetyczny
+2824,Test PCR
+2825,Badanie poziomu cukru
+2826,USG jamy brzusznej
+2827,Badanie hormonalne
+2828,Badanie okulistyczne
+2829,Spirometria
+2830,Spirometria
+2831,Test obciążenia glukozą
+2832,RTG klatki piersiowej
+2833,Badanie tarczycy
+2834,Badanie okulistyczne
+2835,Test obciążenia glukozą
+2836,Morfologia krwi
+2837,Gastroskopia
+2838,RTG klatki piersiowej
+2839,Badanie przeciwciał
+2840,Badanie poziomu cukru
+2841,Gastroskopia
+2842,Cytologia
+2843,Test PCR
+2844,RTG klatki piersiowej
+2845,RTG klatki piersiowej
+2846,Badanie okulistyczne
+2847,Badanie tarczycy
+2848,Lipidogram
+2849,Spirometria
+2850,Badanie moczu
+2851,Badanie poziomu cukru
+2852,Badanie przeciwciał
+2853,Badanie hormonalne
+2854,Morfologia krwi
+2855,Echo serca
+2856,Holter EKG
+2857,Tomografia komputerowa
+2858,Lipidogram
+2859,Echo serca
+2860,Badanie przeciwciał
+2861,Test PCR
+2862,Badanie poziomu witaminy D
+2863,Test PCR
+2864,Badanie tarczycy
+2865,Badanie przeciwciał
+2866,Lipidogram
+2867,Badanie moczu
+2868,Test PCR
+2869,Badanie hormonalne
+2870,RTG klatki piersiowej
+2871,Echo serca
+2872,Test obciążenia glukozą
+2873,Badanie moczu
+2874,Badanie hormonalne
+2875,Badanie okulistyczne
+2876,Badanie okulistyczne
+2877,Spirometria
+2878,Badanie poziomu cukru
+2879,Audiometria
+2880,Badanie przeciwciał
+2881,Morfologia krwi
+2882,Test obciążenia glukozą
+2883,Rezonans magnetyczny
+2884,Badanie okulistyczne
+2885,RTG klatki piersiowej
+2886,Badanie przeciwciał
+2887,Lipidogram
+2888,Holter EKG
+2889,Badanie hormonalne
+2890,Morfologia krwi
+2891,Badanie poziomu cukru
+2892,Tomografia komputerowa
+2893,Test PCR
+2894,Badanie poziomu cukru
+2895,Test obciążenia glukozą
+2896,Echo serca
+2897,Test obciążenia glukozą
+2898,Tomografia komputerowa
+2899,Badanie poziomu witaminy D
+2900,Badanie hormonalne
+2901,Holter EKG
+2902,Echo serca
+2903,Holter EKG
+2904,Lipidogram
+2905,Test PCR
+2906,Test PCR
+2907,Badanie tarczycy
+2908,Badanie tarczycy
+2909,Holter EKG
+2910,Gastroskopia
+2911,Test alergiczny
+2912,Badanie poziomu cukru
+2913,Gastroskopia
+2914,Morfologia krwi
+2915,Badanie okulistyczne
+2916,Holter EKG
+2917,USG jamy brzusznej
+2918,Kolonoskopia
+2919,Badanie hormonalne
+2920,Badanie okulistyczne
+2921,EKG
+2922,Cytologia
+2923,Badanie poziomu witaminy D
+2924,Badanie tarczycy
+2925,Badanie poziomu cukru
+2926,Tomografia komputerowa
+2927,Badanie poziomu witaminy D
+2928,Holter EKG
+2929,Badanie moczu
+2930,Cytologia
+2931,Badanie poziomu witaminy D
+2932,Tomografia komputerowa
+2933,Badanie kału
+2934,Spirometria
+2935,Badanie hormonalne
+2936,RTG klatki piersiowej
+2937,Badanie okulistyczne
+2938,Badanie tarczycy
+2939,EKG
+2940,Echo serca
+2941,Morfologia krwi
+2942,Badanie przeciwciał
+2943,Badanie przeciwciał
+2944,Badanie hormonalne
+2945,Badanie hormonalne
+2946,Kolonoskopia
+2947,Test obciążenia glukozą
+2948,EKG
+2949,Badanie przeciwciał
+2950,Test PCR
+2951,Audiometria
+2952,Badanie przeciwciał
+2953,USG jamy brzusznej
+2954,Morfologia krwi
+2955,Badanie tarczycy
+2956,EKG
+2957,RTG klatki piersiowej
+2958,Rezonans magnetyczny
+2959,Badanie przeciwciał
+2960,RTG klatki piersiowej
+2961,RTG klatki piersiowej
+2962,Morfologia krwi
+2963,Badanie przeciwciał
+2964,RTG klatki piersiowej
+2965,Badanie przeciwciał
+2966,Badanie tarczycy
+2967,Badanie poziomu cukru
+2968,Spirometria
+2969,Badanie poziomu witaminy D
+2970,Holter EKG
+2971,Badanie przeciwciał
+2972,Gastroskopia
+2973,Kolonoskopia
+2974,Badanie hormonalne
+2975,Badanie tarczycy
+2976,Spirometria
+2977,Badanie hormonalne
+2978,Kolonoskopia
+2979,Tomografia komputerowa
+2980,Badanie przeciwciał
+2981,USG jamy brzusznej
+2982,Lipidogram
+2983,Morfologia krwi
+2984,Test obciążenia glukozą
+2985,Audiometria
+2986,Badanie poziomu cukru
+2987,Tomografia komputerowa
+2988,Badanie poziomu cukru
+2989,Rezonans magnetyczny
+2990,Holter EKG
+2991,Spirometria
+2992,Morfologia krwi
+2993,Badanie poziomu witaminy D
+2994,Badanie tarczycy
+2995,Badanie przeciwciał
+2996,Lipidogram
+2997,Badanie hormonalne
+2998,Test alergiczny
+2999,Badanie moczu
+3000,Badanie poziomu witaminy D

@@ -1,0 +1,16 @@
+LOAD DATA
+CHARACTERSET AL32UTF8
+INFILE 'CSV/lekarze.csv'
+BADFILE 'CTL/BAD/lekarze.bad'
+DISCARDFILE 'CTL/BAD/lekarze.dsc'
+INTO TABLE lekarze
+APPEND
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+TRAILING NULLCOLS
+(
+  id_lekarza,
+  imie,
+  nazwisko,
+  nr_licencji,
+  id_specjalizacji
+)

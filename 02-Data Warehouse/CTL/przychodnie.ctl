@@ -1,0 +1,13 @@
+LOAD DATA
+CHARACTERSET AL32UTF8
+INFILE 'CSV/przychodnie.csv'
+BADFILE 'CTL/BAD/przychodnie.bad'
+DISCARDFILE 'CTL/BAD/przychodnie.dsc'
+INTO TABLE przychodnie
+APPEND
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+TRAILING NULLCOLS
+(
+  id_przychodni,
+  nazwa
+)
